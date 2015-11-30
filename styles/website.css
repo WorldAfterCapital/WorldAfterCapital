@@ -1,0 +1,45 @@
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display|Oswald:400,300|Roboto);
+
+.book .book-summary {
+    width: 300px;
+}
+
+.book .book-body .page-wrapper .page-inner {
+    max-width: 620px;
+}
+
+.book .book-summary ul.summary li a,
+.book .book-summary ul.summary li span {
+    padding: 10px 40px;
+}
+
+.book .book-summary {
+    background-color: #00ACE6;
+}
+
+.book .book-summary ul.summary li a {
+    color: #FFFFFF;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 1px;
+}
+
+.book .book-summary ul.summary li a:hover,
+.book .book-summary ul.summary li.active>a  {
+    color: #FFDD33;
+}
+
+.book .book-body p {
+    color: #777777;
+    line-height: 2;
+    font-family: 'Roboto', sans-serif;
+}
+
+.book .book-body h1,
+.book .book-body h2,
+.book .book-body h3,
+.book .book-body h4,
+.book .book-body h5,
+.book .book-body h6 {
+    font-family: 'Playfair Display', sans-serif;
+    color: #111111;
+}
