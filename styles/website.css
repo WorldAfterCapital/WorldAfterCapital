@@ -57,6 +57,34 @@
     color: #FFDD33;
 }
 
+.book .book-summary .book-search input {
+   color: #FFFFFF;
+}
+.book .book-summary .book-search input:focus {
+   color: #FFFFFF;
+}
+
+.book .book-summary .book-search input:hover {
+   color: #FFFFFF;
+}
+
+.book .book-summary .book-search input::-webkit-input-placeholder {
+   color: #FFFFFF;
+}
+
+.book .book-summary .book-search input:-moz-placeholder {
+   color: #FFFFFF;
+}
+
+.book .book-summary .book-search input::-moz-placeholder {
+   color: #FFFFFF;
+}
+
+.book .book-summary .book-search input:-ms-input-placeholder {
+   color: #FFFFFF;
+}
+
+
 .book .book-body .page-wrapper .page-inner {
     max-width: 620px;
 }
