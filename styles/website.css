@@ -1,11 +1,8 @@
 @import url(https://fonts.googleapis.com/css?family=Playfair+Display|Oswald:400,300|Roboto);
 
 .book .book-summary {
+    background-color: #00ACE6;
     width: 300px;
-}
-
-.book .book-body .page-wrapper .page-inner {
-    max-width: 620px;
 }
 
 .book .book-summary ul.summary li a,
@@ -13,8 +10,39 @@
     padding: 10px 40px;
 }
 
-.book .book-summary {
-    background-color: #00ACE6;
+.book .book-summary ul.summary > li:first-child a {
+    font-family: 'Playfair Display', sans-serif;
+    font-size: 18px;
+    color: #FFFFFF !important;
+    position: relative;
+    display: block;
+}
+
+.book .book-summary ul.summary > li:first-child a:before {
+    content: ' ';
+    display: inline-block;
+    margin-right: 10px;
+    width: 20px;
+    height: 25px;
+    background-color: #FFDD33;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
+    margin-bottom: -4px;
+}
+
+.book .book-summary ul.summary > li:first-child a:after {
+    content: ' ';
+    display: block;
+    position: absolute;
+    left: 45px;
+    width: 1px;
+    height: 25px;
+    top: 15px;
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+.book .book-summary ul.summary li.divider {
+    background-color: #FFFFFF;
+    margin: 20px 40px;
 }
 
 .book .book-summary ul.summary li a {
@@ -26,6 +54,10 @@
 .book .book-summary ul.summary li a:hover,
 .book .book-summary ul.summary li.active>a  {
     color: #FFDD33;
+}
+
+.book .book-body .page-wrapper .page-inner {
+    max-width: 620px;
 }
 
 .book .book-body p {
