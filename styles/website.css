@@ -15,6 +15,7 @@
     font-size: 18px;
     color: #FFFFFF !important;
     position: relative;
+    margin-top: 15px;
     display: block;
 }
 
@@ -26,7 +27,7 @@
     height: 25px;
     background-color: #FFDD33;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
-    margin-bottom: -4px;
+    margin-bottom: -6px;
 }
 
 .book .book-summary ul.summary > li:first-child a:after {
@@ -36,7 +37,7 @@
     left: 45px;
     width: 1px;
     height: 25px;
-    top: 15px;
+    top: 10px;
     background-color: rgba(0, 0, 0, 0.1);
 }
 
