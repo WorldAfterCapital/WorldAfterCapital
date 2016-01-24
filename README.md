@@ -12,7 +12,7 @@ With steel we were able to construct more effective plows. But we were also able
 
 And yet there is something special about our moment in time.
 
-We are near an event horizon or singularity which will render many of the existing predictions about society based on extrapolation useless. 
+We are near an event horizon or singularity which renders many of the existing predictions about society based on extrapolation useless. 
 
 Humanity has encountered two of these transitions previously. The first was the invention of agriculture which ended the forager age and brought us into the agrarian age. The second was the enlightenment which took us out of our state of ignorance about nature and helped usher in the industrial age. 
 
@@ -28,8 +28,8 @@ The answer is that we need to enact policies that allow for social and economic 
 
 I will argue that the way to accomplish this is by expanding individual freedoms through 
 - instituting a basic income (economic freedom)
-- rolling back intellectual property and personal privacy rights (informational freedom) and 
-- encouraging mindfulness (psychological freedom).
+- investing in internet access, rolling back intellectual property rights, and rethinking personal privacy (informational freedom) and 
+- practicing and encouraging mindfulness (psychological freedom).
 
 At the same time we need to double down on a set of values that allows increasingly free individuals to peacefully co-exist and for humanity to progress, including critical inquiry, tolerance and responsibility.
 
@@ -39,7 +39,9 @@ Increasing economic, informational and psychological freedom will let everyone p
 
 Each of the previous two transitions can also be seen as a shift in scarcity. The transition from the forager age to the agrarian age was a shift in scarcity from food to land. The transition from the agrarian age to the industrial age shifted the scarcity from land to capital.
  
-Today capital is no longer scarce in the world. We should consider that the great success of capitalism. We now face a new scarcity, however, that of attention and capitalism will not solve it for us. 
+Today capital is no longer scarce in the world. We should consider that the great success of capitalism. We now face a new scarcity, however, that of attention. Individually and collectively our attention is scarce. We are bad at allocating attention and capitalism will not solve that for us in its present form. 
 
-This is what "World After Capital" is about.
+This is what "World After Capital" is about. It is a work in progress and what you see at present is an incomplete draft. I am still in the process of rewriting several chapters from an earlier version that I was not happy with. 
+
+I welcome feedback and suggestions for improvement. The contents of the book will always be freely available at <a href="http://worldaftercapital.org">worldaftercapital.org</a> under a Creative Commons license. I retain final "commit rights" for changes and as such take responsibility for any and all errors.
 

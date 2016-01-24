@@ -1,6 +1,27 @@
 # Summary
 
 * [Introduction](README.md)
-* [Part One: The End of Capital](part-one/README.md)
-    * [The Job Loop](part-one/The-Job-Loop.md)
-    * [The Age of Capital](part-one/The-Age-of-Capital.md)
+
+* [Part One: Laying a Foundation](pat-one/README.md)
+    * [Optimism](part-one/Optimism.md)
+    * [Humanism] (part-one/Humanism.md)
+    * [Knowledge](part-one/Knowledge.md)
+    * [Scarcity](part-one/Scarcity.md)
+    * [Needs](part-one/Needs.md)
+
+* Part Two: Getting Past Capital and Labor
+    * Population
+    * Capital
+    * Labor
+    * Attention
+
+* Part Three: Enhancing Freedom
+    * Economic Freedom
+    * Informational Freedom
+    * Psychological Freedom
+
+* Part Four: Taking Responsibility
+    * Democracy
+    * Responsibility
+
+* Conclusion
