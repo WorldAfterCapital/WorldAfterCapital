@@ -4,7 +4,7 @@
 
 * [Part One: Laying a Foundation](pat-one/README.md)
     * [Optimism](part-one/Optimism.md)
-    * [Humanism] (part-one/Humanism.md)
+    * [Humanism](part-one/Humanism.md)
     * [Knowledge](part-one/Knowledge.md)
     * [Scarcity](part-one/Scarcity.md)
     * [Needs](part-one/Needs.md)
