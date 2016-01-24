@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 
-* [Part One: Laying a Foundation](pat-one/README.md)
+* [Part One: Laying a Foundation](part-one/README.md)
     * [Optimism](part-one/Optimism.md)
     * [Humanism](part-one/Humanism.md)
     * [Knowledge](part-one/Knowledge.md)
