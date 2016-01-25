@@ -89,7 +89,7 @@
     max-width: 620px;
 }
 
-.book .book-body p {
+.book .book-body .page-wrapper .page-inner section.normal {
     color: #777777;
     line-height: 2;
     font-family: 'Roboto', sans-serif;
