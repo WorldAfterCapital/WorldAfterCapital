@@ -1,4 +1,4 @@
-# Humanism
+# HUMANISM
 
 What then are the values that I am basing all of this on? Where do those come from?
 
