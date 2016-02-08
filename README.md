@@ -29,7 +29,7 @@ The answer is that we need to enact policies that allow for social and economic 
 I will argue that the way to accomplish this is by expanding individual freedoms through 
 - instituting a basic income (economic freedom)
 - investing in internet access, rolling back intellectual property rights, and rethinking personal privacy (informational freedom) and 
-- practicing and encouraging mindfulness (psychological freedom).
+- practicing and encouraging self-regulation (psychological freedom).
 
 At the same time we need to double down on a set of values that allows increasingly free individuals to peacefully co-exist and for humanity to progress, including critical inquiry, tolerance and responsibility.
 
