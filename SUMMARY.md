@@ -9,11 +9,11 @@
     * [Scarcity](part-one/Scarcity.md)
     * [Needs](part-one/Needs.md)
 
-* Part Two: Getting Past Capital and Labor
-    * Population
+* [Part Two: Getting Past Capital and Labor](part-two/README.md)
+    * [Population](part-two/Population.md)
     * Capital
-    * Labor
-    * Attention
+    * [Labor](part-two/Labor.md)
+    * [Attention](part-two/Attention.md)
 
 * Part Three: Enhancing Freedom
     * Economic Freedom
