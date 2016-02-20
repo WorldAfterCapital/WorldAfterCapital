@@ -15,6 +15,7 @@
     * [Labor](part-two/Labor.md)
     * [Attention](part-two/Attention.md)
     * [Limits of Capitalism](part-two/Limits.md)
+    * Power of Knowledge
 
 * Part Three: Enhancing Freedom
     * Economic Freedom

@@ -38,4 +38,4 @@ Individual and corporate lobbying results in policies favorable to owners of cap
 
 In addition to preserving and creating benefits for owners of capital there are also outright attacks on the sharing and creation of knowledge. I will write more about these in the chapter on Infromational Freedom, but want to give one example now. Corporations lobbied heavily to lengthen copyright and strengthen copyright protection as part of the Transpacific Partnership (TPP). Scientific publishers such as Elsevier have used these protections to make access to knowledge so expensive that even universities as wealthy as Harvard can no longer afford the subscriptions [https://www.theguardian.com/science/2012/apr/24/harvard-university-journal-publishers-prices].   
 
-So how then do we overcome these limitations? That is the subject of Parts Three and Four.
+So how then do we overcome these limitations? That is the subject of Parts Three and Four. But first we will take closer look at the power of knowledge and the promise of the digital knoweldge loop.
