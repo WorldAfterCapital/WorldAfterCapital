@@ -11,9 +11,10 @@
 
 * [Part Two: Getting Past Capital and Labor](part-two/README.md)
     * [Population](part-two/Population.md)
-    * Capital
+    * [Capital](part-two/Capital.md)
     * [Labor](part-two/Labor.md)
     * [Attention](part-two/Attention.md)
+    * [Limits of Capitalism](part-two/Limits.md)
 
 * Part Three: Enhancing Freedom
     * Economic Freedom

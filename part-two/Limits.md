@@ -1,6 +1,6 @@
 # LIMITS OF CAPITALISM
 
-Capitalism — which has gotten us so far — won&apos;t help us overcome the scarcity of attention without significant changes in regulation and self-regulation. That&apos;s due to three important limitations. First, there are prices that will always be missing for things that we should be paying attention to. Second, capitalism has no built-in mechanisms to prevent the power laws arising from digital technologies. Third, capitalism acts to preserve the interests of capital over those of knowledge.  
+Capitalism — which has gotten us so far — won&apos;t help us overcome the scarcity of attention without significant changes in regulation and self-regulation. That&apos;s due to three important limitations. First, there are prices that will always be missing for things that we should be paying attention to. Second, capitalism has to date has limited mechanisms for dealing with the power laws arising from digital technologies. Third, capitalism acts to preserve the interests of capital over those of knowledge.  
 
 ## Missing Prices
 
@@ -15,11 +15,27 @@ The second foundational issue is extreme uncertainty. Because prices aggregate i
 
 ## Power Laws
 
+Economics is not normative when it comes to the distribution of income and wealth. Many different outcomes are possible and what is realized depends a lot on the underlying production functions. Consider first a fairly manual production function such as was common pre industrialization. If you were a cobbler making shoes by hand there were only so many shoes you could produce. I don&apsos;t know if such data is available but the output of cobblers formed a normal distribution with even the most productive cobbler making only a small multiple of the shows of the least productive one.
 
-asdasd
+Then along came industrialization and with it economies of scale. If you made more cars you could make them more cheaply and that was true until you got to a fairly large number of cars relative to total demand. That&apso;s why over time we wound up with relatively few car manufacturers around the world and the owners of the surviving largest ones wound up with large fortunes (eg. the Ford or the Piech families). It turned out that many service businesses have relatively small economies of scale (eg a hair salon). That has allowed a great many service businesses to exist. The biggest exception to this has been financial services in which a few large banks, insurance companies, brokerage firms tend to dominate.
+
+Now, however, with digital technologies we are seeing a shift to power laws for many more situations. For instance on Youtube the most watched video has been watched billions of times compared to the vast majority of videos which has been watched just a few times. Or in ecommerce, Amazon is an order of magnitude larger than most other retailers. The same goes for apps in the appstore. The leading apps have hundreds of millions (and some even billions) of users. But the vast majority of apps has just a few.
+
+Digital technologies are driving these power laws because of network effects combined with zero marginal cost. As I explained in the chapter on digital technology this means that we are likely to need only one (or maybe a few) medical diagnosis systems to serve the entire world. So far we have seen one social network by far dominate all others. We have one search company dominate all others.
+
+This shift to power laws everywhere is resulting in a huge increase of inequality in wealth and income. It also raises questions about how the biggest networks should be regulated. The only tool we have developed in existing capitalism is anti-trust, and there have been calls here in the US and actual activity in Europe in applying anti-trust against digital networks.     
+
+This approach is not consistent with the benefits from large networks for the advancement of human knowledge. 
 
 
 ## Self Conservation
 
+Towards the end of the Agrarian period, when land was scarce, the political elites came from land ownership. Their influence really wasn&apos;t substantially diminished until after World War II. Now we are at the end of the scarcity of capital but the political elites largely represent the interests of capital. In some countries, such as China, this is the case outright. Senior political leaders simultaneously own large parts of industry. In other countries, such as the United States, politicians are influenced by the owners of capital because of the constant need to fundraise.
+
+A study conducted at Princeton analyzes how much public support for a policy influences the likelihood of that policy being enacted [https://scholar.princeton.edu/sites/default/files/mgilens/files/gilens_and_page_2014_-testing_theories_of_american_politics.doc.pdf]. It turns out that for the bottom 90% of the population their preferences has no influence on outcomes. Even within the 10% whose preference matters there is a huge concentration. For instance, over a 5 year period the 200 most politically active companies spent nearly $6 Billion on lobbying.
+
+Individual and corporate lobbying results in policies favorable to owners of capital, such as low capital gains tax rates (or in the case of venture capital and buyouts the taxation of General Partner profits as capital gains instead of income), and low corporate tax rates with lots of loopholes, including the accumulation of corporate cash in low tax countries.
+
+In addition to preserving and creating benefits for owners of capital there are also outright attacks on the sharing and creation of knowledge. I will write more about these in the chapter on Infromational Freedom, but want to give one example now. Corporations lobbied heavily to lengthen copyright and strengthen copyright protection as part of the Transpacific Partnership (TPP). Scientific publishers such as Elsevier have used these protections to make access to knowledge so expensive that even universities as wealthy as Harvard can no longer afford the subscriptions [https://www.theguardian.com/science/2012/apr/24/harvard-university-journal-publishers-prices].   
 
 So how then do we overcome these limitations? That is the subject of Parts Three and Four.
