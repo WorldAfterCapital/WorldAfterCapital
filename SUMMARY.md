@@ -15,15 +15,15 @@
     * [Labor](part-two/Labor.md)
     * [Attention](part-two/Attention.md)
     * [Limits of Capitalism](part-two/Limits.md)
-    * Power of Knowledge
+    * [Power of Knowledge](part-two/Power.md)
 
-* Part Three: Enhancing Freedom
-    * Economic Freedom
-    * Informational Freedom
-    * Psychological Freedom
+* [Part Three: Enhancing Freedom](part-three/README.md)
+    * [Economic Freedom](part-three/Economic.md)
+    * [Informational Freedom](part-three/Informational.md)
+    * [Psychological Freedom](part-three/Psychological.md)
 
-* Part Four: Taking Responsibility
-    * Democracy
-    * Responsibility
+* [Part Four: Taking Responsibility](part-four/README.md)
+    * [Democracy](part-four/Democracy.md)
+    * [Responsibility](part-four/Responsibility.md)
 
-* Conclusion
+* [Conclusion](Conclusion.md)
