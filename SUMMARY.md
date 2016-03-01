@@ -1,5 +1,7 @@
 # Summary
 
+* [Work in Progress](WIP.md)
+
 * [Introduction](README.md)
 
 * [Part One: Laying a Foundation](part-one/README.md)
