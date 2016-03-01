@@ -1,4 +1,4 @@
-# OPTIMISM
+# Optimism
 
 When I started my blog some 8 years ago, I called myself a &ldquo;Technology Optimist&rdquo; in my [first post](http://continuations.com/post/27777558/technology-optimist). I wrote that
 

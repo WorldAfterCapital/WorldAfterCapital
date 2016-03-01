@@ -1,4 +1,4 @@
-# POPULATION
+# Population
 
 Malthus was right about one thing. Global population did explode. And population growth started to accelerate right at the time of his writing around 1800. 
 

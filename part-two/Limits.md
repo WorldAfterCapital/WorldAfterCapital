@@ -1,4 +1,4 @@
-# LIMITS OF CAPITALISM
+# Limits Of Capitalism
 
 Capitalism — which has gotten us so far — won&apos;t help us overcome the scarcity of attention without significant changes in regulation and self-regulation. That&apos;s due to three important limitations. First, there are prices that will always be missing for things that we should be paying attention to. Second, capitalism has to date has limited mechanisms for dealing with the power laws arising from digital technologies. Third, capitalism acts to preserve the interests of capital over those of knowledge.  
 

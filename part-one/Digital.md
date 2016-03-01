@@ -1,4 +1,4 @@
-# DIGITAL TECHNOLOGY
+# Digital Technology
 
 What is it about digital technology that makes it so disruptive? Why are we seeing many previously well established businesses, such as newspapers, struggle, while companies that only deal in information such as Google and Facebook are among the world&apos;s most highly valued? And I am going even further by claiming that a global network combined with general purpose computing is opening the possibility of an economic and social transition away from the industrial age.
 

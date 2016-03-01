@@ -1,4 +1,4 @@
-# LABOR
+# Labor
 
 Before we can get to attention though we need to discuss the changing role of labor in the economy. Thinking about labor is hard because of an odd interweaving of cultural beliefs with economic history that I will try to disentangle. Over the last couple hundred years we have convinced ourselves that work is essential both for the functioning of the economy and for individual dignity. 
 

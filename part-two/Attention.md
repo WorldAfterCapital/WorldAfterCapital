@@ -1,4 +1,4 @@
-# ATTENTION
+# Attention
 
 There is a limited amount of human attention in the world. We have 24 hours in the day and we need to spend some of that time eating and sleeping. For many people in the world much of their waking time is occupied with work. So that leaves relatively little time for attention that we can freely allocate. This hard limit also exists in the aggregate, since -- as I have argued earlier -- we are headed for peak population.
 

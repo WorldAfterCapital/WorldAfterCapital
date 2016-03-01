@@ -1,4 +1,4 @@
-# SCARCITY
+# Scarcity
 
 In this book I will be arguing that capital is no longer scarce but that attention now is. Furthermore this constitutes the third major shift in scarcity in the history of humanity. The first shift was from food to land. The second one from land to capital.
 

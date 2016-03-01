@@ -59,6 +59,8 @@
 
 .book .book-summary .book-search input {
    color: #FFFFFF;
+   transition: 0.3s ease color;
+   -webkit-transition: 0.3s ease color;
 }
 .book .book-summary .book-search input:focus {
    color: #FFFFFF;
@@ -84,7 +86,6 @@
    color: #FFFFFF;
 }
 
-
 .book .book-body .page-wrapper .page-inner {
     max-width: 620px;
 }
@@ -93,6 +94,10 @@
     color: #777777;
     line-height: 2;
     font-family: 'Roboto', sans-serif;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal h2 {
+    font-size: 1.5em;
 }
 
 .book .book-body h1,

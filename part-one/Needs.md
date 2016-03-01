@@ -1,4 +1,4 @@
-# NEEDS
+# Needs
 
 The definition of scarcity that I introduced earlier is based on the notion of needs. Can we make progress in defining what constitutes a set of basic human needs?
 

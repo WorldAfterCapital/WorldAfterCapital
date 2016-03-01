@@ -1,4 +1,4 @@
-# CAPITAL
+# Capital
 
 [NOTE: This chapter is more of a work in progress than others. I only recently came up with the idea of approaching capital in terms of real output relative to basic needs which is consistent with my own definition of scarcity]
 
