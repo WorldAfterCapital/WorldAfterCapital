@@ -18,7 +18,7 @@ Humanity has encountered two similar non-linearities previously. The first was t
 
 Imagine foragers trying to predict what society would look like in the agrarian age. Cities, rulers, armies all would have come as a surprise. Similarly much of what we have today, from modern medicine to computer technology would look like magic from the perspective of most people from as recently as the late 1800s. Not just the existence of mobile phones but even more so their widespread availability.  
 
-World After Capital has two goals. The first goal is to argue that we are in fact experiencing a third such non-linearity. The key argument will be that each time the space of the possible grew rapidly before the binding scarcity for humanity shifted. The invention of agriculture shifted scarcity from food directly to land. Industrialization in turn shifted scarcity from land to capital. Now digital technologies are shifting scarcity to attention. 
+World After Capital has two goals. The first goal is to argue that we are in fact experiencing a third such non-linearity. The key argument will be that each time the space of the possible grew rapidly, the binding scarcity constraint for humanity shifted. The invention of agriculture shifted scarcity from food to land. Industrialization in turn shifted scarcity from land to capital. Now digital technologies are shifting scarcity to attention. 
 
 The second goal is to propose policies for making this transition smoothly, unlike the two previous ones which were marked by massive turmoil and upheaval, including two World Wars in the transition from the agrarian age to the industrial age.
 
@@ -43,5 +43,5 @@ Today capital is no longer scarce in the world. We should consider that the grea
 
 This is what "World After Capital" is about. It is a work in progress and what you see at present is an incomplete draft. I am still in the process of rewriting several chapters from an earlier version that I was not happy with. 
 
-I welcome feedback and suggestions for improvement. The contents of the book will always be freely available at <a href="http://worldaftercapital.org">worldaftercapital.org</a> under a Creative Commons license. I retain final "commit rights" for changes and as such take responsibility for any and all errors.
+
 
