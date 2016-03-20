@@ -26,7 +26,7 @@ So how should we approach this third transformation? What can we do now if, as I
 
 The answer is that we need to enact policies that allow for social and economic changes to occur smoothly instead of artificially suppressing these changes only to have them explode eventually.
 
-I will argue that the way to accomplish the transition to a knowledge society is by expanding individual freedoms through 
+I will argue that the way to accomplish the transition to a knowledge society is by expanding individual freedoms through
 * instituting a basic income (economic freedom)
 * investing in internet access, rolling back intellectual property rights, and rethinking personal privacy (informational freedom) and 
 * practicing and encouraging self-regulation (psychological freedom).
