@@ -4,10 +4,11 @@
 
 * [Introduction](README.md)
 
+* [Digital Technology](Digital.md)
+
 * [Part One: Laying a Foundation](part-one/README.md)
     * [Optimism](part-one/Optimism.md)
     * [Humanism](part-one/Humanism.md)
-    * [Digital Technology](part-one/Digital.md)
     * [Scarcity](part-one/Scarcity.md)
     * [Needs](part-one/Needs.md)
 
