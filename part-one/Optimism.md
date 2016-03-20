@@ -14,31 +14,29 @@ Another way to say that I am an optimist is to say that I believe in progress.
 
 Progress has become a loaded word. Is there such as thing as true progress and what does it look like? Aren&apos;t we humans responsible not only for the many diseases of civilization but also for the downright extinction of countless species and potentially our own demise through climate change?
 
-Yes, we do have problems. And one might, as a pessimist, focus on these problems and conclude they cannot be solved. This is like looking at a startup and concluding there is no point in even getting going — or funding it — because, well, there will be problems.
+Yes, we do have problems. And one might, as a pessimist, focus on these problems and conclude they cannot be solved. This is like looking at a startup and concluding there is no point in even getting going &mdash; or funding it &mdash; because, well, there will be problems.
 
 The beauty of problems though is that they can be overcome by human ingenuity. 
 
-Is that true for all problems? Well, it has been true so far as we are still here.
+Is that true for all problems? Well, it has been true so far, as we are still here.
 
-This is in and of itself quite remarkable. We are slower and weaker than many other species. But humans alone have developed the capacity for knowledge. And knowledge turns out to be extraordinarily powerful. It allowed us to figure out, for instance, how to make fire. We may take this for granted today, but no other species has managed to do this and to record and share its knowledge of fire making in a way that can be shared across space and time.
+This is in and of itself quite remarkable. We are slower and weaker than many other species. But humans alone have developed the capacity for knowledge. And knowledge turns out to be extraordinarily powerful. It allowed us to figure out, for instance, how to make fire. We may take this for granted today, but no other species has managed to do this and to record its knowledge of fire making in a way that can be shared across space and time. In a later chapter I provide a more precise definition of knowledge and why it is quite so powerful.
 
 There is an extreme position that would suggest we would have been better off never developing knowledge. That we would still live in a state of paradise had we not tasted the forbidden fruit. Not only is it hard to see how we would go back there now, but more importantly, I for one prefer not to be consumed by wild animals.
 
-Will all future problems be solvable, including say climate change? There is, of course, no guarantee. We might wind up with a problem we cannot solve and that might cause our extinction. But what is certain is that assuming that problems cannot be solved guarantees the outcome that they will not be solved.
+Will all future problems be solvable, including say climate change? There is, of course, no guarantee. We might wind up with a problem we cannot solve and that might cause our extinction. But what is certain is that assuming that problems cannot be solved guarantees the outcome that they will not be solved. Pessimism is a self-defeating attitude when it leads to inaction.
 
-Pessimism is an inherently self defeating attitude.
+Yes, digital technologies including the internet and advances in automation have brought with them a new set of problems. We will encounter many in this book, including immense pressure on people&apos;s ability to earn a living and the conflicts arising from being exposed to content that runs counter to one&apos;s upbringing or deeply held cultural or religious beliefs.
 
-Yes, the internet and advances in automation have brought with them a new set of problems. We will encounter many in this book, including immense pressure on people&apos;s ability to earn a living and the conflicts arising from being exposed to content that runs counter to one&apos;s upbringing or deeply held cultural or religious beliefs.
+And yet the newly inflated space of the possible also includes amazing progress, such as the example of free diagnosis of diseases for all of humanity encountered at the end of the previous chapter.
 
-Believing in progress though is not the same as being a Pollyanna. Progress does not happen by itself as a deterministic function of technology. Contrary to Kevin Kelly&apos;s claim, technology does not want anything by itself and certainly not a better world for humanity. It simply makes such a world possible. 
+Believing in the potential for real progress though is not the same as being a Pollyanna. Progress does not happen by itself as a deterministic function of technology. Contrary to Kevin Kelly&apos;s claims in his book &ldquo;What Technology Wants&rdquo;, technology does&apos;t want anything by itself and certainly not a better world for humanity. It simply makes such a world possible. 
 
-Progress also does not automatically make everyone better off. Economics too doesn&apos;t want anything. It is not normative. Nothing in economics for instance says that a new technology cannot make some people or possibly a great many people worse off. Economics gives us tools for analyzing markets and their failures and even designing new ones. But we still need to make choices about what we want these to accomplish.
+Economics too doesn&apos;t want anything. It is not normative. Nothing in economics for instance says that a new technology cannot make some people or possibly a great many people worse off. Economics gives us tools for analyzing markets and designing regulations to address some of their failures. But we still need to make choices about what we want markets and regulations to accomplish for humanity.
 
-Solving one set of problems always gives us a new set of problems. We need to be pro-active in identifying and solving those. And not all problems can be solved solely by more technology. Many of them require changes in how we live our lives. These won&apos;t happen by themselves. Because history too doesn&apos;t want anything. 
+And contrary to Marx, history too doesn&apos;t want anything. Nor is there, as Francis Fukuyama would have it, an end of history with finalized social, economic and political systems. History is the result of human choices; it doesn&apos;t make its own choices. Only we humans can make the choices that shape our future. 
 
-It is our responsibility both individually and collectively to make choices about what we want for ourselves and our future. We need to choose rules for society (regulation) and behaviors for ourselves (self-regulation) that make progress possible.
-
-Put differently, progress is not just a technological but also a social process. It requires a set of values that can sustain progress as well as regulation based in those values.
+It is our responsibility both individually and collectively to make choices about what we want for ourselves and our future. We need to choose rules for society (regulation) and behaviors for ourselves (self-regulation). And the choices we make now are especially important because the latest inflation in the space of the possible also include machines that will make choices.
 
 
 ## Regulation
