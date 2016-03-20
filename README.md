@@ -16,32 +16,30 @@ We are experiencing a non-linearity which renders many of the existing predictio
 
 Humanity has encountered two similar non-linearities previously. The first was the invention of agriculture which ended the forager age and brought us into the agrarian age. The second was the enlightenment which took us out of our state of ignorance about nature and helped usher in the industrial age. 
 
-Imagine foragers trying to predict what society would look like in the agrarian age. Cities, rulers, armies all would have come as a surprise. Similarly much of what we have today, from modern medicine to computer technology would look like magic from the perspective of most people from as recently as the late 1800s. Not just the existence of mobile phones but even more so their widespread availability.  
+Imagine foragers trying to predict what society would look like in the agrarian age. Cities, rulers, armies all would have come as a surprise. Similarly much of what we have today, from modern medicine to computer technology would look like magic from the perspective of most people from as recently as the late 1800s. Not just the existence of mobile phones would have be hard to foresee but even more so their widespread availability.  
 
-World After Capital has two goals. The first goal is to argue that we are in fact experiencing a third such non-linearity. The key argument will be that each time the space of the possible grew rapidly, the binding scarcity constraint for humanity shifted. The invention of agriculture shifted scarcity from food to land. Industrialization in turn shifted scarcity from land to capital. Now digital technologies are shifting scarcity to attention. 
+World After Capital has two goals. The first goal is to establish that we are in fact experiencing a third such non-linearity. The key argument will be that each prior time the space of the possible grew rapidly, the binding scarcity constraint for humanity shifted. The invention of agriculture shifted scarcity from food to land. Industrialization in turn shifted scarcity from land to capital. Now digital technologies are shifting scarcity from capital to attention. Scarcity here refers to humanity&apos;s ability to meet everyone&apos;s basic needs.
 
-The second goal is to propose policies for making this transition smoothly, unlike the two previous ones which were marked by massive turmoil and upheaval, including two World Wars in the transition from the agrarian age to the industrial age.
+The second goal is to propose policies for facilitating the transition from an industrial society (scarce capital) to a knowledge society (scarce attention). Getting this right is critical for humanity as the two previous shifts which were marked by massive turmoil and upheaval, including two World Wars in the transition from the agrarian age to the industrial age. Already we are seeing signs of increasing conflict within societies and between beliefs across the world.
 
-So how should we approach this coming third transformation? What can we do now if, as I claim, we can't make good predictions?
+So how should we approach this third transformation? What can we do now if, as I claim, we can't make good predictions?
 
-The answer is that we need to enact policies that allow for social and economic changes to occur instead of artificially suppressing these changes only to have them explode eventually.
+The answer is that we need to enact policies that allow for social and economic changes to occur smoothly instead of artificially suppressing these changes only to have them explode eventually.
 
-I will argue that the way to accomplish this is by expanding individual freedoms through 
+I will argue that the way to accomplish the transition to a knowledge society is by expanding individual freedoms through 
 * instituting a basic income (economic freedom)
 * investing in internet access, rolling back intellectual property rights, and rethinking personal privacy (informational freedom) and 
 * practicing and encouraging self-regulation (psychological freedom).
 
-At the same time we need to double down on a set of values that allows increasingly free individuals to peacefully co-exist and for humanity to progress, including critical inquiry, tolerance and responsibility.
+At the same time we need to double down on a set of values that allows increasingly free individuals to peacefully co-exist and for humanity to progress, including critical inquiry, democracy and responsibility.
 
-Why this specific set of freedoms and values? The starting point is the primacy of knowledge for the fate of humanity.  The internet as a global network and artificial intelligence based on general purpose computing together are dramatically accelerating the creation and sharing of knowledge. This in turn is shifting scarcity away from capital and towards human attention.
+Why this specific set of freedoms and values? The central argument of World After Capital is the primacy of knowledge for the fate of humanity. The internet as a global network and artificial intelligence based on general purpose computing together are dramatically accelerating the creation and sharing of knowledge. This acceleration of knowledge is why scarcity is shifting away from capital to human attention.
 
-Increasing economic, informational and psychological freedom will let everyone participate more effectively in this knowledge acceleration by making attention less scarce. Critical inquiry, tolerance and non-violence are essential to doing so peacefully and achieving progress.
+Capital is already no longer scarce in some parts of the world and rapidly less scarce everywhere. We should consider that the great success of capitalism. But capitalism in its present form will not solve the scarcity of attention. We are bad individually and collectively at allocating attention. Prices do not and cannot exist for many of the activities that we should be paying attention to such as spending time with friends and family and creating new knowledge.
 
-Each of the previous two transitions can also be seen as a shift in scarcity. The transition from the forager age to the agrarian age was a shift in scarcity from food to land. The transition from the agrarian age to the industrial age shifted the scarcity from land to capital.
- 
-Today capital is no longer scarce in the world. We should consider that the great success of capitalism. We now face a new scarcity, however, that of attention. Individually and collectively our attention is scarce. We are bad at allocating attention and capitalism will not solve that for us in its present form. 
+Increasing economic, informational and psychological freedom will let everyone participate more effectively in a knowledge society by making attention less scarce. Critical inquiry, democracy and responsibility are essential to doing so peacefully and achieving progress.
 
-This is what "World After Capital" is about. It is a work in progress and what you see at present is an incomplete draft. I am still in the process of rewriting several chapters from an earlier version that I was not happy with. 
+World After Capital argues for increased freedoms rooted in humanism as the way to transition from an industrial to a knowledge society. I am profoundly optimistic about the ultimate potential for human progress. I am, however, quite pessimistic about how we will get there as we currently seem intent on clinging on to industrial society at all cost. My hope then is that I can help in some small way to move us forward.  
 
 
 
