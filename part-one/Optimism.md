@@ -41,20 +41,27 @@ It is our responsibility both individually and collectively to make choices abou
 
 ## Regulation
 
-There are many people who work in technology and investing who are also optimists and believe in progress. There is, however, only a smaller subset who also believe in the need for regulation. There is another group that has a decidedly libertarian streak and largely would like for government to get out of the way.
+There are many people who work in technology and investing who are also optimists and believe in progress. There is, however, only a smaller subset who also believe in the need for regulation. There is another group that has a decidedly libertarian streak and would like for government to just get out of the way.
 
-The history of technological progress is one of changes in social norms and political regulations. For instance, at the moment much of the world gets around by driving cars. The car was an important technological innovation in that it allowed for individual mobility. But it would have been impossible to adopt without regulation. We needed to agree on rules of the road and we also needed to build roads. Both of these cannot emerge spontaneously solely from individual choice as they both constitute examples of market failure. The car would also not have made much sense as individual transport without changes in social norms, such as making it acceptable for women to operate a car (still not a change that has taken place in Saudi Arabia).
+The history of technological progress is one of changes in social norms and political regulations. For instance, at the moment much of the world gets around by driving cars. The car was an important technological innovation in that it allowed for individual mobility. But it would have been impossible to have widespread adoption of cars without regulation. We needed to agree on rules of the road and we also needed to build roads. Neither of these could have emerged solely from individual choice. Road and rules are examples of natural monopolies (you don&apos;t want to separate sets) and thus constitute examples of market failure. The car would also not have made much sense as individual transport without changes in social norms, such as making it acceptable for women to operate a car (still not a change that has taken place in Saudi Arabia).
 
 Not all regulation will be good regulation. In fact, the earliest regulation of automotive vehicles, was aimed at delaying their adoption by limiting their speed to that of a horse drawn carriage and in some cases even requiring them to be preceded by someone carrying a flag.
 
-Similarly not all regulation of the internet and automation will be good regulation. Much of it will initially aim to protect the status quo and help incumbent enterprises. But that is no reason to call for an absence of regulation. It should be seen instead as a challenge to come up with the right regulation. 
+Similarly, not all regulation of digital technology will be good regulation. Much of it will initially aim to protect the status quo and help incumbent enterprises. But that is no reason to call for an absence of regulation. It should be seen instead as a challenge to come up with the right regulation as we did eventually in the case of cars.
 
-The same goes for social changes. Initial reactions may in fact be the opposite of what we ultimately need. For instance, there are a lot of people at the moment who feel offended by content that is available on the internet. We could choose to act on these reactions or we could question where they come from.
+My proposals for regulation later in the book are aimed at being pro-innovation by giving more economic freedom to individuals and by giving them better access to information (informational freedom). These regulations are choices we need to make collectively. They represent a big departure from the past aimed at letting us explore the space of the possible opened up by digital technologies in a way that can get us past the industrial society to a knowledge society. 
 
 
 ## Self Regulation
 
-This is where self regulation plays an important role. By this I mean our capacity as individuals to use our rationality. From Eastern religions including Hinduism and Buddhism, to the Stoics in ancient Greece there is a long tradition of understanding how we can get past our immediate emotional response. Much of this lines up well with what we have uncovered more recently about the workings of the human brain.
+There is another set of choices we need to make individually. These have to do with how we react to the massive acceleration of information dissemination and knowledge creation made possible by digital technology. These are not rules society can or should impose because they relate to our inner mental states.
 
-If we want to have true progress, such as using the internet and artificial intelligence for their potential to improve humanity, we need to get past our initial emotional responses and figure out how to maintain a rational dialog. It is only then that our choices will be based on our critical thinking abiliities.
+For instance, there are a lot of people at the moment who feel offended by content that is available on the internet. Many comment threads and forums have people yelling at each other. Others spend their time trapped confirming only their existing biases. Even though some technology and regulation can help here fundamentally these require internal changes which I later describe in a section called psychological freedom. 
+
+Changing ourselves requires self regulation. By this I mean training our capacity as individuals to use our rationality. From Eastern religions including Hinduism and Buddhism, to the Stoics in ancient Greece there is a long tradition of understanding how we can get past our immediate emotional and heuristic brain responses. Much of this lines up well with what we have uncovered more recently about the workings of the human brain.
+
+If we want to have true progress as a result of digitial technologies, such as using the internet and artificial intelligence, we need to get past our initial emotional responses and figure out how to maintain a rational dialog. It is only then that our choices will be based on our critical thinking abilities.
+
+
+Much of what I have been saying here about optimism, the potential for progress and the need for regulation and self-regulation could immediately be attacked as coming from the perspective of a white male venture investor living in the United States. As such it might be deemed a privileged view that I am attempting to impose on others. The next chapter will argue instead that Humanism provides a foundation of values for this perspective.
 
