@@ -1,6 +1,6 @@
 # Needs
 
-The definition of scarcity that I introduced earlier is based on the notion of needs. Can we make progress in defining what constitutes a set of basic human needs?
+The definition of scarcity that I just introduced is based on the notion of needs. To argue that there is a shift in scarcity from capital to attention thus requires an agreed up on set of needs. Can we make progress in defining what constitutes a set of basic human needs?
 
 I am not proposing that this is a simple task. What follows should be considered a way of starting a dialog. A list of basic needs is a piece of knowledge. As such it can be improved over time through the process of critical inquiry. You can critique my list by pointing out flaws and you can also propose changes to my list or publish your own list altogether.
 
@@ -26,9 +26,14 @@ Shelter. In many (most?) parts of the world humans cannot survive without shelte
 
 Clothing. Everyone needs enough clothing to protect themselves from the elements. At a minimum that would seem to include shoes, socks, underwear, pants, shirts and jackets (I am using plural to suggest everyone needs a least a couple of each to account for variations in function, weather, laundry, etc). This is obviously a specific view of how to dress and I am not suggesting it is the only possible set of clothing but it seems useful nonetheless as a baseline.
 
-Transportation. Humans can get around by walking and did cover the far reaches of the world that way even before the agricultural age. Nonetheless getting around faster than 5 km / hour, which is the average human walking speed, seems like an important need, whether it is just to go meet friends, participate in the economy or just travel the world.
+Transportation. Humans can get around by walking and did cover the far reaches of the world that way even before the agricultural age. Nonetheless getting around faster than 5 km / hour, which is the average human walking speed, seems like an important need, whether it is to meet friends or family, participate in the economy or just travel the world.
 
-Healthcare. Somebody who is healthy does not need any healthcare directly. But to maintain the health of a population, for instance, humanity needs vaccinations. And if you get sick you might need a lot of healthcare. So far the best that I have been able to come up is defining the need as access to enough healthcare that life expectancy at birth is 75 years (I picked this number because it is a bit below the US number and meaningfully above the current global average).
+Healthcare. Somebody who is healthy does not need any healthcare per se. Collectively though to maintain the health of populations, humanity needs such interventions as vaccinations. And individually if do you get sick you might need a lot of healthcare. So far the best that I have been able to come up is defining the need as access to enough healthcare that life expectancy at birth is 75 years (I picked this number because it is a bit below the US number and meaningfully above the current global average).
+
+
+## Social Needs
+
+Humans are sometimes described as social animals. There are theories that our brains developed their capabilities in large part as a result of our more extensive social relationship. There is evidence that having sufficiently strong social interactions contributes to humans living healthier and longer lives [http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000316]. I have only just added this section in response to a comment and don&apos;t yet have anything more specific here.
 
 
 ## Information Needs
@@ -37,13 +42,13 @@ The following are human needs that have arisen more recently. For reasons that w
 
 Networking. In order to access any information source we need to be able to communicate with that source. Since we can transmit anything over the internet I will equate the networking need with access to the Internet. One could probably make this more precise by specifying a minimum bandwidth.
 
-Computation. Access to digital information by itself is useless without also having some means of computation (imagine having a fiber connection to your home but not laptop or smartphone). Here too a minimum requirement can be made quite precise and this is something I will work on. 
+Computation. Access to digital information by itself is useless without also having some means of computation (imagine having a fiber connection to your home but no laptop or smartphone). Here too a minimum requirement can be made quite precise and this is something I will work on. 
 
 
 This is my current working version of basic needs. One of the advantages of keeping the book on github will be that it will provide a clear history of how this list evolves over time. I am eager to hear reactions and to have people comment on the list as it currently stands.
 
 What about learning or education? It is not on the list for the same reason that entertainment is not. Access to all of human knowledge, including art and music, can now happen via the internet. So the basic need is the one for the physical resources required for networking and computation.
 
-What about spiritual needs? At some level they could be considered basic needs. Almost everyone in the world seem to worry about why they are here and what their life means. Religions are popular and persistent in no small part because they claim to meet this need. I will argue later that this is not a basic need but belongs to what I think of as existential needs. These existential needs will also turn out to be the reason why attention is scarce.
+What about spiritual needs? Almost everyone in the world seems to worry about why they are here and what their life means. Religions are popular and persistent in no small part because they claim to answer these questions. I am beginning to think that these needs might be grouped with social needs (a section I just added). From the perspective of an individual asking that seems correct. Collectively though, for all of humanity, the question why we are here and what our purpose is feels different from a basic need.
 
-As you think about this list please keep in mind that I am not suggesting in this book that governments should directly provide for these needs or the derived needs such as energy. Instead, the primary point of having this list will be to deliver on my claim that capital is no longer scarce. There is enough capital in the world to provide for everyone&apos;s basic needs by *some* allocation mechanism (which may include roads built by government but also will include a lot of market activity).
+As you think about this list please keep in mind that I am not suggesting in this book that governments should directly provide for these needs or the derived needs such as energy and raw materials. Instead, the primary point of having this list will be to deliver on my claim that capital is no longer scarce. There is enough capital in the world to provide for everyone&apos;s basic needs by *some* allocation mechanism (which may include government activity but also will include a lot of market and voluntary activity).
