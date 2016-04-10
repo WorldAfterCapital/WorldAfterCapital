@@ -1,6 +1,6 @@
 # Conclusion
 
-We live in a world in transition. We are at the tail end of the industrial age. We have attained technological capabilities that make capital adequate and attention scarce. Will we make 
+We live in a world in transition. We are at the tail end of the industrial age. We have attained technological capabilities that make capital adequate and attention scarce. 
 
 I am optimistic about what the knowledge age will mean for humanity. But I am pessimistic, at least for now, as to how we will get there.
 
