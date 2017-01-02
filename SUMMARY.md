@@ -2,6 +2,8 @@
 
 * [Work in Progress](WIP.md)
 
+* [Preface](Preface.md)
+
 * [Introduction](README.md)
 
 * [Digital Technology](Digital.md)
