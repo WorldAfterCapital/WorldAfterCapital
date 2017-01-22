@@ -101,7 +101,7 @@ Encouragingly, we have made dramatic progress in recent years with clean (from a
 
 Again as an important reminder before moving on. There is no claim here that everyone&apos;s basic needs are being met today. Nor is there a claim that governments should be in the business of using central planning or to meet people&apos;s basic needs or to provide for these needs through government run programs such as foodstamps or subsidized housing (in fact quite the opposite, as I will argue later when writing about economic freedom). 
 
-The point of this chapter is simply to show that there is enough capital in the world to do meet everyone&apos;s basic needs.  We are not dealing with a problem of scarcity (in my foundational sense) but with one of allocation and distribution problem.
+The point of this chapter is simply to show that there is enough capital in the world to meet everyone&apos;s basic needs.  We are not dealing with a problem of scarcity (in my foundational sense) but with one of allocation and distribution problem.
 
 Capital is no longer scarce but sufficient. We should consider that the great success of capitalism.
 

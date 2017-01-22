@@ -1,6 +1,6 @@
 # Scarcity
 
-In this book I will be arguing that capital is no longer scarce but that attention now is. Furthermore this constitutes the third major shift in scarcity in the history of humanity. The first shift was from food to land when we went from the forage age to the agrarian age. The second was from land to capital when we went from teh agrarian age to the industrial age.
+In this book I will be arguing that capital is no longer scarce but that attention now is. Furthermore this constitutes the third major shift in scarcity in the history of humanity. The first shift was from food to land when we went from the forage age to the agrarian age. The second was from land to capital when we went from the agrarian age to the industrial age.
 
 The words scarce and scarcity have come to take on a meaning that&apos;s derived from modern economics. Many people now think of something as scarce if its price is greater than zero. By this definition land is obviously still scarce as it costs a lot of money to buy a piece of land. And capital is still scarce because even in our current low interest rate environment, there is a price for borrowing money or raising equity financing (which makes it possible for me to make money from being a venture capital investor).
 
