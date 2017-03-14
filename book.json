@@ -3,5 +3,8 @@
     "description": "-",
     "styles": {
         "website": "styles/website.css"
-    }
+    },
+    "plugins": ["bibtex-indexed-cite"]
 }
+
+
