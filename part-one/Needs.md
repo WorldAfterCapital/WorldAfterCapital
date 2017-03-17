@@ -33,7 +33,7 @@ Healthcare. Somebody who is healthy does not need any healthcare per se. Collect
 
 ## Social Needs
 
-Humans are sometimes described as social animals. There are theories that our brains developed their capabilities in large part as a result of our more extensive social relationship. There is evidence that having sufficiently strong social interactions contributes to humans living healthier and longer lives [http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000316]. I have only just added this section in response to a comment and don&apos;t yet have anything more specific here.
+Humans are sometimes described as social animals. There are theories that our brains developed their capabilities in large part as a result of our more extensive social relationship. There is evidence that having sufficiently strong social interactions contributes to humans living healthier and longer lives {{"PLOS" | cite}}. I have only just added this section in response to a comment and don&apos;t yet have anything more specific here.
 
 
 ## Information Needs
