@@ -9,9 +9,8 @@ But, and this is where it gets confusing, there is nothing in economics that say
 There would seem to be a catch though. While having no labor might make sense for any one company, for the economy as a whole, who is going to buy all these goods and services if people are out of work and hence don&apos;t have any money? There is the famous story about an exchange between Henry Ford II and Walter Reuther who then headed up the Automobile workers union, which went as follows:
 
 > Henry Ford II: Walter, how are you going to get those robots to pay your union dues?
-> Walter Reuther: Henry, how are you going to get them to buy your cars?
+> Walter Reuther: Henry, how are you going to get them to buy your cars? {{"QI" | cite}}
 
-[Source: http://quoteinvestigator.com/2011/11/16/robots-buy-cars/]
 
 Now if we all had inherited wealth or sufficient income from capital this wouldn&apos;t be an issue. None of us would have to work and all of us could enjoy the benefits of cheaper products and service courtesy of robots and automation. The demand for products would not depend on employment.
 
@@ -43,7 +42,7 @@ But GDP continued to grow so what&apos;s the problem? Well much of that growth w
 
 Eventually there was a limit to how much debt households could support. And once we reached that point we had the making of a situation of insufficient aggregate demand in the economy. The first event that really drove that point home was the collapse of the US housing bubble. There is a fair bit of evidence that we are hitting another such point right now. In theory, the dramatic decline in oil prices should put more money into the hands of consumers and stimulate demand. Instead it appears that consumers are using it to pay off debt and even start to save.
 
-What&apos;s driving the decoupling? Part of it may be demographics, but part of it is likely to be the impact of technology. To the extent that accelerates, as I believe it will, there will be further pressure on aggregate demand. From a traditional economic growth perspective what should be particularly worrisome is that jobs in developing countries have a high exposure to automation [Source: http://www.economist.com/news/finance-and-economics/21689635-jobs-poor-countries-may-be-especially-vulnerable-automation-machine-earning]. Put differently, these countries may skip the golden age of the job loop entirely or have a much diminished version.
+What&apos;s driving the decoupling? Part of it may be demographics, but part of it is likely to be the impact of technology. To the extent that accelerates, as I believe it will, there will be further pressure on aggregate demand. From a traditional economic growth perspective what should be particularly worrisome is that jobs in developing countries have a high exposure to automation {{"ECONO" | cite}}. Put differently, these countries may skip the golden age of the job loop entirely or have a much diminished version.
 
 We don&apos;t need an indefinite growth of aggregate demand to take care of basic needs (wants by contrast are unlimited). Nonetheless a rapid demand collapse would be a bad thing for societies that for now are built largely on the job loop. That raises the question of whether it is at all possible for technology to depress wages over a prolonged period of time.
 
@@ -54,7 +53,7 @@ With the job loop dominant, people have to sell their labor to earn a living. Un
 
 The argument goes something like this. We automate some part of the economy. That frees labor up to work on something else. Entrepreneurs use this newly available labor to deliver innovative new products and services. There is no fixed &ldquo;lump&rdquo; of labor, rather there are potentially infinitely many things to work on. As support for their argument they offer that this is exactly what has happened historically. And so they ask, why should this time be different?
 
-To understand how things could be different it is instructive to consider horses. As recently as 1915 we employed over 25 million horses in the US in agriculture and for transportation. By 1960 that number had declined to 3 million and then we stopped keeping track systematically [Source: http://www.humanesociety.org/assets/pdfs/hsp/soaiv_07_ch10.pdf]. What happened? Well, we figured out how to build tractors, cars and tanks. There were no use cases left in which horses were superior to a mechanical substitute. The potential for the same to happen to humans was pointed out by Wassily Leontief.
+To understand how things could be different it is instructive to consider horses. As recently as 1915 we employed over 25 million horses in the US in agriculture and for transportation. By 1960 that number had declined to 3 million and then we stopped keeping track systematically {{"THS" | cite}}. What happened? Well, we figured out how to build tractors, cars and tanks. There were no use cases left in which horses were superior to a mechanical substitute. The potential for the same to happen to humans was pointed out by Wassily Leontief.
 
 Some people will immediately object that, well, horses can&apos;t think and obviously we humans can, giving us a far broader range of things to do. That is true and is also the reason why so far we have always found new employment for people. So what has changed? Well, as we saw in the chapter on Digital Technology, we now have computers and we have figured out how to have computers do lots of things that until quite recently we thought only humans could, such as driving a car.
 
