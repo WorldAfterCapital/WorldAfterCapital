@@ -10,7 +10,7 @@ Optimism is a theme that I will return to many times in this book and so it is a
 
 I am optimistic about what humanity can ultimately accomplish with digital technology. Using the internet and advances in machine intelligence we can dramatically accelerate the creation and distribution of knowledge. This will be essential for progress.
 
-Progress has become a loaded word. Is there such as thing as true progress and what does it look like? Aren&apos;t we humans responsible not only for the many diseases of civilization but also for the downright extinction of countless species and potentially our own demise through climate change?
+Progress has become a loaded word. Is there such a thing as true progress and what does it look like? Aren&apos;t we humans responsible not only for the many diseases of civilization but also for the downright extinction of countless species and potentially our own demise through climate change?
 
 Yes, we do have problems. And one might, as a pessimist, focus on these problems and conclude they cannot be solved. This is like looking at a startup and concluding there is no point in even getting going &mdash; or funding it &mdash; because, well, there will be problems.
 
@@ -34,12 +34,12 @@ Economics also doesn&apos;t want anything. It is not normative. Nothing in econo
 
 And contrary to Marx, history too doesn&apos;t want anything. Nor is there, as Francis Fukuyama would have it, an end of history with finalized social, economic and political systems. History is the result of human choices; it doesn&apos;t make its own choices. Only we humans can make the choices that shape our future. 
 
-It is our responsibility, both individually and collectively, to make choices about what we want for ourselves and our future. We need to choose rules for society (regulation) and behaviors for ourselves (self-regulation). And the choices we make now are especially important because the latest inflation in the space of the possible also include machines that will make choices.
+It is our responsibility, both individually and collectively, to make choices about what we want for ourselves and our future. We need to choose rules for society (regulation) and behaviors for ourselves (self-regulation). And the choices we make now are especially important because the latest inflation in the space of the possible also includes machines that will make choices.
 
 
 ## Regulation
 
-There are many people who work in technology and investing who are also optimists and believe in progress. There is, however, only a smaller subset who also believe in the need for regulation. There is another group that has a decidedly libertarian streak and would like for government to just get out of the way.
+There are many people who work in technology and investing who are optimists and believe in progress. There is, however, only a smaller subset who also believe in the need for regulation. There is another group that has a decidedly libertarian streak and would like for government to just get out of the way.
 
 The history of technological progress is one of changes in social norms and political regulations. For instance, at the moment much of the world gets around by driving cars. The car was an important technological innovation in that it allowed for individual mobility. But it would have been impossible to have widespread adoption of cars without regulation. We needed to agree on rules of the road and we also needed to build roads. Neither of these could have emerged solely from individual choice. Road and rules are examples of natural monopolies (you don&apos;t want to have multiple road networks or rules of the road) and thus constitute examples of market failure. The car would also not have made much sense as individual transport without changes in social norms, such as making it acceptable for women to operate a car (still not a change that has taken place in Saudi Arabia).
 
