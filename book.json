@@ -2,9 +2,14 @@
     "title": "World After Capital",
     "description": "-",
     "styles": {
-        "website": "styles/website.css"
+      "website": "styles/website.css"
     },
-    "plugins": ["bibtex-indexed-cite"]
+    "plugins": ["bibtex-indexed-cite"],
+    "pluginsConfig": {
+      "bibtex-indexed-cite": {
+          "path": "https://worldaftercapital.gitbooks.io/worldaftercapital/content/"                
+      }
+    } 
 }
 
 
