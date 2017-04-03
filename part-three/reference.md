@@ -1,0 +1,1 @@
+ 1. Tom Risen, &quot;What America Pays for a Haircut,&quot; *US News & World Report*, Febuary 28, 2014, accessed January 3, 2017 http://www.usnews.com/news/blogs/data-mine/2014/02/28/what-america-pays-for-a-haircut
