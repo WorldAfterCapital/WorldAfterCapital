@@ -22,7 +22,7 @@ Sex. Possibly this should say reproduction. Sex may or may not be a need for ind
 
 These are needs that deal with mastering the physical environment which even here on earth is largely inhospitable to humans. I am including healthcare in this because it too deals with physical processes although this time internal to the human body.
 
-Shelter. In many (most?) parts of the world humans cannot survive without shelter due to weather conditions or the presence of dangerous animals. A basic need would be seem to be a space of at least 10 square meters per person (the size of a really small hotel room) with a temperature not to fall outside of 15-30 degrees C for prolonged periods of time (roughly the thermal neutral zone for humans). Along with the space should be access to good sanitation.
+Shelter. In many (most?) parts of the world humans cannot survive without shelter due to weather conditions or the presence of dangerous animals. A basic need would seem to be a space of at least 10 square meters per person (the size of a really small hotel room) with a temperature not to fall outside of 15-30 degrees C for prolonged periods of time (roughly the thermal neutral zone for humans). Along with the space should be access to good sanitation.
 
 Clothing. Everyone needs enough clothing to protect themselves from the elements. At a minimum that would seem to include shoes, socks, underwear, pants, shirts and jackets (I am using plural to suggest everyone needs a least a couple of each to account for variations in function, weather, laundry, etc). This is obviously a specific view of how to dress and I am not suggesting it is the only possible set of clothing but it seems useful nonetheless as a baseline.
 

@@ -4,7 +4,7 @@
 
 The title of the book is World after Capital. One of my basic claims is that capital is no longer scarce. There is enough capital in the world to meet everyone&apos;s basic needs. Using the language introduced earlier, capital is sufficient. And because population growth is decelerating while technological progress is accelerating due to digital technology capital will no longer be the binding constraint.
 
-It is tempting to look at this strictly in terms of financial capital but that is again succumbing to the veil of of money much as many people have in their definition of scarcity. Dollar bills don&apos;t feed people. Gold bars can&apos;t be used as smart phones. The capital that matters is productive physical capital, such as machines and buildings.
+It is tempting to look at this strictly in terms of financial capital but that is again succumbing to the veil of of money, much as many people have in their definition of scarcity. Dollar bills don&apos;t feed people. Gold bars can&apos;t be used as smart phones. The capital that matters is productive physical capital, such as machines and buildings.
 
 Financial capital is not irrelevant. It is required both for the construction of physical capital and to meet the working capital needs of the economy. If I want to build a factory or a school I need to pay the construction workers, the suppliers of machines, etc. before I start collecting money. This means a financing mechanism is required. To get the proper accumulation of physical capital we need to have effective ways of creating and allocating financial capital.
 
@@ -20,9 +20,9 @@ Interestingly, you can also have financial capital without physical capital and 
 
 All of this says that we should never lose sight of the fact that financial capital ultimately serves no purpose in and of itself other than possibly the gratification of ego. One great illustration of that is a Spanish Galleon full of raided gold sinking in a storm. The sailors aboard had ample access to financial capital but what they really needed was more knowledge and better physical capital.
 
-What follows is very much just a beginning. It is an attempt to tally the ways in which we have sufficient physical capital to take care of basic needs. Much of the data here is a current snapshot (and a highly incomplete one at that). I hope it is clear though from the preceding discussion of the rate of technological progress relative to population growth that taking a snapshot is a legitimate approach because the relative ratios are only going to improve from here on out.
+What follows is very much just a beginning. It is an attempt to tally the ways in which we have sufficient physical capital to take care of basic needs. Much of the data here is a current snapshot (and a highly incomplete one at that). I hope it is clear, though, from the preceding discussion of the rate of technological progress relative to population growth that taking a snapshot is a legitimate approach, because the relative ratios are only going to improve from here on out.
 
-I am trying to do this as much as possible by expressing outputs in physical units that directly related to human needs. This approach bypasses the monetary veil of the economy entirely. Since I have only just happened upon this approach much of the work remains to be done. For instance, some of the numbers below are for the US, others for the world.
+I am trying to do this as much as possible by expressing outputs in physical units that directly relate to human needs. This approach bypasses the monetary veil of the economy entirely. Since I have only just happened upon this approach much of the work remains to be done. For instance, some of the numbers below are for the US, others for the world.
 
 
 ## Biological Needs
@@ -46,14 +46,14 @@ Sex &mdash; no capital requirement per se for having children. There is sufficie
 
 ## Physical Needs
 
-Shelter &mdash; By 2005 we had 256 Billion Square Feet of Residential Real Estate in the US  [https://www.eia.gov/emeu/efficiency/recs_4_table.pdf (link broken)]. At the time the US population was about 300 Million People. That works out to about 256 \* 10^9 / 300 \* 10^6 = 853 square feet or about 80 square meters per person. Obviously this is not equally distributed but it shows that we have 8x as much space on average than I had identified as a basic need.
+Shelter &mdash; By 2005 we had 256 Billion Square Feet of Residential Real Estate in the US  [https://www.eia.gov/emeu/efficiency/recs_4_table.pdf (link broken)]. At the time the US population was about 300M people. That works out to about 256 \* 10^9 / 300 \* 10^6 = 853 square feet or about 80 square meters per person. Obviously this is not equally distributed, but it shows that we have 8x as much space on average than I had identified as a basic need.
 
 An alternative data source is the American Housing Survey. Using this table {{ "AHS" | cite}} for 2013 I get 230 Billion Square Feet. By then US population was 316 Million people which works out to 230 \* 10^9 / 316 \* 10^6 = 727 square feet or 67 square meter per person.
 
 Another way to look at the physical capacity of the economy is to consider new construction. From the same Census data source it appears we are building about about 2,735 / 4 = 683 \* 10^3 units per year with average square footage of 1,737 square feet. That means we have the physical capital to add 0.683 * 10^6 \* 1.737 \* 10^3 square feet = 1.186 \* 10^9 square feet (about 1 billion square feet) which is more than 100 million square meters per year or enough to meet the basic need of 10 million people.
 
 
-Clothing &mdash; The production of textiles, which are a key part of making clothing, has become highly automated. Apparel production, i.e. making clothes from textiles, however, is still quite manual. Based on data from a study by the Federation of American scientists {{"FAS"| cite}} US Textile mills output in 2013 was $31.7 Billion with 116,805 employees for about $270K/employee. By contrast US Apparel production in the same year was $13.4 Billion with 143,575 employees for about $93K/employee. The key reason for the low degree of automation in apparel is that much of the production takes place overseas with cheap labor.
+Clothing &mdash; The production of textiles, which are a key part of making clothing, has become highly automated. Apparel production, i.e. making clothes from textiles, however, is still quite manual. Based on data from a study by the Federation of American scientists {{"FAS"| cite}} US textile mills output in 2013 was $31.7 Billion with 116,805 employees for about $270K/employee. By contrast, US Apparel production in the same year was $13.4 Billion with 143,575 employees for about $93K/employee. The key reason for the low degree of automation in apparel is that much of the production takes place overseas with cheap labor.
 
 Ideally here too one could find data to analyze clothing output in terms of actual unit data instead of financial data. In the meantime here is an attempt to compare this to minimum needs. An international comparison suggests that people may be able to meet their minimum clothing needs with as little as $200 per year or even less {{ "EEA" | cite}} and {{ "STAT1" | cite}}.
 
@@ -78,7 +78,7 @@ Given how I have defined the basic need for healthcare though it is clear that w
 
 ## Social needs
 
-I only just added this section to the Needs chapter. At first it might seem that capital would be irrelevant to meeting our social needs, after all we were able to take care of those already during the forager age. But it is not so simple. During the agrarian age tending to land took time away from meeting social needs and this was worsened in the industrial age as machines required human operators. It is only more recently that we have started to have machines that can operate themselves to a such a degree that we could free up time for our social needs. I don&apos;t yet have a good way of quantifying this. 
+I only just added this section to the Needs chapter. At first it might seem that capital would be irrelevant to meeting our social needs, after all we were able to take care of those already during the forager age. But it is not so simple. During the Agrarian Age tending to land took time away from meeting social needs and this was worsened in the Industrial Age as machines required human operators. It is only more recently that we have started to have machines that can operate themselves to a such a degree that we could free up time for our social needs. I don&apos;t yet have a good way of quantifying this. 
 
 
 ## Information needs
