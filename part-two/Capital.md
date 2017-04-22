@@ -1,6 +1,6 @@
 # Capital
 
-[NOTE: This chapter is more of a work in progress than others. I only recently came up with the idea of approaching capital in terms of real output relative to basic needs which is consistent with my own definition of scarcity.]
+[NOTE: This chapter is more of a work in progress than others. First, I only recently came up with the idea of approaching capital in terms of real output relative to needs which is consistent with my own definition of scarcity. Second, I just substantially re-wrote the chapter on needs which is not yet reflected here]
 
 The title of the book is World after Capital. One of my basic claims is that capital is no longer scarce. There is enough capital in the world to meet everyone&apos;s basic needs. Using the language introduced earlier, capital is sufficient. And because population growth is decelerating while technological progress is accelerating due to digital technology capital will no longer be the binding constraint.
 

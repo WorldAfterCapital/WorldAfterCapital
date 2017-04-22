@@ -1,54 +1,54 @@
 # Needs
 
-The definition of scarcity that I just introduced is based on the notion of needs. To argue that there is a shift in scarcity from capital to attention thus requires an agreed up on set of needs. Can we make progress in defining what constitutes a set of basic human needs?
+The definition of scarcity that I just introduced is based on the notion of needs. To argue that there is a shift in scarcity from capital to attention thus requires an agreed upon set of needs to show that we indeed have sufficient capital. Can we make progress in defining what constitutes a set of basic human needs?
 
-I am not proposing that this is a simple task. What follows should be considered a way of starting a dialog. A list of basic needs is a piece of knowledge. As such it can be improved over time through the process of critical inquiry. You can critique my list by pointing out flaws and you can also propose changes to my list or publish your own list altogether.
+I am not proposing that this is a simple task. What follows should be considered a way of starting a dialog. A list of basic needs is a piece of knowledge. As such it can be improved over time through the process of critical inquiry. You can critique my list by pointing out flaws, you can also propose changes to my list, or you can publish your own list altogether.
 
-I am grouping the needs on purpose in a way that corresponds somewhat to the historical shifts in scarcity. I am also including needs that don&apos;t necessarily apply on the individual level but are needs in aggregate, such as reproduction. Finally this list only contains immediate needs as opposed to derived needs. For instance, all of humanity has a need for a certain amount of total energy to power all that food production, building of housing, transportation, etc. More on that later.
+One of the benefits of my approach to writing World After Capital out in the open and with revisions tracked is that you can see how my thinking on needs has evolved over time. In an earlier version I tried to group needs into categories such as biological, physical, and social. But the boundaries between those seemed rather arbitrary upon further examination. So in the current version I am distinguishing only between individual and collective needs, where the former will apply to any human wherever they may be (even say traveling in space) and the latter are the needs of humanity as a whole.
 
-
-## Biological Needs
-
-These are the most basic human needs. Without them survival is impossible. We have always needed some way to take care of them or humanity would not be here now. These should be the least controversial.
-
-Air. Humans need to breathe about 11 cubic meters of air per day to obtain about 0.55 cubic meters of pure oxygen.
-
-Food. We need about 2,000 calories a day. And we need certain vitamins and minerals that the body cannot synthesize. We also need to drink on average about 2.5 liters of water per day in a temperate climate.
-
-Sex. Possibly this should say reproduction. Sex may or may not be a need for individuals, but reproduction is obviously necessary for humanity as a whole.
+Another challenge in putting together a list of needs is that it is all too easy to confuse a need with a strategy for meeting this need. For instance, having a home that you own is a strategy for solving the need for shelter, but so would be access to shared space. 
 
 
-## Physical Needs
+## Individual Needs
 
-These are needs that deal with mastering the physical environment which even here on earth is largely inhospitable to humans. I am including healthcare in this because it too deals with physical processes although this time internal to the human body.
+These are the basic needs of the human body and mind. Without them individual survival and flourishing is impossible.
 
-Shelter. In many (most?) parts of the world humans cannot survive without shelter due to weather conditions or the presence of dangerous animals. A basic need would be seem to be a space of at least 10 square meters per person (the size of a really small hotel room) with a temperature not to fall outside of 15-30 degrees C for prolonged periods of time (roughly the thermal neutral zone for humans). Along with the space should be access to good sanitation.
+Oxygen. Humans need on average about 0.55 cubic meters of oxygen per day. The exact need of course varies with factors such as the size of our respective body and the degree of physical exertion. Our most common solution to this need is breathing air.
 
-Clothing. Everyone needs enough clothing to protect themselves from the elements. At a minimum that would seem to include shoes, socks, underwear, pants, shirts and jackets (I am using plural to suggest everyone needs a least a couple of each to account for variations in function, weather, laundry, etc). This is obviously a specific view of how to dress and I am not suggesting it is the only possible set of clothing but it seems useful nonetheless as a baseline.
+Water. We need to drink on average about 2.5 liters of water per day to stay hydrated. Again various factors such as body size, exertion and temperature will affect the exact need.
 
-Transportation. Humans can get around by walking and did cover the far reaches of the world that way even before the agricultural age. Nonetheless getting around faster than 5 km / hour, which is the average human walking speed, seems like an important need, whether it is to meet friends or family, participate in the economy or just travel the world.
+Energy. To power our bodies we require about 2,000 calories per day. We solve this need by consuming food. The best way to do this, however, is surprisingly controversial and poorly understood for such a basic need. In particular, the degree to which we have a need for fats versus carbohydrate intake.
 
-Healthcare. Somebody who is healthy does not need any healthcare per se. Collectively though to maintain the health of populations, humanity needs such interventions as vaccinations. And individually if do you get sick you might need a lot of healthcare. So far the best that I have been able to come up is defining the need as access to enough healthcare that life expectancy at birth is 75 years (I picked this number because it is a bit below the US number and meaningfully above the current global average).
+Nutrients. The body cannot synthesize all the vitamins and minerals that it requires. Therefore some of them must be obtained directly as part of our nutrition. This too is an area that is surprisingly poorly understood, meaning which nutrients exactly we really need to acquire externally seems unsettled. There is a wide range of food consumption strategies that seem to support the human body.
 
+(To research: does the body need light? It does for Vitamin D synthesis but we could also ingest Vitamin D directly)
 
-## Social Needs
+Discharge. So this may be a bit gross but we also need to get things out of our bodies again, including expelling processed food, radiating heat and exhaling carbon dioxide. A lot of human progress has come from better strategies for solving our discharge needs, such as public sanitation. For fans of science fiction, like myself, dealing with the problems of discharge is an interesting limit on our ability to cloak ourselves.
 
-Humans are sometimes described as social animals. There are theories that our brains developed their capabilities in large part as a result of our more extensive social relationship. There is evidence that having sufficiently strong social interactions contributes to humans living healthier and longer lives {{"PLOS" | cite}}. I have only just added this section in response to a comment and don&apos;t yet have anything more specific here.
+Temperature. Our bodies can self regulate their temperature within a limited range. We have a need to control our environment to help our bodies with temperature regulation. Common strategies to meet our temperature needs include shelter and clothing.
 
+Healing. When we damage our body in some fashion it needs to heal. The human body comes equipped with extensive systems for self healing including combating many foreign substances (including vomiting, diarrhea, antibodies). Beyond a certain range, the body needs external assistance to heal. Here to we have developed many solutions, and often group them under the term healthcare.
 
-## Information Needs
+Learning. We are born quite, well, stupid. We even have to learn even relatively basic skills such as walking and the use of tools. We group many of the strategies for solving the need for learning under the heading education. 
 
-The following are human needs that have arisen more recently. For reasons that will become clear eventually, I am not focused on the specific content but rather the means of connecting to and processing digital information.
-
-Networking. In order to access any information source we need to be able to communicate with that source. Since we can transmit anything over the internet I will equate the networking need with access to the Internet. One could probably make this more precise by specifying a minimum bandwidth.
-
-Computation. Access to digital information by itself is useless without also having some means of computation (imagine having a fiber connection to your home but no laptop or smartphone). Here too a minimum requirement can be made quite precise and this is something I will work on. 
+Recognition and Meaning. As humans we appear to have profound psychological needs for recognition and meaning in our lives. Religion and religious beliefs have long been a key strategy for solving this need. As I have argued in the section on Humanism, there is an objective basis for human meaning rooted in knowledge. Another key strategy to solve this need comes from our interactions with other humans, such as having someone acknowledge our contributions to a project. 
 
 
-This is my current working version of basic needs. One of the advantages of keeping the book on github will be that it will provide a clear history of how this list evolves over time. I am eager to hear reactions and to have people comment on the list as it currently stands.
+## Collective Needs
 
-What about learning or education? It is not on the list for the same reason that entertainment is not. Access to all of human knowledge, including art and music, can now happen via the internet. So the basic need is the one for the physical resources required for networking and computation.
+Reproduction. Individuals can survive without sex, but reproduction is a need for humanity as a whole. As humanity we have already learned how to solve the need for reproduction without sex. In the future there may be altogether different solutions for reproduction in the sense of the continuation of the human species.
 
-What about spiritual needs? Almost everyone in the world seems to worry about why they are here and what their life means. Religions are popular and persistent in no small part because they claim to answer these questions. I am beginning to think that these needs might be grouped with social needs (a section I just added). From the perspective of an individual asking that seems correct. Collectively though, for all of humanity, the question why we are here and what our purpose is feels different from a basic need.
+Transportation. We need to bring ourselves and objects to different locations. In addition to our ability to walk and carry things, We have developed many different technological strategies for solving this need such as trains, planes and automobiles. Interestingly we are also developing new strategies that do not involve physical movement but use information movement instead, such as teleconferencing and sending digital representations of objects that can be locally manufactured.
 
-As you think about this list please keep in mind that I am not suggesting in this book that governments should directly provide for these needs or the derived needs such as energy and raw materials. Instead, the primary point of having this list will be to deliver on my claim that capital is no longer scarce. There is enough capital in the world to provide for everyone&apos;s basic needs by *some* allocation mechanism (which may include government activity but also will include a lot of market and voluntary activity).
+Coordination. Whenever there is more than a single human involved in any activity, there is a need for coordination among the participating humans. We have developed many different communication and governance mechanisms to address this need.
+
+Energy. To power all of our human activities we need energy. Our core strategy for energy meets for some time has been the burning of fossil fuels. We are in the midst of an important shift away from those and towards solar, wind and other renewable and cleaner energy sources. 
+
+Raw materials. Everything we make requires raw materials as inputs. We have used strategies such as mining and chemistry to solve this need. Recycling is another strategy which recovers the raw materials from objects that are no longer needed.
+
+Knowledge. As I have argued in the prior sections on Optimism and Humanism, this is the central collective human need. Without increased knowledge we will encounter problems that we cannot solve.
+
+
+This is my current working version of needs. It represents a fairly substantial re-write from the previous version and I am much happier with the current one.
+
+As you think about this list please keep in mind that I am not suggesting in this book that governments should directly provide for individual needs, for instance through a government run food program. Not even our collective needs necessarily require governments in their present forms. Instead, the point of having this list is to deliver on my claim that capital is no longer the scarce factor in meeting these needs.
