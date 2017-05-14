@@ -29,7 +29,7 @@ Temperature. Our bodies can self regulate their temperature within a limited ran
 
 Healing. When we damage our body in some fashion it needs to heal. The human body comes equipped with extensive systems for self healing including combating many foreign substances (including vomiting, diarrhea, antibodies). Beyond a certain range, the body needs external assistance to heal. Here to we have developed many solutions, and often group them under the term healthcare.
 
-Learning. We are born quite, well, stupid. We even have to learn even relatively basic skills such as walking and the use of tools. We group many of the strategies for solving the need for learning under the heading education. 
+Learning. We are born quite, well, stupid. We even have to learn relatively basic skills such as walking and the use of tools. We group many of the strategies for solving the need for learning under the heading education. 
 
 Recognition and Meaning. As humans we appear to have profound psychological needs for recognition and meaning in our lives. Religion and religious beliefs have long been a key strategy for solving this need. As I have argued in the section on Humanism, there is an objective basis for human meaning rooted in knowledge. Another key strategy to solve this need comes from our interactions with other humans, such as having someone acknowledge our contributions to a project. 
 
