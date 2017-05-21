@@ -12,5 +12,7 @@ I am using <a href="https://www.gitbook.com/book/worldaftercapital/worldaftercap
 
 There is also a separate <a href="http://worldaftercapital.org/faq/">FAQ</a> which I will be updating periodically.
 
-The contents of the book will always be freely available at <a href="http://worldaftercapital.org">worldaftercapital.org</a> under a Creative Commons license. 
+The contents of the book will always be freely available at <a href="http://worldaftercapital.org">worldaftercapital.org</a> under a <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">Creative Commons license</a>.
+
+
 
