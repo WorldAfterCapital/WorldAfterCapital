@@ -2,7 +2,7 @@
 
 This book is a work in progress. What you are reading now is a rough draft with lots of problems and placeholders.
 
-The process of writing in this way is an example of what I call the &ldquo;knowledge loop&rdquo; in the book. The knowledge loop consists of learning, creating and sharing. My writing is based on what I have learned. By sharing early, others can learn from my ideas and I in turn can learn from their feedback.
+The process of writing in this way is an example of what I call the &ldquo;knowledge loop&rdquo; in the book. The knowledge loop consists of learning, creating and sharing. My writing is based on what I have learned. By sharing early, others can learn from my ideas and I, in turn, can learn from their feedback.
 
 I know how powerful this approach is from my experience with <a href="http://continuations.com">blogging</a> for the last 8 years. I have learned a great deal from reader comments. The same will be true here. 
 
