@@ -42,7 +42,7 @@ To dislodge our expectations about consumption, we first must become more aware 
 [Maybe mention the recent success of the book about decluttering here?] 
 
 
-## Freedom to Learns
+## Freedom to Learn
 
 Did you know that young kids ask upwards of three hundred questions a day? {{"TELE" | cite }}  Humans are naturally curious, and it&apos;s precisely this curiosity that has driven so much of our progress. At the same time, our curiosity in some ways didn&apos;t match well with the industrial system. If you want to employ people in a factory job that has them performing the same action all day every day, then curiosity doesn&apos;t help; on the contrary, it hurts. The same goes for many service jobs today, such as say operating a cash register or delivering packages on time.
 
