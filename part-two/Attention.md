@@ -8,7 +8,7 @@ As a result, it is easy today to be completely overwhelmed by content. Our limit
 
 The limited availability of attention has become the key new source of economic rents. Companies such as Google, Facebook and Twitter are valued in no small part on the amount of attention they have been able to aggregate, some of which they then resell in the form of advertising. As a result they invest heavily in algorithms designed to present ever more appealing information to their end users in order to capture more attention. Sites like Buzzfeed and Huffington Post that are nominally news sites do the same.
 
-But is any of that really a problem? Is attention scarce in the precise sense that I have laid out earlier? That would require for us to not have enough attention to meet humanity&apos;s basic needs. Is that really the case?
+But is any of that really a problem? Is attention scarce in the precise meaning of scarcity that I defined earlier? That would require for us to not have enough attention to meet humanity&apos;s basic needs. Is that really the case?
 
 
 ## Individual Attention Scarcity
@@ -17,9 +17,9 @@ Let&apos;s first consider attention at the individual level. All over the world 
 
 In combination this is leading to a large scale crisis of individual identity. This crisis takes many different forms, including increased teenage depression, growing adult suicide rates (especially among middle-aged white males), and rising aggression both online and offline. This is not dissimilar from the beginning of the Industrial Age, when people had to leave the countryside and move to big cities. They were forced to give up identities that had been constructed around land and a historical set of professions. They were confronted with people from other regions who held different beliefs. 
 
-And so it should not be at all surprising that there is a rise in populist leaders with simplistic messages. People whose identity is shaken want to be reassured. They want to hear that things will be OK and that the way of getting there is simple. &ldquo;Make America Great Again&rdquo; is an example of that. So is ISIS. In both cases the message is retrograde. Instead of a new identity that has to be found requiring time and effort it promises an easy return to a glorious identity of the past.  
+And so it should not be at all surprising that there is a rise in populist leaders with simplistic messages. People whose identity is shaken want to be reassured. They want to hear that things will be OK and that the way of getting there is simple. &ldquo;Make America Great Again&rdquo; is an example of that. So is ISIS. In both cases the message is retrograde. Instead of a new identity that has to be built, requiring time and effort, these backward movements promise an easy return to a glorious identity of the past.  
 
-Our attention to our most basic need, the existential need to make sense of the world as an individual by finding a purpose that makes our life meaningful, is scarce. Instead we let our attention be occupied by yet another video or by propaganda. 
+Our attention to our most basic need, the existential need to make sense of the world as an individual by finding a purpose that makes our life meaningful, is scarce. Instead we let our attention be occupied by yet another video or worse by propaganda. 
 
 
 ## Collective Attention Scarcity
@@ -30,9 +30,9 @@ On the risk side, for example, not enough attention is spent on how to recapture
 
 On the opportunity side, far too little human attention is spent on nuclear fusion, on new antibiotics, on space exploration or for that matter on much simpler things such as spending time with and taking care of friends and family. Or learning a new skill or instrument or making music or going hiking. Or reading a great book. Or writing a new song. 
 
-Much of our collective attention is instead absorbed by having to earn a living, with our leisure time increasingly consumed by watching cat videos on the internet. We are not investing enough in knowledge, which over time decreases our chances that problems will indeed remain solvable.
+Much of our collective attention is instead absorbed by having to earn a living, with our leisure time increasingly consumed by watching cat videos on the internet. We are not investing enough in knowledge. And if we don&apos;t have enough knowledge, we may not be able to solve some of the problems we are currently facing, such as climate change. This has happened many times here on Earth before to civilizations, such as the Rapa Nui or the Mayans. Now, however, we are facing problems on a truly global scale.  
 
-I am proposing this as a (possibly new) explanation for the Fermi Paradox, which famously asks why we have not yet detected any signs of intelligent life elsewhere in our rather large universe. We now even know that there are plenty of goldilocks planets available that could harbor life forms similar to those on earth. Maybe what happens is that all civilizations get far enough to where they generate huge amounts of information but they get done in by attention scarcity. They collectively take their eye off the ball of progress and then are not prepared when something really bad happens such as a global pandemic.
+I am proposing this as a (possibly new) explanation for the Fermi Paradox, which famously asks why we have not yet detected any signs of intelligent life elsewhere in our rather large universe. We now even know that there are plenty of goldilocks planets available that could harbor life forms similar to those on earth. Maybe what happens is that all civilizations get far enough to where they generate huge amounts of information, but then they get done in by attention scarcity. They collectively take their eye off the ball of progress and are not prepared when something really bad happens such as a global pandemic.
 
 
 [Note: I am planning to expand this section on attention scarcity by providing more concrete numbers, such as how many people are currently working globally on Asteroid detection and deflection.]
