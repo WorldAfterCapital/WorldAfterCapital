@@ -2,7 +2,7 @@
 
 Humanity is unique, at least for now, in having developed knowledge (in a way that I make more precise in this book). Knowledge in turn has allowed us to create increasingly powerful technology. The effect of technological advances is that they broaden the space of the possible for humanity.
 
-* With the internet we can give everyone free access to education. But we can also share hate speech globally.
+* With the Internet we can give everyone free access to education. But we can also share hate speech globally.
 * With artificial intelligence we can build self driving cars. But we can also more effectively manipulate people.
 
 There is nothing fundamentally new about this duality of technology.
@@ -28,12 +28,12 @@ The answer is that we need to enact policies that allow for social and economic 
 
 I will argue that the way to accomplish the transition to the Knowledge Age is by expanding individual freedoms through
 * instituting a basic income (economic freedom)
-* investing in internet access, rolling back intellectual property rights, and rethinking personal privacy (informational freedom)
+* investing in Internet access, rolling back intellectual property rights, and rethinking personal privacy (informational freedom)
 * practicing and encouraging self-regulation (psychological freedom).
 
 At the same time, we need to double down on a set of values that allows increasingly free individuals to peacefully co-exist and for humanity to progress, including critical inquiry, democracy and responsibility.
 
-Why this specific set of freedoms and values? The central argument of World After Capital is the primacy of knowledge for the fate of humanity. The internet as a global network and artificial intelligence based on general purpose computing together make it possible to dramatically accelerate the creation and sharing of knowledge.
+Why this specific set of freedoms and values? The central argument of World After Capital is the primacy of knowledge for the fate of humanity. The Internet as a global network and artificial intelligence based on general purpose computing together make it possible to dramatically accelerate the creation and sharing of knowledge.
 
 Capital is already no longer scarce in some parts of the world and rapidly less scarce everywhere. We should consider that the great success of capitalism. But capitalism in its present form will not and can not solve the scarcity of attention. We are bad individually and collectively at allocating attention. For example, how much attention are you paying to your friends and family or to the existential question of the meaning and purpose of your life? How much attention are we paying as humanity to the great challenges and opportunities of our time, such as climate change and space travel? Capitalism cannot address these attention allocation problems because prices do not and cannot exist for many of the activities that we should be paying attention to.
 
