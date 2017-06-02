@@ -1,14 +1,14 @@
 # Digital Technology
 
-The invention of agriculture inflated the space of the possible by dramatically increasing the food density of land. This allowed humanity to have surplus food which provided the basis for hierarchical societies with armies but also with art.
+The invention of agriculture inflated the space of the possible by dramatically increasing the food density of land. This, in turn, led to increased population density and allowed humanity to have surplus food, which provided the basis for hierarchical societies that would develop standing armies, specialization of labor and writing {{"WIKIAS" | cite}}.
 
-The Enlightenment and subsequent Industrial Revolution further inflated the space of the possible by substituting machine power for human power and increasing our understanding of and control over chemical and physical transformations of matter. This allowed humanity to make extraordinary material progress.
+The Enlightenment and subsequent Industrial Revolution further inflated the space of the possible by substituting human power for machine power and increasing our understanding of, and control over, chemical and physical transformations of matter. This allowed humanity to make extraordinary material progress with innovative leaps in energy, manufacturing, transportation and communication {{"THGHTCO" | cite}}.
 
-Digital technologies provide the third inflation of the space of the possible. This seems like a bold claim, and many have derided digital technologies such as Twitter, arguing that they are inconsequential compared to say the invention of vaccines.  
+Digital technologies provide the third inflation of the space of the possible. This seems like a bold claim, and many have derided digital technologies such as Twitter, arguing that they are inconsequential compared to, say, the invention of vaccines.  
 
-Yet at the same time we can already see the disruptiveness of digital technologies.  For instance, many previously well established businesses, such as newspapers, are struggling, while companies that only deal in information, such as Google and Facebook, are among the world&apos;s most highly valued.
+Yet at the same time we can already see the disruptiveness of digital technologies.  For instance, many previously well established businesses, such as newspapers, are struggling, while companies that only deal in information, such as Google and Facebook, are among the world&apos;s most highly valued {{"FORT" | cite}}.
 
-There are two reasons why digital technology inflates the space of the possible and both matter: the first is zero marginal cost and the second is the universality of digital computation.
+There are two reasons why digital technology inflates the space of the possible, and both are important: the first is zero marginal cost and the second is the universality of digital computation.
 
 ## Zero Marginal Cost
 
