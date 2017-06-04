@@ -22,7 +22,7 @@ World After Capital has two goals. The first goal is to establish that we are, i
 
 The second goal is to propose an approach for facilitating the smooth transition from an industrial society (scarce capital) to a knowledge society (scarce attention). Getting this right is critical for humanity, as the two previous shifts were marked by massive turmoil and upheaval&mdash;including two World Wars in the transition from the Agrarian Age to the Industrial Age. Already, we are seeing signs of increasing conflict within societies and among belief systems across the world.
 
-So, how should we deal with this third transformation? What action can we as a society possibly take if, as I claim, we can't make good predictions about the future?
+So, how should we deal with this third transformation? What action can we as a society possibly take if, as I claim, we can&apos;t make good predictions about the future?
 
 The answer is that we need to enact policies that allow for social and economic changes to occur gradually, instead of artificially suppressing these changes only to have them explode eventually. I will argue that the way to accomplish the transition to the Knowledge Age is by expanding individual freedoms through:
 
