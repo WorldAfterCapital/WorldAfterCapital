@@ -7,3 +7,5 @@ So how do we overcome the limits of existing capitalism to let us accelerate the
 2. Informational freedom. We must remove boundaries to learning from existing knowledge, creating new knowledge based on what we learn and sharing this new knowledge.
 
 3. Psychological freedom. We must free ourselves from scarcity thinking and its associated fears that impede our participation in the knowledge loop.
+
+Increased individual freedoms are the basis for a smoother transition from the Industrial Age to the Knowledge Age. One that is not dictated top down, but results bottom up from individual choices. Later, in Part Four, I will write about values and systems necessary for collective action in a world of increased individual freedom. 
