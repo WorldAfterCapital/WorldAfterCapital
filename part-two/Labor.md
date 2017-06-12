@@ -43,7 +43,7 @@ Eventually there was a limit to how much debt households could support. Once we 
 
 What&apos;s driving the decoupling? Part of it may be demographics, but part of it is likely to be the impact of technology. To the extent that accelerates, as I believe it will, there will be further pressure on aggregate demand. From a traditional economic growth perspective what should be particularly worrisome is that jobs in developing countries have a high exposure to automation {{"ECONO" | cite}}. Put differently, these countries may skip the golden age of the job loop entirely or have a much diminished version.
 
-We don&apos;t need an indefinite growth of aggregate demand to take care of basic needs (wants by contrast are unlimited). Nonetheless, a rapid demand collapse would be a bad thing for societies that for now are built largely on the job loop. That raises the question of whether it is at all possible for technology to depress wages over a prolonged period of time.
+We don&apos;t need an indefinite growth of aggregate demand to take care of basic needs (wants by contrast are unlimited). Nonetheless, a rapid demand collapse would be a bad thing for societies that, for now, are built largely on the job loop. That raises the question of whether it is at all possible for technology to depress wages over a prolonged period of time.
 
 
 ## Lump of Labor or Magic Employment Fallacy?
@@ -56,13 +56,13 @@ To understand how things could be different, it is instructive to consider horse
 
 Some people will immediately object that, well, horses can&apos;t think and obviously we humans can, giving us a far broader range of things to do. That is true and is also the reason why so far we have always found new employment for people. So what has changed? Well, as we saw in the chapter on Digital Technology, we now have computers and we have figured out how to have computers do lots of things that until quite recently we thought only humans could, such as driving a car.
 
-With digital technologies we have universal machines at zero marginal cost. All of the sudden the idea that we might be like horses and have fewer and fewer uses doesn&apos;t seem quite so impossible.
+With digital technologies we have universal machines at zero marginal cost. All of the sudden the idea that we might be like horses, and have fewer and fewer uses, doesn&apos;t seem quite so impossible.
 
 Those who continue to claim this is committing the &ldquo;Lump of Labor Fallacy&rdquo; immediately retort that this simply signals a lack of imagination. They argue that we just haven&apos;t thought of some new set of human activities that will once again gainfully employ people. But that line of thinking could also be a fallacy. I will call it the &ldquo;Magic Employment Fallacy.&rdquo; Just because we have found new employment in the past, doesn&apos;t mean we will in the future, especially when we have an entirely new set of technological capabilities.
 
 Yes we humans can be incredibly creative and think of new things to spend our time on. But the operative question for people selling their labor is not if they can think of something to do, but if they can get paid for it. Not just get paid something, but enough to cover all of one&apos;s basic needs. It doesn&apos;t matter what creative pursuit or new service we think of, the only thing that matters is whether a machine (or another human for that matter) is capable of doing it more cheaply.
 
-This, in particular, turns out to be a problem with the &ldquo;Magic Employment Fallacy.&rdquo; Nothing in economics says what the clearing price for labor ought to be. It could happen to be well below what people need to cover their basic needs. And that means we have a problem even if everyone were employed, unless you want to make an argument that we should simply let that happen and eventually wind up with fewer people just as we did with fewer horses.
+This, in particular, turns out to be a problem with the &ldquo;Magic Employment Fallacy.&rdquo; Nothing in economics says what the clearing price for labor ought to be. It could happen to be well below what people need to cover their basic needs. And that means we have a problem even if everyone were employed, unless you want to make an argument that we should simply let that happen and eventually wind up with fewer people, just as we did with fewer horses.
 
 So in order for the &ldquo;Magic Employment Fallacy&rdquo; to, well, not be a fallacy, we have to find new high value things for humans to do for which there is both paid demand and machines are not effective substitutes. I don&apos;t think we can rule that out entirely. We may find that the best candidate is a cultural shift that leads us to value goods and services produced by humans qua human production. The success of marketplaces, such as Etsy, that sell handmade goods, and the rise of artisinal goods more generally, are potential indicators of such a shift. 
 

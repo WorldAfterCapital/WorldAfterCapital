@@ -42,7 +42,7 @@ Human attention, however, is fundamentally limited. We have 24 hours in the day.
 
 But why does that make attention scarce? How do we not have enough attention to meet our needs? This is the second major claim of the book. Individually, it is so because most of us are not spending enough of our attention on the question of our purpose and participating in the process of critical inquiry. Collectively, it is so because we are not spending enough of our attention on species level risks, such as climate change, asteroid strikes, infectious diseases and opportunities such as space travel, quantum computing, biology. We are also not paying nearly enough attention to democracy, to our communities, and to each other, including our friends and families. 
 
-The goals of this book then are to convince readers first that scarcity is in fact shifting from capital to attention and second that we need new regulation and self-regulation in response to this shift. 
+Therefore the goals of this book are to convince readers, first, that scarcity is, in fact, shifting from capital to attention and, second, that we need new regulation and self-regulation in response to this shift. 
 
 Ideally, World After Capital contributes to a dialog that helps avoid another terrible transition. To enter the Knowledge Age we need a lot of changes that are not in the direct interest of the owners of capital who largely control policies at the end of the Industrial Age. This is a direct parallel to the end of the Agrarian Age and we must learn from that transition if we do not want to repeat its horrors.
 
