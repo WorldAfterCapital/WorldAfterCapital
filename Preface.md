@@ -1,6 +1,6 @@
 # Preface
 
-As a VC, I get asked the question a lot "What&apos;s next?" People want to know what I think the next big technology will be. They are looking for an answer like "robotics" or "machine learning." But that&apos;s not the question that I am interested in answering. Instead, what I believe matters much more is what we as humanity decide to do with all the new technologies available to us.
+As a Venture Capitalist (&ldquo;VC&rdquo;), I get asked the question a lot "What&apos;s next?" People want to know what I think the next big technology will be. They are looking for an answer like "robotics" or "machine learning." But that&apos;s not the question that I am interested in answering. Instead, what I believe matters much more is what we as humanity decide to do with all the new technologies available to us.
 
 In particular, I am convinced that we are in the middle of a transition that&apos;s as profound as when we went from the Agrarian Age to the Industrial Age {{ "WIKIIR" | cite }}. This transition is being driven by the advent of digital technologies, and we must now collectively decide what comes after the Industrial Age. In World After Capital, I am arguing that the proper next age is the Knowledge Age&mdash;and that in order to get there we need to focus on the allocation of attention (rather than capital). 
 

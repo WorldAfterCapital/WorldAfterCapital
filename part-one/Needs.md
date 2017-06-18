@@ -2,7 +2,7 @@
 
 The definition of scarcity that I just introduced is based on the notion of needs. To argue that there is a shift in scarcity from capital to attention thus requires an agreed upon set of needs to show that we indeed have sufficient capital. Can we make progress in defining what constitutes a set of basic human needs?
 
-I am not proposing that this is a simple task. What follows should be considered a way of starting a dialog. A list of basic needs is a piece of knowledge. As such it can be improved over time through the process of critical inquiry. You can critique my list by pointing out flaws, you can also propose changes to my list, or you can publish your own list altogether.
+I am not proposing that this is a simple task. What follows should be considered a way of starting a dialogue. A list of basic needs is a piece of knowledge. As such it can be improved over time through the process of critical inquiry. You can critique my list by pointing out flaws, you can also propose changes to my list, or you can publish your own list altogether.
 
 One of the benefits of my approach to writing World After Capital out in the open and with revisions tracked is that you can see how my thinking on needs has evolved over time. In an earlier version I tried to group needs into categories such as biological, physical, and social. But the boundaries between those seemed rather arbitrary upon further examination. So in the current version I am distinguishing only between individual and collective needs, where the former will apply to any human wherever they may be (even say traveling in space) and the latter are the needs of humanity as a whole.
 
