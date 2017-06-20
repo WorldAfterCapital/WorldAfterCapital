@@ -20,7 +20,7 @@ My point of view could be accused of being &ldquo;specieist&rdquo;&mdash;of putt
 
 For instance, we humans can understand what is happening to the atmosphere of the planet. In fact, we are the primary cause of the accumulation of greenhouse gases. We can and should dedicate much of our time to cleaning up the atmosphere and, if necessary, learn how to manipulate climate more directly. This is not just to protect other species of course, but also to protect humanity itself.
 
-Along the same lines, I think there is a human responsibility to figure out how to feed ourselves without inflicting mass harm on animals. One answer to that is one of pure self regulation: stop eating meat and become a vegetarian or even a vegan. Another answer is to continue with progress and figure out how to grow meat in a lab.
+Along the same lines, I think there is a human responsibility to figure out how to feed ourselves without inflicting mass harm on animals. One answer to that is one of pure self-regulation: stop eating meat and become a vegetarian or even a vegan. Another answer is to continue with progress and figure out how to grow meat in a lab.
 
 Our collective responsibility is further progress, both for our own sake as well as that of other species on this planet. If we fail to give enough attention to global problems, and if we continue to let our attention be scarce, things will end badly for all of us.
 

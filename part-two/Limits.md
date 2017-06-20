@@ -29,7 +29,7 @@ This shift to power laws everywhere is resulting in a huge increase of inequalit
 The anti-trust approach, however, is not consistent with the benefits from large networks for the advancement of human knowledge. Instead, the later chapter on Informational Freedom proposes regulatory changes aimed at preventing operators of networks from extracting excessive rents.
 
 
-## Self Conservation
+## Self-Conservation
 
 Toward the end of the Agrarian Age, when land was scarce, the political elites came from land ownership. Their influence really wasn&apos;t substantially diminished until after World War II. Now we are at the end of the scarcity of capital, but the political elites largely represent the interests of capital. In some countries, such as China, this is the case outright. Senior political leaders and their families own large parts of industry. In other countries, such as the United States, politicians are influenced by the owners of capital because of the constant need to fundraise.
 

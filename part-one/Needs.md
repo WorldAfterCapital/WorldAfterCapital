@@ -25,9 +25,9 @@ Nutrients. The body cannot synthesize all the vitamins and minerals that it requ
 
 Discharge. So this may be a bit gross but we also need to get things out of our bodies again, including expelling processed food, radiating heat and exhaling carbon dioxide. A lot of human progress has come from better strategies for solving our discharge needs, such as public sanitation. For fans of science fiction, like myself, dealing with the problems of discharge is an interesting limit on our ability to cloak ourselves.
 
-Temperature. Our bodies can self regulate their temperature within a limited range. We have a need to control our environment to help our bodies with temperature regulation. Common strategies to meet our temperature needs include shelter and clothing.
+Temperature. Our bodies can self-regulate their temperature within a limited range. We have a need to control our environment to help our bodies with temperature regulation. Common strategies to meet our temperature needs include shelter and clothing.
 
-Healing. When we damage our body in some fashion it needs to heal. The human body comes equipped with extensive systems for self healing including combating many foreign substances (including vomiting, diarrhea, antibodies). Beyond a certain range, the body needs external assistance to heal. Here to we have developed many solutions, and often group them under the term healthcare.
+Healing. When we damage our body in some fashion it needs to heal. The human body comes equipped with extensive systems for self-healing including combating many foreign substances (including vomiting, diarrhea, antibodies). Beyond a certain range, the body needs external assistance to heal. Here to we have developed many solutions, and often group them under the term healthcare.
 
 Learning. We are born quite, well, stupid. We even have to learn relatively basic skills such as walking and the use of tools. We group many of the strategies for solving the need for learning under the heading education. 
 

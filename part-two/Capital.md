@@ -102,6 +102,6 @@ The point of this chapter is simply to show that there is enough capital in the 
 
 Capital is no longer scarce but sufficient. We should consider that the great success of capitalism.
 
-We now face a new scarcity, however, that of attention, and capitalism will not solve it for us without changes in regulation and in self regulation. Before we can examining the scarcity of attention though we need to understand how digital technologies are changing the role of labor.
+We now face a new scarcity, however, that of attention, and capitalism will not solve it for us without changes in regulation and in self-regulation. Before we can examining the scarcity of attention though we need to understand how digital technologies are changing the role of labor.
 
 

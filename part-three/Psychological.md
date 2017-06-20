@@ -88,7 +88,7 @@ We should feel free to share our opinions and ideas and information, but it&apos
 
 ## Psychological Freedom and Humanism
 
-Self regulation, as we&apos;ve seen, lies at the heart of psychological freedom. It allows us to separate wants from needs. It lets us take our initial reactions to content that we see and not immediately reply in anger. It lets us have empathy for others and their creations. 
+Self-regulation, as we&apos;ve seen, lies at the heart of psychological freedom. It allows us to separate wants from needs. It lets us take our initial reactions to content that we see and not immediately reply in anger. It lets us have empathy for others and their creations. 
 
 Still, there are the foundational needs for purpose and recognition that wind up making many people psychologically un-free. If you feel that your life lacks purpose or that nobody cares about your existence then you will experience a profound emptiness. This existential angst can express itself in many different forms, ranging from a paralysis to do anything to a manic desire to do everything (or own everything). The persistence of religion over millennia is in part explained by addressing these needs. Your purpose is to follow a divine set of rules and if you follow those rules the respective god or gods will recognize your existence.
 
