@@ -4,7 +4,7 @@ Capitalism&mdash;which has gotten us so far&mdash;won&apos;t help us overcome th
 
 ## Missing Prices
 
-Why won&apos;t capitalism help us? Because the great strength and the great weakness of capitalism is that it relies  on prices determined in markets. Prices are amazingly powerful because they efficiently aggregate information on consumer preferences, producer needs, etc. But not everything can be priced. And increasingly the things that cannot be priced are becoming much more important than those that can.
+Why won&apos;t capitalism help us? Because the great strength and the great weakness of capitalism is that it relies  on prices determined in markets. Prices are amazingly powerful because they efficiently aggregate information on consumer preferences, producer needs, etc. But not everything can be priced. And increasingly the things that cannot be priced are becoming much more important than those that can&mdash;think air quality, the cost of climate change, or even an individual&apos;s sense of purpose and meaning.
 
 There are foundational issues that prevent the existence of prices for many things. This is not just a question of a missing market that can be magically solved by assigning property rights.
 
