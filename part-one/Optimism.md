@@ -26,7 +26,7 @@ Yes, digital technologies including the Internet and advances in automation have
 
 And yet this newly inflated space of what is possible also includes amazing progress, such as the example of free diagnoses of diseases for all of humanity encountered at the end of the previous chapter.
 
-Believing in the potential for real progress though is not the same as being a Pollyanna. Progress does not happen by itself as a deterministic function of technology. Contrary to Wired magazine co-founder Kevin Kelly&apos;s claims in his book &ldquo;What Technology Wants&rdquo;, technology doesn&apos;t want anything by itself and certainly not a better world for humanity. It simply makes such a world possible. 
+Believing in the potential for real progress though is not the same as being a Pollyanna. Progress does not happen by itself as a deterministic function of technology. Contrary to Kevin Kelly&apos;s claims in his book &ldquo;What Technology Wants&rdquo;, technology doesn&apos;t want anything by itself and certainly not a better world for humanity. It simply makes such a world possible. 
 
 Economics also doesn&apos;t want anything. It is not normative. Nothing in economics, for instance, says that a new technology cannot make some people or possibly a great many people worse off. Economics gives us tools for analyzing markets and designing regulations to address some of their failures. But we still need to make choices about what we want markets and regulations to accomplish for humanity.
 
