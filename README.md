@@ -12,9 +12,7 @@ There is nothing fundamentally new about this duality of technology:
 
 And yet there is something special about our moment in time.
 
-A non-linear system is one in which the outputs of the system are not proportional to the inputs. In the context of society, it is helpful to think in terms of a production function that requires a given quantity of inputs (such as land, capital and attention), and produces a corresponding quantity of outputs (goods and services). Notice, then, that what limits our possible outputs is the availability and allocation of the inputs. We are experiencing a non-linearity in the sense that we are actually altering our production function so that the range of possible outputs is drastically increasing, while the required inputs remain the same. 
-
-This non-linearity renders many of the existing predictions about society based on extrapolation useless. The realm of possibility for mankind is expanding rapidly due to the extraordinary power of digital technologies, which deliver universality of computation at zero marginal cost&mdash;detailed in the next section.
+We are experiencing a technological non-linearity, which renders many of the existing predictions about society based on extrapolation useless. The realm of possibility for mankind is expanding rapidly due to the extraordinary power of digital technologies, which deliver universality of computation at zero marginal cost&mdash;detailed in the next section.
 
 Humanity has encountered two similar non-linearities previously. The first was the invention of agriculture, which ended the Forager Age and brought us into the Agrarian Age {{"NATGR" | cite}}. The second was the Enlightenment, which took us out of our state of ignorance about nature and helped usher in the Industrial Age {{"SPRK" | cite}}.
 
