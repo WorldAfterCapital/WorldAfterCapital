@@ -30,7 +30,7 @@ Believing in the potential for real progress though is not the same as being a P
 
 Economics also doesn&apos;t want anything. It is not normative. Nothing in economics, for instance, says that a new technology cannot make some people or possibly a great many people worse off. Economics gives us tools for analyzing markets and designing regulations to address some of their failures. But we still need to make choices about what we want markets and regulations to accomplish for humanity.
 
-And contrary to the 19th century philosopher and economist Karl Marx, history too doesn&apos;t want anything. Nor is there, as political economist Francis Fukuyama would have it, an end of history with finalized social, economic and political systems. History is the result of human choices; it doesn&apos;t make its own choices. Only we humans can make the choices that shape our future. 
+And contrary Karl Marx, history too doesn&apos;t want anything. Nor is there, as political economist Francis Fukuyama would have it, an end of history with finalized social, economic and political systems. History is the result of human choices; it doesn&apos;t make its own choices. Only we humans can make the choices that shape our future. 
 
 It is our responsibility, both individually and collectively, to make choices about what we want for ourselves and our future. We need to choose rules for society (regulation) and behaviors for ourselves (self-regulation). And the choices we make now are especially important because the latest inflation in the space of the possible also includes machines that will make choices.
 
