@@ -10,7 +10,7 @@ There is nothing fundamentally new about this duality of technology:
 * With fire we were able to warm ourselves and cook, but we were also able to burn down forests
 * With steel we were able to construct more effective plows, but we were also able to forge swords.
 
-And yet there is something special about our moment in time: we are experiencing a technological non-linearity. 
+And yet there is something special about our moment in time.
 
 A non-linear system is one in which the outputs of the system are not proportional to the inputs. In the context of society, it is helpful to think in terms of a production function that requires a given quantity of inputs (such as land, capital and attention), and produces a corresponding quantity of outputs (goods and services). Notice, then, that what limits our possible outputs is the availability and allocation of the inputs. We are experiencing a non-linearity in the sense that we are actually altering our production function so that the range of possible outputs is drastically increasing, while the required inputs remain the same. 
 
