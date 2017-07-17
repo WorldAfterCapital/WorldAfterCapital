@@ -1,6 +1,6 @@
 # Part Three: Enhancing Freedom
 
-So how do we overcome the limits of existing capitalism to let us accelerate the digital knowledge loop? Part Three will propose changes to regulation and self-regulation to increase human freedom. There are three components to this:
+The second major goal of World After Capital is to propose an approach for overcoming these limits of existing capitalism and an economy based around the Job Loop. Part Three will propose changes to regulation and self-regulation that increase human freedom and let us accelerate the digital knowledge loop. There are three components to this:
 
 1. Economic freedom. We must let everyone meet their basic needs without having to hold a job. This way, we can double down on automation and enable everyone to participate in the knowledge loop.
 

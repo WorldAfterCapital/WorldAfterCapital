@@ -1,6 +1,6 @@
 # Population
 
-Malthus was right about one thing. Global population did explode. And population growth started to accelerate right at the time of his writing around 1800 {{ "MALTH" | cite }}.  
+Malthus was right about one thing. Global population did explode. And population growth started to accelerate right at the time of his writing around 1800.  
 
 Since then, the human population has grown from about 1 Billion to over 7 Billion people here on planet Earth. As an optimist, the thing to note immediately though is that Malthus&apos;s most dire fears about the implications of this population growth have not been realized. There has been no global scale starvation and even the fear that most people would live in abject poverty has not come true. In fact, the opposite has happened recently. Around the world the number of people living in extreme poverty has been declining all the while population growth has been about twice as fast as what Malthus predicted as an upper limit of 1 billion people added in 25 years.
 
