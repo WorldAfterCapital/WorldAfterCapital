@@ -15,7 +15,11 @@ But is any of that really a problem? Is attention scarce in the precise meaning 
 
 Let&apos;s first consider attention at the individual level. All over the world people have constructed their identities around work and around firmly held core beliefs, whether religious or wordly. Both of these are undermined by digital technologies. We saw earlier how digital technology is putting pressure on labor. It is also putting pressure though on firmly held beliefs. Content is no longer easily contained in geographic boundaries and people are being exposed, many for the first time, to opinions and behaviors that diverge from their core beliefs.  
 
-In combination this is leading to a large scale crisis of individual identity. This crisis takes many different forms, including increased teenage depression, growing adult suicide rates (especially among middle-aged white males), drug overdose deaths and rising aggression both online and offline {{"NYT2" | cite}}. This is not dissimilar from the beginning of the Industrial Age, when people had to leave the countryside and move to big cities. They were forced to give up identities that had been constructed around land and a historical set of professions. They were confronted with people from other regions who held different beliefs. 
+In combination this is leading to a large scale crisis of individual identity. This crisis takes many different forms, including increased teenage depression, growing adult suicide rates (especially among middle-aged white males), drug overdose deaths and rising aggression both online and offline {{"NYT2" | cite}}. 
+
+![Crisis Statistics](../assets/crisis-statistics.png)
+
+This is not dissimilar from the beginning of the Industrial Age, when people had to leave the countryside and move to big cities. They were forced to give up identities that had been constructed around land and a historical set of professions. They were confronted with people from other regions who held different beliefs. 
 
 And so it should not be at all surprising that there is a rise in populist leaders with simplistic messages. People whose identity is shaken want to be reassured. They want to hear that things will be OK and that the way of getting there is simple. &ldquo;Make America Great Again&rdquo; is an example of that. So is ISIS. In both cases the message is retrograde. Instead of a new identity that has to be built, requiring time and effort, these backward movements promise an easy return to a glorious identity of the past.  
 
