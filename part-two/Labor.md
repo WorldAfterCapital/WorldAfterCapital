@@ -17,7 +17,7 @@ Now if we all had inherited wealth, or sufficient income from capital, an econom
 
 For a long time the possibility of a slump in consumer demand due to less labor seemed not just unlikely, but downright impossible. We had a perfectly working loop at the heart of economic growth, which I call the &ldquo;job loop&rdquo;
 
-[IMAGE HERE  sell labor <—> buy stuff]
+![The Job Loop](../assets/job-loop.png)
 
 In today&apos;s economy the majority of people have a job. They sell their labor, producing products and services for someone else and receiving wages in return. They then take those wages and go buy stuff. Smart phones. Books. Tools. Houses. Cars. Gas for their cars. They also buy services, the professional assistance of attorneys and doctors and auto-mechanics and gardeners and hair stylists and nutritionists. Most of the people who sell them products and services, in turn, are employed and take what they are paid and live on that, buying goods and services from still other people.
 

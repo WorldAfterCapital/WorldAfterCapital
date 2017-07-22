@@ -22,7 +22,7 @@ When thinking about the power of knowledge, we must remember that a year, or a d
 
 What knowledge has already made possible today, by virtue of the industrial revolution and the rise of digital technology, is a society that can take care of everyone&apos;s basic needs and allow us all to contribute to knowledge. Just like the Job Loop powered industrial society, so the knowledge society will be powered by a different system, the Knowledge Loop. In the Knowledge Loop, someone starts out by learning something, then uses that to create something new, which is then shared.
 
-[Image of Knowledge Loop]
+![The Knowledge Loop](../assets/knowledge-loop.png)
 
 The Knowledge Loop is not, strictly speaking, new. Rather, it has been around for almost as long as humanity itself. At several points in our history, however, we have seen critical breakthroughs that have made the Knowledge Loop faster and broader. The first was spoken language. Then came written language. Then came printing. Then we got telecommunications and radio and TV. Along the way we invented the scientific method, which has given us much of our technological progress. But now we are witnessing another fundamental breakthrough: digital technologies, which have given us a network that connects all of humanity at zero marginal cost and are allowing machines to participate in the Knowledge Loop.
 
