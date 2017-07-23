@@ -62,7 +62,6 @@ The global apparel market was $1.7 trillion in 2012 {{"FU" | cite}}. At the time
 
 Importantly, going forward automation is coming to apparel in the form of automated knitting machines {{"NW" | cite }} which have been around for some time and the newer development of robotic pattern cutting and sewing machines {{"JS" | cite}}.
 
-
 Transportation &mdash; Great data source here {{ "RITA" | cite}}
 
 Highways 2012 car vehicle miles (in millions) 2,664,445 (note: includes light trucks and SUVs), 2012 passenger miles (in millions) 3,669,821, so average travelers/car = 1.38 for highways. Further supported on a separate page which shows that 76% of people commute alone.
@@ -70,7 +69,6 @@ Highways 2012 car vehicle miles (in millions) 2,664,445 (note: includes light tr
 Light Duty vehicles 233,760,558 in 2012 up from 220,931,982 in 2002 compared to U.S. population in 2012 of 313 million. That is 233.7 / 313 = 0.75 light duty vehicles per person.
 
 Utilization of private cars is around 4% {{"ARK" | cite}} but can be increased substantially through car sharing.
-
 
 Healthcare &mdash; The role of capital in providing healthcare is difficult to assess. First, we are still figuring out what it means to live healthily in the first place. For instance, our knowledge of good nutrition is still quite primitive. Second, other than a few machines (e.g. for imaging) relatively little medicine requires expensive equipment. A lot of medication is expensive to buy but not expensive to make once the research has been completed. Labor accounts for 66% or more of the total expense of the healthcare system and capital equipment for 10% or less. Third, we are just at the beginning of our ability to deliver personalized medicine and to manipulate the human genome.
 
