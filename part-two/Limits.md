@@ -4,7 +4,7 @@ Capitalism&mdash;which has gotten us so far&mdash;won&apos;t help us overcome th
 
 ## Missing Prices
 
-Why won&apos;t capitalism help us? Because the great strength and the great weakness of capitalism is that it relies  on prices determined in markets. Prices are amazingly powerful because they efficiently aggregate information on consumer preferences, producer needs, etc. But not everything can be priced. And increasingly the things that cannot be priced are becoming much more important than those that can.
+Why won&apos;t capitalism help us? Because the great strength and the great weakness of capitalism is that it relies on prices determined in markets. Prices are amazingly powerful because they efficiently aggregate information on consumer preferences, producer needs, etc. But not everything can be priced. And increasingly the things that cannot be priced are becoming much more important than those that can&mdash;think of the benefits from space travel, the cost of climate change, or even an individual&apos;s sense of purpose and meaning.
 
 There are foundational issues that prevent the existence of prices for many things. This is not just a question of a missing market that can be magically solved by assigning property rights.
 
@@ -20,7 +20,7 @@ Economics is not normative when it comes to the distribution of income and wealt
 
 Then along came industrialization and with it economies of scale. If you made more cars you could make them more cheaply and that was true until you got to a fairly large number of cars relative to total demand. That&apos;s why, over time, we wound up with relatively few car manufacturers around the world and the owners of the surviving largest ones wound up with large fortunes (e.g., the Ford or the Piech families). It turned out that many service businesses have relatively small economies of scale (e.g., a hair salon). That has allowed a great many service businesses to exist. The biggest exception to this has been financial services in which a few large banks, insurance companies, and brokerage firms tend to dominate.
 
-Now, however, with digital technologies we are seeing a shift to power laws for many more situations. For instance, on Youtube the most watched video has been watched billions of times compared to the vast majority of videos which has been watched just a few times. Or in ecommerce, Amazon is an order of magnitude larger than most other retailers. The same goes for apps in the appstore. The leading apps have hundreds of millions (and some even billions) of users. But the vast majority of apps has just a few users.
+Now, however, with digital technologies we are seeing a shift to power laws for many more situations. For instance, on YouTube the most watched video has been watched billions of times compared to the vast majority of videos which has been watched just a few times. Or in ecommerce, Amazon is an order of magnitude larger than most other retailers. The same goes for apps in the appstore. The leading apps have hundreds of millions (and some even billions) of users. But the vast majority of apps has just a few users.
 
 Digital technologies are driving these power laws because of network effects combined with zero marginal cost. As I explained in the chapter on digital technology this means that we are likely to need only one (or maybe a few) medical diagnosis systems to serve the entire world. So far we have seen one social network by far dominate all others. We have one search company dominate all others.
 

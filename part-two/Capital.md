@@ -4,7 +4,7 @@
 
 The title of the book is World after Capital. One of my fundamental claims is that capital is no longer scarce. There is enough capital in the world to meet everyone&apos;s basic needs. Using the language introduced earlier, capital is sufficient. And because population growth is decelerating, while technological progress is accelerating (due to digital technology), capital will no longer be the binding constraint for humanity.
 
-It is tempting to look at this in terms of financial capital but that again would be succumbing to the veil of of money, as was the case with the definition of scarcity. Dollar bills don&apos;t feed people. Gold bars can&apos;t be used as smart phones. The capital that matters is productive physical capital, such as machines and buildings.
+It is tempting to look at this in terms of financial capital, but that again would be succumbing to the veil of of money, as was the case with the definition of scarcity. Dollar bills don&apos;t feed people. Gold bars can&apos;t be used as smart phones. The capital that matters is productive physical capital, such as machines and buildings.
 
 Financial capital is not irrelevant. It is required both for the initial construction of physical capital and to meet the ongoing working capital needs of the economy. If I want to build a factory or a school, I need to pay the construction workers, the suppliers of machines, etc. before I can start collecting money. And in many businesses I pay some ongoing expenses every month before collecting revenues from customers. Cash outflows preceding cash inflows means a financing mechanism is required. To get the proper accumulation of physical capital, we therefore need to have effective ways of accumulating and allocating financial capital.
 
@@ -53,7 +53,6 @@ An alternative data source is the American Housing Survey. Using this table {{ "
 
 Another way to look at the physical capacity of the economy is to consider new construction. From the same Census data source it appears we are building about about 2,735 / 4 = 683 \* 10^3 units per year with average square footage of 1,737 square feet. That means we have the physical capital to add 0.683 * 10^6 \* 1.737 \* 10^3 square feet = 1.186 \* 10^9 square feet (about 1 billion square feet) which is more than 100 million square meters per year or enough to meet the basic need of 10 million people.
 
-
 Clothing &mdash; The production of textiles, which are a key part of making clothing, has become highly automated. Apparel production, i.e. making clothes from textiles, however, is still quite manual. Based on data from a study by the Federation of American scientists {{"FAS"| cite}} U.S. textile mills output in 2013 was $31.7 Billion with 116,805 employees for about $270K/employee. By contrast, U.S. Apparel production in the same year was $13.4 Billion with 143,575 employees for about $93K/employee. The key reason for the low degree of automation in apparel is that much of the production takes place overseas with cheap labor.
 
 Ideally here too one could find data to analyze clothing output in terms of actual unit data instead of financial data. In the meantime here is an attempt to compare this to minimum needs. An international comparison suggests that people may be able to meet their minimum clothing needs with as little as $200 per year or even less {{ "EEA" | cite}} and {{ "STAT1" | cite}}.
@@ -62,7 +61,6 @@ The global apparel market was $1.7 trillion in 2012 {{"FU" | cite}}. At the time
 
 Importantly, going forward automation is coming to apparel in the form of automated knitting machines {{"NW" | cite }} which have been around for some time and the newer development of robotic pattern cutting and sewing machines {{"JS" | cite}}.
 
-
 Transportation &mdash; Great data source here {{ "RITA" | cite}}
 
 Highways 2012 car vehicle miles (in millions) 2,664,445 (note: includes light trucks and SUVs), 2012 passenger miles (in millions) 3,669,821, so average travelers/car = 1.38 for highways. Further supported on a separate page which shows that 76% of people commute alone.
@@ -70,7 +68,6 @@ Highways 2012 car vehicle miles (in millions) 2,664,445 (note: includes light tr
 Light Duty vehicles 233,760,558 in 2012 up from 220,931,982 in 2002 compared to U.S. population in 2012 of 313 million. That is 233.7 / 313 = 0.75 light duty vehicles per person.
 
 Utilization of private cars is around 4% {{"ARK" | cite}} but can be increased substantially through car sharing.
-
 
 Healthcare &mdash; The role of capital in providing healthcare is difficult to assess. First, we are still figuring out what it means to live healthily in the first place. For instance, our knowledge of good nutrition is still quite primitive. Second, other than a few machines (e.g. for imaging) relatively little medicine requires expensive equipment. A lot of medication is expensive to buy but not expensive to make once the research has been completed. Labor accounts for 66% or more of the total expense of the healthcare system and capital equipment for 10% or less. Third, we are just at the beginning of our ability to deliver personalized medicine and to manipulate the human genome.
 
