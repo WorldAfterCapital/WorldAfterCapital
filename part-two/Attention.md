@@ -15,7 +15,7 @@ But is any of that really a problem? Is attention scarce in the precise meaning 
 
 Let&apos;s first consider attention at the individual level. All over the world people have constructed their identities around work and around firmly held core beliefs, whether religious or wordly. Both of these are undermined by digital technologies. We saw earlier how digital technology is putting pressure on labor. It is also putting pressure though on firmly held beliefs. Content is no longer easily contained in geographic boundaries and people are being exposed, many for the first time, to opinions and behaviors that diverge from their core beliefs.  
 
-In combination this is leading to a large scale crisis of individual identity. This crisis takes many different forms, including increased teenage depression, growing adult suicide rates (especially among middle-aged white males), drug overdose deaths and rising aggression both online and offline {{"NYT2" | cite}}. 
+In combination, this pressure is leading to a large scale crisis of individual identity and rising aggression both online and offline. This crisis takes many different forms, including increased teenage depression, growing adult suicide rates&mdash;particularly among middle-aged white males, and drug overdose deaths. These have increased almost 60 percent, 20 percent and 40 percent, repectively, between 2006 and 2015 {{"CDC" | cite}} {{"SAMHSA" | cite}}: 
 
 ![Crisis Statistics](../assets/crisis-statistics.png)
 
