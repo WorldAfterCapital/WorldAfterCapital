@@ -4,7 +4,7 @@
 
 The title of the book is World after Capital. One of my fundamental claims is that capital is no longer scarce. There is enough capital in the world to meet everyone&apos;s basic needs. Using the language introduced earlier, capital is sufficient. And because population growth is decelerating, while technological progress is accelerating (due to digital technology), capital will no longer be the binding constraint for humanity.
 
-It is tempting to look at this in terms of financial capital but that again would be succumbing to the veil of of money, as was the case with the definition of scarcity. Dollar bills don&apos;t feed people. Gold bars can&apos;t be used as smart phones. The capital that matters is productive physical capital, such as machines and buildings.
+It is tempting to look at this in terms of financial capital, but that again would be succumbing to the veil of of money, as was the case with the definition of scarcity. Dollar bills don&apos;t feed people. Gold bars can&apos;t be used as smart phones. The capital that matters is productive physical capital, such as machines and buildings.
 
 Financial capital is not irrelevant. It is required both for the initial construction of physical capital and to meet the ongoing working capital needs of the economy. If I want to build a factory or a school, I need to pay the construction workers, the suppliers of machines, etc. before I can start collecting money. And in many businesses I pay some ongoing expenses every month before collecting revenues from customers. Cash outflows preceding cash inflows means a financing mechanism is required. To get the proper accumulation of physical capital, we therefore need to have effective ways of accumulating and allocating financial capital.
 
@@ -22,7 +22,7 @@ All of this says that we should never lose sight of the fact that financial capi
 
 What follows is very much just a beginning. It is an attempt to tally the ways in which we have sufficient physical capital to take care of basic needs. Much of the data here is a current snapshot (and a highly incomplete one at that). I hope it is clear, though, from the preceding discussion of the rate of technological progress relative to population growth that taking a snapshot is a legitimate approach, because the relative ratios are only going to improve from here on out.
 
-I am trying to do this as much as possible by expressing outputs in physical units that directly relate to human needs. This approach bypasses the monetary veil of the economy entirely. Since I have only just happened upon this approach much of the work remains to be done. For instance, some of the numbers below are for the US, others for the world.
+I am trying to do this as much as possible by expressing outputs in physical units that directly relate to human needs. This approach bypasses the monetary veil of the economy entirely. Since I have only just happened upon this approach much of the work remains to be done. For instance, some of the numbers below are for the U.S., others for the world.
 
 Note: What follows is outdated due to a recent rewrite of the Needs section. I will revisit this shortly.
 
@@ -32,7 +32,7 @@ Air &mdash; we have enough air to breathe. The Earth&apos;s atmosphere up to 7 k
 
 Of course there are also lots of technological processes, most notably the burning of fossil fuels that replace oxygen with CO2 in the air. Conversely we have the large scale process of photosynthesis that removes CO2 from the air and releases oxygen. While the balance is an issue with regard to climate change it does not pose a short term threat to breathing — CO2 at present is only 0.04% or 400ppm (this is up significantly since the industrial revolution and cause of climate change). Conversely Oxygen is about 20% of the atmosphere or 500 times as much.
 
-But what about clean air?  We definitely have an air pollution problem in countries such as India and China that impacts breathing. But we went through a similar phase in Europe and in the US and managed to clean that up. It is a solved problem technologically. For instance, cars can be outfitted with catalytic converters and a single large plant has produced 50 million of these {{"BASF" | cite}}
+But what about clean air?  We definitely have an air pollution problem in countries such as India and China that impacts breathing. But we went through a similar phase in Europe and in the U.S. and managed to clean that up. It is a solved problem technologically. For instance, cars can be outfitted with catalytic converters and a single large plant has produced 50 million of these {{"BASF" | cite}}
 
 The U.S. population has more than doubled in the last six decades, as has agricultural output. U.S. agriculture now uses about 25 percent less farmland and 78 percent less labor than in 1948, so agricultural productivity is largely responsible for the increased production {{ "USDA" | cite}}. 
 
@@ -40,21 +40,21 @@ Even globally the amount of land required for farming has started to decline and
 
 That&apos;s important because there is a lot of concern these days about water, including municipal water shutoffs in Detroit and Baltimore, water pollution in Flint, shortages in California, etc. Nonetheless there is plenty of water in the world and we have made significant advances in desalination and in filtration. There are about 10 million cubic kilometers of fresh water on the planet {{"USGS" | cite}}. So that&apos;s 10^15 cubic meters. Human consumption is about 7 billion \* 0.0025 cubic meters per day which is about 18 \* 10^6 cubic meters. Like air, ignoring all else this means a couple hundred thousand of years.
 
-Again, the point is not that everyone has access to clean drinking water today. People quite clearly do not. But this is not related to a fundamental water shortage. Nor is it even related to our present ability to make and produce water filtration. For instance, filtering water for one person costs about $50 per year {{ "HSW" | cite}} using modern filters. In the US the average household meanwhile consumes over 30 gallons of bottled water {{"STAT" | cite}} at a cost of roughly $1.50 per gallon [total spending about $12 Billion]. The world bank has come up with an estimate of only about $28 Billion annually to provide everyone with basic Water, Sanitation and Hygiene and about $90 Billion to make these services available continuously {{"TWB" | cite}}.
+Again, the point is not that everyone has access to clean drinking water today. People quite clearly do not. But this is not related to a fundamental water shortage. Nor is it even related to our present ability to make and produce water filtration. For instance, filtering water for one person costs about $50 per year {{ "HSW" | cite}} using modern filters. In the U.S. the average household meanwhile consumes over 30 gallons of bottled water {{"STAT" | cite}} at a cost of roughly $1.50 per gallon [total spending about $12 Billion]. The world bank has come up with an estimate of only about $28 Billion annually to provide everyone with basic Water, Sanitation and Hygiene and about $90 Billion to make these services available continuously {{"TWB" | cite}}.
 
-Sex &mdash; no capital requirement per se for having children. There is sufficient capital for making birth control available to everyone. Smartphones are providing a new means of managing fertility through apps such as Clue, Glow and others. Birth control pills are available in the US starting at $9/month retail which suggests that their production cost is even lower {{ "YHOO" | cite}}.
+Sex &mdash; no capital requirement per se for having children. There is sufficient capital for making birth control available to everyone. Smartphones are providing a new means of managing fertility through apps such as Clue, Glow and others. Birth control pills are available in the U.S. starting at $9/month retail which suggests that their production cost is even lower {{ "YHOO" | cite}}.
 
 
 ## Physical Needs
 
-Shelter &mdash; By 2005 we had 256 Billion Square Feet of Residential Real Estate in the US  [https://www.eia.gov/emeu/efficiency/recs_4_table.pdf (link broken)]. At the time the US population was about 300M people. That works out to about 256 \* 10^9 / 300 \* 10^6 = 853 square feet or about 80 square meters per person. Obviously this is not equally distributed, but it shows that we have 8x as much space on average than I had identified as a basic need.
+Shelter &mdash; By 2005 we had 256 Billion Square Feet of Residential Real Estate in the U.S.  [https://www.eia.gov/emeu/efficiency/recs_4_table.pdf (link broken)]. At the time the US population was about 300M people. That works out to about 256 \* 10^9 / 300 \* 10^6 = 853 square feet or about 80 square meters per person. Obviously this is not equally distributed, but it shows that we have 8x as much space on average than I had identified as a basic need.
 
 An alternative data source is the American Housing Survey. Using this table {{ "AHS" | cite}} for 2013 I get 230 Billion Square Feet. By then US population was 316 Million people which works out to 230 \* 10^9 / 316 \* 10^6 = 727 square feet or 67 square meter per person.
 
 Another way to look at the physical capacity of the economy is to consider new construction. From the same Census data source it appears we are building about about 2,735 / 4 = 683 \* 10^3 units per year with average square footage of 1,737 square feet. That means we have the physical capital to add 0.683 * 10^6 \* 1.737 \* 10^3 square feet = 1.186 \* 10^9 square feet (about 1 billion square feet) which is more than 100 million square meters per year or enough to meet the basic need of 10 million people.
 
 
-Clothing &mdash; The production of textiles, which are a key part of making clothing, has become highly automated. Apparel production, i.e. making clothes from textiles, however, is still quite manual. Based on data from a study by the Federation of American scientists {{"FAS"| cite}} US textile mills output in 2013 was $31.7 Billion with 116,805 employees for about $270K/employee. By contrast, US Apparel production in the same year was $13.4 Billion with 143,575 employees for about $93K/employee. The key reason for the low degree of automation in apparel is that much of the production takes place overseas with cheap labor.
+Clothing &mdash; The production of textiles, which are a key part of making clothing, has become highly automated. Apparel production, i.e. making clothes from textiles, however, is still quite manual. Based on data from a study by the Federation of American scientists {{"FAS"| cite}} U.S. textile mills output in 2013 was $31.7 Billion with 116,805 employees for about $270K/employee. By contrast, U.S. Apparel production in the same year was $13.4 Billion with 143,575 employees for about $93K/employee. The key reason for the low degree of automation in apparel is that much of the production takes place overseas with cheap labor.
 
 Ideally here too one could find data to analyze clothing output in terms of actual unit data instead of financial data. In the meantime here is an attempt to compare this to minimum needs. An international comparison suggests that people may be able to meet their minimum clothing needs with as little as $200 per year or even less {{ "EEA" | cite}} and {{ "STAT1" | cite}}.
 
@@ -62,19 +62,17 @@ The global apparel market was $1.7 trillion in 2012 {{"FU" | cite}}. At the time
 
 Importantly, going forward automation is coming to apparel in the form of automated knitting machines {{"NW" | cite }} which have been around for some time and the newer development of robotic pattern cutting and sewing machines {{"JS" | cite}}.
 
-
 Transportation &mdash; Great data source here {{ "RITA" | cite}}
 
 Highways 2012 car vehicle miles (in millions) 2,664,445 (note: includes light trucks and SUVs), 2012 passenger miles (in millions) 3,669,821, so average travelers/car = 1.38 for highways. Further supported on a separate page which shows that 76% of people commute alone.
 
-Light Duty vehicles 233,760,558 in 2012 up from 220,931,982 in 2002 compared to US population in 2012 of 313 million. That is 233.7 / 313 = 0.75 light duty vehicles per person.
+Light Duty vehicles 233,760,558 in 2012 up from 220,931,982 in 2002 compared to U.S. population in 2012 of 313 million. That is 233.7 / 313 = 0.75 light duty vehicles per person.
 
 Utilization of private cars is around 4% {{"ARK" | cite}} but can be increased substantially through car sharing.
 
-
 Healthcare &mdash; The role of capital in providing healthcare is difficult to assess. First, we are still figuring out what it means to live healthily in the first place. For instance, our knowledge of good nutrition is still quite primitive. Second, other than a few machines (e.g. for imaging) relatively little medicine requires expensive equipment. A lot of medication is expensive to buy but not expensive to make once the research has been completed. Labor accounts for 66% or more of the total expense of the healthcare system and capital equipment for 10% or less. Third, we are just at the beginning of our ability to deliver personalized medicine and to manipulate the human genome.
 
-Given how I have defined the basic need for healthcare though it is clear that we already have enough capital to provide it in the US as our life expectancy is already above 75 years. Gains in life expectancy around the world have been tremendous in recent years. This great chart by Max Roser beautifully sums up these gains {{"ROSER" | cite }} it shows that about 50% of world population already is at or above the 75 year mark. Another 37% is between 65 and 75 and only 13% is below. The chart also shows how much of these gains was achieved since 1950. 
+Given how I have defined the basic need for healthcare though it is clear that we already have enough capital to provide it in the U.S. as our life expectancy is already above 75 years. Gains in life expectancy around the world have been tremendous in recent years. This great chart by Max Roser beautifully sums up these gains {{"ROSER" | cite }} it shows that about 50% of world population already is at or above the 75 year mark. Another 37% is between 65 and 75 and only 13% is below. The chart also shows how much of these gains was achieved since 1950. 
 
 
 ## Social needs
