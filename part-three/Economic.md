@@ -40,7 +40,7 @@ I have only mentioned food, clothing and shelter when talking about basic needs,
 
 If you are currently struggling to pay for your basic needs, the world will seem like an expensive place to you. Yet the data shows that a lot of things have become cheaper, and that this trend has been gathering steam for some time now. In the U.S., as the following chart shows, the prices for consumer durables have been falling since the mid 1990s. Not only can we see the decline in the prices for consumer durables; we can also see the rise in the cost of education and healthcare.
 
-![Consumer Durables Price Index](../assets/cpi-durables.png)
+![Consumer Durables Price Index](../assets/price-indices.png)
 
 What has produced the decline in prices for consumer durables? Well, it is the same technological progress that has been squeezing the labor market. While this progress hurts you if you are losing your job or your salary is remaining stagnant, it helps you if you have money to buy things, and that money goes farther and farther over time. With Universal Basic Income, you will have the money, and over time, it will buy you more and more.
 
@@ -60,7 +60,7 @@ Technology also promises to bring about a dramatic decline in the costs of educa
 
 Evidence exists that the exorbitant rises in tuition costs over the years in the U.S. are beginning to slow. When analyzing this data, we must remember that a huge amount of inertia exists in our educational system and job market. Many employers still believe they must hire from the best universities. This in turn drives up prices for higher education, with a ripple effect that extends all the way back to private nursery schools. It will be quite some time before most students will turn to free or extremely affordable online resources for all their learning needs. Still, the possibility now exists.
 
-With healthcare, it&apos;s a similar story. Healthcare spending in the United States per capita far exceeds that of other countries, having risen for many years much faster than the rate of inflation. 
+With healthcare, it&apos;s a similar story. Healthcare spending in the United States per capita far exceeds that of other countries, having risen for many years much faster than the rate of inflation&mdash;but that hasn&apos;t translated into better care. For instance, Cuba for years has had almost an identical life expectany to the U.S. despite spending less than a tenth on healthcare per capita {{"ATLANTIC" | cite}}.
 
 ![Healthcare Expenditure Per Capita](../assets/healthcare-expenditure.png)
 
