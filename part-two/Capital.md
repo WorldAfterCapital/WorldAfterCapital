@@ -28,7 +28,7 @@ Note: What follows is outdated due to a recent rewrite of the Needs section. I w
 
 ## Biological Needs
 
-Air &mdash; we have enough air to breathe. The Earth&apos;s atmosphere up to 7 km of altitude contains about 4 Billion cubic kilometers of air, or 4 \* 10^18 cubic meters. Currently the population breathes about 7 Billion * 11 cubic meters/day = 8 \* 10^10 cubic meters. But when you breathe you remove only about 4% to 5% from the 20% of oxygen contained in the air. Ignoring all other effects for a moment the atmosphere contains enough air for 10^8 days of human breathing which is a couple hundred thousand years.
+Oxygen &mdash; recall from the Needs chapter that humans need on average about 550 liters (0.55 cubic meters) of pure oxygen per day. With roughly 7.5 Billion people on the planet, that means we need over 4 Billion cubic meters/day. The Earth&apos;s troposphere contains about 600 Million cubic kilometers of oxygen, or 6\*10^17 cubic meters. Ignoring all other effects for a moment, the troposphere contains enough oxygen for about 1.5\*10^8 days of human breathing, which more than 400,000 years.
 
 Of course there are also lots of technological processes, most notably the burning of fossil fuels that replace oxygen with CO2 in the air. Conversely we have the large scale process of photosynthesis that removes CO2 from the air and releases oxygen. While the balance is an issue with regard to climate change it does not pose a short term threat to breathing — CO2 at present is only 0.04% or 400ppm (this is up significantly since the industrial revolution and cause of climate change). Conversely Oxygen is about 20% of the atmosphere or 500 times as much.
 
