@@ -86,7 +86,7 @@ We should feel free to share our opinions and ideas and information, but it&apos
 
 
 
-## Psychological Freedom and Humanism
+## Psychological Freedom, Education, and Humanism
 
 Self-regulation, as we&apos;ve seen, lies at the heart of psychological freedom. It allows us to separate wants from needs. It lets us take our initial reactions to content that we see and not immediately reply in anger. It lets us have empathy for others and their creations. 
 
@@ -98,5 +98,7 @@ The same is true for many informal beliefs. There are anti rational memes, such 
 
 Humanism, based on the importance of knowledge, provides an alternative source of purpose and recognition that does not inhibit psychological freedom but rather enhances it. Participating in the Knowledge Loop is our purpose and how others will recognize us. Learning new things, being creative and innovative, sharing with others is explicitly encouraged. This doesn&apos;t mean everyone has to be a rocket scientist, instead there are a great many ways to participate in the Knowledge Loop, including caring for others.
 
-Humanism and the Knowledge Loop also have important implications beyond individual purpose for how we take responsibility for each other and the world around us. This will be the subject of Part Four. 
+We will need to substantially change the education system in most countries to help people be psychologically free. Today&apos;s system was developed to support the Industrial Age. Its goal is to mass produce people qualified for participating in the Job Loop. Jobs are seen as the ultimate goal and knowledge as important only to the extent that it provides a qualification for a job. We will need a new system instead that celebrates knowledge (as broadly defined here) for its own sake, allows students to discover their individual interests and deepen those into a purpose, and educates them about techniques for being psychologically free. Put differently, we need to put Humanism at the center of education and learning.  
+
+Humanism and the knowledge loop also have important implications beyond individual purpose for how we take responsibility for each other and the world around us. This will be the subject of Part Four. 
 

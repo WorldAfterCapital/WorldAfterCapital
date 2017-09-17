@@ -33,7 +33,7 @@ Could this happen to the economy as a whole?
 
 We are in the middle of a version of that playing itself out at the scale of the U.S. economy and potentially the global economy as well. It starts with what has become known as the great decoupling. For a long time as the economy grew, the share of GDP going to labor grew right along. Beginning around 1980 though GDP continued to grow while household income remained flat &mdash; hence the term &ldquo;decoupling&rdquo;
 
-[Decoupling chart here]
+![The Great Decoupling](../assets/great-decoupling.png)
 
 But GDP continued to grow so what&apos;s the problem? Well much of that growth was financed by consumers going into debt instead.
 
