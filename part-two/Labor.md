@@ -33,11 +33,11 @@ Could this happen to the economy as a whole?
 
 We are in the middle of a version of that playing itself out at the scale of the U.S. economy and potentially the global economy as well. It starts with what has become known as the great decoupling. For a long time as the economy grew, the share of GDP going to labor grew right along. Beginning around 1980 though GDP continued to grow while household income remained flat &mdash; hence the term &ldquo;decoupling&rdquo;
 
-[Decoupling chart here]
+![The Great Decoupling](../assets/great-decoupling.png)
 
 But GDP continued to grow so what&apos;s the problem? Well much of that growth was financed by consumers going into debt instead.
 
-[Household debt chart]
+![Household Debt to GDP for United States](../assets/household-debt.png)
 
 Eventually there was a limit to how much debt households could support. Once we reached that limit, we had the making of a situation of insufficient aggregate demand in the economy. The first event that really drove that point home was the collapse of the U.S. housing bubble. There is a fair bit of evidence that we are hitting another such point right now. In theory, the dramatic decline in oil prices should put more money into the hands of consumers and stimulate demand. Instead, it appears that consumers are using it to pay off debt and even start to save.
 

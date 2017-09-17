@@ -10,7 +10,11 @@ Second, Malthus could not foresee the scientific breakthroughs that made the ind
 
 Malthus being wrong so far isn&apos;t by itself a guarantee that his predictions couldn&apos;t catch up with us. If population growth were to outstrip technological progress this would in fact be the case. We know this because we have seen it happen in India {{ "WIKI" | cite}} and other places that have experienced population growth in excess of progress resulting in mass starvation.
 
-As it turns out though, population growth itself responds to technological progress. In particular there is a strong relationship between reductions in infant mortality and decreases in birth rates, as well as between increases in living standards and decreases in birth rates. Max Roser has produced some beautiful charts as part of his amazing project Our World In Data that show these two effects play themselves out in country after country across the world {{"OWD2" | cite}}.
+As it turns out though, population growth itself responds to technological progress. In particular there is a strong relationship between reductions in infant mortality and decreases in birth rates, as well as between increases in living standards and decreases in birth rates. 
+
+![Population Growth](../assets/population-growth.png)
+
+Max Roser has produced some beautiful charts as part of his amazing project Our World In Data that show these two effects play themselves out in country after country across the world {{"OWD2" | cite}}.
 
 So despite the extraordinary growth in global population over the last 200 years, simply extrapolating this growth out into the future would be a clear mistake. Instead, there are strong signs that peak population is a much more likely scenario. 
 

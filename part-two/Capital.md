@@ -47,12 +47,11 @@ Sex &mdash; no capital requirement per se for having children. There is sufficie
 
 ## Physical Needs
 
-Shelter &mdash; By 2005 we had 256 Billion Square Feet of Residential Real Estate in the U.S.  [https://www.eia.gov/emeu/efficiency/recs_4_table.pdf (link broken)]. At the time the US population was about 300M people. That works out to about 256 \* 10^9 / 300 \* 10^6 = 853 square feet or about 80 square meters per person. Obviously this is not equally distributed, but it shows that we have 8x as much space on average than I had identified as a basic need.
+Shelter &mdash; By 2005 we had 256 Billion Square Feet of Residential Real Estate in the U.S.  [https://www.eia.gov/emeu/efficiency/recs_4_table.pdf (link broken)]. At the time the U.S. population was about 300M people. That works out to about 256 \* 10^9 / 300 \* 10^6 = 853 square feet or about 80 square meters per person. Obviously this is not equally distributed, but it shows that we have 8x as much space on average than I had identified as a basic need.
 
-An alternative data source is the American Housing Survey. Using this table {{ "AHS" | cite}} for 2013 I get 230 Billion Square Feet. By then US population was 316 Million people which works out to 230 \* 10^9 / 316 \* 10^6 = 727 square feet or 67 square meter per person.
+An alternative data source is the American Housing Survey. Using this table {{ "AHS" | cite}} for 2013 I get 230 Billion Square Feet. By then U.S. population was 316 Million people which works out to 230 \* 10^9 / 316 \* 10^6 = 727 square feet or 67 square meter per person.
 
 Another way to look at the physical capacity of the economy is to consider new construction. From the same Census data source it appears we are building about about 2,735 / 4 = 683 \* 10^3 units per year with average square footage of 1,737 square feet. That means we have the physical capital to add 0.683 * 10^6 \* 1.737 \* 10^3 square feet = 1.186 \* 10^9 square feet (about 1 billion square feet) which is more than 100 million square meters per year or enough to meet the basic need of 10 million people.
-
 
 Clothing &mdash; The production of textiles, which are a key part of making clothing, has become highly automated. Apparel production, i.e. making clothes from textiles, however, is still quite manual. Based on data from a study by the Federation of American scientists {{"FAS"| cite}} U.S. textile mills output in 2013 was $31.7 Billion with 116,805 employees for about $270K/employee. By contrast, U.S. Apparel production in the same year was $13.4 Billion with 143,575 employees for about $93K/employee. The key reason for the low degree of automation in apparel is that much of the production takes place overseas with cheap labor.
 
