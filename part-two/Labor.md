@@ -37,7 +37,7 @@ We are in the middle of a version of that playing itself out at the scale of the
 
 But GDP continued to grow so what&apos;s the problem? Well much of that growth was financed by consumers going into debt instead.
 
-[Household debt chart]
+![Household Debt to GDP for United States](../assets/household-debt.png)
 
 Eventually there was a limit to how much debt households could support. Once we reached that limit, we had the making of a situation of insufficient aggregate demand in the economy. The first event that really drove that point home was the collapse of the U.S. housing bubble. There is a fair bit of evidence that we are hitting another such point right now. In theory, the dramatic decline in oil prices should put more money into the hands of consumers and stimulate demand. Instead, it appears that consumers are using it to pay off debt and even start to save.
 
