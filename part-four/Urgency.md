@@ -1,8 +1,8 @@
-Urgency
+# Urgency
 
 We need to act on this transition to the Knowledge Age with great urgency. We are at risk of society degenerating into violence and losing our ability to solve pressing problems, most notably climate change. We also face a potential threat from the possible rise of superintelligences. And there is a chance that we are not alone in this universe.    
 
-A Dangerous Spiral
+## A Dangerous Spiral
 
 The world is rapidly being pulled apart between those who want to take us back into the past and those who are advancing technology, but are largely doing so still trapped in the Industrial Age. These two groups are engaged in a dangerous feedback loop. 
 
@@ -15,7 +15,7 @@ The net effects are an increase in polarization and a breakdown of the crucial p
 This possibility of violence is further increased as climate change wreaks havoc on industrial and food supply chains around the world. At the same time our ability to solve the climate change problem is rapidly decreasing because we are spiraling back towards the past.  
 
 
-Transhumans, Neohumans and the Threat of Superintelligence 
+## Transhumans, Neohumans and the Threat of Superintelligence 
 
 As if that spiral is not enough by itself, there is a second reason for urgency. And that's because we are finding ourselves on the threshold to creating both transhumans and neohumans. Transhumans are humans with capabilities enhanced through both genetic modification (e.g., via CRSPR) and digital augmentation (e.g., Neuralink). Neohumans are machines with artificial general intelligence.  I am referring to both of them as humans because they can be full fledged participants in the Knowledge Loop. 
 
@@ -30,7 +30,7 @@ Finally, what about the arrival of the new humans. How will we treat them? The v
 This is an area in which a lot more thinking is required. We don&apos;t have a great way of discerning when we might have built an artificial general intelligence. The best known attempt here is the Turing Test for which people have proposed a number of improvements over the years. This is an incredibly important area for further work, as we charge ahead. We would not want to accidentally create, not recognize and then mistreat a large class of new humans. They and their descendants might not take kindly to that.
 
 
-The Fermi Paradox and Alien Visitors
+## The Fermi Paradox and Alien Visitors
 
 I want to provide one more reason for urgency in getting to the Knowledge Age. It is easy for us to think of ourselves as the center of the universe. In early cosmology we literally put the earth in the center with everything else revolving around it. We eventually figured out that we live on a smallish planet circling a star in a galaxy that's part of an incomprehensibly large universe.
 
