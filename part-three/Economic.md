@@ -41,7 +41,6 @@ I have only mentioned food, clothing and shelter when talking about basic needs,
 If you are currently struggling to pay for your basic needs, the world will seem like an expensive place to you. Yet the data shows that a lot of things have become cheaper, and that this trend has been gathering steam for some time now. In the U.S., as the following chart shows, the prices for consumer durables have been falling since the mid 1990s. Not only can we see the decline in the prices for consumer durables; we can also see the rise in the cost of education and healthcare.
 
 ![Consumer Durables Price Index](../assets/price-indices.png)
-
 <!-- <iframe src="https://ourworldindata.org/grapher/price-changes-in-consumer-goods-and-services-in-the-usa-1997-2017" style="width: 100%; height: 600px; border: 0px none;"></iframe> -->
 
 What has produced the decline in prices for consumer durables? Well, it is the same technological progress that has been squeezing the labor market. While this progress hurts you if you are losing your job or your salary is remaining stagnant, it helps you if you have money to buy things, and that money goes farther and farther over time. With Universal Basic Income, you will have the money, and over time, it will buy you more and more.
