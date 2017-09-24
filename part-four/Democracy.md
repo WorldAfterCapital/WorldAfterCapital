@@ -12,4 +12,6 @@ Going further, though, we should experiment with new forms of democracy. Given t
 
 This is just one of many possible variations of democracy. With digital technologies we have a lot more possibilities that were not previously feasible. We should start to explore those.
 
- 
+As part of that exploration, we need to revisit our geographic units for decision making. How should we determine at which scale to address a particular problem? The key principle here is the one of &ldquo;subsidiarity&rdquo;: decisions should be made at the lowest possible level. Since we have one global atmosphere we need to learn to make some decisions globally, such as putting a limit on total greenhouse gases. But, staying with the same issue, the actual ways of achieving such a limit should be decided at lower levels, such as regions or countries.
+
+Pushing decisions to the lowest level at which they can be made is especially important at a time of great change. For instance, what is possible in education and learning is changing rapidly due to digital technology. That means we should allow experimentation at the local level instead of trying to have a national education policy. By running many experiments we can figure out much faster what works well, or even what works at all, rather than running a single large experiment.   
