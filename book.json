@@ -4,7 +4,7 @@
     "styles": {
       "website": "styles/website.css"
     },
-    "plugins": ["bibtex-indexed-cite"],
+    "plugins": ["bibtex-indexed-cite", "url-embed"],
     "pluginsConfig": {
       "bibtex-indexed-cite": {
           "path": "https://worldaftercapital.gitbooks.io/worldaftercapital/content/"                
