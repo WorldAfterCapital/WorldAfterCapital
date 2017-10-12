@@ -47,7 +47,7 @@ Sex &mdash; no capital requirement per se for having children. There is sufficie
 
 ## Physical Needs
 
-Shelter &mdash; By 2010 the U.S. housing stock was at about 235 billion square feet of residential real estate, which corresponds to about 800 square feet, or 75 square meters of floor space per capita {{"PLOS2" | cite}}. Obviously this is not equally distributed, but it shows that we have nearly 8x as much space on average than I had identified as a basic need.
+Shelter &mdash; By 2010 the U.S. housing stock was just over 235 billion square feet of residential real estate, which corresponds to about 800 square feet, or 75 square meters of floor space per capita {{"PLOS2" | cite}}. Obviously this is not equally distributed, but it shows that we have nearly 8x as much space on average than I had identified as a basic need.
 
 An alternative data source is the American Housing Survey. Using this table {{ "AHS" | cite}} for 2013 I get 230 Billion Square Feet. By then U.S. population was 316 Million people which works out to 230 \* 10^9 / 316 \* 10^6 = 727 square feet or 67 square meter per person.
 
