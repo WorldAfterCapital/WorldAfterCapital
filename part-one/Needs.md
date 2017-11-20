@@ -33,7 +33,7 @@ Pressure. Anybody who has gone diving knows that our bodies do not handle increa
 
 Light. Most humans would be hard pressed to do much of anything in complete darkness. The Bible introduces light right away with "Let there be light" in the third verse for the Book of Genesis. For the longest time the solution to our need for light was simply sunlight, but much of human ingenuity has gone into the creation of artificial light sources. 
 
-The third set of individual needs arises from dealing with a complex and ever changing environment. As we go through live we encounter challenges that we need to overcome. This results in three fundamental individual needs.   
+The third set of individual needs arises from dealing with a complex and ever changing environment. As we go through life we encounter challenges that we need to overcome. This results in three fundamental individual needs:
 
 Healing. When we damage our body in some fashion it needs to heal. The human body comes equipped with extensive systems for self-healing including combating many foreign substances (including vomiting, diarrhea, antibodies). Beyond a certain range, the body needs external assistance to heal. Here too we have developed many solutions, and often group them under the term healthcare.
 
