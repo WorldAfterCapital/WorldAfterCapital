@@ -6,12 +6,21 @@ This Appendix contains data and backup calculations for the Capital chapter. The
 
 ## Air
 
-Recall from the Needs chapter that humans require on average about 550 liters (0.55 cubic meters) of pure oxygen per day. With roughly 7.5 Billion people on the planet, that means we need over 4 Billion cubic meters/day. The Earth&apos;s troposphere contains about 600 Million cubic kilometers of oxygen, or 6\*10^17 cubic meters {{"UCAR" | cite}}. Ignoring all other effects for a moment, the troposphere contains enough oxygen for about 1.5\*10^8 days of human breathing, which more than 400,000 years {{"NASA2" | cite}}.
+Recall from the Needs chapter that humans require on average about 550 liters (0.55 cubic meters) of pure oxygen per day. With roughly 7.5 Billion people on the planet, that means we need over 4 Billion cubic meters/day. The Earth&apos;s troposphere contains about 600 Million cubic kilometers of oxygen, or 6\*10^17 cubic meters (see table). Ignoring all other effects for a moment, the troposphere contains enough oxygen for about 1.5\*10^8 days of human breathing, which more than 400,000 years.
 
-Of course there are also lots of technological processes, most notably the burning of fossil fuels, that replace oxygen with CO2 in the air. Conversely we have the large scale process of photosynthesis that removes CO2 from the air and releases oxygen. While the balance is an issue with regard to climate change it does not pose a short term threat to breathing — CO2 at present is only 0.04% or 400ppm (this is up significantly since the industrial revolution and cause of climate change) {{"NOAA" | cite}}. Conversely Oxygen is about 20% of the atmosphere or 500 times as much {{"UCAR2" | cite}}.
+Of course there are also lots of technological processes, most notably the burning of fossil fuels, that replace oxygen with CO2 in the air. Conversely we have the large scale process of photosynthesis that removes CO2 from the air and releases oxygen. While the balance is an issue with regard to climate change it does not pose a short term threat to breathing — CO2 at present is only 0.04% or 400ppm (this is up significantly since the industrial revolution and cause of climate change) {{"NOAA" | cite}}. Conversely oxygen is about 20% of the atmosphere or 500 times as much.
 
 But what about clean air?  We definitely have an air pollution problem in countries such as India and China that impacts breathing. But we went through a similar phase in Europe and in the U.S. and managed to clean that up. It is a solved problem technologically. For instance, cars can be outfitted with catalytic converters and a single large plant has produced 50 million of these {{"BASF" | cite}}.
 
+| Metric																	| Value (+, -, x, /) | Source						  |
+| --------------------------- 						| ------------------ | ------------------ |
+| Dry air mass in atmosphere  						| 5.1E+18 kg 				 | {{"AMS" | cite}}   |
+| % atmosphere in troposphere 						| x 75%  						 | {{"UCAR" | cite}}  |
+| % oxygen in air 												| x 20%  						 | {{"UCAR2" | cite}} |
+| Surface density 												| / 1.217 kg/m^3  	 | {{"NASA2" | cite}} |
+| Volume Breathable Oxygen in Troposphere | = 6.28E+17 m^3  	 | Calculated 				|
+|																					|										 |										|
+| Oxygen required per person per day 			|	0.55 m^3 (550 L)	 | {{"HSWOXY" | cite}}  |
 
 ## Water
 
