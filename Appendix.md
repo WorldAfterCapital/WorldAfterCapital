@@ -1,16 +1,80 @@
 # Appendix
 
-This Appendix contains data and backup calculations for the Capital chapter. These are not meant to be definitive or exhaustive, but rather to illustrate orders of magnitude.
+This Appendix contains citations for charts and graphs used throughtout World After Capital, as well as data and backup calculations for the Capital chapter. These are not meant to be definitive or exhaustive, but rather to illustrate orders of magnitude.
 
 [NOTE: This appendix is incomplete and requires a lot of additional work. At present it is mostly copied from an earlier version of the Capital chapter.] 
 
+
+## Chart Sources: Non-Commercial Flight Distance Records {#flight-dist}
+
+Flight distance records: {{"WIKIFD" | cite}}
+
+Special thanks to Max Roser and Hannah Ritchie at Our World in Data {{"OWD6" | cite}}
+
+
+## Chart Sources: World Natural Population Growth (per 1,000) {#pop-growth}
+
+Population growth: {{"UNDESA" | cite}}
+
+GDP per capita, PPP: {{"WDI" | cite}} 
+
+Child mortality: {{"UNIGME" | cite}} 
+
+Special thanks to Max Roser and Hannah Ritchie at Our World in Data {{"OWD6" | cite}}
+
+
+## Chart Sources: The Great Decoupling {#great-decoupling}
+
+Real GDP Per Capita: {{"FRED2" | cite}} 
+
+Median Household Income: {{"FRED3" | cite}} 
+
+Special thanks to Max Roser and Hannah Ritchie at Our World in Data {{"OWD6" | cite}}
+
+
+## Chart Sources: Household Debt to GDP for United States {#debt-to-gdp}
+
+Household Debt: {{"FRED4" | cite}} 
+
+GDP: {{"FRED5" | cite}} 
+
+For each year, ratio calculated as: (Household Debt / GDP)\*100
+
+Special thanks to Max Roser and Hannah Ritchie at Our World in Data {{"OWD6" | cite}}
+
+
+## Chart Sources: Crisis Statistics {#crisis-stats}
+
+Adult White Male Suicides: {{"CDC" | cite}}
+
+Adult Drug Overdose Deaths: {{"CDC" | cite}}
+
+Youth Major Depressive Episodes: {{"SAMHSA" | cite}}
+
+Special thanks to Max Roser and Hannah Ritchie at Our World in Data {{"OWD6" | cite}}
+
+
+## Chart Sources: Consumer Durables Price Index {#cdpi}
+
+CPI Durables, Seasonally Adjusted: {{"FRED6" | cite}} 
+
+Medical Care U.S. City Average: {{"BLS" | cite}} 
+
+College Tuition & Fees U.S. City Average: {{"BLS2" | cite}} 
+
+Special thanks to Max Roser and Hannah Ritchie at Our World in Data {{"OWD6" | cite}}
+
+
+## Chart Sources: Healthcare Expenditure Per Capita {#health-exp}
+
+United States & OECD Average: {{"TWB4" | cite}}
+
+Special thanks to Max Roser and Hannah Ritchie at Our World in Data {{"OWD6" | cite}}
+
+
 ## Air
 
-Recall from the Needs chapter that humans require on average about 550 liters (0.55 cubic meters) of pure oxygen per day. With roughly 7.5 Billion people on the planet, that means we need over 4 Billion cubic meters/day. The Earth&apos;s troposphere contains about 600 Million cubic kilometers of oxygen, or 6\*10^17 cubic meters (see table). Ignoring all other effects for a moment, the troposphere contains enough oxygen for about 1.5\*10^8 days of human breathing, which more than 400,000 years (see table).
-
-Of course there are also lots of technological processes, most notably the burning of fossil fuels, that replace oxygen with CO2 in the air. Conversely we have the large scale process of photosynthesis that removes CO2 from the air and releases oxygen. While the balance is an issue with regard to climate change it does not pose a short term threat to breathing — CO2 at present is only 0.04% or 400ppm (this is up significantly since the industrial revolution and cause of climate change) {{"NOAA" | cite}}. Conversely oxygen is about 20% of the atmosphere or 500 times as much.
-
-But what about clean air?  We definitely have an air pollution problem in countries such as India and China that impacts breathing. But we went through a similar phase in Europe and in the U.S. and managed to clean that up. It is a solved problem technologically. For instance, cars can be outfitted with catalytic converters and a single large plant has produced 50 million of these {{"BASF" | cite}}.
+Recall from the Needs chapter that humans require on average about 550 liters (0.55 cubic meters) of pure oxygen per day. With roughly 7.5 billion people on the planet, that means we need over 4 billion cubic meters/day. The Earth&apos;s troposphere contains about 600 million cubic kilometers of oxygen, or 6E+17 cubic meters. Ignoring all other effects for a moment, the troposphere contains enough oxygen for about 152 million days of human breathing, which is more than 400,000 years (see table).
 
 | Metric																	| Value (+, -, x, /) | Source						  |
 | --------------------------- 						| ------------------ | ------------------ |
@@ -21,22 +85,49 @@ But what about clean air?  We definitely have an air pollution problem in countr
 | Volume breathable oxygen in troposphere | = 6.28E+17 m^3  	 | Calculated 				|
 |																					|										 |										|
 | Oxygen required per person per day 			|	0.55 m^3 (550 L)	 | {{"HSWOXY" | cite}}|
-| Total 2017 population of Earth					|	7.5 B (appx)			 | {{"WORLDO" | cite}}|
-| Oxygen required on Earth per day				|	4.125 B m^3				 | Calculated					|
+| Total 2017 population of Earth					|	7.5E+9 (appx)			 | {{"WORLDO" | cite}}|
+| Oxygen required on Earth per day				|	4.13E+9 m^3				 | Calculated					|
 | Oxygen required on Earth per year				|	1.51E+12 m^3			 | Calculated					|
 |																					|										 |										|
-|	Days of available Oxygen 								| 152,386,643				 | Calculated					|
-|	Years of available Oxygen 							| 417,497						 | Calculated					|
+|	Days of available oxygen 								| 152,386,643				 | Calculated					|
+|	Years of available oxygen 							| 417,497						 | Calculated					|
+
+Of course there are also lots of technological processes, most notably the burning of fossil fuels, that replace oxygen with CO2 in the air. Conversely we have the large scale process of photosynthesis that removes CO2 from the air and releases oxygen. While the balance is an issue with regard to climate change it does not pose a short term threat to breathing — CO2 at present is only 0.04% or 400ppm (this is up significantly since the industrial revolution and cause of climate change) {{"NOAA" | cite}}. Conversely oxygen is about 20% of the atmosphere or 500 times as much.
+
+But what about clean air?  We definitely have an air pollution problem in countries such as India and China that impacts breathing. But we went through a similar phase in Europe and in the U.S. and managed to clean that up. It is a solved problem technologically. For instance, cars can be outfitted with catalytic converters and a single large plant has produced 50 million of these {{"BASF" | cite}}.
 
 
 ## Water
 
-There is plenty of water in the world and we have made significant advances in desalination and in filtration. There are about 10 million cubic kilometers of fresh water on the planet (not including another 24 million locked up in ice caps and glaciers) {{"USGS" | cite}}. So that&apos;s 10^15 cubic meters. Based on the recommended 2.5 liters (0.0025 cubic meters) per day, human consumption is about 1.9\*10^7 cubic meters globally per day. However, we should also include freshwater used for agriculture, livestock and general domestic use. All in, freshwater withdrawals annually are around 4\*10^12 cubic meters {{"TWB3" | cite}}. So, relative to supply we have over 2,600 years of remaining freshwater to meet our current needs. While 2,600 years may not seem like an extremely long timeline, don't forget that technological advancements like improving desalination processes will allow us to tap into the saline water, which makes up almost 97 percent of our water supply globally.
+There is plenty of water in the world and we have made significant advances in desalination and in filtration. There are about 10 million cubic kilometers of fresh water on the planet (not including another 24 million locked up in ice caps and glaciers). So that&apos;s 10^15 cubic meters. Based on the recommended 2.5 liters (0.0025 cubic meters) per day, human consumption is about 19 million cubic meters globally per day. However, we should also include freshwater used for agriculture, livestock and general domestic use. All in, freshwater withdrawals annually are just below 4 billion cubic meters {{"TWB3" | cite}}. So, relative to supply we have over 2,600 years of remaining freshwater to meet our current needs (see table). While 2,600 years may not seem like an extremely long timeline, don't forget that technological advancements like improving desalination processes will allow us to tap into the saline water, which makes up almost 97 percent of our water supply globally.
  
-Again, the point is not that everyone has access to clean drinking water today. People quite clearly do not. But this is not related to a fundamental water shortage. Nor is it even related to our present ability to make and produce water filtration. For instance, filtering water for one person costs about $50 per year using modern filters {{ "HSW" | cite}}. In the U.S. the average household meanwhile consumes over 30 gallons of bottled water at a cost of roughly $1.50 per gallon [total spending about $12 Billion] {{"STAT" | cite}}. The World Bank has come up with an estimate of only about $28 Billion annually to provide everyone with basic Water, Sanitation and Hygiene and about $90 Billion to make these services available continuously {{"TWB" | cite}}.
+| Metric																	| Value (+, -, x, /) | Source						  |
+| --------------------------- 						| ------------------ | ------------------ |
+| Volume available fresh water on Earth		| 10.53E+15 m^3			 | {{"USGS" | cite}}	|
+|																					|										 |										|
+| Total water required per person per day |	0.0025 m^3 (2.5	L) | {{"MICH" | cite}}  |
+| Total 2017 population of Earth					|	7.5E+9 (appx)			 | {{"WORLDO" | cite}}|
+| Total drinking water required per day		|	18,750,000 m^3		 | Calculated					|
+| Total drinking water required per year	|	6.84E+09 m^3			 | Calculated					|
+|																					|										 |										|
+| Total annual freshwater withdrawals			|	3.99E+12 m^3 			 | {{"TWB3" | cite}}	|
+|																					|										 |										|
+| Days of available freshwater						|	964,314						 | Calculated					|
+| Years of available freshwater						|	2,642 						 | Calculated					|	
+
+Again, the point is not that everyone has access to clean drinking water today. People quite clearly do not. But this is not related to a fundamental water shortage. Nor is it even related to our present ability to make and produce water filtration. For instance, filtering water for one person costs about $50 per year using modern filters {{ "HSW" | cite}}. In the U.S. the average household meanwhile consumes over 30 gallons of bottled water at a cost of roughly $1.50 per gallon (total spending about $12 billion) {{"STAT" | cite}}. The World Bank has come up with an estimate of only about $28 billion annually to provide everyone with basic water, sanitation and hygiene and about $90 billion to make these services available continuously {{"TWB" | cite}}.
 
 
 ## Food
+
+| Metric																	| Value (+, -, x, /) | Source						  |
+| --------------------------- 						| ------------------ | ------------------ |
+| Total calories produced per year 				| 1E+16 kcal 				 | {{"HM" | cite}}		|
+|																					|										 |										|
+|	Calories required per person per day 		| 2,740 kcal				 | {{"HM2" | cite}}		|
+| Total 2017 population of Earth					|	7.5E+9 (appx)			 | {{"WORLDO" | cite}}|
+| Total calories required per day					|	2.06E+13 kcal			 | Calculated					|
+| Total calories required per year				|	7.50E+15 kcal			 | Calculated					|
 
 The U.S. population has more than doubled in the last six decades, as has agricultural output. U.S. agriculture now uses about 25 percent less farmland and 78 percent less labor than in 1948, so agricultural productivity is largely responsible for the increased production {{ "USDA" | cite}}. 
 

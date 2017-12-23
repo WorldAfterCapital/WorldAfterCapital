@@ -12,7 +12,7 @@ Malthus being wrong so far isn&apos;t by itself a guarantee that his predictions
 
 As it turns out though, population growth itself responds to technological progress. In particular there is a strong relationship between reductions in infant mortality and decreases in birth rates, as well as between increases in living standards and decreases in birth rates. 
 
-![Population Growth](../assets/population-growth.png)
+[![Population Growth](../assets/population-growth.png)](../Appendix.md#pop-growth)
 
 Max Roser has produced some beautiful charts as part of his amazing project Our World In Data that show these two effects play themselves out in country after country across the world {{"OWD2" | cite}}.
 
