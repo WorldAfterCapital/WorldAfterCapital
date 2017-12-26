@@ -21,6 +21,11 @@ GDP per capita, PPP: {{"WDI" | cite}}
 Child mortality: {{"UNIGME" | cite}} 
 
 
+## Chart Sources: Total Housing Units for the United States {#housing-units}
+
+Housing Inventory Estimate: {{"FRED7" | cite}}
+
+
 ## Chart Sources: The Great Decoupling {#great-decoupling}
 
 Real GDP Per Capita: {{"FRED2" | cite}} 
@@ -58,11 +63,6 @@ College Tuition & Fees U.S. City Average: {{"BLS2" | cite}}
 ## Chart Sources: Healthcare Expenditure Per Capita {#health-exp}
 
 United States & OECD Average: {{"TWB4" | cite}}
-
-
-## Chart Sources: Total Housing Units for the United States {#housing-units}
-
-Housing Inventory Estimate: {{"FRED7" | cite}}
 
 
 ## Chart Sources: Cost of Human Genome Sequencing {#genome}
