@@ -2,14 +2,14 @@
 
 This Appendix contains citations for charts and graphs used throughtout World After Capital, as well as data and backup calculations for the Capital chapter. These are not meant to be definitive or exhaustive, but rather to illustrate orders of magnitude.
 
+A special thanks to Max Roser and Hannah Ritchie at Our World in Data who assisted heavily in the data collection and creation of all charts and graphs used throughout World After Capital {{"OWD6" | cite}}.
+
 [NOTE: This appendix is incomplete and requires a lot of additional work. At present it is mostly copied from an earlier version of the Capital chapter.] 
 
 
 ## Chart Sources: Non-Commercial Flight Distance Records {#flight-dist}
 
 Flight distance records: {{"WIKIFD" | cite}}
-
-Special thanks to Max Roser and Hannah Ritchie at Our World in Data {{"OWD6" | cite}}
 
 
 ## Chart Sources: World Natural Population Growth (per 1,000) {#pop-growth}
@@ -20,16 +20,12 @@ GDP per capita, PPP: {{"WDI" | cite}}
 
 Child mortality: {{"UNIGME" | cite}} 
 
-Special thanks to Max Roser and Hannah Ritchie at Our World in Data {{"OWD6" | cite}}
-
 
 ## Chart Sources: The Great Decoupling {#great-decoupling}
 
 Real GDP Per Capita: {{"FRED2" | cite}} 
 
 Median Household Income: {{"FRED3" | cite}} 
-
-Special thanks to Max Roser and Hannah Ritchie at Our World in Data {{"OWD6" | cite}}
 
 
 ## Chart Sources: Household Debt to GDP for United States {#debt-to-gdp}
@@ -40,8 +36,6 @@ GDP: {{"FRED5" | cite}}
 
 For each year, ratio calculated as: (Household Debt / GDP)\*100
 
-Special thanks to Max Roser and Hannah Ritchie at Our World in Data {{"OWD6" | cite}}
-
 
 ## Chart Sources: Crisis Statistics {#crisis-stats}
 
@@ -50,8 +44,6 @@ Adult White Male Suicides: {{"CDC" | cite}}
 Adult Drug Overdose Deaths: {{"CDC" | cite}}
 
 Youth Major Depressive Episodes: {{"SAMHSA" | cite}}
-
-Special thanks to Max Roser and Hannah Ritchie at Our World in Data {{"OWD6" | cite}}
 
 
 ## Chart Sources: Consumer Durables Price Index {#cdpi}
@@ -62,14 +54,22 @@ Medical Care U.S. City Average: {{"BLS" | cite}}
 
 College Tuition & Fees U.S. City Average: {{"BLS2" | cite}} 
 
-Special thanks to Max Roser and Hannah Ritchie at Our World in Data {{"OWD6" | cite}}
-
 
 ## Chart Sources: Healthcare Expenditure Per Capita {#health-exp}
 
 United States & OECD Average: {{"TWB4" | cite}}
 
-Special thanks to Max Roser and Hannah Ritchie at Our World in Data {{"OWD6" | cite}}
+
+## Chart Sources: Total Housing Units for the United States {#housing-units}
+
+Housing Inventory Estimate: {{"FRED7" | cite}}
+
+
+## Chart Sources: Cost of Human Genome Sequencing {#genome}
+
+USD per Megabase of DNA sequence: {{"NHGRI" | cite }}
+
+Number of base pairs sequenced per USD: {{"NHGRI" | cite }}
 
 
 ## Air
