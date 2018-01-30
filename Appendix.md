@@ -2,17 +2,23 @@
 
 This Appendix contains citations for charts and graphs used throughtout World After Capital, as well as data and backup calculations for the Capital chapter. These are not meant to be definitive or exhaustive, but rather to illustrate orders of magnitude.
 
-A special thanks to Max Roser and Hannah Ritchie at Our World in Data who assisted heavily in the data collection and creation of all charts and graphs used throughout World After Capital {{"OWD6" | cite}}.
+Again, a special thanks to Max Roser and team at Our World in Data for their extensive data collection and visualization for World After Capital, which can be viewed in aggregate <a href="https://ourworldindata.org/world-after-capital-data-and-viz/" target="_blank">here</a>.
+
+
 
 [NOTE: This appendix is incomplete and requires a lot of additional work. At present it is mostly copied from an earlier version of the Capital chapter.] 
 
 
 ## Chart Sources: Non-Commercial Flight Distance Records {#flight-dist}
 
+![Non-Commercial Flight Distance Records](assets/flight-distance.png)
+
 Flight distance records: {{"WIKIFD" | cite}}
 
 
 ## Chart Sources: World Natural Population Growth (per 1,000) {#pop-growth}
+
+![Population Growth](../assets/population-growth.png)
 
 Population growth: {{"UNDESA" | cite}}
 
@@ -23,10 +29,14 @@ Child mortality: {{"UNIGME" | cite}}
 
 ## Chart Sources: Total Housing Units for the United States {#housing-units}
 
+![Housing Units](../assets/housing-units.png)
+
 Housing Inventory Estimate: {{"FRED7" | cite}}
 
 
 ## Chart Sources: The Great Decoupling {#great-decoupling}
+
+![The Great Decoupling](../assets/great-decoupling.png)
 
 Real GDP Per Capita: {{"FRED2" | cite}} 
 
@@ -34,6 +44,8 @@ Median Household Income: {{"FRED3" | cite}}
 
 
 ## Chart Sources: Household Debt to GDP for United States {#debt-to-gdp}
+
+![Household Debt to GDP for United States](../assets/household-debt.png)
 
 Household Debt: {{"FRED4" | cite}} 
 
@@ -44,6 +56,8 @@ For each year, ratio calculated as: (Household Debt / GDP)\*100
 
 ## Chart Sources: Crisis Statistics {#crisis-stats}
 
+![Crisis Statistics](../assets/crisis-statistics.png)
+
 Adult White Male Suicides: {{"CDC" | cite}}
 
 Adult Drug Overdose Deaths: {{"CDC" | cite}}
@@ -52,6 +66,8 @@ Youth Major Depressive Episodes: {{"SAMHSA" | cite}}
 
 
 ## Chart Sources: Consumer Durables Price Index {#cdpi}
+
+![Consumer Durables Price Index](../assets/price-indices.png)
 
 CPI Durables, Seasonally Adjusted: {{"FRED6" | cite}} 
 
@@ -62,10 +78,14 @@ College Tuition & Fees U.S. City Average: {{"BLS2" | cite}}
 
 ## Chart Sources: Healthcare Expenditure Per Capita {#health-exp}
 
+![Healthcare Expenditure Per Capita](../assets/healthcare-expenditure.png)
+
 United States & OECD Average: {{"TWB4" | cite}}
 
 
 ## Chart Sources: Cost of Human Genome Sequencing {#genome}
+
+![Human Genome](../assets/human-genome.png)
 
 USD per Megabase of DNA sequence: {{"NHGRI" | cite }}
 
