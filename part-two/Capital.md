@@ -18,13 +18,13 @@ Interestingly, you can also have financial capital without physical capital and 
 
 All of this is to say that we should never lose sight of the fact that financial capital ultimately serves no purpose in and of itself, other than possibly the gratification of ego. As great illustration of that imagine a Spanish Galleon full of raided gold sinking in a storm. The sailors aboard had ample access to financial capital, but what they really needed was more knowledge and better physical capital.
 
-So now we will go ahead and examine whether physical capital is still a binding constraint when it comes to meeting basic needs. The approach I am taking is split in two pieces: Here in the main text I applying logic based on observations. The Appendix contains data and calculations to back up the arguments.
+So now we will go ahead and examine whether physical capital is still a binding constraint when it comes to meeting basic needs. The approach I am taking is split in two pieces: Here in the main text I am applying logic based on observations. The Appendix contains data and calculations to back up the arguments.
 
 [NOTE: I have substantially rewritten the following section and moved many of the numbers to an Appendix. Still requires a lot more work.]
 
 ## Individual Needs
 
-The claim is that capital is no longer the biding constraint for meeting individual needs, not just for one individual but for everyone. This is especially true for the developed economies but increasingly true globally.
+My claim is that capital is no longer the binding constraint for meeting individual needs, not just for one individual but for everyone. This is especially true for the developed economies but increasingly true globally.
 
 The primary strategies for meeting our power needs are breathing air, drinking water and eating farmed food.
 
@@ -36,7 +36,7 @@ We have also made dramatic progress in farming. In fact, globally the amount of 
 
 The discharge need is primarily addressed through modern sewage technology. Here too capital is no longer a binding constraint per se, but again there is a global distribution problem. To see how quickly this has the potential to change, consider the migration that has taken place in China from the country side into cities.
 
-The Chinese construction boom also illustrates how quickly we can build shelter as a strategy to address the need for a controlled physical environment. In the US too we had a prior construction boom which was powered by artificially cheap mortgage credit. While a lot of housing was built in the wrong places it powerfully demonstrated our construction capacity. 
+The Chinese construction boom also illustrates how quickly we can build shelter as a strategy to address the need for a controlled physical environment. In the U.S. too we had a prior construction boom which was powered by artificially cheap mortgage credit. While a lot of housing was built in the wrong places it powerfully demonstrated our construction capacity. 
 
 Clothing is another strategy for addressing this need. The price of clothing has been falling in the United States and in many other parts of the world. Capital is not a constraint here and we can clothe everyone in the world many times over.  
 
