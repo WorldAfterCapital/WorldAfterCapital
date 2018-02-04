@@ -34,7 +34,7 @@ The answer is that we need to enact policies that allow for social and economic 
 
 Increasing economic, informational and psychological freedom will allow everyone to participate more effectively in what I call the Knowledge Loop by making attention less scarce. The Knowledge Loop, which consists of learning, creating and sharing, is the source of all knowledge. Economic freedom via basic income will allow people to free up time normally spent at a job to participate in the Knowledge Loop. Informational freedom will facilitate the ease with and rate at which knowledge can be circulated through the loop. And psychological freedom will liberate us from ways of thinking that have accompanied industrial society and the job loop, such as the all too common "human nature" objection, which would otherwise hold us back from engaging fully in a knowledge society.
 
-At the same time, we need to double down on a set of values, including critical inquiry, democracy and responsibility, that allows increasingly free individuals to peacefully co-exist and for humanity to progress.
+At the same time, we need to double down on a set of values, including critical inquiry, democracy and responsibility, that allow increasingly free individuals to peacefully co-exist and for humanity to progress.
 
 Why this specific set of freedoms and values? The central argument of World After Capital is the primacy of knowledge for the fate of humanity. The Internet as a global network and artificial intelligence based on general-purpose computing, together, make it possible to dramatically accelerate the creation and sharing of knowledge.
 
