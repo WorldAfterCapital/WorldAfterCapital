@@ -43,7 +43,7 @@ The history of technological progress is one of changes in social norms and poli
 
 Not all regulation will be good regulation. In fact, the earliest regulation of automotive vehicles was aimed at delaying their adoption by limiting their speed to that of a horse drawn carriage and in some cases even requiring them to be preceded by someone carrying a flag {{"WIKIRF" | cite}}.
 
-Similarly, not all regulation of digital technology will be good regulation. Much of it will initially aim to protect the status quo and help incumbent enterprises, such as the 2017 proposed changes to net neutrality rules {{"NYT3" | cite}}. But that is no reason to call for an absence of regulation. It should be seen, instead, as a challenge to come up with the right regulation as we did eventually in the case of cars.
+Similarly, not all regulation of digital technology will be good regulation. Much of it will initially aim to protect the status quo and help incumbent enterprises, such as the recently proposed changes to net neutrality rules {{"NYT3" | cite}}. But that is no reason to call for an absence of regulation. It should be seen, instead, as a challenge to come up with the right regulation as we did eventually in the case of cars.
 
 My proposals for regulation later in the book are aimed at being pro-innovation by giving more economic freedom to individuals and by giving them better access to information (informational freedom). These regulations are choices we need to make collectively. They represent a big departure from the past aimed at letting us explore the space of the possible opened up by digital technologies in a way that can get us past the industrial society to a knowledge society. 
 
