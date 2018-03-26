@@ -1,8 +1,8 @@
 # Optimism
 
-When I started my blog some 8 years ago, I called myself a &ldquo;Technology Optimist&rdquo; in my [first post](http://continuations.com/post/27777558/technology-optimist). I wrote that
+When I started my blog a decade ago, I called myself a &ldquo;Technology Optimist&rdquo; in my [first post](http://continuations.com/post/27777558/technology-optimist). I wrote that
 
-> I am excited to be living in a time when we are making tremendous progress on understanding aging, fighting cancer, developing clean technologies, and so much more.  This is not to say that I automatically assume that technology by itself will solve all our problems (I guess that would be a &ldquo;technology pollyanna&rdquo;).  Instead I believe that – over time – we as a society figure out how to use technology to actually improve our standard of living. I for one am sure glad I am not living in the Middle Ages.
+> I am excited to be living in a time when we are making tremendous progress on understanding aging, fighting cancer, developing clean technologies, and so much more.  This is not to say that I automatically assume that technology by itself will solve all our problems (I guess that would be a &ldquo;technology pollyanna&rdquo;).  Instead I believe that&mdash;over time&mdash;we as a society figure out how to use technology to actually improve our standard of living. I for one am sure glad I am not living in the Middle Ages.
 
 The fundamental tenor of this book is one of optimism. This is in part a reflection of my personality. I am pretty sure it would be impossible to be a VC as a pessimist. You would focus only on the many reasons why a particular startup won&apos;t succeed and never make an investment.
 
@@ -20,19 +20,19 @@ This is in and of itself quite remarkable: we are slower and weaker than many ot
 
 There is an extreme position that would suggest we would have been better off never developing knowledge {{ "FOX" | cite}}. That we would still live in a state of paradise had we not tasted the forbidden fruit. Not only is it hard to see how we would go back there now, but more importantly, I for one prefer not to be consumed by wild animals.
 
-Will all future problems be solvable, including say climate change? There is, of course, no guarantee. We might wind up with a problem we cannot solve and that might cause our extinction. But what is certain is that assuming that problems cannot be solved guarantees that they will not be solved. Pessimism is a self-defeating attitude when it leads to inaction.
+Will all future problems be solvable, including say climate change? There is, of course, no guarantee. We might wind up with a problem we cannot solve and that might cause our extinction. But what is certain is that assuming that problems cannot be solved guarantees that they will not be solved. Pessimism is a self-defeating attitude, as it leads to inaction.
 
 Yes, digital technologies including the Internet and advances in automation have brought with them a new set of problems. We will encounter many in this book, including immense pressure on people&apos;s ability to earn a living and the conflicts arising from being exposed to content that runs counter to one&apos;s upbringing or deeply held cultural or religious beliefs.
 
-And yet this newly inflated space of what is possible also includes amazing progress, such as the example of free diagnoses of diseases for all of humanity encountered at the end of the previous chapter.
+And yet this expanded space of the possible also includes amazing progress, such as zero marginal cost diagnosis of disease for anyone anywhere in the world, the example we encountered at the end of the previous chapter.
 
 Believing in the potential for real progress though is not the same as being a Pollyanna. Progress does not happen by itself as a deterministic function of technology. Contrary to Kevin Kelly&apos;s claims in his book &ldquo;What Technology Wants&rdquo;, technology doesn&apos;t want anything by itself and certainly not a better world for humanity. It simply makes such a world possible. 
 
 Economics also doesn&apos;t want anything. It is not normative. Nothing in economics, for instance, says that a new technology cannot make some people or possibly a great many people worse off. Economics gives us tools for analyzing markets and designing regulations to address some of their failures. But we still need to make choices about what we want markets and regulations to accomplish for humanity.
 
-And contrary Karl Marx, history too doesn&apos;t want anything. Nor is there, as political economist Francis Fukuyama would have it, an end of history with finalized social, economic and political systems. History is the result of human choices; it doesn&apos;t make its own choices. Only we humans can make the choices that shape our future. 
+And contrary to Karl Marx, history too doesn&apos;t want anything. Nor is there, as political economist Francis Fukuyama would have it, an end of history with a final social, economic and political system. History is the result of human choices; it doesn&apos;t make its own choices. And as long as we make technological progress there will be new choices to make. 
 
-It is our responsibility, both individually and collectively, to make choices about what we want for ourselves and our future. We need to choose rules for society (regulation) and behaviors for ourselves (self-regulation). And the choices we make now are especially important because the latest inflation in the space of the possible also includes machines that will make choices.
+It is our responsibility, both individually and collectively, to make choices about which of the many worlds made possible by digital technology we want to live in. We need to choose rules for society (regulation) and behaviors for ourselves (self-regulation). And the choices we make now are especially important because the latest expansion of the space of the possible includes machines that have knowledge and can make choices.
 
 
 ## Regulation
