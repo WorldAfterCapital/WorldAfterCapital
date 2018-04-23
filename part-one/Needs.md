@@ -15,13 +15,13 @@ These are the basic needs of the human body and mind. Without them individual su
 
 The first set of individual needs comes from keeping our bodies powered, these include:
 
-Oxygen. Humans need on average about 550 liters (0.55 cubic meters) of pure oxygen per day {{"HSWOXY" | cite}}. The exact need of course varies with factors such as the size of our respective body and the degree of physical exertion. Our most common solution to this need is breathing air.
+Oxygen. Humans need on average about 550 liters (0.55 cubic meters) of oxygen per day {{"HSWOXY" | cite}}. The exact need of course varies with factors such as the size of our respective body and the degree of physical exertion. Our most common solution to this need is breathing air.
 
 Water. We need to drink on average between 2-3 liters of water per day to stay hydrated {{"MAYO" | cite}}. Again various factors such as body size, exertion and temperature will affect the exact need.
 
-Calories. To power our bodies we require anywhere from 1,600 to 3,000 calories per day, again depending on body size, activity level etc {{"USDHHS" | cite}}. We solve this need by consuming food. The best way to do this, however, is surprisingly controversial and poorly understood for such a basic need. In particular, the degree to which we have a need for fats versus carbohydrate intake.
+Calories. To power our bodies we generally require between 1,500 and 3,000 calories per day, again depending on body size, activity level etc {{"USDHHS" | cite}}. We solve this need by consuming food. The best way to do this, however, is surprisingly controversial and poorly understood for such a basic need. In particular, the mix between proteins, lipids and carbohydrates is subject to ongoing debate.
 
-Nutrients. The body cannot synthesize all the vitamins and minerals that it requires. Therefore some of them must be obtained directly as part of our nutrition. This too is an area that is surprisingly poorly understood, meaning which nutrients exactly we really need to acquire externally seems unsettled. There is a wide range of food consumption strategies that seem to support the human body.
+Nutrients. The body cannot synthesize all the materials it requires, including certain amino acids, vitamins and minerals. Therefore these must be obtained directly as part of our nutrition. This too is an area that is surprisingly poorly understood, meaning which nutrients exactly we really need to acquire externally seems unsettled. There is a wide range of food consumption strategies that seem to support the human body.
 
 Discharge. So this may be a bit gross but we also need to get things out of our bodies again, including expelling processed food, radiating heat and exhaling carbon dioxide. A lot of human progress has come from better strategies for solving our discharge needs, such as public sanitation. For fans of science fiction, like myself, dealing with the problems of discharge is an interesting limit on our ability to cloak ourselves.
 
@@ -31,7 +31,7 @@ Temperature. Our bodies can self-regulate their temperature within a limited ran
 
 Pressure. Anybody who has gone diving knows that our bodies do not handle increased pressure around us very well. The same goes for decreased pressure (one of the reasons air travel is exhausting is that planes do not retain sea level pressure).
 
-Light. Most humans would be hard pressed to do much of anything in complete darkness. The Bible introduces light right away with "Let there be light" in the third verse for the Book of Genesis. For the longest time the solution to our need for light was simply sunlight, but much of human ingenuity has gone into the creation of artificial light sources. 
+Light. Most humans would be hard pressed to do much of anything in complete darkness. The Bible introduces light right away with &ldquo;Let there be light&rdquo; in the third verse for the Book of Genesis. For the longest time the solution to our need for light was simply sunlight, but much of human ingenuity has gone into the creation of artificial light sources. 
 
 The third set of individual needs arises from dealing with a complex and ever changing environment. As we go through life we encounter challenges that we need to overcome. This results in three fundamental individual needs:
 
@@ -39,9 +39,9 @@ Healing. When we damage our body in some fashion it needs to heal. The human bod
 
 Learning. We are born quite, well, stupid. We even have to learn relatively basic skills such as walking and the use of tools. When we encounter a new situation, we need to learn how to deal with it. We group many of the strategies for solving the need for learning under the heading education, but other solutions include self study, experimenting (gaining experience) and parenting.
 
-Meaning. As humans we have a profound psychological need for meaning in our lives. It is what keeps us going. Religion and religious beliefs have long been a key strategy for solving this need. As I have argued in the section on Humanism, there is an objective basis for human meaning rooted in knowledge. Another key strategy to solve this need comes from our interactions with other humans, including having other acknowledge our contributions to a project or simply our existence. 
+Meaning. As humans we have a profound psychological need for meaning in our lives. It is what keeps us going. Religion and religious beliefs have long been a key strategy for solving this need. As I have argued in the section on Humanism, there is an objective basis for human meaning rooted in knowledge. Another key strategy to solve this need comes from our interactions with other humans, including having others acknowledge our contributions to a project or simply our existence. 
 
-This last set of needs may strike you as being at a much higher level than the earlier needs. It is tempting to try and sort needs into a hierarchy, as Maslov did. That seems intuitively appealing but is misleading. All of these needs are essential. As a thought exercise, picture yourself in a spaceship and try to remove any of the above.
+This last set of needs may strike you as being at a much higher level than the earlier needs. It is tempting to try and sort individual needs into a hierarchy, as Maslov did. That seems intuitively appealing but is misleading. All of these needs are essential. As a thought exercise, picture yourself in a spaceship and try to remove any of the above.
 
 
 ## Collective Needs
@@ -58,7 +58,7 @@ Coordination. Whenever there is more than a single human involved in any activit
 
 Knowledge. As I have argued in the prior sections on Optimism and Humanism, this is the central collective human need. Without increased knowledge a society will encounter problems that it cannot solve and will be decimated as a result. History is full of examples of societies not having enough knowledge, such as the Easter Islanders or the Mayans. This is not about what any one individual has learned but rather about the body of knowledge that is accessible to society as a whole. Much of the later parts of World After Capital are about solutions for generating more knowledge faster.
 
-These collective needs may strike you as overly abstract. But this is the logical result of identifying needs, instead of solutions. Governments and laws, for instance, are one of the solutions to some of these collective needs. But so are markets and firms and more recently networks and platforms. 
+These collective needs may strike you as overly abstract. But this is the logical result of identifying needs, instead of solutions. Governments and laws, for instance, are examples of solutions to some of these collective needs. But so are markets and firms and more recently networks and platforms. 
 
 
 ## Enablers
@@ -77,5 +77,5 @@ Transportation. The final foundational enabler is the ability to move stuff (usi
 
 Again I have chosen these enablers at a high degree of abstraction on purpose. Coal-fired power plants provide energy (in the form of electricity) and so do solar panels today and nuclear fusion at some point in the future. These three examples have dramatically different characteristics but they all are fundamentally energy enablers. 
 
-This is my current working version of needs (and enablers). I have now revised this section fairly substantially for a second time. And while I fully expect further changes, I believe it now properly sets up my core argument that capital is no longer the binding constraint on meeting everyone's individual needs and our collective needs. Capital is also no longer a binding constraint on creating new, more powerful enablers.
+This is my current working version of needs (and enablers). I have now revised this section fairly substantially for a second time. And while I fully expect further changes, I believe it now properly sets up my argument that there is sufficient productive capital in the world for meeting our individual and collective needs, including further development of the four enablers.
 
