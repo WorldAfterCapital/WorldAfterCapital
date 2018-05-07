@@ -18,7 +18,7 @@ Interestingly, you can also have financial capital without physical capital and 
 
 All of this is to say that we should never lose sight of the fact that financial capital ultimately serves no purpose in and of itself, other than possibly the gratification of ego. As great illustration of that imagine a Spanish Galleon full of raided gold sinking in a storm. The sailors aboard had ample access to financial capital, but what they really needed to survive was more knowledge and better physical capital.
 
-So now we will go ahead and examine whether physical capital is still a binding constraint when it comes to meeting basic needs. The approach I am taking is split in two parts: here in the main text I am applying logic based on observations; the [Appendix](./Appendix.md) contains much more data and calculations to back up the arguments.
+So now we will go ahead and examine whether physical capital is still a binding constraint when it comes to meeting basic needs. The approach I am taking is split in two parts: here in the main text I am applying logic based on observations; the [Appendix](../Appendix.md) contains much more data and calculations to back up the arguments.
 
 
 ## Individual Needs
