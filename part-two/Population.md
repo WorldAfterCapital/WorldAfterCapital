@@ -1,6 +1,6 @@
 # Population
 
-In 1798 Thomas Malthus predicted widespread crises of famine and starvation as population growth outstrips humanity's ability to grow food {{"WIKIMS" | cite}}. Malthus prediction was half right: Global population did explode. Population growth started to accelerate right at the time of his writing around 1800. 
+In 1798 Thomas Malthus predicted widespread crises of famine and starvation as population growth outstrips humanity's ability to grow food {{"WIKIMS" | cite}}. Malthus prediction was half right: Global population did explode, with population growth accelerating right at the time of his writing around 1800. 
 
 Since then, the human population has grown from about 1B to over 7B people here on planet Earth {{"WORLDO" | cite}}. As an optimist, the thing to note immediately, though, is that Malthus&apos;s most dire fears about the implications of this population growth have not been realized. There has been no global scale starvation and even the fear that most people would live in abject poverty has not come true. In fact, the opposite has happened recently. Around the world the number of people living in extreme poverty has been declining all the while population growth has been about twice as fast as what Malthus predicted as an upper limit of 1 billion people added in 25 years {{"OWD3" | cite}}.
 
@@ -22,5 +22,5 @@ Now one can reasonably argue over what that peak number will be. Some will claim
 
 The key takeaway should be one of curvature. All signs suggest that the global population curve is starting to decelerate (negative second derivative) whereas the rate of technical progress is continuing to accelerate (positive second derivative) {{"OWD4" | cite}} {{"OWD5" | cite}}. That is the basis for being optimistic about progress in relation to population growth. 
 
-I have already described previously why digital technology is so disruptive. Later in the book we will see in more detail how it is contributing to an acceleration of knowledge creation and thus progress. My view here stands in contrast with much of the recent pessimistic writing, including the just published book by economist Robert J. Gordon and the secular stagnation literature more generally. To show why my outlook is so different, I will now turn to how much capital there is relative to humanity&apos;s basic needs.
+I have already described previously why digital technology is so disruptive. Later in the book we will see in more detail how it is contributing to an acceleration of knowledge creation and thus progress. My view here stands in contrast with much of the recent pessimistic writing, including the recently published book by economist Robert J. Gordon and the secular stagnation literature more generally. To show why my outlook is so different, I will now turn to how much capital there is relative to humanity&apos;s basic needs.
 

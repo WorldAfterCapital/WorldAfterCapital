@@ -14,7 +14,7 @@
     * [Scarcity](part-one/Scarcity.md)
     * [Needs](part-one/Needs.md)
 
-* [Part Two: Getting Past Capital and Labor](part-two/README.md)
+* [Part Two: Getting Past Capital](part-two/README.md)
     * [Population](part-two/Population.md)
     * [Capital](part-two/Capital.md)
     * [Labor](part-two/Labor.md)
