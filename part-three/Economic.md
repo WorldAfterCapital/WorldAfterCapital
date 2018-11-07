@@ -101,7 +101,7 @@ What magnitudes are we talking about here? In the United States we have unfortun
 
 As a first approximation the amount of annual money creation is in the trillions of dollars and thus in the same ball park as UBI.  Historically, the idea of the government &ldquo;printing&rdquo; money is associated with fears of runaway inflation, such as occurred in the Weimar Republic. There are several reasons why this would not be the case with a proper UBI scheme. First, the amount of new money creation would be fixed and known in advance. Second, as we saw earlier, technology is a strong deflationary force. Third, the amount of net money creation over time can be reduced by also removing money from the economy. This could be accomplished through negative interest rates on bank deposits above a certain amount where the payment is collected by the central bank (and not by the commercial bank). This is known as &ldquo;demurrage&rdquo; and would be easy to implement in a full reserve banking system.
  
-I expect that the path to UBI will involve some mix of changes to government budgets, taxation and the monetary system. The point of all the back of the envelope math above is to show that UBI is in fact affordable. Economic freedom is possible, if we want it.
+I expect that the path to UBI will involve some mix of changes to government budgets, taxation and the monetary system. One exciting possibility is that the change to the monetary system can come about through newly created crypto currencies. No matter how we eventually get there,  what the back of the envelope math above shows is that UBI is in fact affordable. Economic freedom for all is possible, if we want it.
 
 ## Impact of UBI on Incomes and the Labor Market
 
