@@ -103,7 +103,7 @@ As a first approximation the amount of annual money creation is in the trillions
  
 I expect that the path to UBI will involve some mix of changes to government budgets, taxation and the monetary system. One exciting possibility is that the change to the monetary system can come about through newly created crypto currencies. No matter how we eventually get there,  what the back of the envelope math above shows is that UBI is in fact affordable. Economic freedom for all is possible, if we want it.
 
-## Impact of UBI on Incomes and the Labor Market
+## Impact of UBI on the Labor Market
 
 One of the many attractive features of a UBI is that it doesn&apos;t do away with people&apos;s ability to sell their labor. Suppose someone offers you $5/hour to watch her dog. Under a UBI system you are completely free to accept or reject that proposal. There is no distortion from a minimum wage. The reason we need a minimum wage in the current system is to guard against exploitation. But why does the opportunity for exploitation exist in the first place? Because people do not have an option to walk away from potential employment. With a UBI in place, they will.
 
@@ -115,7 +115,10 @@ UBI has two other, hugely important impacts on the Labor Market. The first has t
 
 When you have to work pretty much every free hour just to meet your basic needs and/or have no control over your schedule, you cannot effectively volunteer. Providing people with UBI has the potential to vastly increase the number of volunteers. It won&apos;t do this all by itself; we will also require changes in attitude, but historically people have thought differently about volunteering.
 
-UBI&apos;s second big impact on the Labor Market is its potentially dramatic expansion of the reach and importance of various types of crowdfunding. If your basic needs are taken care of, you will be much more likely to want to start an activity that has the potential to attract some crowdfunding, such as recording music videos and putting them up on YouTube. Also, if your basic needs are taken care of, you will be much more likely to use a fraction of any income you make to participate in crowdfunding.
+UBI&apos;s second big impact on the Labor Market is dramatically expand the scope for entrepreneurial activity. A lot of people would like to start a local business, such as a nail salon or a restaurant, but have no financial cushion and so can never quit their job to give it a try. UBI changes that which is why I sometimes refer to it as &ldquo;seed money for everyone.&rdquo; More businesses getting started in a community means more opportunities for fulfilling local employment.  
+
+Once they get going some of these new ventures can receive more traditional financing, including bank lending and venture capital, but UBI also has the potential to significantly expand the reach and importance of crowdfunding. If your basic needs are taken care of, you will be much more likely to want to start an activity that has the potential to attract some crowdfunding, such as recording music videos and putting them up on YouTube. Also, if your basic needs are taken care of, you will be much more likely to use a fraction of any income you make to participate in crowdfunding.
+
 
 ## UBI as a Moral Imperative
 
