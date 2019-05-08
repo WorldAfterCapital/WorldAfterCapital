@@ -65,7 +65,7 @@ Job Loop thinking further solidifies and even institutionalizes these beliefs ab
 
 Distractions also inhibit our impulses to create. We now live in an always on, interrupt driven world. There is always another video to watch on YouTube. Always another email message or chat to read. Always another game to play. Our brains are very poorly adapted to such an information overload environment. We evolved in a world where obtaining a bit of information&mdash;for instance, the sound of an approaching animal&mdash;was potentially a matter of life or death. It&apos;s still very easy to distract our brains with new information. 
 
-In order to be able to create, we need to disconnect ourselves from many of those stimuli at least for some time period. That requires effort. Again, a mindfulness practice will be be helpful here by allowing us to tune out interruptions. Of course there are also many hacks we can use to have fewer interruptions in the first place. For instance, I have my phone set to &ldquo;Do Not Disturb&rdquo; at all times.  
+In order to be able to create, we need to disconnect ourselves from many of those stimuli at least for some time period. That requires effort. Again, a mindfulness practice will be helpful here by allowing us to tune out interruptions. Of course there are also many hacks we can use to have fewer interruptions in the first place. For instance, I have my phone set to &ldquo;Do Not Disturb&rdquo; at all times.  
 
 
 ## Freedom to Share
