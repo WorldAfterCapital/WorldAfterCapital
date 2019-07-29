@@ -4,7 +4,7 @@ The second major goal of World After Capital is to propose an approach for a tra
 
 1. Economic freedom. We must let everyone meet their basic needs without being forced into the Job Loop. With economic freedom, we can embrace automation and enable everyone to participate in and benefit from the Digital Knowledge Loop.
 
-2. Informational freedom. We must remove barriers from the Digital Knowledge Loop that artificially limit learning from existing knowledge, creating new knowledge based on what we learn and sharing this new knowledge. At the same time must build systems that support the operation of critical inquiry in the Digital Knowledge Loop.
+2. Informational freedom. We must remove barriers from the Digital Knowledge Loop that artificially limit learning from existing knowledge, creating new knowledge based on what we learn and sharing this new knowledge. At the same time we must build systems that support the operation of critical inquiry in the Digital Knowledge Loop.
 
 3. Psychological freedom. We must free ourselves from scarcity thinking and its associated fears and other emotional reactions that impede our participation in the Digital Knowledge Loop. Much of the peril of the Digital Knowledge Loop arises directly from a lack of psychological freedom.
 
