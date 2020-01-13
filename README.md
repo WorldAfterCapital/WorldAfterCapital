@@ -1,20 +1,12 @@
 # Introduction
 
-Humanity is unique, at least for now, in having developed knowledge. Knowledge in turn has enabled us to create increasingly powerful technology. The effect of technological advances is to broaden the &ldquo;space of the possible.&rdquo;
+Humanity is the only species on Earth&mdash;at least for now&mdash;to have developed knowledge. I will make the term &ldquo;knowledge&rdquo; more precise as we go along, but suffice it to say for now that we are the only ones who read and write books. Knowledge in turn has enabled us to create increasingly powerful technology. The effect of technological advances is to broaden the &ldquo;space of the possible.&rdquo; For instance, with the invention of the airplane, human flight goes from impossible to possible.
 
-* With the Internet we can give everyone free access to education, but we can also share hate speech globally
-* With artificial intelligence we can build self-driving cars, but we can also automate censorship and manipulation
+A broader space of the possible contains both good and bad capabilities. This duality of technology has been with us from the first human technology, fire. With fire it became possible to warm ourselves and cook, but we were also able to burn down forests and enemy villages. Today, the Internet makes it possible to give free access to learning to everyone, but we can also spread hate and lies globally. 
 
-A broader space of the possible contains both good and bad capabilities. There is nothing fundamentally new about this duality of technology.
+And yet there is something special about our moment in time. We are experiencing a technological non-linearity, which renders predictions about society based on extrapolation from the present and recent past useless. The space of the possible for humanity is expanding dramatically due to the extraordinary power of digital technology, which delivers universality of computation at zero marginal cost (both of these concepts will be explained in detail shortly). 
 
-* With fire we were able to warm ourselves and cook, but we were also able to burn down forests and enemy villages
-* With steel we were able to construct more effective plows, but we were also able to forge more deadly swords
-
-And yet there is something special about our moment in time.
-
-We are experiencing a technological non-linearity, which renders many of the existing predictions about society based on extrapolation useless. The space of the possible for humanity is expanding rapidly due to the extraordinary power of digital technologies, which deliver universality of computation at zero marginal cost.
-
-Humanity has encountered two similar non-linearities previously. The first was the invention of agriculture, which ended the Forager Age and brought us into the Agrarian Age {{"NATGR" | cite}}. The second was the Enlightenment, which took us out of our state of ignorance about nature and helped usher in the Industrial Age {{"SPRK" | cite}}.
+To understand what is going on now we need to zoom out in time. Humanity has encountered two similar non-linearities previously. The first was the invention of agriculture, which ended the Forager Age and brought us into the Agrarian Age. The second was the Enlightenment, which allowed for significant scientific progress and helped usher in the Industrial Age.
 
 Imagine foragers trying to predict what society would look like in the Agrarian Age. Cities, rulers and armies all would have come as a surprise. Similarly, much of what we have today&mdash;from modern medicine to computer technology&mdash;would look like magic to most people from as recently as the mid-1900s. Not just the existence of smartphones would have been hard to foresee, but even more so their widespread availability and affordability.  
 
