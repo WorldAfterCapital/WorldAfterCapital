@@ -15,11 +15,11 @@ These are the basic needs of the human body and mind. Without them individual su
 
 The first set of individual needs comes from keeping our bodies powered, these include:
 
-Oxygen. Humans need on average about 550 liters (0.55 cubic meters) of oxygen per day {{"HSWOXY" | cite}}. The exact need of course varies with factors such as the size of our respective body and the degree of physical exertion. Our most common solution to this need is breathing air.
+Oxygen. Humans need on average about 550 liters (0.55 cubic meters) of oxygen per day [[24]](/References.md#ref-HSWOXY). The exact need of course varies with factors such as the size of our respective body and the degree of physical exertion. Our most common solution to this need is breathing air.
 
-Water. We need to drink on average between 2-3 liters of water per day to stay hydrated {{"MAYO" | cite}}. Again various factors such as body size, exertion and temperature will affect the exact need.
+Water. We need to drink on average between 2-3 liters of water per day to stay hydrated [[25]](/References.md#ref-MAYO). Again various factors such as body size, exertion and temperature will affect the exact need.
 
-Calories. To power our bodies we generally require between 1,500 and 3,000 calories per day, again depending on body size, activity level etc {{"USDHHS" | cite}}. We solve this need by consuming food. The best way to do this, however, is surprisingly controversial and poorly understood for such a basic need. In particular, the mix between proteins, lipids and carbohydrates is subject to ongoing debate.
+Calories. To power our bodies we generally require between 1,500 and 3,000 calories per day, again depending on body size, activity level etc [[26]](/References.md#ref-USDHHS). We solve this need by consuming food. The best way to do this, however, is surprisingly controversial and poorly understood for such a basic need. In particular, the mix between proteins, lipids and carbohydrates is subject to ongoing debate.
 
 Nutrients. The body cannot synthesize all the materials it requires, including certain amino acids, vitamins and minerals. Therefore these must be obtained directly as part of our nutrition. This too is an area that is surprisingly poorly understood, meaning which nutrients exactly we really need to acquire externally seems unsettled. There is a wide range of food consumption strategies that seem to support the human body.
 
