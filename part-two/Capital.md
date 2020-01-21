@@ -14,7 +14,7 @@ What is the role of &ldquo;human capital&rdquo; in all of this? Human capital is
 
 You can theoretically have physical capital without financial capital but you cannot have physical capital without knowledge. You cannot build a machine, say an MRI, without a lot of knowledge in physics and engineering. In a world where everyone&apos;s basic needs are taken care of it might, however, be possible to build the same MRI without the need for financial capital.
 
-Interestingly, you can also have financial capital without physical capital and without meaningful knowledge accumulation. For instance, you can develop financial capital through trade or war or simply by convention as in the case of the island of Yap {{"NPR" | cite}}.
+Interestingly, you can also have financial capital without physical capital and without meaningful knowledge accumulation. For instance, you can develop financial capital through trade or war or simply by convention as in the case of the island of Yap [[36]](/References.md#ref-NPR).
 
 All of this is to say that we should never lose sight of the fact that financial capital ultimately serves no purpose in and of itself, other than possibly the gratification of ego. As great illustration of that imagine a Spanish Galleon full of raided gold sinking in a storm. The sailors aboard had ample access to financial capital, but what they really needed to survive was more knowledge and better physical capital.
 
@@ -31,7 +31,7 @@ There is plenty of air to breathe (one time reminder: please see the Appendix fo
 
 Similarly there is plenty of water in the world for everyone to drink. There are distribution and access problems, including right here in the United States (e.g., the polluted water in Flint, Michigan). Again though, physical capital is not a binding constraint. We can even build new desalination plants in record time. [Example] 
 
-We have also made dramatic progress in farming. In fact, globally the amount of land required for farming has started to decline as a result of higher per acre productivity.  We have made recent breakthroughs in vertical and automated farming. For instance, the world&apos;s largest vertical farm is currently under construction in Jersey City. The Japanese indoor farming company Spread is working on a fully automated facility that will be able to produce 30,000 heads of lettuce per day {{ "BI" | cite }}.
+We have also made dramatic progress in farming. In fact, globally the amount of land required for farming has started to decline as a result of higher per acre productivity.  We have made recent breakthroughs in vertical and automated farming. For instance, the world&apos;s largest vertical farm is currently under construction in Jersey City. The Japanese indoor farming company Spread is working on a fully automated facility that will be able to produce 30,000 heads of lettuce per day [[155]](/References.md#ref-BI).
 
 The discharge need is primarily addressed through modern sewage technology. Here too capital is no longer a binding constraint per se, but again there is a global distribution problem. To see how quickly this has the potential to change, consider the migration that has taken place in China from the country side into cities.
 
