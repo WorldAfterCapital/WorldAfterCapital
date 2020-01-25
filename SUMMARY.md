@@ -33,5 +33,6 @@
     * [Urgency](part-four/Urgency.md)
 
 * [Conclusion](Conclusion.md)
+* [Acknowledgments](Acks.md)
 * [Appendix](Appendix.md)
 * [References](References.md)
