@@ -25,7 +25,7 @@ Even connecting people in remote places is getting much cheaper, as the cost for
 
 All of this is to say that even at relatively low levels, a UBI will cover the cost of access to the Internet, provided that we keep innovating and have highly competitive and/or properly regulated access markets. This is a first example of how the three different freedoms mutually re-enforce each other: Economic Freedom allows people to access the Internet, which is the foundation for Informational Freedom. 
 
-As we work to give everyone affordable access to the Internet, we still must address other limitations to the flow of information on the Internet. In particular, we should oppose restrictions on the Internet imposed by either our governments or our Internet Service Providers (ISPs, the companies we use to get access to the Internet). Both of them have been busily imposing artificial restrictions, driven by a range of economic and policy considerations.
+As we work to give everyone affordable access to the Internet, we still must address other limitations to the flow of information on the Internet. In particular, we should oppose restrictions on the Internet imposed by either our governments or our ISPs (Internet Service Providers, the companies we use to get access to the Internet). Both of them have been busily imposing artificial restrictions, driven by a range of economic and policy considerations.
 
 
 ## One Global Internet
@@ -35,7 +35,7 @@ By design, the Internet does not include a concept of geographic regions. Most f
 
 ## No Artificial Fast and Slow Lanes
 
-The same additional equipment used by governments to re-impose geographic boundaries on the Internet is also used by ISPs (Internet Service Providers, i.e. companies that provide access to the Internet) to extract additional economic value from customers, in the process distorting access. These practices include paid prioritization and zero rating. To understand them better and why they are a problem, let&apos;s take a brief technical detour.
+The same additional equipment used by governments to re-impose geographic boundaries on the Internet is also used by ISPs to extract additional economic value from customers, in the process distorting access. These practices include paid prioritization and zero rating. To understand them better and why they are a problem, let&apos;s take a brief technical detour.
 
 When you buy access to the Internet, you pay for a connection of a certain capacity. Let&apos;s say that is 10 Mbps (that is 10 Megabits per second). So if you use that connection fully for, say, sixty seconds, you would have downloaded (or uploaded for that matter) 600 Megabits, the equivalent of 15-25 songs on Spotify or SoundCloud (assuming 3-5 Megabytes per song). The fantastic thing about digital information is that all bits are the same. So it really doesn&apos;t matter whether you used this to access Wikipedia, to check out Khan Academy, or to browse images of kittens. Your ISP should have absolutely no say in that. You have paid for the bandwidth, and you should be free to use it to access whatever parts of human knowledge you want.
 
@@ -43,7 +43,7 @@ That principle, however, doesn&apos;t maximize profit for the ISP. To do so, the
 
 The regulatory solution to this issue goes by the technical and boring name of Net Neutrality. But what is really at stake here is Informational Freedom. Our access to human knowledge should not be skewed by the financial incentives of our ISPs. Why do we need regulation? Why not just switch to another ISP, one that provides neutral access? As it turns out in most geographic areas, especially in the United States, there is no competitive market for Internet access. ISPs either have outright monopolies (often granted by regulators) or they operate in small oligopolies. For instance, in the part of New York City (Chelsea) where I live at the moment, there is just one broadband ISP, with speeds that barely qualify as real broadband. 
 
-Over time technological advances such as wireless broadband and mesh networking may make the Internet Access market more competitive. Until then, however, we need regulation to avoid ISPs limiting our Informational Freedom. This concern is shared by people in diverse geographies. For instance, India recently objected to a plan by Facebook to provide subsidized Internet access which would have given priority to Facebook services. 
+Over time technological advances such as wireless broadband and mesh networking may make the Internet Access market more competitive. Until then, however, we need regulation to avoid ISPs limiting our Informational Freedom. This concern is shared by people in diverse geographies. For instance, India recently objected to a plan by Facebook to provide subsidized Internet access which would have given priority to Facebook services [[FFB]](/References.md#ref-FFB). 
 
 
 ## Bots for All of Us
