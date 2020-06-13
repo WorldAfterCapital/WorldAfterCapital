@@ -45,7 +45,7 @@ Not all regulation will be good regulation. In fact, the earliest regulation of 
 
 Similarly, not all regulation of digital technology will be good regulation. Much of it will initially aim to protect the status quo and help incumbent enterprises, such as the recently enacted changes to net neutrality rules [[17]](/References.md#ref-NYT3). But that is no reason to call for an absence of regulation. It should be seen, instead, as a challenge to come up with the right regulation as we did eventually in the case of cars.
 
-My proposals for regulation later in the book are aimed at being pro-innovation by giving more economic freedom to individuals and by giving them better access to information (informational freedom). These regulations are choices we need to make collectively. They represent a big departure from the past -- aimed at letting us explore the space of the possible opened up by digital technologies -- so that we can transition from the Industrial Age to the Knowledge Age. 
+My proposals for regulation later in the book are aimed at being pro-innovation by giving more economic freedom to individuals and by giving them better access to information (informational freedom). These regulations are choices we need to make collectively. They represent a big departure from the past&mdash;aimed at letting us explore the space of the possible opened up by digital technologies&mdash;so that we can transition from the Industrial Age to the Knowledge Age. 
 
 
 ## Self-Regulation
