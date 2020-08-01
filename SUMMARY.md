@@ -16,7 +16,6 @@
     * [Scarcity](part-one/Scarcity.md)
     * [History](part-one/History.md)
     * [Plan of Attack](part-one/Plan.md)
-    * [Needs](part-one/Needs.md)
 
 * [Part Two: Getting Past Capital](part-two/README.md)
     * [Needs](part-two/Needs.md)
