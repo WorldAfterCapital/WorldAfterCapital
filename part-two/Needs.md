@@ -1,81 +1,73 @@
 # Needs
 
-The definition of scarcity that I just introduced is based on the notion of needs. To argue that there is a shift in scarcity from capital to attention thus requires an agreed upon set of needs to show that we indeed have sufficient capital. Can we make progress in defining what constitutes a set of basic human needs?
+The definition of scarcity introduced in Part One is based on the idea of needs, so to argue that we are currently experiencing a shift to attention being the new scarcity requires us to demonstrate that we have sufficient capital for them. But agreeing on what constitutes human needs is not a simple task. What follows should be seen as a step along the way. A list of needs is the type of externalized human knowledge that can be improved over time through the process of critical inquiry.
 
-I am not proposing that this is a simple task. What follows should be considered a way of starting a dialogue. A list of basic needs is a piece of knowledge. As such it can be improved over time through the process of critical inquiry. You can critique my list by pointing out flaws, you can also propose changes to my list, or you can publish your own list altogether.
+In an early draft of *The World After Capital*, I grouped needs into categories such as ‘biological’, ‘physical’ and ‘social’, but the boundaries between them seemed rather arbitrary. So instead I am distinguishing between individual and collective needs, where the former apply to a single person and the latter are the needs of humanity. Another challenge in putting together such a list is that it is easy to confuse a need with a strategy for meeting it. For instance, eating meat is a strategy for addressing our need for calories, but humans can, of course, acquire calories from many sources.
+ 
+## Individual Needs 
 
-One of the benefits of my approach to writing World After Capital out in the open, and with revisions tracked, is that you can see how my thinking on needs has evolved over time. In an earlier version I tried to group needs into categories such as biological, physical, and social. But the boundaries between those seemed rather arbitrary upon further examination. So in the current version I am distinguishing only between individual and collective needs, where the former will apply to a single human wherever and the latter are the needs of humanity as a whole.
+These are the basic needs of the human body and mind, without which individual survival is impossible. A single individual has these needs even when they are completely isolated, such as if they are traveling alone in a spaceship. The first set of individual needs relates to keeping our bodies powered. These include:
+ 
+**Oxygen**. On average, humans need about 550 liters of oxygen every day [24], depending on the size of our body and physical exertion. Our most common solution to this need is breathing air. Although that may sound obvious, we have developed other solutions through technology – for example, the blood of patients struggling to breathe can be oxygenated externally.
 
-Another challenge in putting together a list of needs is that it is all too easy to confuse a need with a strategy for meeting this need. For instance, eating meat is one strategy for addressing the need for calories, but humans can acquire calories from many other sources. 
+**Water**. We need to ingest between two to three liters of water per day to stay hydrated [25], depending on factors such as body size, exertion and temperature. In addition to drinking water we have other solutions for this, such as the water contained in foods that we eat. 
 
+**Calories**. To power our bodies, we require between 1,500 and 3,000 calories per day [26], a need we solve by consuming food. The best way to obtain calories, however, is surprisingly poorly understood – the mix between proteins, lipids and carbohydrates is subject to debate. 
 
-## Individual Needs
+**Nutrients**. The body cannot synthesize all the materials it requires, including certain amino acids, vitamins and minerals – these must be obtained as part of our nutrition. This is another area that is surprisingly poorly understood, meaning that the mix of nutrients we need to acquire seems unsettled.
 
-These are the basic needs of the human body and mind. Without them individual survival and flourishing is impossible. A single individual has these needs even when isolated, such as traveling alone in a spaceship.
+**Discharge**. We also need to get things out of our bodies by expelling processed food, radiating heat and exhaling carbon dioxide. Humans have made a great deal of progress around solving our needs around discharge, such as public sanitation.
 
-The first set of individual needs comes from keeping our bodies powered, these include:
+The second set of individual needs relates to the operating environment for humans. From a cosmic perspective, humans have an incredibly narrow operating range. Even here on Earth we can live without technological assistance only in relatively few places. Here are some of our basic operating needs: 
 
-Oxygen. Humans need on average about 550 liters (0.55 cubic meters) of oxygen per day [[24]](/References.md#ref-HSWOXY). The exact need of course varies with factors such as the size of our respective body and the degree of physical exertion. Our most common solution to this need is breathing air.
+**Temperature**. Our bodies can self-regulate their temperature, but only within a limited range of environmental temperature and humidity. Humans can easily freeze to death or die of overheating (we cool our bodies through sweating, also known as ‘evaporative cooling’, which stops working when the air gets too hot and humid). We therefore often need to help our bodies with temperature regulation by controlling our environment. Common strategies to meet our temperature needs include clothing, shelter, heating and air conditioning. 
 
-Water. We need to drink on average between 2-3 liters of water per day to stay hydrated [[25]](/References.md#ref-MAYO). Again various factors such as body size, exertion and temperature will affect the exact need.
+**Pressure**. Anybody who has gone diving will be aware that our bodies do not handle increased pressure very well. The same goes for decreased pressure, which is one of the reasons why we find air travel exhausting (airplane cabins maintain pressure similar to being at the top of an eight-thousand-foot mountain). 
 
-Calories. To power our bodies we generally require between 1,500 and 3,000 calories per day, again depending on body size, activity level etc [[26]](/References.md#ref-USDHHS). We solve this need by consuming food. The best way to do this, however, is surprisingly controversial and poorly understood for such a basic need. In particular, the mix between proteins, lipids and carbohydrates is subject to ongoing debate.
+**Light**. Most humans would be hard-pressed to achieve much in complete darkness. The solution to our need for light was for a long time the light from the sun, but much human ingenuity has gone into the creation of artificial light sources.
+ 
+The third set of individual needs arises from how we deal with a complex and ever-changing environment. As we go through life, we all encounter challenges that we need to overcome, resulting in three fundamental individual needs: 
 
-Nutrients. The body cannot synthesize all the materials it requires, including certain amino acids, vitamins and minerals. Therefore these must be obtained directly as part of our nutrition. This too is an area that is surprisingly poorly understood, meaning which nutrients exactly we really need to acquire externally seems unsettled. There is a wide range of food consumption strategies that seem to support the human body.
+**Healing**. Whenever we damage our body, it needs to heal. The human body comes equipped with extensive systems for self-healing, but beyond a certain range it needs external assistance. We have developed many solutions, which are often grouped under the term ‘healthcare’. 
 
-Discharge. So this may be a bit gross but we also need to get things out of our bodies again, including expelling processed food, radiating heat and exhaling carbon dioxide. A lot of human progress has come from better strategies for solving our discharge needs, such as public sanitation. For fans of science fiction, like myself, dealing with the problems of discharge is an interesting limit on our ability to cloak ourselves.
+**Learning**. When we are born, we are quite stupid – we have to learn basic skills, such as walking and how to use tools. When we encounter a new situation, we have to learn how to deal with it. We group many of the strategies for solving the need for learning under the heading ‘education’, but other solutions include self-study, experimenting to gain experience and parenting. 
 
-The second set of individual needs relates to the operating environment for humans. From a cosmic perspective, humans have an incredibly narrow operating range, which is provided for, without technological assistance, only in a few places even right here on Earth. Here are some of our basic operating needs:
+**Meaning**. As humans, we have a profound psychological need for meaning in our lives. One solution is to have a purpose, and religious beliefs have long been a source of purpose for humans. Another key strategy to solve this need comes from our interactions with other humans, including having other people acknowledge our contributions to a project or even merely recognize our existence.
 
-Temperature. Our bodies can self-regulate their temperature within a limited range. We have a need to control our environment to help our bodies with temperature regulation. Common strategies to meet our temperature needs include shelter and clothing.
-
-Pressure. Anybody who has gone diving knows that our bodies do not handle increased pressure around us very well. The same goes for decreased pressure (one of the reasons air travel is exhausting is that planes do not retain sea level pressure).
-
-Light. Most humans would be hard pressed to do much of anything in complete darkness. The Bible introduces light right away with &ldquo;Let there be light&rdquo; in the third verse for the Book of Genesis. For the longest time the solution to our need for light was simply sunlight, but much of human ingenuity has gone into the creation of artificial light sources. 
-
-The third set of individual needs arises from dealing with a complex and ever changing environment. As we go through life we encounter challenges that we need to overcome. This results in three fundamental individual needs:
-
-Healing. When we damage our body in some fashion it needs to heal. The human body comes equipped with extensive systems for self-healing including combating many foreign substances (including vomiting, diarrhea, antibodies). Beyond a certain range, the body needs external assistance to heal. Here too we have developed many solutions, and often group them under the term healthcare.
-
-Learning. We are born quite, well, stupid. We even have to learn relatively basic skills such as walking and the use of tools. When we encounter a new situation, we need to learn how to deal with it. We group many of the strategies for solving the need for learning under the heading education, but other solutions include self study, experimenting (gaining experience) and parenting.
-
-Meaning. As humans we have a profound psychological need for meaning in our lives. It is what keeps us going. Religion and religious beliefs have long been a key strategy for solving this need. As I have argued in the section on Humanism, there is an objective basis for human meaning rooted in knowledge. Another key strategy to solve this need comes from our interactions with other humans, including having others acknowledge our contributions to a project or simply our existence. 
-
-This last set of needs may strike you as being at a much higher level than the earlier needs. It is tempting to try and sort individual needs into a hierarchy, as Maslov did. That seems intuitively appealing but is misleading. All of these needs are essential. As a thought exercise, picture yourself in a spaceship and try to remove any of the above.
+This last set of needs may strike you as being at a much higher level than the earlier ones. The idea of sorting individual needs into a hierarchy, as Abraham Maslow did, is intuitively appealing, but such an idea is misleading – all these needs are vital. For example, Maslow put needs like calories at the bottom and needs like meaning at the top, implying that calories are more foundational than meaning. But we know from the work of Viktor Frankl and others that meaning is essential to human effort and that accessing calories requires effort. As a thought exercise, picture yourself alone in a spaceship and try to remove any of the above; you’ll soon realize that they are all equally important. 
 
 
-## Collective Needs
+## Collective Needs 
 
-Our collective needs by contrast arise from living together in societies and sharing space and resources. Meeting these needs is what allows human societies to survive and advance.
+Our collective needs arise from living together in societies and sharing space and resources. Meeting them is what allows human societies to survive and advance. 
 
-Reproduction. Individuals can survive without sex, but reproduction is a need for societies as a whole. As humanity we have already learned how to solve the need for reproduction without sex. In the future there may be altogether different solutions for reproduction in the sense of the continuation of a human society (whether here on Earth or elsewhere).
+**Reproduction**. Individuals can survive without sex, but reproduction is a need for societies as a whole. We have learned how to reproduce without sex; in the future, there may be different solutions for the continuation of a human society – whether here on Earth or elsewhere. 
 
-Allocation. Despite abundance in the digital realm, access to physical objects and resources has to be allocated. Take a chair as an example. Only one person can sit in a chair (comfortably) at a time. When there are multiple people we need a solution for allocating the chair between them. That&apos;s why allocation is a collective need. If you are by yourself you can sit on a chair whenever you want to as there is nobody else to take it up.
+**Allocation**. Access to physical resources has to be allocated. Take a chair as an example. Only one person can comfortably sit in it at a time – when there are multiple people, we need a way of allocating the chair between them. If you are by yourself, you can sit on a chair whenever you want to – allocation is a collective need. 
 
-Motivation. This may seem like an individual concept but it exists as a collective need in the following sense: Societies need to motivate their members to carry out tasks and follow rules. Even the most primitive societies have solutions for this problem often in the form of rewards and punishments. 
+**Motivation**. This may seem like an individual need, but it exists as a collective one in the sense that societies must motivate their members to carry out tasks and follow rules. Even the most primitive societies have solutions for this problem, often in the form of rewards and punishments. 
 
-Coordination. Whenever there is more than a single human involved in any activity, there is a need for coordination among the participating humans. Take a simple meeting among two people as an example. In order for the meeting to take place they need to show up at the same place at the same time. We have developed many different communication and governance mechanisms to address this need.
+**Coordination**. Whenever more than a single human is involved in any activity, there is a need for coordination. Take a simple meeting among two people as an example. In order for the meeting to take place, they need to show up at the same place at the same time. We have developed many communication and governance mechanisms to address this need. 
 
-Knowledge. As I have argued in the prior sections on Optimism and Humanism, this is the central collective human need. Without increased knowledge a society will encounter problems that it cannot solve and will be decimated as a result. History is full of examples of societies not having enough knowledge, such as the Easter Islanders or the Mayans. This is not about what any one individual has learned but rather about the body of knowledge that is accessible to society as a whole. Much of the later parts of World After Capital are about solutions for generating more knowledge faster.
+**Knowledge**. As I have argued in earlier sections on optimism and humanism, knowledge is the central collective human need – without it, a society will encounter problems that it cannot solve. History is full of examples of societies that lacked sufficient knowledge, such as the Easter Islanders or the Mayans. This is not about what any one individual has learned but rather about the body of knowledge that is accessible to society. Later in this book we will examine solutions for generating more knowledge, faster.
 
-These collective needs may strike you as overly abstract. But this is the logical result of identifying needs, instead of solutions. Governments and laws, for instance, are examples of solutions to some of these collective needs. But so are markets and firms and more recently networks and platforms. 
+These collective needs may strike you as abstract, but this is the result of identifying needs rather than their solutions, which are much more concrete and readily recognizable. For instance, governments and laws are examples of solutions to collective needs such as allocation and coordination, as are markets and firms and, more recently, networks and platforms. In other words, many of the institutions of society exist because they help us solve a collective need. 
 
 
-## Enablers
+## Enablers 
 
-Now you might ask, what about energy? Don&apos;t we have a need for energy both individually and collectively? It would seem that individually we need energy to maintain the temperature of a house. Or that collectively we need energy to power our communications infrastructure. But as those two examples show, energy is not a direct human need (either individually or collectively). Instead it is an enabler of specific solutions to our needs. Some solutions will require more energy than others. 
+You might ask about energy – isn’t it something we all need, both individually and collectively? For instance, we individually need energy to maintain the temperature of a house, and we collectively need energy to power our communications infrastructure. But as those two examples show, energy is not a direct human need but an enabler of specific solutions to our needs.
 
-Here are four foundational enablers. I am listing them in the Needs section, as readers have at times proposed these as additional needs and I had in a prior versions included them among Collective Needs.
+Here are four foundational enablers:
 
-Energy. For the longest time humanity relied on direct sunlight as the primary source of energy. Since then we have developed many ways of generating energy, including better ways of capturing sunlight. Producing more energy and having it available in concentrated and highly regulated form via electricity has made many new solutions for human needs possible.
+**Energy**. For a long time, humans relied on direct sunlight as the primary source of energy. Since then we have developed many ways of generating energy, including better ways of capturing sunlight. Producing more energy and having it available in concentrated and highly regulated form via electricity has enabled new solutions to human needs. 
 
-Resources. In early human history all resources were simply found in nature. Later we started both growing and extracting resources. Many modern solutions have been made possible by access to new kinds of resources. For instance, mobile phones give us new solutions to individual and collective needs. Building mobile phones is enabled in part by some esoteric raw materials, such as so-called rare-earth elements. 
+**Resources**. In early human history, all resources were found in nature; later, we started growing and extracting resources. Many modern solutions have been made possible by access to new kinds of resources. Mobile phones, for instance, provide new solutions to individual and collective needs – they are made possible by the existence of some esoteric raw materials, including so-called rare-earth elements. 
 
-Transformation. Energy and resources alone are not enough though. To enable most solutions we need to figure out how to use energy to transform resources. This involves chemical and physical processes. Capital, as in physical capital such as machines, has been a crucial enabler for many new solutions to human needs. For instance, a knitting machine can transform yarns into clothing at high velocity. Clothing is one of our key solutions for maintaining the human operating environment.
+**Transformation**. Energy and resources alone are not enough, though – to enable most solutions, we need to figure out how to use the former to transform the latter. This involves chemical and physical processes. Physical capital, in the shape of machines, has been a crucial enabler of many new solutions to human needs. For instance, a knitting machine can quickly transform yarn into clothing, one of our key solutions for maintaining the human operating environment. 
 
-Transportation. The final foundational enabler is the ability to move stuff (using stuff broadly to include people). This is another area in which we have made great progress over time, going from human powered transportation to animal powered to machine powered, including planes, trains and automobiles.
+**Transportation**. The final foundational enabler is the ability to move stuff, including people. This is another area in which we have made great progress, going from human-powered to animal-powered to machine-powered transportation.
 
-Again I have chosen these enablers at a high degree of abstraction on purpose. Coal-fired power plants provide energy (in the form of electricity) and so do solar panels today and nuclear fusion at some point in the future. These three examples have dramatically different characteristics but they all are fundamentally energy enablers. 
+As with the case of needs, I have deliberately chosen enablers that have a high degree of abstraction. Coal-fired power plants provide energy, as do solar panels – and nuclear fusion will do the same at some point in the future. These three examples have dramatically different characteristics, but they are all energy enablers.
 
-This is my current working version of needs (and enablers). I have now revised this section fairly substantially for a second time. And while I fully expect further changes, I believe it now properly sets up my argument that there is sufficient productive capital in the world for meeting our individual and collective needs, including further development of the four enablers.
-
+While I expect further changes, I believe that my current version of needs and enablers satisfies my argument that there is sufficient productive capital in the world. To turn this into a more quantitative approach, though, we need to consider the size and growth of the human population.
