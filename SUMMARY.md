@@ -24,7 +24,8 @@
 
 * [Part Three: Attention Is Scarce](part-three/README.md)
     * [Attention](part-three/Attention.md)
-    * [Labor](part-three/Labor.md)
+    * [Misallocation](part-three/Misallocation.md)
+    * [Trapped](part-three/Trapped.md)
     * [Limits of Capitalism](part-three/Limits.md)
     * [Power of Knowledge](part-three/Power.md)
 
