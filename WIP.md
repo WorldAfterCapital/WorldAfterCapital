@@ -1,6 +1,6 @@
 # Work in Progress
 
-This book is a work in progress. I am currently in the midst of working through the entire book with an editor. The first half, up to and including Part Three, have been updated as a result. I will be tackling the second half in the coming weeks (as a result you may find some inconsistencies).
+This book is a work in progress. I am currently in the midst of working through the entire book with an editor. The first half, up to and including Part Three, have been updated as a result. I will be tackling the second half in the coming weeks (as a result you may find some inconsistencies). References are currently broken and will be fixed in a later pass.
 
 The process of writing in this way is an example of what I call the &ldquo;Knowledge Loop&rdquo; in the book. The Knowledge Loop consists of learning, creating and sharing. My writing is based on what I have learned. By sharing early, others can learn from my ideas and I, in turn, can learn from their feedback.
 
