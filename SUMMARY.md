@@ -9,12 +9,17 @@
 * [Digital Technology](Digital.md)
 
 * [Part One: Laying a Foundation](part-one/README.md)
+    * [Knowledge](part-one/Knowledge.md)
     * [Optimism](part-one/Optimism.md)
+    * [Choices](part-one/Choices.md)
     * [Humanism](part-one/Humanism.md)
     * [Scarcity](part-one/Scarcity.md)
+    * [History](part-one/History.md)
+    * [Plan of Attack](part-one/Plan.md)
     * [Needs](part-one/Needs.md)
 
 * [Part Two: Getting Past Capital](part-two/README.md)
+    * [Needs](part-two/Needs.md)
     * [Population](part-two/Population.md)
     * [Capital](part-two/Capital.md)
     * [Labor](part-two/Labor.md)

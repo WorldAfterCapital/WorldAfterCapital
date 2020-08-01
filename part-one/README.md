@@ -1,11 +1,9 @@
 # Part One: Laying a Foundation
 
-In an earlier version of this book I attempted to skip any philosophical exposition and jump right into the impact of digital technology. While that may make for more gripping reading, it resulted in the verbal equivalent of building a skyscraper without a foundation: rapid initial progress followed by total collapse.
-
-With digital technology inflating the space of the possible, we need to establish some principles. Otherwise we will misread the trends and phenomena that are already happening today. Instead of exploring the new space of the possible for the benefit of all of humanity, we will instead try to bend it to fit existing economic and social systems.
-
-What follows is my attempt to establish a firm foundation for building a future grounded in optimism and humanism.  I explain why the power of knowledge is the source of optimism as a principle, and why the existence of knowledge provides an objective basis for humanism.  Much of my thinking about this has been deeply influenced by the writing of David Deutsch, in particular his book &ldquo;The Beginning of Infinity&rdquo; [[13]](/References.md#ref-DEUT).
-
-Furthermore, to argue that capital is no longer scarce and that attention now is, I provide a definition and an analysis of scarcity that are not based on money and prices, but rather on needs. Finally, to support this argument, I propose a catalog of our individual and collective basic needs as humans.  
-
-With these foundations in place, we can then fully appreciate how the power of digital technology enables the Knowledge Age.
+In an early draft of this book, I discussed the impact of digital technology without first including any philosophical explanation for the situation we find ourselves in. The result was the literary equivalent of building a skyscraper without laying solid foundations: rapid progress followed by total collapse.
+ 
+With digital technology so fundamentally expanding what we are able to do, we must establish some basic principles if we are to avoid misinterpreting current trends and phenomena. These principles will allow us to truly explore this new ‘space of the possible’ and the benefits that it might bring, instead of limiting and bending the technology to fit our existing economic and social systems.
+ 
+What follows is an attempt to establish a firm foundation for how we might build a future, and one that is grounded in a clear set of values. I start with a brief definition of knowledge, a term I use extensively and in a way that is somewhat different from common usage. I will then explain the relationship between optimism and knowledge, as well as the importance of choices in shaping our future. This is followed by a discussion of why the existence of knowledge provides an objective basis for humanism, which sets it apart from other religious and philosophical narratives. Much of my thinking in this area has been influenced by the writing of David Deutsch, and in particular his book The Beginning of Infinity [13], which explores the history, philosophy and power of explanations.
+ 
+I will then provide a definition of scarcity that is grounded in human needs rather than based on money and prices, using this definition to show how technology has shifted scarcity throughout history, leading to dramatic change in how we live. From there, the rest of the book lays out a plan of attack.
