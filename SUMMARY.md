@@ -34,10 +34,13 @@
     * [Informational Freedom](part-four/Informational.md)
     * [Psychological Freedom](part-four/Psychological.md)
 
-* [Part Five: Taking Responsibility](part-five/README.md)
-    * [Democracy](part-five/Democracy.md)
-    * [Responsibility](part-five/Responsibility.md)
-    * [Urgency](part-five/Urgency.md)
+* [Part Five: Taking Action](part-five/README.md)
+    * [Growing Mindfulness](part-five/Mindfulness.md)
+    * [Fighting the Climate Crisis](part-five/Climate.md)
+    * [Defending Democracy](part-five/Democracy.md)
+    * [Fostering Decentralization](part-five/Decentralization.md)
+    * [Improving Learning](part-five/Learning.md)
+    * [Promoting and Living Humanism](part-five/Humanism.md)
 
 * [Conclusion](Conclusion.md)
 * [Acknowledgments](Acks.md)
