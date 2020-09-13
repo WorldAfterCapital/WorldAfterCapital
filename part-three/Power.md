@@ -53,5 +53,5 @@ To achieve the promise of the digital knowledge loop and avoid its peril will re
 
 The transition, however, will be difficult because the Industrial Age is a system of many interlocking parts, and systems have a lot of resistance to change. As we saw earlier, simply harnessing digital technology to the existing system results in a hugely uneven distribution of power, income and wealth. And even worse, it tilts the digital knowledge loop away from its promise and towards peril. 
 
-The human species is facing problems that we can only overcome if we use digital technology to alleviate rather than worsen attention scarcity. We must the reap promise and limit the perils of digital technology for the knowledge loop. In order to accomplish the transition into the Knowledge Age, we need to make dramatic changes in regulation and self-regulation, and this is what we will examine in Part Four.
+The human species is facing problems that we can only overcome if we use digital technology to alleviate rather than worsen attention scarcity. We must reap the promise and limit the perils of digital technology for the knowledge loop. In order to accomplish the transition into the Knowledge Age, we need to make dramatic changes in regulation and self-regulation, and this is what we will examine in Part Four.
 
