@@ -6,7 +6,7 @@ Many people in the US are not free in this sense. A recent survey asked responde
 
 If you are not economically free, you are not able to participate freely in the knowledge loop, which is why economic freedom is a cornerstone of the Knowledge Age. We must make people economically free in order that they have the time to learn new knowledge, from practical skills to the latest theoretical physics. We need them to create new knowledge using what they have learned. And finally, we need them to share this knowledge with others. 
 
-We have massive problems to overcome, including the current COVID-19 pandemic and most of all the climate crisis, and participation in the knowledge loop has never been more important. To enable us to do so, we must be able to embrace automation rather feel threatened by it. 
+We have massive problems to overcome, including the current COVID-19 pandemic and most of all the climate crisis, and participation in the knowledge loop has never been more important. To enable us to do so, we must be able to embrace automation rather than feel threatened by it. 
 
 ## Universal Basic Income
 
