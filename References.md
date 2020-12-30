@@ -1,5 +1,7 @@
 # References
 
+NOTE: The references are currently out of date and will be revised shortly
+
 ### [1] [Agrarian Society](https://en.wikipedia.org/wiki/Agrarian_society) {#ref-WIKIAS}
 
 > Wikipedia, 2017
