@@ -28,7 +28,8 @@ The second set of individual needs relates to the operating environment for huma
 **Light**. Most humans would be hard-pressed to achieve much in complete darkness. For a long time, our need for light was met mainly by sunlight, but much human ingenuity has gone into the creation of artificial light sources.
  
 The third set of individual needs arises from how we deal with a complex and ever-changing environment. As we go through life, we all encounter challenges that we need to overcome, resulting in three fundamental individual needs: 
-Healing. Whenever we damage our body, it needs to heal. The human body comes equipped with extensive systems for self-healing, but beyond a certain range it needs external assistance. We have developed many solutions, which are often grouped under the term ‘healthcare’. 
+
+**Healing**. Whenever we damage our body, it needs to heal. The human body comes equipped with extensive systems for self-healing, but beyond a certain range it needs external assistance. We have developed many solutions, which are often grouped under the term ‘healthcare’. 
 
 **Learning**. When we are born, we are quite incompetent – we have to learn basic skills, such as walking and how to use even the simplest tools. When we encounter a new situation, we have to learn how to deal with it. We group many of the strategies for meeting the need for learning under the heading ‘education’, but other solutions include experimenting to gain experience, self-study and parenting. 
 
