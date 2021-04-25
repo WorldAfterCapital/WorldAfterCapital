@@ -1,6 +1,6 @@
 # Democracy
 
-What is the political process by which we should achieve the profound changes that are required? We are seeing some leaders emerge in this period of transition who provide simplistic, populist answers to difficult questions, advocate a return to the past. There is a danger around the world, including here in the United States, that we will slide into dictatorship and other forms of autocratic government.
+What is the political process by which we should achieve the profound changes that are required? We are seeing some leaders emerge in this period of transition who provide simplistic, populist answers to difficult questions, advocating a return to the past. There is a danger around the world, including here in the United States, that we will slide into dictatorship and other forms of autocratic government.
 
 Democracy is the only system of government in which the knowledge loop can function to its full potential. Democracy allows new policies to be tested, with a peaceful transition to another set of policies if they don’t work. As tempting as a quick autocratic fix might seem, we need to figure out what it takes to have a working democracy. Some things seem obvious, such as limiting the influence of money in politics. 
 

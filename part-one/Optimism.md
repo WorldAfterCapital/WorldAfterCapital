@@ -6,7 +6,7 @@ When I started my blog over a decade ago, I called myself a “technology optimi
 
 This book is fundamentally optimistic, which is partly a reflection of my personality. I can’t see how it would be possible to be a venture capitalist as a pessimist. You would find yourself focusing on the reasons why a particular startup would be unlikely to succeed and as a result would never make an investment. 
 
-I want to be clear about this apparent bias from the start. Optimism, however, is much more than a personal bias—it is essential for human knowledge. Acts of knowledge creation, such inventing a new technology or writing a new song, are profoundly optimistic. They assume that problems can be solved, and that art will impact the audience (which is true even for a pessimistic song). Optimism is the attitude that progress is possible.
+I want to be clear about this apparent bias from the start. Optimism, however, is much more than a personal bias—it is essential for human knowledge. Acts of knowledge creation, such as inventing a new technology or writing a new song, are profoundly optimistic. They assume that problems can be solved, and that art will impact the audience (which is true even for a pessimistic song). Optimism is the attitude that progress is possible.
 
 Progress has become a loaded term. After all, despite our technological achievements, aren’t humans also responsible for the many diseases of civilization, for the extinction of countless species, and potentially for our own demise through climate change? Without a doubt we have caused tremendous suffering throughout human history, and we are currently faced with huge problems including a global pandemic and the ongoing climate crisis. But what is the alternative to trying to tackle these?
 
