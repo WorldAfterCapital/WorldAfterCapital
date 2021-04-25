@@ -1,4 +1,4 @@
-# Part Three: Enhancing Freedom
+# Part Four: Enhancing Freedom
 
 My first major aim in writing this book was to establish that we are currently experiencing a period of non-linear change, and my second aim is to outline a plan for our transition to the Knowledge Age. Our challenge is to overcome the limits of capitalism and move away from a society centered on the job loop toward one that instead embraces the knowledge loop. This section of *The World After Capital* will propose regulatory changes that would increase human freedom and unlock the promise of the digital knowledge loop. There are three components to this:
  
