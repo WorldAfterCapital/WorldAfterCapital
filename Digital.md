@@ -2,7 +2,7 @@
 
 Billions of people all over the world carry around smartphones, powerful computers that are connected to a global network (the Internet). We often spend many hours a day on these devices, whether playing games or carrying out work. And yet despite the growing ubiquity of digital technology, people often find it difficult to understand what exactly makes it so distinctively powerful. Some have even derided digital technology, pointing to services such as Twitter and arguing that they are inconsequential when compared to, say, the invention of vaccines. 
 
-It is nonetheless becoming increasingly difficult to ignore digital technology’s disruptiveness. For example, while many previously long-established businesses are struggling, including newspapers and retailers, digital technology companies such Facebook, Apple, Amazon, Netflix and Google are now among the world’s most highly valued [1]. 
+It is nonetheless becoming increasingly difficult to ignore digital technology’s disruptiveness. For example, while many previously long-established businesses are struggling, including newspapers and retailers, digital technology companies such Facebook, Apple, Amazon, Netflix and Google are now among the world’s most highly valued [TEST1]. 
 
 Digital technology turns out to possess two unique characteristics that explain why it dramatically expands the ‘space of the possible’ for humanity, going far beyond anything that was previously possible. These are *zero marginal cost* and the *universality of computation*. 
 
@@ -29,7 +29,7 @@ We are not used to zero marginal cost: most of our existing economics depends on
 
 Zero marginal cost is only one property of digital technology that dramatically expands the space of the possible; the second is in some ways even more amazing.
  
-Computers are universal machines. I use this term in a precise sense: anything that can be computed in the universe can in principle be computed by the kind of machine that we already have, given enough memory and time. We have known this since Alan Turing’s groundbreaking work on computation in the middle of the last century. He invented an abstract version of a computer that we now call a Turing machine [2], before coming up with a proof to show that this simple machine could compute anything [3]. 
+Computers are universal machines. I use this term in a precise sense: anything that can be computed in the universe can in principle be computed by the kind of machine that we already have, given enough memory and time. We have known this since Alan Turing’s groundbreaking work on computation in the middle of the last century. He invented an abstract version of a computer that we now call a Turing machine [TEST2], before coming up with a proof to show that this simple machine could compute anything [3]. 
 
 By “computation,” I mean any process that takes information inputs, executes a series of processing steps, and produces information outputs. That is—for better or worse—also much of what a human brain does: it receives inputs via nerves, carries out some internal processing and produces outputs. In principle, a digital machine can accomplish every computation that a human brain can. Those brain computations include something as simple and everyday as recognizing someone’s face (inputs: image, output: name) to something as complicated as diagnosing disease (inputs: symptoms and test results, output: differential diagnosis).
 
