@@ -9,11 +9,11 @@ In an early draft of *The World After Capital*, I grouped needs into categories 
 
 These are the basic needs of the human body and mind, without which individual survival is impossible. A single individual has these needs even when they are completely isolated, such as if they are traveling alone in a spaceship. The first set of individual needs relates to keeping our bodies powered. These include:
 
-**Oxygen**. On average, humans need about 550 liters of oxygen every day [21], depending on the size of our body and physical exertion. Our most common way of meeting this need is breathing air. Although that may sound obvious, we have developed other solutions through technology – for example, the blood of patients struggling to breathe can be oxygenated externally.
+**Oxygen**. On average, humans need about 550 liters of oxygen every day ("How Much Oxygen Does a Person Consume in a Day?", 2000), depending on the size of our body and physical exertion. Our most common way of meeting this need is breathing air. Although that may sound obvious, we have developed other solutions through technology – for example, the blood of patients struggling to breathe can be oxygenated externally.
 
-**Water**. We need to ingest two or three liters of water per day to stay hydrated [22], depending on factors such as body size, exertion and temperature. In addition to drinking water and fluids that contain it, we have other solutions for this, such as the water contained in the foods that we eat. 
+**Water**. We need to ingest two or three liters of water per day to stay hydrated ("Water: How Much Should You Drink Every Day?", 2020), depending on factors such as body size, exertion and temperature. In addition to drinking water and fluids that contain it, we have other solutions for this, such as the water contained in the foods that we eat. 
 
-**Calories**. To power our bodies, adults need between 1,500 and 3,200 calories per day [23], a need we mainly meet by eating and drinking. The best way to obtain calories, however, is surprisingly poorly understood – the mix between proteins, lipids and carbohydrates is subject to debate. 
+**Calories**. To power our bodies, adults need between 1,500 and 3,200 calories per day (U.S. Department of Agriculture and U.S. Department of Health and Human Services, 2015), a need we mainly meet by eating and drinking. The best way to obtain calories, however, is surprisingly poorly understood – the mix between proteins, lipids and carbohydrates is subject to debate. 
 
 **Nutrients**. The body cannot synthesize all the materials it requires, including certain amino acids, vitamins and minerals – these must be obtained as part of our nutrition. This is another area that is surprisingly poorly understood, meaning that the mix of nutrients we need to take in seems unsettled.
 
