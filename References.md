@@ -184,96 +184,95 @@ White, A. (2021, May 4). _Credit card debt in the U.S. hits all-time high of $93
 
 Federal Reserve Bank of St. Louis. (2021, March 11). _Nonfinancial Business; Debt Securities and Loans; Liability, Level._ FRED. https://fred.stlouisfed.org/series/TBSDODNS
 
-Federal Reserve Bank of St. Louis. (2021, March 11). Domestic Financial Sectors; Debt Securities and Loans; Liability, Level. FRED. https://fred.stlouisfed.org/series/DODFS
+Federal Reserve Bank of St. Louis. (2021, March 11). _Domestic Financial Sectors; Debt Securities and Loans; Liability, Level._ FRED. https://fred.stlouisfed.org/series/DODFS
 
-Napster Settlement Offer Rejected. (2001, March 6). CBS News. https://www.cbsnews.com/news/napster-settlement-offer-rejected/
+_Napster Settlement Offer Rejected._ (2001, March 6). CBS News. https://www.cbsnews.com/news/napster-settlement-offer-rejected/
 
-Kemp, S. (2020, January 30). Digital 2020: Global Digital Overview. DataReportal – Global Digital Insights. https://datareportal.com/reports/digital-2020-global-digital-overview
+Kemp, S. (2020, January 30). _Digital 2020: Global Digital Overview._ DataReportal – Global Digital Insights. https://datareportal.com/reports/digital-2020-global-digital-overview
 
-Roy, P. (2019, March 18). Mobile data: Why India has the world’s cheapest. BBC News. https://www.bbc.com/news/world-asia-india-47537201
+Roy, P. (2019, March 18). _Mobile data: Why India has the world’s cheapest._ BBC News. https://www.bbc.com/news/world-asia-india-47537201
 
-MIMO. (2020, August 29). In Wikipedia. https://en.wikipedia.org/w/index.php?title=MIMO&oldid=975685031
+MIMO. (2020, August 29). In _Wikipedia_. https://en.wikipedia.org/w/index.php?title=MIMO&oldid=975685031
 
-Great Firewall. (2020, October 2). In Wikipedia. https://en.wikipedia.org/wiki/Great_Firewall
+Great Firewall. (2020, October 2). In _Wikipedia_. https://en.wikipedia.org/wiki/Great_Firewall
 
-Wenger, A. (2017, July 31). VPNs and Informational Freedom. Continuations by Albert Wenger. https://continuations.com/post/163632347545/vpns-and-informational-freedom
+Wenger, A. (2017, July 31). _VPNs and Informational Freedom._ Continuations by Albert Wenger. https://continuations.com/post/163632347545/vpns-and-informational-freedom
 
-Wenger, A. (2017, March 24). Government Just Gave Your ISP Even More Power: You Can Take it Back! Continuations by Albert Wenger. https://continuations.com/post/158773876945/yesterday-the-republican-controlled-senate-voted#_=_
+Wenger, A. (2017, March 24). _Government Just Gave Your ISP Even More Power: You Can Take it Back!_ Continuations by Albert Wenger. https://continuations.com/post/158773876945/yesterday-the-republican-controlled-senate-voted#_=_
 
-Vincent, J. (2016, February 8). Facebook’s Free Basics service has been banned in India. The Verge. https://www.theverge.com/2016/2/8/10913398/free-basics-india-regulator-ruling
+Vincent, J. (2016, February 8). _Facebook’s Free Basics service has been banned in India._ The Verge. https://www.theverge.com/2016/2/8/10913398/free-basics-india-regulator-ruling
 
-Tim Berners-Lee. (n.d.). W3C. https://www.w3.org/People/Berners-Lee/
+_Tim Berners-Lee._ (n.d.). W3C. https://www.w3.org/People/Berners-Lee/
 
-Whitford, E. (2015, September 10). Judge: Uber’s E-Hails Are Legal, Taxi Industry Must Be “Wary.” Gothamist. https://gothamist.com/news/judge-ubers-e-hails-are-legal-taxi-industry-must-be-wary
+Whitford, E. (2015, September 10). _Judge: Uber’s E-Hails Are Legal, Taxi Industry Must Be “Wary.”_ Gothamist. https://gothamist.com/news/judge-ubers-e-hails-are-legal-taxi-industry-must-be-wary
 
-Manthorpe, R. (2018, April 17). What is Open Banking and PSD2? WIRED explains. WIRED UK. https://www.wired.co.uk/article/open-banking-cma-psd2-explained#:%7E:text=Open%20Banking%20also%20part%20of,Payment%20Services%20Directive%2C%20or%20PSD2.&text=The%20difference%20is%20that%20whereas,so%20in%20a%20standard%20format.
+Manthorpe, R. (2018, April 17). _What is Open Banking and PSD2? WIRED explains_. WIRED UK. https://www.wired.co.uk/article/open-banking-cma-psd2-explained#:%7E:text=Open%20Banking%20also%20part%20of,Payment%20Services%20Directive%2C%20or%20PSD2.&text=The%20difference%20is%20that%20whereas,so%20in%20a%20standard%20format.
 
-Nipps, K. (2014). Cum privilegio: Licensing of the Press Act of 1662. The Library Quarterly, 84(4), 494–500. https://doi.org/10.1086/677787
+Nipps, K. (2014). _Cum privilegio: Licensing of the Press Act of 1662._ The Library Quarterly, 84(4), 494–500. https://doi.org/10.1086/677787
 
-Deazley, R. (2004). On the Origin of the Right to Copy: Charting the Movement of Copyright Law in Eighteenth Century Britain (1695–1775) (First Edition). Hart Publishing.
+Deazley, R. (2004). _On the Origin of the Right to Copy: Charting the Movement of Copyright Law in Eighteenth Century Britain_ (1695–1775) (First Edition). Hart Publishing.
 
-U.S. Copyright Office. (2019, December). Circular 1: Copyright Basics,” U.S. Copyright Office. https://www.copyright.gov/circs/circ01.pdf.
+U.S. Copyright Office. (2019, December). _Circular 1: Copyright Basics,” U.S. Copyright Office._ https://www.copyright.gov/circs/circ01.pdf.
 
-Slaton, J. (1999, January 13). A Mickey Mouse Copyright Law? Wired. https://www.wired.com/1999/01/a-mickey-mouse-copyright-law/
+Slaton, J. (1999, January 13). _A Mickey Mouse Copyright Law?_ Wired. https://www.wired.com/1999/01/a-mickey-mouse-copyright-law/
 
-Andrews, E. (2018, September 1). What is the oldest known piece of music? HISTORY. https://www.history.com/news/what-is-the-oldest-known-piece-of-music
+Andrews, E. (2018, September 1). _What is the oldest known piece of music?_ HISTORY. https://www.history.com/news/what-is-the-oldest-known-piece-of-music
 
-Wulstan, D. (1971). The Earliest Musical Notation. Music & Letters, 52(4), 365-382. Retrieved May 8, 2021, from http://www.jstor.org/stable/734711
+Wulstan, D. (1971). _The Earliest Musical Notation. Music & Letters,_ 52(4), 365-382. Retrieved May 8, 2021, from http://www.jstor.org/stable/734711
 
-Smith, D. (2020, August 27). Despite Streaming, US Recorded Music Revenues Still Down 50% From 1999 Peaks. Digital Music News. https://www.digitalmusicnews.com/2020/08/27/recorded-music-revenues-decrease/
+Smith, D. (2020, August 27). _Despite Streaming, US Recorded Music Revenues Still Down 50% From 1999 Peaks._ Digital Music News. https://www.digitalmusicnews.com/2020/08/27/recorded-music-revenues-decrease/
 
-Johnson, S. (2015, August 19). The Creative Apocalypse That Wasn’t. The New York Times. https://www.nytimes.com/2015/08/23/magazine/the-creative-apocalypse-that-wasnt.html
+Johnson, S. (2015, August 19). _The Creative Apocalypse That Wasn’t._ The New York Times. https://www.nytimes.com/2015/08/23/magazine/the-creative-apocalypse-that-wasnt.html
 
-Sony Music - Overview, News & Competitors. (n.d.). ZoomInfo. https://www.zoominfo.com/c/sony-music-entertainment/253920496
+_Sony Music - Overview, News & Competitors._ (n.d.). ZoomInfo. https://www.zoominfo.com/c/sony-music-entertainment/253920496
 
-Universal Music - Overview, News & Competitors. (n.d.). ZoomInfo. https://www.zoominfo.com/c/universal-music-group/122060886
+_Universal Music - Overview, News & Competitors._ (n.d.). ZoomInfo. https://www.zoominfo.com/c/universal-music-group/122060886
 
-Warner Music Group - Company Profile and News, (n.d.). Bloomberg. https://www.bloomberg.com/profile/company/WMG:US
+_Warner Music Group - Company Profile and News, (n.d.)._ Bloomberg. https://www.bloomberg.com/profile/company/WMG:US
 
-Kinsella, S. (2013, December 1). Study: Most Important Innovations Are Not Patented. The Center for the Study of Innovative Freedom. http://c4sif.org/2013/11/study-most-important-innovations-are-not-patented/
+Kinsella, S. (2013, December 1). _Study: Most Important Innovations Are Not Patented._ The Center for the Study of Innovative Freedom. http://c4sif.org/2013/11/study-most-important-innovations-are-not-patented/
 
-History of patent law. (2020, August 14). In Wikipedia. https://en.wikipedia.org/w/index.php?title=History_of_patent_law&oldid=972938791
+History of patent law. (2020, August 14). In _Wikipedia_. https://en.wikipedia.org/w/index.php?title=History_of_patent_law&oldid=972938791
 
-Boldrin, M., & Levine, D. K. (2010). Against Intellectual Monopoly (1st ed.). 
-Cambridge University Press.
+Boldrin, M., & Levine, D. K. (2010). _Against Intellectual Monopoly_ (1st ed.). Cambridge University Press.
 
-Next Gen Seek. (2021, April 26). Comparing Price and Tech. Specs. of Illumina MiSeq, Ion Torrent PGM, 454 GS Junior, and PacBio RS. http://nextgenseek.com/2012/08/comparing-price-and-tech-specs-of-illumina-miseq-ion-torrent-pgm-454-gs-junior-and-pacbio-rs/
+Next Gen Seek. (2021, April 26). _Comparing Price and Tech. Specs. of Illumina MiSeq, Ion Torrent PGM, 454 GS Junior, and PacBio RS._ http://nextgenseek.com/2012/08/comparing-price-and-tech-specs-of-illumina-miseq-ion-torrent-pgm-454-gs-junior-and-pacbio-rs/
 
-Illumina Next Generation Sequencing. (2021). Science Exchange. https://www.scienceexchange.com/marketplace/illumina-ngs?page=1
+_Illumina Next Generation Sequencing._ (2021). Science Exchange. https://www.scienceexchange.com/marketplace/illumina-ngs?page=1
 
-Willyard, C. (2019, December 20). Lyme Vaccines Show New Promise, and Face Old Challenges. Undark Magazine. https://undark.org/2019/10/02/new-landscape-lyme-vaccines/
+Willyard, C. (2019, December 20). _Lyme Vaccines Show New Promise, and Face Old Challenges._ Undark Magazine. https://undark.org/2019/10/02/new-landscape-lyme-vaccines/
 
-Liptak, A. (2017, May 22). Supreme Court Ruling Could Hinder ‘Patent Trolls.’ The New York Times. https://www.nytimes.com/2017/05/22/business/supreme-court-patent-lawsuit.html#:%7E:text=WASHINGTON%20%E2%80%94%20The%20Supreme%20Court%20on,royalties%20and%20sue%20for%20damages
+Liptak, A. (2017, May 22). _Supreme Court Ruling Could Hinder ‘Patent Trolls.’_ The New York Times. https://www.nytimes.com/2017/05/22/business/supreme-court-patent-lawsuit.html#:%7E:text=WASHINGTON%20%E2%80%94%20The%20Supreme%20Court%20on,royalties%20and%20sue%20for%20damages
 
-Doyle, A., & Scrutton, A. (2016, April 12). Privacy, what privacy? Many Nordic tax records are a phone call away. Reuters. https://www.reuters.com/article/us-panama-tax-nordics-idUSKCN0X91QE
+Doyle, A., & Scrutton, A. (2016, April 12). _Privacy, what privacy? Many Nordic tax records are a phone call away._ Reuters. https://www.reuters.com/article/us-panama-tax-nordics-idUSKCN0X91QE
 
-Zorabedian, J. (2015, July 17). Why this doctor posted his medical history online for anyone to see. Naked Security. https://nakedsecurity.sophos.com/2015/07/17/why-this-doctor-posted-his-medical-history-online-for-anyone-to-see/
+Zorabedian, J. (2015, July 17). _Why this doctor posted his medical history online for anyone to see._ Naked Security. https://nakedsecurity.sophos.com/2015/07/17/why-this-doctor-posted-his-medical-history-online-for-anyone-to-see/
 
-McCandless, D. (2020, December 9). World’s Biggest Data Breaches & Hacks. Information Is Beautiful. https://informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/
+McCandless, D. (2020, December 9). _World’s Biggest Data Breaches & Hacks._ Information Is Beautiful. https://informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/
 
-S. (2013, October 30). Culture Shock in China - Bathrooms. Chinese Language Blog. https://blogs.transparent.com/chinese/culture-shock-in-china-bathrooms/
+S. (2013, October 30). _Culture Shock in China - Bathrooms._ Chinese Language Blog. https://blogs.transparent.com/chinese/culture-shock-in-china-bathrooms/
 
-McClintock, L. (2020, March 10). How Meditation Changes the Brain. Psych Central. https://psychcentral.com/blog/how-meditation-changes-the-brain#1
+McClintock, L. (2020, March 10). _How Meditation Changes the Brain._ Psych Central. https://psychcentral.com/blog/how-meditation-changes-the-brain#1
 
-Cognitive behavioral therapy. (2020, September 29). In Wikipedia. https://en.wikipedia.org/w/index.php?title=Cognitive_behavioral_therapy&oldid=980954468
+Cognitive behavioral therapy. (2020, September 29). In _Wikipedia_. https://en.wikipedia.org/w/index.php?title=Cognitive_behavioral_therapy&oldid=980954468
 
-Skidelsky, R., & Skidelsky, E. (2013). How Much is Enough?: Money and the Good Life. Other Press.
+Skidelsky, R., & Skidelsky, E. (2013). _How Much is Enough?: Money and the Good Life._ Other Press.
 
-Orlo Salon. (n.d.). Orlo Salon Price List. Orlo Salon. http://orlosalon.com/#
+Orlo Salon. (n.d.). _Orlo Salon Price List._ Orlo Salon. http://orlosalon.com/#
 
-Cross, H. (2020, June 17). 9 Most Expensive New York City Restaurants. TripSavvy. https://www.tripsavvy.com/most-expensive-new-york-city-restaurants-1613415
+Cross, H. (2020, June 17). _9 Most Expensive New York City Restaurants._ TripSavvy. https://www.tripsavvy.com/most-expensive-new-york-city-restaurants-1613415
 
-Szalavitz, M. (2017, June 14). Why Disappointment Is So Devastating: Dopamine, Addiction, and the Hedonic Treadmill. Pacific Standard. https://psmag.com/news/why-disappointment-is-so-devastating-dopamine-addiction-and-the-hedonic-treadmill
+Szalavitz, M. (2017, June 14). _Why Disappointment Is So Devastating: Dopamine, Addiction, and the Hedonic Treadmill._ Pacific Standard. https://psmag.com/news/why-disappointment-is-so-devastating-dopamine-addiction-and-the-hedonic-treadmill
 
-Wenger, A. (2011, October 3). Needed: The Opposing View Reader. Continuations by Albert Wenger. https://continuations.com/post/10979468250/needed-the-opposing-view-reader
+Wenger, A. (2011, October 3). _Needed: The Opposing View Reader._ Continuations by Albert Wenger. https://continuations.com/post/10979468250/needed-the-opposing-view-reader
 
-Pariser, E. (2021). The Filter Bubble. Penguin Random House.
+Pariser, E. (2021). _The Filter Bubble._ Penguin Random House.
 
-Kahneman, D. (2013). Thinking, Fast and Slow (1st ed.). Farrar, Straus and Giroux.
+Kahneman, D. (2013). _Thinking, Fast and Slow_ (1st ed.). Farrar, Straus and Giroux.
 
 
-Part Five: Taking Action
+## Part Five: Taking Action
 
-Powers, W., & Roy, D. (2018, March 19). The Incredible Jun: A Town that Runs on Social Media. Medium. https://medium.com/@socialmachines/the-incredible-jun-a-town-that-runs-on-social-media-49d3d0d4590
+Powers, W., & Roy, D. (2018, March 19). _The Incredible Jun: A Town that Runs on Social Media._ Medium. https://medium.com/@socialmachines/the-incredible-jun-a-town-that-runs-on-social-media-49d3d0d4590
 
-Haverstock, E. (2020, April 14). Changing FDA rules leave startups in limbo over at-home COVID-19 tests. PitchBook. https://pitchbook.com/news/articles/changing-fda-rules-leave-startups-in-limbo-over-at-home-covid-19-tests
+Haverstock, E. (2020, April 14). _Changing FDA rules leave startups in limbo over at-home COVID-19 tests._ PitchBook. https://pitchbook.com/news/articles/changing-fda-rules-leave-startups-in-limbo-over-at-home-covid-19-tests
