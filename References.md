@@ -116,73 +116,73 @@ Wong, J. I. (2016, April 7). _A fleet of trucks just drove themselves across Eur
 
 Kopp, C. (2021, February 12). _Creative Destruction Definition_. Investopedia. https://www.investopedia.com/terms/c/creativedestruction.asp
 
-Wenger, A. (2012, January 26). Supermodularity And Service Bundling. Continuations by Albert Wenger. https://continuations.com/post/16473794320/supermodularity-and-service-bundling
+Wenger, A. (2012, January 26). _Supermodularity And Service Bundling_. Continuations by Albert Wenger. https://continuations.com/post/16473794320/supermodularity-and-service-bundling
 
-Allison, B., & Harkins, S. (2014, November 17). Fixed Fortunes: Biggest corporate political interests spend billions, get trillions. Sunlight Foundation. https://sunlightfoundation.com/2014/11/17/fixed-fortunes-biggest-corporate-political-interests-spend-billions-get-trillions/
+Allison, B., & Harkins, S. (2014, November 17). _Fixed Fortunes: Biggest corporate political interests spend billions, get trillions._ Sunlight Foundation. https://sunlightfoundation.com/2014/11/17/fixed-fortunes-biggest-corporate-political-interests-spend-billions-get-trillions/
 
-O’Dell, R., & Penzenstadler, N. (2019, April 4). You elected them to write new laws. They’re letting corporations do it instead. Center for Public Integrity. https://publicintegrity.org/politics/state-politics/copy-paste-legislate/you-elected-them-to-write-new-laws-theyre-letting-corporations-do-it-instead/
+O’Dell, R., & Penzenstadler, N. (2019, April 4). _You elected them to write new laws. They’re letting corporations do it instead._ Center for Public Integrity. https://publicintegrity.org/politics/state-politics/copy-paste-legislate/you-elected-them-to-write-new-laws-theyre-letting-corporations-do-it-instead/
 
-Sample, I. (2018, February 14). Harvard University says it can’t afford journal publishers’ prices. The Guardian. https://www.theguardian.com/science/2012/apr/24/harvard-university-journal-publishers-prices
+Sample, I. (2018, February 14). _Harvard University says it can’t afford journal publishers’ prices._ The Guardian. https://www.theguardian.com/science/2012/apr/24/harvard-university-journal-publishers-prices
 
-Constructor theory. (2020, August 24). In Wikipedia. https://en.wikipedia.org/w/index.php?title=Constructor_theory.
+Constructor theory. (2020, August 24). In _Wikipedia_. https://en.wikipedia.org/w/index.php?title=Constructor_theory.
 
-NASA. (2018, December). Journey to Mars: Pioneering Next Steps in Space Exploration. http://www.nasa.gov/johnson/exploration/overview/
+NASA. (2018, December). _Journey to Mars: Pioneering Next Steps in Space Exploration_. http://www.nasa.gov/johnson/exploration/overview/
 
-Vosoughi, S., Roy, D., & Aral, S. (2018). The spread of true and false news online. Science, 359(6380), 1146–1151. https://doi.org/10.1126/science.aap9559
+Vosoughi, S., Roy, D., & Aral, S. (2018). _The spread of true and false news online_. Science, 359(6380), 1146–1151. https://doi.org/10.1126/science.aap9559
 
 Part Four: Enhancing Freedom
 
-Leonhardt, M. (2020, January 22). 41% of Americans would be able to cover a $1,000 emergency with savings. CNBC. https://www.cnbc.com/2020/01/21/41-percent-of-americans-would-be-able-to-cover-1000-dollar-emergency-with-savings.html
+Leonhardt, M. (2020, January 22). _41% of Americans would be able to cover a $1,000 emergency with savings._ CNBC. https://www.cnbc.com/2020/01/21/41-percent-of-americans-would-be-able-to-cover-1000-dollar-emergency-with-savings.html
 
-Board of Governors of the Federal Reserve System. (2020, May). Report on the Economic Well-Being of U.S. Households in 2019 Featuring Supplemental Data from April 2020. Federal Reserve. https://www.federalreserve.gov/publications/files/2019-report-economic-well-being-us-households-202005.pdf
+Board of Governors of the Federal Reserve System. (2020, May). _Report on the Economic Well-Being of U.S. Households in 2019 Featuring Supplemental Data from April 2020._ Federal Reserve. https://www.federalreserve.gov/publications/files/2019-report-economic-well-being-us-households-202005.pdf
 
-Backman, M. (2020, February 19). You’ll Be Shocked by How Many Americans Have No Retirement Savings at All. The Motley Fool. https://www.fool.com/retirement/2020/02/19/youll-be-shocked-by-how-many-americans-have-no-ret.aspx
+Backman, M. (2020, February 19). _You’ll Be Shocked by How Many Americans Have No Retirement Savings at All._ The Motley Fool. https://www.fool.com/retirement/2020/02/19/youll-be-shocked-by-how-many-americans-have-no-ret.aspx
 
-Discovery doctrine. (2020, September 22). In Wikipedia. https://en.wikipedia.org/w/index.php?title=Discovery_doctrine&oldid=979704205
+Discovery doctrine. (2020, September 22). In _Wikipedia_. https://en.wikipedia.org/w/index.php?title=Discovery_doctrine&oldid=979704205
 
-World Health Organization. (n.d.). Air pollution. https://www.who.int/health-topics/air-pollution#tab=tab_1
+World Health Organization. (n.d.). _Air pollution._ https://www.who.int/health-topics/air-pollution#tab=tab_1
 
-U.S. Bureau of the Census,  Statistical Abstract of the United States: 1949. (Seventh edition.) Washington, D.C., 1949
+U.S. Bureau of the Census,  _Statistical Abstract of the United States: 1949_. (Seventh edition.) Washington, D.C., 1949
 
-OECD (2021), General government spending (indicator). doi: 10.1787/a31cbf4d-en (Accessed on 07 July 2021)
+OECD (2021), _General government spending_ (indicator). doi: 10.1787/a31cbf4d-en (Accessed on 07 July 2021)
 
-Crane, J., & Marchese, K. (2015, September 2). 3D opportunity for the supply chain: Additive manufacturing delivers. Deloitte Insights. https://www2.deloitte.com/xe/en/insights/focus/3d-opportunity/additive-manufacturing-3d-printing-supply-chain-transformation.html
+Crane, J., & Marchese, K. (2015, September 2). _3D opportunity for the supply chain: Additive manufacturing delivers._ Deloitte Insights. https://www2.deloitte.com/xe/en/insights/focus/3d-opportunity/additive-manufacturing-3d-printing-supply-chain-transformation.html
 
-Orrall, J. (2020, September 27). Houses 3D-printed in just 24 hours now shipping in California. CNET. https://www.cnet.com/news/houses-3d-printed-in-just-24-hours-now-shipping-in-california/
+Orrall, J. (2020, September 27). _Houses 3D-printed in just 24 hours now shipping in California._ CNET. https://www.cnet.com/news/houses-3d-printed-in-just-24-hours-now-shipping-in-california/
 
-Macguire, B. F. E. C. (2014, October 24). Houses given away for free in Detroit. CNN. https://edition.cnn.com/2014/10/23/business/write-a-house-detroit/index.html#:%7E:text=Rocheteau%20is%20the%20first%20person,in%20the%20city’s%20Banglatown%20district
+Macguire, B. F. E. C. (2014, October 24). _Houses given away for free in Detroit._ CNN. https://edition.cnn.com/2014/10/23/business/write-a-house-detroit/index.html#:%7E:text=Rocheteau%20is%20the%20first%20person,in%20the%20city’s%20Banglatown%20district
 
-Joint Center for Housing Studies of Harvard University. (2020). America’s Rental Housing. https://www.jchs.harvard.edu/sites/default/files/Harvard_JCHS_Americas_Rental_Housing_2020.pdf
+Joint Center for Housing Studies of Harvard University. (2020). _America’s Rental Housing._ https://www.jchs.harvard.edu/sites/default/files/Harvard_JCHS_Americas_Rental_Housing_2020.pdf
 
-Bariso, J. (2020, August 19). Google Has a Plan to Disrupt the College Degree. Inc.Com. https://www.inc.com/justin-bariso/google-plan-disrupt-college-degree-university-higher-education-certificate-project-management-data-analyst.html
+Bariso, J. (2020, August 19). _Google Has a Plan to Disrupt the College Degree._ Inc.Com. https://www.inc.com/justin-bariso/google-plan-disrupt-college-degree-university-higher-education-certificate-project-management-data-analyst.html
 
-Hamblin, J. (2016, November 30). How Cubans Live as Long as Americans at a Tenth of the Cost. The Atlantic. https://www.theatlantic.com/health/archive/2016/11/cuba-health/508859/
+Hamblin, J. (2016, November 30). _How Cubans Live as Long as Americans at a Tenth of the Cost._ The Atlantic. https://www.theatlantic.com/health/archive/2016/11/cuba-health/508859/
 
-The American Academy of Actuaries. (2018, March). Prescription Drug Spending in the U.S. Health Care System. American Academy of Actuaries. https://www.actuary.org/content/prescription-drug-spending-us-health-care-system
+The American Academy of Actuaries. (2018, March). _Prescription Drug Spending in the U.S. Health Care System._ American Academy of Actuaries. https://www.actuary.org/content/prescription-drug-spending-us-health-care-system
 
-OECD. (2019). Health resources - Pharmaceutical spending. OECD Data. https://data.oecd.org/healthres/pharmaceutical-spending.htm
+OECD. (2019)._ Health resources - Pharmaceutical spending._ OECD Data. https://data.oecd.org/healthres/pharmaceutical-spending.htm
 
-Mosse, R. (2015, December 21). The Genesis Engine. Wired. https://www.wired.com/2015/12/the-genesis-engine/
+Mosse, R. (2015, December 21). _The Genesis Engine_. Wired. https://www.wired.com/2015/12/the-genesis-engine/
 
-U.S. Census Bureau. (2019, July). U.S. Census Bureau QuickFacts: United States. Census Bureau Quick Facts. https://www.census.gov/quickfacts/fact/table/US/PST045219
+U.S. Census Bureau. (2019, July). _U.S. Census Bureau QuickFacts: United States._ Census Bureau Quick Facts. https://www.census.gov/quickfacts/fact/table/US/PST045219
 
-U.S. Bureau of Economic Analysis. (2020, February). Gross Domestic Product, Fourth Quarter and Year 2019 (Second Estimate) | U.S. Bureau of Economic Analysis (BEA). https://www.bea.gov/news/2020/gross-domestic-product-fourth-quarter-and-year-2019-second-estimate
+U.S. Bureau of Economic Analysis. (2020, February). _Gross Domestic Product, Fourth Quarter and Year 2019_ (Second Estimate), U.S. Bureau of Economic Analysis (BEA). https://www.bea.gov/news/2020/gross-domestic-product-fourth-quarter-and-year-2019-second-estimate
 
-Federal Reserve Bank of St. Louis. (2021, March 25). Gross Output of All Industries. FRED. https://fred.stlouisfed.org/series/GOAI
+Federal Reserve Bank of St. Louis. (2021, March 25). _Gross Output of All Industries_. FRED. https://fred.stlouisfed.org/series/GOAI
 
-OECD. (2020). Details of Tax Revenue - United States. OECD Stats. https://stats.oecd.org/Index.aspx?DataSetCode=REVUSA
+OECD. (2020). _Details of Tax Revenue - United States_. OECD Stats. https://stats.oecd.org/Index.aspx?DataSetCode=REVUSA
 
-Military budget of the United States. (2020, September 7). In Wikipedia. https://en.wikipedia.org/w/index.php?title=Military_budget_of_the_United_States&oldid=977121615
+Military budget of the United States. (2020, September 7). In _Wikipedia_. https://en.wikipedia.org/w/index.php?title=Military_budget_of_the_United_States&oldid=977121615
 
-Stoller, M. (2020, April 9). The Cantillon Effect: Why Wall Street Gets a Bailout and You Don’t. BIG by Matt Stoller. https://mattstoller.substack.com/p/the-cantillon-effect-why-wall-street
+Stoller, M. (2020, April 9). _The Cantillon Effect: Why Wall Street Gets a Bailout and You Don’t._ BIG by Matt Stoller. https://mattstoller.substack.com/p/the-cantillon-effect-why-wall-street
 
-Federal Reserve Bank of New York. (2020). Household Debt and Credit Report. https://www.newyorkfed.org/microeconomics/hhdc.html
+Federal Reserve Bank of New York. (2020). _Household Debt and Credit Report._ https://www.newyorkfed.org/microeconomics/hhdc.html
 
-Fontinelle, A. (2021, February 11). Auto Loan Balances Hit $1.36 Trillion in 2020. Investopedia. https://www.investopedia.com/personal-finance/american-debt-auto-loan-debt/
+Fontinelle, A. (2021, February 11). _Auto Loan Balances Hit $1.36 Trillion in 2020._ Investopedia. https://www.investopedia.com/personal-finance/american-debt-auto-loan-debt/
 
-White, A. (2021, May 4). Credit card debt in the U.S. hits all-time high of $930 billion—here’s how to tackle yours with a balance transfer. CNBC. https://www.cnbc.com/select/us-credit-card-debt-hits-all-time-high/
+White, A. (2021, May 4). _Credit card debt in the U.S. hits all-time high of $930 billion—here’s how to tackle yours with a balance transfer._ CNBC. https://www.cnbc.com/select/us-credit-card-debt-hits-all-time-high/
 
-Federal Reserve Bank of St. Louis. (2021, March 11). Nonfinancial Business; Debt Securities and Loans; Liability, Level. FRED. https://fred.stlouisfed.org/series/TBSDODNS
+Federal Reserve Bank of St. Louis. (2021, March 11). _Nonfinancial Business; Debt Securities and Loans; Liability, Level._ FRED. https://fred.stlouisfed.org/series/TBSDODNS
 
 Federal Reserve Bank of St. Louis. (2021, March 11). Domestic Financial Sectors; Debt Securities and Loans; Liability, Level. FRED. https://fred.stlouisfed.org/series/DODFS
 
