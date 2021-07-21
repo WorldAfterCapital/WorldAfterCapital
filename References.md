@@ -2,77 +2,57 @@
 
 ## Digital Technology
 
-List of public corporations by market capitalization. (2020, September 1). In _Wikipedia_. 
-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://en.wikipedia.org/w/index.php?title=List_of_public_corporations_by_market_capitalization&oldid=976207594
+List of public corporations by market capitalization. (2020, September 1). In _Wikipedia_. https://en.wikipedia.org/w/index.php?title=List_of_public_corporations_by_market_capitalization&oldid=976207594
 
-Mullins, R. (2012). _What is a Turing machine?_ University of Cambridge. 
-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/turing-machine/one.html
+Mullins, R. (2012). _What is a Turing machine?_ University of Cambridge. https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/turing-machine/one.html
 
-Church–Turing thesis. (2020, August 3). In _Wikipedia_. 
-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://en.wikipedia.org/w/index.php?title=Church%E2%80%93Turing_thesis&oldid=970983529
+Church–Turing thesis. (2020, August 3). In _Wikipedia_. https://en.wikipedia.org/w/index.php?title=Church%E2%80%93Turing_thesis&oldid=970983529
 
-Jedlicka, P. (2017, October 24). _Revisiting the Quantum Brain Hypothesis: Toward Quantum (Neuro)biology?_ Frontiers. <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://www.frontiersin.org/articles/10.3389/fnmol.2017.00366/full. 
+Jedlicka, P. (2017, October 24). _Revisiting the Quantum Brain Hypothesis: Toward Quantum (Neuro)biology?_ Frontiers. https://www.frontiersin.org/articles/10.3389/fnmol.2017.00366/full. 
 
-Timpson, Christopher G. “Quantum Computers: The Church-Turing Hypothesis Versus the Turing Principle.”
-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _Alan Turing: Life and Legacy of a Great Thinker_, Springer Berlin Heidelberg, 2004, pp. 213–40, <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; http://dx.doi.org/10.1007/978-3-662-05642-4_9.
+Timpson, Christopher G. “Quantum Computers: The Church-Turing Hypothesis Versus the Turing Principle.” _Alan Turing: Life and Legacy of a Great Thinker_, Springer Berlin Heidelberg, 2004, pp. 213–40, http://dx.doi.org/10.1007/978-3-662-05642-4_9.
 
-Wright brothers. (2020, August 25). In _Wikipedia_. 
-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://en.wikipedia.org/w/index.php?title=Wright_brothers&oldid=974902146
+Wright brothers. (2020, August 25). In _Wikipedia_.https://en.wikipedia.org/w/index.php?title=Wright_brothers&oldid=974902146
 
-British Overseas Airways Corporation. (2020, September 6). In _Wikipedia_. 
-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://en.wikipedia.org/w/index.php?title=British_Overseas_Airways_Corporation&oldid=977094302
+British Overseas Airways Corporation. (2020, September 6). In _Wikipedia_. https://en.wikipedia.org/w/index.php?title=British_Overseas_Airways_Corporation&oldid=977094302
 
-Neuroscience News. (2018, December 3). _Man Versus Machine: Who Wins When It Comes to 
-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Facial Recognition?_ 
-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://neurosciencenews.com/man-machine-facial-recognition-120191/
+Neuroscience News. (2018, December 3). _Man Versus Machine: Who Wins When It Comes to Facial Recognition?_ https://neurosciencenews.com/man-machine-facial-recognition-120191/
 
-Phillips, P. J et al.,  (2018). _Face recognition accuracy of forensic examiners, super recognizers, 
-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; and face recognition algorithms._ Proceedings of the National Academy of Sciences, 
-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 115(24), 6171–6176. https://doi.org/10.1073/pnas.1721355115
+Phillips, P. J et al.,  (2018). _Face recognition accuracy of forensic examiners, super recognizers, and face recognition algorithms._ Proceedings of the National Academy of Sciences, 115(24), 6171–6176. https://doi.org/10.1073/pnas.1721355115
 
-Urmson, C. (2012, August 7). _The self-driving car logs more miles on new wheels._ Official Google Blog. 
-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://googleblog.blogspot.com/2012/08/the-self-driving-car-logs-more-miles-on.html
+Urmson, C. (2012, August 7). _The self-driving car logs more miles on new wheels._ Official Google Blog. https://googleblog.blogspot.com/2012/08/the-self-driving-car-logs-more-miles-on.html
 
-Borowiec, S. (2017, November 29). _AlphaGo seals 4–1 victory over Go grandmaster Lee Sedol._ The Guardian. 
-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://www.theguardian.com/technology/2016/mar/15/googles-alphago-seals-4-1-victory-over-grandmaster-lee-sedol
+Borowiec, S. (2017, November 29). _AlphaGo seals 4–1 victory over Go grandmaster Lee Sedol._ The Guardian. https://www.theguardian.com/technology/2016/mar/15/googles-alphago-seals-4-1-victory-over-grandmaster-lee-sedol
 
 AlphaZero. (2020, September 9). In _Wikipedia_. https://en.wikipedia.org/w/index.php?title=AlphaZero&oldid=977537226
 
-Parkin, S. (2020, April 2). _The Artificially Intelligent Doctor Will Hear You Now._ MIT Technology Review. 
-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://www.technologyreview.com/2016/03/09/8890/the-artificially-intelligent-doctor-will-hear-you-now/
+Parkin, S. (2020, April 2). _The Artificially Intelligent Doctor Will Hear You Now._ MIT Technology Review. https://www.technologyreview.com/2016/03/09/8890/the-artificially-intelligent-doctor-will-hear-you-now/
 
 ## Part One: Laying a Foundation
 
 Deutsch, D. (2011). The Beginning of Infinity: Explanations That Transform the World. Viking Adult.
 
-Ablow, K. (2015, November 18). _Was the Unabomber correct?_ Fox News. 
-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://www.foxnews.com/opinion/was-the-unabomber-correct
+Ablow, K. (2015, November 18). _Was the Unabomber correct?_ Fox News. https://www.foxnews.com/opinion/was-the-unabomber-correct
 
-Red flag traffic laws. (2020, July 2). In _Wikipedia_. 
-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://en.wikipedia.org/w/index.php?title=Red_flag_traffic_laws&oldid=965632438
+Red flag traffic laws. (2020, July 2). In _Wikipedia_. https://en.wikipedia.org/w/index.php?title=Red_flag_traffic_laws&oldid=965632438
 
-Kang, C. (2017, April 26). _F.C.C. Chairman Pushes Sweeping Changes to Net Neutrality Rules._ The New York Times. 
-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://www.nytimes.com/2017/04/26/technology/net-neutrality.html
+Kang, C. (2017, April 26). _F.C.C. Chairman Pushes Sweeping Changes to Net Neutrality Rules._ The New York Times. https://www.nytimes.com/2017/04/26/technology/net-neutrality.html
 
 Harari, Y. N. (2011). _Sapiens: A Brief History of Humankind. Penguin Random House_
 
 Malthus, T. R. (1798). _Essay on the Principle of Population._ http://www.esp.org/books/malthus/population/malthus.pdf
 
 Gold, H. (2017, February 24). _Breitbart reveals owners: CEO Larry Solov, the Mercer family and Susie Breitbart._ 
-POLITICO. 
-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://www.politico.com/blogs/on-media/2017/02/breitbart-reveals-owners-ceo-larry-solov-mercer-family-and-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; susie-breitrbart-235358
+POLITICO. https://www.politico.com/blogs/on-media/2017/02/breitbart-reveals-owners-ceo-larry-solov-mercer-family-and-susie-breitrbart-235358
 
 
 ## Part Two: Capital Is Sufficient
 
-_How much oxygen does a person consume in a day?_ (2000, April 1). HowStuffWorks. 
-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://health.howstuffworks.com/human-body/systems/respiratory/question98.htm
+_How much oxygen does a person consume in a day?_ (2000, April 1). HowStuffWorks. https://health.howstuffworks.com/human-body/systems/respiratory/question98.htm
 
-_Water: How much should you drink every day?_ (2020, October 14). Mayo Clinic. 
-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/water/art-20044256?reDate=06052021
+_Water: How much should you drink every day?_ (2020, October 14). Mayo Clinic. https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/water/art-20044256?reDate=06052021
 
-U.S. Department of Agriculture and U.S. Department of Health and Human Services. (2015, December). _2015-2020 Dietary Guidelines for
-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Americans_ (8th Edition) https://health.gov/sites/default/files/2019-09/2015-2020_Dietary_Guidelines.pdf
+U.S. Department of Agriculture and U.S. Department of Health and Human Services. (2015, December). _2015-2020 Dietary Guidelines for Americans_ (8th Edition) https://health.gov/sites/default/files/2019-09/2015-2020_Dietary_Guidelines.pdf
 
 _World Population Clock: 7.9 Billion People_ (2021) - Worldometer. (n.d.). World Meters. https://www.worldometers.info/world-population/
 
@@ -80,11 +60,9 @@ Roser, M. (2013, May 25). _Global Extreme Poverty._ Our World in Data. https://o
 
 Ritchie, H. (2019, November 13). _Land Use_. Our World in Data. https://ourworldindata.org/land-use
 
-Ausubel, J. H., Wernick, I. K., & Waggoner, P. E. (2013). _Peak Farmland and the Prospect for Land Sparing_. Population and Development
-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Review, 38, 221–242 https://doi.org/10.1111/j.1728-4457.2013.00561.x
+Ausubel, J. H., Wernick, I. K., & Waggoner, P. E. (2013). _Peak Farmland and the Prospect for Land Sparing_. Population and Development Review, 38, 221–242 https://doi.org/10.1111/j.1728-4457.2013.00561.x
 
-Ewers, R. M.,Scharlemann, J. P. W., Balmford, A., & Green, R. E. (2009). _Do increases in agricultural yield spare land for nature?_ 
-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Global Change Biology, 15(7), 1716–1726. https://doi.org/10.1111/j.1365-2486.2009.01849.x
+Ewers, R. M.,Scharlemann, J. P. W., Balmford, A., & Green, R. E. (2009). _Do increases in agricultural yield spare land for nature?_ Global Change Biology, 15(7), 1716–1726. https://doi.org/10.1111/j.1365-2486.2009.01849.x
 
 Roser, M. (2017, December 2). _Fertility Rate._ Our World in Data. https://ourworldindata.org/fertility-rate
 
@@ -92,71 +70,53 @@ Roser, M. (2019, November). _Future Population Growth._ Our World in Data. https
 
 Roser, M., & Ritchie, H. (2013, May 11). _Technological Progress._ Our World in Data. https://ourworldindata.org/technological-progress
 
-Lewis, N. (2018, December 17). _The Financial System Should Be Less Than Half The Size of Today_. Forbes. 
-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://www.forbes.com/sites/nathanlewis/2018/12/17/the-financial-system-should-be-less-than-half-the-size-of-today/
+Lewis, N. (2018, December 17). _The Financial System Should Be Less Than Half The Size of Today_. Forbes. https://www.forbes.com/sites/nathanlewis/2018/12/17/the-financial-system-should-be-less-than-half-the-size-of-today/
 
-Ramankutty, N. et al., (2018). _Trends in Global Agricultural Land Use: Implications for Environmental Health and Food Security._ 
-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Annual Review of Plant Biology, 69(1), 789–815. https://doi.org/10.1146/annurev-arplant-042817-040256
+Ramankutty, N. et al., (2018). _Trends in Global Agricultural Land Use: Implications for Environmental Health and Food Security._ Annual Review of Plant Biology, 69(1), 789–815. https://doi.org/10.1146/annurev-arplant-042817-040256
 
-Harding, R. (2020, January 23). _Vertical farming finally grows up in Japan_. Financial Times. 
-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://www.ft.com/content/f80ea9d0-21a8-11ea-b8a1-584213ee7b2b
+Harding, R. (2020, January 23). _Vertical farming finally grows up in Japan_. Financial Times. https://www.ft.com/content/f80ea9d0-21a8-11ea-b8a1-584213ee7b2b
 
 Harford, B. T. (2017, February 6). _Why the falling cost of light matters._ BBC News. https://www.bbc.com/news/business-38650976
 
-Nordhaus,W. (1994). _Do Real Output and Real Wage Measures Capture Reality? The History of Lighting Suggests Not_, 
-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cowles Foundation Discussion Papers 1078, Cowles Foundation for Research in Economics, Yale University.
+Nordhaus,W. (1994). _Do Real Output and Real Wage Measures Capture Reality? The History of Lighting Suggests Not_, Cowles Foundation Discussion Papers 1078, Cowles Foundation for Research in Economics, Yale University.
 
 Berners-Lee, M. (2019). There Is No Planet B: A Handbook for the Make or Break Years Iillustrated ed.). Cambridge University Press.
 
 ## Part Three: Attention Is Scarce
 
-Rodrick, S. (2019, December 23). _All-American Despair._ Rolling Stone. 
-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://www.rollingstone.com/culture/culture-features/suicide-rate-america-white-men-841576/.
+Rodrick, S. (2019, December 23). _All-American Despair._ Rolling Stone. https://www.rollingstone.com/culture/culture-features/suicide-rate-america-white-men-841576/.
 
 _Suicide statistics._ (2019, November 15). American Foundation for Suicide Prevention. https://afsp.org/suicide-statistics/
 
-Inglehart, R., & Norris, P. (2016). _Trump, Brexit, and the Rise of Populism: Economic Have-Nots and Cultural Backlash._ 
-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SSRN Electronic Journal. https://doi.org/10.2139/ssrn.2818659
+Inglehart, R., & Norris, P. (2016). _Trump, Brexit, and the Rise of Populism: Economic Have-Nots and Cultural Backlash._ SSRN Electronic Journal. https://doi.org/10.2139/ssrn.2818659
 
-White, R. (2019, October 7). _Ancient Maya Canals and Fields Show Early and Extensive Impacts on Tropical Forests._ UT News. 
-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://news.utexas.edu/2019/10/07/ancient-maya-canals-and-fields-show-early-and-extensive-impacts-on-tropical-forests/
+White, R. (2019, October 7). _Ancient Maya Canals and Fields Show Early and Extensive Impacts on Tropical Forests._ UT News. https://news.utexas.edu/2019/10/07/ancient-maya-canals-and-fields-show-early-and-extensive-impacts-on-tropical-forests/
 
-Simon, C. (2020, February 28). _New clues about how and why the Maya culture collapsed._ Harvard Gazette. 
-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://news.harvard.edu/gazette/story/2020/02/new-clues-about-how-and-why-the-maya-culture-collapsed/
+Simon, C. (2020, February 28). _New clues about how and why the Maya culture collapsed._ Harvard Gazette. https://news.harvard.edu/gazette/story/2020/02/new-clues-about-how-and-why-the-maya-culture-collapsed/
 
-Seligson, K. (2019, May 20). _Misreading the story of climate change and the Maya._ The Conversation. 
-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://theconversation.com/misreading-the-story-of-climate-change-and-the-maya-113829
+Seligson, K. (2019, May 20). _Misreading the story of climate change and the Maya._ The Conversation. https://theconversation.com/misreading-the-story-of-climate-change-and-the-maya-113829
 
-Kemp, S. (2020, February 4). _Digital 2020: 3.8 billion people use social media._ We Are Social. 
-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://wearesocial.com/blog/2020/01/digital-2020-3-8-billion-people-use-social-media
+Kemp, S. (2020, February 4). _Digital 2020: 3.8 billion people use social media._ We Are Social. https://wearesocial.com/blog/2020/01/digital-2020-3-8-billion-people-use-social-media
 
-The Nielsen Total Audience Report. (2020, August 13). Nielsen. 
-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://www.nielsen.com/us/en/insights/report/2020/the-nielsen-total-audience-report-august-2020/#popupForm
+_The Nielsen Total Audience Report._ (2020, August 13). Nielsen. https://www.nielsen.com/us/en/insights/report/2020/the-nielsen-total-audience-report-august-2020/#popupForm
 
-O’Toole, G. (2011, November 16). “How Will You Get Robots to Pay Union Dues?” “How Will You Get Robots to Buy Cars?” – Quote Investigator. Quote Investigator. https://quoteinvestigator.com/2011/11/16/robots-buy-cars/
+O’Toole, G. (2011, November 16). _“How Will You Get Robots to Pay Union Dues?” “How Will You Get Robots to Buy Cars?”_ Quote Investigator. https://quoteinvestigator.com/2011/11/16/robots-buy-cars/
 
-Bernstein, A., & Raman, A. (2015, June). _The Great Decoupling: An Interview with Erik Brynjolfsson and Andrew McAfee._ 
-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Harvard Business Review. https://hbr.org/2015/06/the-great-decoupling
+Bernstein, A., & Raman, A. (2015, June). _The Great Decoupling: An Interview with Erik Brynjolfsson and Andrew McAfee._ Harvard Business Review. https://hbr.org/2015/06/the-great-decoupling
 
-_Understanding the Historic Divergence Between Productivity and a Typical Worker’s Pay: Why It Matters and Why It’s Real._ (n.d.). 
-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Economic Policy Institute. https://www.epi.org/publication/
-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understanding-the-historic-divergence-between-productivity-and-a-typical-workers-pay-why-it-matters-and-why-its-real/
+_Understanding the Historic Divergence Between Productivity and a Typical Worker’s Pay: Why It Matters and Why It’s Real._ (n.d.). Economic Policy Institute. https://www.epi.org/publication/understanding-the-historic-divergence-between-productivity-and-a-typical-workers-pay-why-it-matters-and-why-its-real/
 
 The Economist. (2016, January 28). _Machine earning._ https://www.economist.com/finance-and-economics/2016/01/28/machine-earning
 
-Kilby, E.R. (2007). _The demographics of the U.S. equine population._ In D.J. Salem & A.N. Rowan (Eds.), 
-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The state of the animals 2007 (pp. 175-205). Washington, DC: Humane Society Press. 
+Kilby, E.R. (2007). _The demographics of the U.S. equine population._ In D.J. Salem & A.N. Rowan (Eds.), The state of the animals 2007 (pp. 175-205). Washington, DC: Humane Society Press. 
 
 Leontief, W. (1952). MACHINES AND MAN. _Scientific American_, 187(3), 150-164. Retrieved from http://www.jstor.org/stable/24950787
 
-Wong, J. I. (2016, April 7). _A fleet of trucks just drove themselves across Europe_. Quartz. 
-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://qz.com/656104/a-fleet-of-trucks-just-drove-themselves-across-europe/
+Wong, J. I. (2016, April 7). _A fleet of trucks just drove themselves across Europe_. Quartz. https://qz.com/656104/a-fleet-of-trucks-just-drove-themselves-across-europe/
 
-Kopp, C. (2021, February 12). _Creative Destruction Definition_. Investopedia. 
-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://www.investopedia.com/terms/c/creativedestruction.asp
+Kopp, C. (2021, February 12). _Creative Destruction Definition_. Investopedia. https://www.investopedia.com/terms/c/creativedestruction.asp
 
-Wenger, A. (2012, January 26). Supermodularity And Service Bundling. Continuations by Albert Wenger. 
-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://continuations.com/post/16473794320/supermodularity-and-service-bundling
+Wenger, A. (2012, January 26). Supermodularity And Service Bundling. Continuations by Albert Wenger. https://continuations.com/post/16473794320/supermodularity-and-service-bundling
 
 Allison, B., & Harkins, S. (2014, November 17). Fixed Fortunes: Biggest corporate political interests spend billions, get trillions. Sunlight Foundation. https://sunlightfoundation.com/2014/11/17/fixed-fortunes-biggest-corporate-political-interests-spend-billions-get-trillions/
 
