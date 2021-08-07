@@ -192,6 +192,8 @@ Kemp, S. (2020, January 30). _Digital 2020: Global Digital Overview._ DataReport
 
 Roy, P. (2019, March 18). _Mobile data: Why India has the world’s cheapest._ BBC News. https://www.bbc.com/news/world-asia-india-47537201
 
+Rostad, N. (2018, April). _In Mexico, satellite and Wi-Fi come together to bring internet to remote areas_. Viasat. https://www.viasat.com/about/newsroom/blog/how-satellite-and-wi-fi-come-together-to-bring-internet-to-remotest-mexico/
+
 MIMO. (2020, August 29). In _Wikipedia_. https://en.wikipedia.org/w/index.php?title=MIMO&oldid=975685031
 
 Great Firewall. (2020, October 2). In _Wikipedia_. https://en.wikipedia.org/wiki/Great_Firewall
@@ -252,17 +254,29 @@ McCandless, D. (2020, December 9). _World’s Biggest Data Breaches & Hacks._ In
 
 S. (2013, October 30). _Culture Shock in China - Bathrooms._ Chinese Language Blog. https://blogs.transparent.com/chinese/culture-shock-in-china-bathrooms/
 
+Twomey, C., & O’Reilly, G. (2017). Associations of Self-Presentation on Facebook with Mental Health and Personality Variables: A Systematic Review. _Cyberpsychology, Behavior, and Social Networking_, 20(10), 587–595. https://doi.org/10.1089/cyber.2017.0247
+
 McClintock, L. (2020, March 10). _How Meditation Changes the Brain._ Psych Central. https://psychcentral.com/blog/how-meditation-changes-the-brain#1
 
 Cognitive behavioral therapy. (2020, September 29). In _Wikipedia_. https://en.wikipedia.org/w/index.php?title=Cognitive_behavioral_therapy&oldid=980954468
 
+Kahneman, D. (2013b). Thinking, Fast and Slow. Farrar, Straus and Giroux.
+
+Yoon, Y. B., Bae, D., Kwak, S., Hwang, W. J., Cho, K. I. K., Lim, K. O., Park, H. Y., Lee, T. Y., Kim, S. N., & Kwon, J. S. (2019). Plastic Changes in the White Matter Induced by Templestay, a 4-Day Intensive Mindfulness Meditation Program. _Mindfulness_, 10(11), 2294–2301. https://doi.org/10.1007/s12671-019-01199-3
+
 Skidelsky, R., & Skidelsky, E. (2013). _How Much is Enough?: Money and the Good Life._ Other Press.
+
+Pezzutto, S. (2019). Confucianism and Capitalist Development: From Max Weber and Orientalism to Lee Kuan Yew and New Confucianism. _Asian Studies Review_, 43(2), 224–238. https://doi.org/10.1080/10357823.2019.1590685
 
 Orlo Salon. (n.d.). _Orlo Salon Price List._ Orlo Salon. http://orlosalon.com/#
 
 Cross, H. (2020, June 17). _9 Most Expensive New York City Restaurants._ TripSavvy. https://www.tripsavvy.com/most-expensive-new-york-city-restaurants-1613415
 
 Szalavitz, M. (2017, June 14). _Why Disappointment Is So Devastating: Dopamine, Addiction, and the Hedonic Treadmill._ Pacific Standard. https://psmag.com/news/why-disappointment-is-so-devastating-dopamine-addiction-and-the-hedonic-treadmill
+
+Shin, D. D., & Kim, S. I. (2019). Homo Curious: Curious or Interested? _Educational Psychology Review_, 31(4), 853–874. https://doi.org/10.1007/s10648-019-09497-x
+
+Gatto, J. T., Grove, R., Rodriguez, D., Ruenzel, D., & Paul, R. (2017). _The Underground History of American Education, Volume I: An Intimate Investigation Into the Prison of Modern Schooling_. Valor Academy.
 
 Wenger, A. (2011, October 3). _Needed: The Opposing View Reader._ Continuations by Albert Wenger. https://continuations.com/post/10979468250/needed-the-opposing-view-reader
 
@@ -276,3 +290,7 @@ Kahneman, D. (2013). _Thinking, Fast and Slow_ (1st ed.). Farrar, Straus and Gir
 Powers, W., & Roy, D. (2018, March 19). _The Incredible Jun: A Town that Runs on Social Media._ Medium. https://medium.com/@socialmachines/the-incredible-jun-a-town-that-runs-on-social-media-49d3d0d4590
 
 Haverstock, E. (2020, April 14). _Changing FDA rules leave startups in limbo over at-home COVID-19 tests._ PitchBook. https://pitchbook.com/news/articles/changing-fda-rules-leave-startups-in-limbo-over-at-home-covid-19-tests
+
+## Conclusion
+
+Ord, T. (2020). _The Precipice: Existential Risk and the Future of Humanity._ Hachette Books.
