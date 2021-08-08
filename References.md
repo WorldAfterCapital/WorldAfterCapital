@@ -242,6 +242,8 @@ Next Gen Seek. (2021, April 26). _Comparing Price and Tech. Specs. of Illumina M
 
 _Illumina Next Generation Sequencing._ (2021). Science Exchange. https://www.scienceexchange.com/marketplace/illumina-ngs?page=1
 
+Berry, S. M., Carlin, B. P., Lee, J. J., & Muller, P. (2010). _Bayesian Adaptive Methods for Clinical Trials_ (1st ed.). CRC Press.
+
 Willyard, C. (2019, December 20). _Lyme Vaccines Show New Promise, and Face Old Challenges._ Undark Magazine. https://undark.org/2019/10/02/new-landscape-lyme-vaccines/
 
 Liptak, A. (2017, May 22). _Supreme Court Ruling Could Hinder ‘Patent Trolls.’_ The New York Times. https://www.nytimes.com/2017/05/22/business/supreme-court-patent-lawsuit.html#:%7E:text=WASHINGTON%20%E2%80%94%20The%20Supreme%20Court%20on,royalties%20and%20sue%20for%20damages
