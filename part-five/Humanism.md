@@ -1,12 +1,12 @@
 # Promoting and Living Humanism 
 
-Given the limits of capitalism that we explored earlier, we might find socialism or even some form of Marxism tempting. That too, however, represents a return to a populist past rather than an invention of the future. The alternatives that people commonly propose are also Industrial Age thinking and rooted in the scarcity of capital. As should be clear by now, my proposals are effectively about shrinking capitalism, much as we previously shrunk agriculture, to make room for participation in the knowledge loop.
+Given the limits of capitalism that we explored earlier, we might find socialism or even some form of Marxism tempting. That too, however, represents a return to a populist past rather than an invention of the future. The alternatives that people commonly propose are also Industrial Age thinking, rooted in the scarcity of capital. As should be clear by now, my proposals are effectively about shrinking capitalism, much as we previously shrunk agriculture, to make room for participation in the knowledge loop.
  
-Central to this project is the promotion of humanism and the policies associated with it, such as the adoption of a UBI. Everyone can take action on this, from contributing to a UBI trial to creating content under a Creative Commons license. 
+Central to this project is the promotion of humanism and the policies associated with it, such as the adoption of UBI. Everyone can take action on this, from contributing to UBI trials to creating content under a Creative Commons license. 
 
 We can also promote humanism by applying humanist values to our everyday decision-making. The starting point for this is to see ourselves as human first, with nationality, faith, gender and race all a distant second. I realize that this is easier for me as a white male living in the United States, but that removes nothing from the underlying values of humanism. I described some of these in the earlier chapter on humanism, but here is a more complete list.
 
-**Solidarity**: There are over 7 billion people living on a planet that does not easily support human life, in an otherwise inhospitable solar system. We need to support each other above all else, irrespective of such differences as gender, race or nationality. The big problems that humanity faces, such as the climate crisis, will impact all of us and require our combined effort.
+**Solidarity**: There are nearly 8 billion people living on a planet that does not easily support human life, in an otherwise inhospitable solar system. We need to support each other above all else, irrespective of such differences as gender, race or nationality. The big problems that humanity faces, such as the climate crisis, will impact all of us and require our combined effort.
 
 **Diversity**: We are all unique, and we should celebrate these differences. They are beautiful and a part of our humanity.
 
@@ -18,7 +18,7 @@ We can also promote humanism by applying humanist values to our everyday decisio
 
 **Joyfulness**: While we are capable of many emotions, moments of joy are what makes life worth living.
 
-**Criticism**: When we see something that could be improved, we need to have the ability to express that. Individuals, companies and societies that do not allow criticism become stagnant and will ultimately fail.
+**Criticism**: When we see something that could be improved, we need to have the ability to express that. Individuals, companies and societies that do not allow criticism become stagnant and ultimately fail.
 
 **Innovation**: Beyond criticism, the major mode for improvement is to create new ideas, products and art. Without innovation, systems become stagnant and start to decay.
 
