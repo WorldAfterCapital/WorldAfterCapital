@@ -70,6 +70,8 @@ Roser, M. (2019, November). _Future Population Growth._ Our World in Data. https
 
 Roser, M., & Ritchie, H. (2013, May 11). _Technological Progress._ Our World in Data. https://ourworldindata.org/technological-progress
 
+Lahart, J. (2011, December 10). _Number of the Week: Finance’s Share of Economy Continues to Grow._ WSJ. https://www.wsj.com/articles/BL-REB-15342
+
 Lewis, N. (2018, December 17). _The Financial System Should Be Less Than Half The Size of Today_. Forbes. https://www.forbes.com/sites/nathanlewis/2018/12/17/the-financial-system-should-be-less-than-half-the-size-of-today/
 
 Ramankutty, N. et al., (2018). _Trends in Global Agricultural Land Use: Implications for Environmental Health and Food Security._ Annual Review of Plant Biology, 69(1), 789–815. https://doi.org/10.1146/annurev-arplant-042817-040256
@@ -95,6 +97,8 @@ White, R. (2019, October 7). _Ancient Maya Canals and Fields Show Early and Exte
 Simon, C. (2020, February 28). _New clues about how and why the Maya culture collapsed._ Harvard Gazette. https://news.harvard.edu/gazette/story/2020/02/new-clues-about-how-and-why-the-maya-culture-collapsed/
 
 Seligson, K. (2019, May 20). _Misreading the story of climate change and the Maya._ The Conversation. https://theconversation.com/misreading-the-story-of-climate-change-and-the-maya-113829
+
+Marr, B. (2019, September 5). _How Much Data Do We Create Every Day? The Mind-Blowing Stats Everyone Should Read._ Forbes. https://www.forbes.com/sites/bernardmarr/2018/05/21/how-much-data-do-we-create-every-day-the-mind-blowing-stats-everyone-should-read/
 
 Kemp, S. (2020, February 4). _Digital 2020: 3.8 billion people use social media._ We Are Social. https://wearesocial.com/blog/2020/01/digital-2020-3-8-billion-people-use-social-media
 
@@ -124,17 +128,23 @@ O’Dell, R., & Penzenstadler, N. (2019, April 4). _You elected them to write ne
 
 Sample, I. (2018, February 14). _Harvard University says it can’t afford journal publishers’ prices._ The Guardian. https://www.theguardian.com/science/2012/apr/24/harvard-university-journal-publishers-prices
 
+Buranyi, S. (2018, February 22). _Is the staggeringly profitable business of scientific publishing bad for science?_ The Guardian. https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science
+
 Constructor theory. (2020, August 24). In _Wikipedia_. https://en.wikipedia.org/w/index.php?title=Constructor_theory.
 
 NASA. (2018, December). _Journey to Mars: Pioneering Next Steps in Space Exploration_. http://www.nasa.gov/johnson/exploration/overview/
 
 Vosoughi, S., Roy, D., & Aral, S. (2018). _The spread of true and false news online_. Science, 359(6380), 1146–1151. https://doi.org/10.1126/science.aap9559
 
+BBC News. (2018, November 6). _Facebook admits it was used to “incite offline violence” in Myanmar_. https://www.bbc.com/news/world-asia-46105934
+
 Part Four: Enhancing Freedom
 
 Leonhardt, M. (2020, January 22). _41% of Americans would be able to cover a $1,000 emergency with savings._ CNBC. https://www.cnbc.com/2020/01/21/41-percent-of-americans-would-be-able-to-cover-1000-dollar-emergency-with-savings.html
 
 Board of Governors of the Federal Reserve System. (2020, May). _Report on the Economic Well-Being of U.S. Households in 2019 Featuring Supplemental Data from April 2020._ Federal Reserve. https://www.federalreserve.gov/publications/files/2019-report-economic-well-being-us-households-202005.pdf
+
+Paine, T. (1797). _Agrarian Justice._ London: Paris printed by W. Adlard, London re-printed for T. Williams
 
 Backman, M. (2020, February 19). _You’ll Be Shocked by How Many Americans Have No Retirement Savings at All._ The Motley Fool. https://www.fool.com/retirement/2020/02/19/youll-be-shocked-by-how-many-americans-have-no-ret.aspx
 
