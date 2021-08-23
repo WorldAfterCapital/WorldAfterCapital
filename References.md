@@ -144,9 +144,9 @@ Leonhardt, M. (2020, January 22). _41% of Americans would be able to cover a $1,
 
 Board of Governors of the Federal Reserve System. (2020, May). _Report on the Economic Well-Being of U.S. Households in 2019 Featuring Supplemental Data from April 2020._ Federal Reserve. https://www.federalreserve.gov/publications/files/2019-report-economic-well-being-us-households-202005.pdf
 
-Paine, T. (1797). _Agrarian Justice._ London: Paris printed by W. Adlard, London re-printed for T. Williams
-
 Backman, M. (2020, February 19). _You’ll Be Shocked by How Many Americans Have No Retirement Savings at All._ The Motley Fool. https://www.fool.com/retirement/2020/02/19/youll-be-shocked-by-how-many-americans-have-no-ret.aspx
+
+Paine, T. (1797). _Agrarian Justice._ London: Paris printed by W. Adlard, London re-printed for T. Williams
 
 Discovery doctrine. (2020, September 22). In _Wikipedia_. https://en.wikipedia.org/w/index.php?title=Discovery_doctrine&oldid=979704205
 
