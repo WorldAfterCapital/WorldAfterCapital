@@ -1,8 +1,8 @@
 # Work in Progress
 
-This book is a work in progress. I have just finished a fairly major revision of the entire text. It now reads more cohesively and contains all the arguments I want to make. References are, however, currently broken (missing links, missing references, etc.) and the Appendix still needs a lot of work.
+This book has long been a work in progress. I am happy to report that it is approaching completion. The body of the text is in final form, subject to some line editing. The references are also in good shape. The biggest remaining work is rewriting the Appendix, which I will be tackling in the coming weeks.
 
-The process of writing in this way is an example of what I call the &ldquo;Knowledge Loop&rdquo; in the book. The Knowledge Loop consists of learning, creating and sharing. My writing is based on what I have learned. By sharing early, others can learn from my ideas and I, in turn, can learn from their feedback.
+The process of writing iteratively in public is an example of what I call the &ldquo;Knowledge Loop&rdquo; in the book. The Knowledge Loop consists of learning, creating and sharing. My writing is based on what I have learned. By sharing early, others can learn from my ideas and I, in turn, can learn from their feedback.
 
 I know how powerful this approach is from my experience with <a href="http://continuations.com">blogging</a> for over a decade. I have learned a great deal from reader comments. The same has been true here. You can see some of the <a href="https://docs.google.com/document/d/1Q--KXVvxPM9NNUdJwi_szRhuA8oeg1ciaggFC7qKBuc/edit?usp=sharing">amazing initial feedback</a>. Thanks to everyone who has taken the time. If you want to send me a comment please email me at <a href="mailto:albert@worldaftercapital.org">albert@worldaftercapital.org</a>. 
 

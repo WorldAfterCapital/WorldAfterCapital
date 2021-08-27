@@ -61,9 +61,9 @@ Some things don’t meet specific needs in themselves, but instead enable differ
 
 Here are four foundational enablers:
 
-**Energy**. For a long time, humans relied on direct sunlight as their primary energy source. Since then we have developed many ways of generating energy, including better ways of capturing sunlight. Capturing more energy and making it available in concentrated and highly regulated form via electricity has enabled new solutions to human needs. 
+**Energy**. For a long time, humans relied on direct sunlight as their primary energy source. Since then we have developed many ways of generating energy, including better ways of capturing sunlight. Capturing more energy and making it available in highly concentrated and easily controllabe form via electricity has enabled new solutions to human needs. 
 
-**Resources**. In early human history, all resources were drawn from our natural surroundings. Later, we started growing and extracting resources in our own right. Many modern solutions have been made possible by access to new kinds of resources. For instance, mobile phones, which provide new solutions to individual and collective needs, are made possible by some esoteric raw materials, including the so-called rare-earth elements. 
+**Resources**. In early human history, all resources were drawn directly from our natural surroundings. Later, we started growing and extracting resources using progressively more technology. Many modern solutions have been made possible by access to new kinds of resources. For instance, mobile phones, which provide new solutions to individual and collective needs, are made possible in part by esoteric raw materials, including the so-called rare-earth elements. 
 
 **Transformation**. Energy and resources alone are not enough. To enable most solutions, we need to figure out (and remember!) how to use the former to transform the latter. This involves chemical and physical processes. Physical capital, in the shape of machines, has been a crucial enabler of many new solutions to human needs. For instance, a knitting machine can quickly transform yarn into clothing, one of our key solutions for maintaining the human operating environment. 
 

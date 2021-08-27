@@ -84,6 +84,7 @@ Nordhaus,W. (1994). _Do Real Output and Real Wage Measures Capture Reality? The 
 
 Berners-Lee, M. (2019). There Is No Planet B: A Handbook for the Make or Break Years Iillustrated ed.). Cambridge University Press.
 
+
 ## Part Three: Attention Is Scarce
 
 Rodrick, S. (2019, December 23). _All-American Despair._ Rolling Stone. https://www.rollingstone.com/culture/culture-features/suicide-rate-america-white-men-841576/.
@@ -138,7 +139,10 @@ Vosoughi, S., Roy, D., & Aral, S. (2018). _The spread of true and false news onl
 
 BBC News. (2018, November 6). _Facebook admits it was used to “incite offline violence” in Myanmar_. https://www.bbc.com/news/world-asia-46105934
 
-Part Four: Enhancing Freedom
+Van Alstyne, M. & Brynjolfsson, E. (2005). _Global Village or Cyber-Balkans? Modeling and Measuring the Integration of Electronic Communities_. Management Science Vol. 51, No. 6, 851-868. https://www.jstor.org/stable/20110380
+
+
+## Part Four: Enhancing Freedom
 
 Leonhardt, M. (2020, January 22). _41% of Americans would be able to cover a $1,000 emergency with savings._ CNBC. https://www.cnbc.com/2020/01/21/41-percent-of-americans-would-be-able-to-cover-1000-dollar-emergency-with-savings.html
 
