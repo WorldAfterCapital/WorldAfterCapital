@@ -1,5 +1,6 @@
 # References
 
+
 ## Digital Technology
 
 List of public corporations by market capitalization. (2020, September 1). In _Wikipedia_. https://en.wikipedia.org/w/index.php?title=List_of_public_corporations_by_market_capitalization&oldid=976207594
@@ -27,6 +28,7 @@ Borowiec, S. (2017, November 29). _AlphaGo seals 4–1 victory over Go grandmast
 AlphaZero. (2020, September 9). In _Wikipedia_. https://en.wikipedia.org/w/index.php?title=AlphaZero&oldid=977537226
 
 Parkin, S. (2020, April 2). _The Artificially Intelligent Doctor Will Hear You Now._ MIT Technology Review. https://www.technologyreview.com/2016/03/09/8890/the-artificially-intelligent-doctor-will-hear-you-now/
+
 
 ## Part One: Laying a Foundation
 
@@ -373,7 +375,7 @@ Appleby, M. (2018, December 7). _Recommended Levels of Essential Amino Acids._ S
 
 Romine, S. (2019, March 29). _Essential Nutrients: What Are They & How Much Do You Need?_ Openfit. https://www.openfit.com/essential-nutrients-explainer
 
-Dubock, A (March 11th 2019). Golden Rice: To Combat Vitamin A Deficiency for Public Health, Vitamin A, Leila Queiroz Zepka, Veridiana Vera de Rosso and Eduardo Jacob-Lopes, IntechOpen, DOI: 10.5772/intechopen.84445. 
+Dubock, A. (2019). Golden Rice: To Combat Vitamin A Deficiency for Public Health. _Vitamin A_. Published. https://doi.org/10.5772/intechopen.84445
 
 Johnson, S. (2021). _Extra Life: A Short History of Living Longer._ Riverhead Books.
 
@@ -389,74 +391,68 @@ Chaisson, C. (2017, December 12). _When It Rains, It Pours Raw Sewage into New Y
 
 Climate Central. (2019, May 15). _POURING IT ON: How Climate Change Intensifies Heavy Rain Events_. https://www.climatecentral.org/news/report-pouring-it-on-climate-change-intensifies-heavy-rain-events
 
-United Nations Environment Programme (UNEP) & The Global Alliance for Buildings and Construction (GABC). (2017, November). Towards zero-emission efficient and resilient buildings - Global Status Report 2016. United Nations Environment Programme. https://wedocs.unep.org/bitstream/handle/20.500.11822/10618/GABC-Report_Updated.pdf?sequence=1&%3BisAllowed=
+United Nations Environment Programme (UNEP) & The Global Alliance for Buildings and Construction (GABC). (2017, November). _Towards zero-emission efficient and resilient buildings - Global Status Report 2016._ United Nations Environment Programme. https://wedocs.unep.org/bitstream/handle/20.500.11822/10618/GABC-Report_Updated.pdf?sequence=1&%3BisAllowed=
 
-Slotta, D. (2020, November 26). Number of newly built apartments in China 2009–2019. Statista. https://www.statista.com/statistics/242963/number-of-newly-built-apartments-in-china/
+Slotta, D. (2020, November 26). _Number of newly built apartments in China 2009–2019._ Statista. https://www.statista.com/statistics/242963/number-of-newly-built-apartments-in-china/
 
-Kaufman, L., Rojanasakul, M., Warren, H., Kao, J., Harris, B., & Gopal, P. (2020, June 29). Mapping America’s Underwater Real Estate. Bloomberg. https://www.bloomberg.com/tosv2.html?vid=&uuid=3f8d41d0-f6ce-11eb-b60b-83b18a347fe8&url=L2dyYXBoaWNzLzIwMjAtZmxvb2Qtcmlzay16b25lLXVzLW1hcC8=
+Kaufman, L., Rojanasakul, M., Warren, H., Kao, J., Harris, B., & Gopal, P. (2020, June 29). _Mapping America’s Underwater Real Estate_. Bloomberg. https://www.bloomberg.com/tosv2.html?vid=&uuid=3f8d41d0-f6ce-11eb-b60b-83b18a347fe8&url=L2dyYXBoaWNzLzIwMjAtZmxvb2Qtcmlzay16b25lLXVzLW1hcC8=
 
-Global Migration Data Portal. (2021, June 3). Environmental Migration. Migration Data Portal. https://migrationdataportal.org/themes/environmental_migration_and_statistics
+Global Migration Data Portal. (2021, June 3). _Environmental Migration_. Migration Data Portal. https://migrationdataportal.org/themes/environmental_migration_and_statistics
 
-Kamal, B. (2017, August 21). Climate Migrants Might Reach One Billion by 2050. ReliefWeb. https://reliefweb.int/report/world/climate-migrants-might-reach-one-billion-2050
+Kamal, B. (2017, August 21). _Climate Migrants Might Reach One Billion by 2050._ ReliefWeb. https://reliefweb.int/report/world/climate-migrants-might-reach-one-billion-2050
 
-Borunda, A. (2021, July 2). Heat waves kill people—and climate change is making it much, much worse. National Geographic. https://www.nationalgeographic.com/environment/article/heat-related-deaths-attributed-to-climate-change
+Borunda, A. (2021, July 2). _Heat waves kill people—and climate change is making it much, much worse._ National Geographic. https://www.nationalgeographic.com/environment/article/heat-related-deaths-attributed-to-climate-change
 
-2019 European heat waves. (2021, July 24). In Wikipedia. https://en.wikipedia.org/wiki/2019_European_heat_wave
+2019 European heat waves. (2021, July 24). In _Wikipedia_. https://en.wikipedia.org/wiki/2019_European_heat_wave
 
-Armstrong, M. (2020, August 27). Air Conditioning Biggest Factor in Growing Electricity Demand. Statista. https://www.statista.com/chart/14401/growing-demand-for-air-conditioning-and-energy/
+Armstrong, M. (2020, August 27). _Air Conditioning Biggest Factor in Growing Electricity Demand._ Statista. https://www.statista.com/chart/14401/growing-demand-for-air-conditioning-and-energy/
 
-Holst, A. (2020, December 7). Air conditioners demand worldwide 2012–2018. Statista. https://www.statista.com/statistics/871534/worldwide-air-conditioner-demand/
+Holst, A. (2020, December 7). _Air conditioners demand worldwide 2012–2018_. Statista. https://www.statista.com/statistics/871534/worldwide-air-conditioner-demand/
 
-Cabin pressurization. (2021, July 21). In Wikipedia. https://en.wikipedia.org/wiki/Cabin_pressurization
+Cabin pressurization. (2021, July 21). In _Wikipedia_. https://en.wikipedia.org/wiki/Cabin_pressurization
 
-Roser, M. (2013, December 10). Light at Night. Our World in Data. https://ourworldindata.org/light
+Roser, M. (2013, December 10). _Light at Night_. Our World in Data. https://ourworldindata.org/light
 
-CDC. (n.d.). Health and Economic Costs of Chronic Diseases. National Center for Chronic Disease Prevention and Health Promotion. Retrieved August 6, 2021, from https://www.cdc.gov/chronicdisease/about/costs/index.htm
+CDC. (n.d.). _Health and Economic Costs of Chronic Diseases._ National Center for Chronic Disease Prevention and Health Promotion. Retrieved August 6, 2021, from https://www.cdc.gov/chronicdisease/about/costs/index.htm
 
-Roser, M. (2019, October). Life Expectancy. Our World in Data. https://ourworldindata.org/life-expectancy
+Roser, M. (2019, October). _Life Expectancy._ Our World in Data. https://ourworldindata.org/life-expectancy
 
-Case, A., & Deaton, A. (2021). Deaths of Despair and the Future of Capitalism. Princeton University Press.
+Case, A., & Deaton, A. (2021). _Deaths of Despair and the Future of Capitalism._ Princeton University Press.
 
-Our World in Data. (n.d.). Literate and illiterate world population. Retrieved August 7, 2021, from https://ourworldindata.org/grapher/literate-and-illiterate-world-population?country=%7EOWID_WRL
+Our World in Data. (n.d.). _Literate and illiterate world population_. Retrieved August 7, 2021, from https://ourworldindata.org/grapher/literate-and-illiterate-world-population?country=%7EOWID_WRL
 
-O’Dea, S. (2021, June 2). Smartphone penetration worldwide 2020. Statista. https://www.statista.com/statistics/203734/global-smartphone-penetration-per-capita-since-2005/
+O’Dea, S. (2021, June 2). _Smartphone penetration worldwide 2020_. Statista. https://www.statista.com/statistics/203734/global-smartphone-penetration-per-capita-since-2005/
 
-Mobile Price List In India. (n.d.). 91 Mobiles. Retrieved August 27, 2021, from https://www.91mobiles.com/xiaomi-mobile-price-list-in-india
+_Mobile Price List In India._ (n.d.). 91 Mobiles. Retrieved August 27, 2021, from https://www.91mobiles.com/xiaomi-mobile-price-list-in-india
 
-Statista. (2021b, May 10). Smartphone penetration rate in India FY 2016–2020, with estimates until 2025. https://www.statista.com/statistics/1229799/india-smartphone-penetration-rate/
+Statista. (2021b, May 10). _Smartphone penetration rate in India FY 2016–2020, with estimates until 2025._ https://www.statista.com/statistics/1229799/india-smartphone-penetration-rate/
 
-Minimally invasive education. (2021, July 5). In Wikipedia. https://en.wikipedia.org/wiki/Minimally_invasive_education
+Minimally invasive education. (2021, July 5). In _Wikipedia_. https://en.wikipedia.org/wiki/Minimally_invasive_education
 
-Unschooling. (2021, August 5). In Wikipedia. https://en.wikipedia.org/wiki/Unschooling
+Unschooling. (2021, August 5). In _Wikipedia_. https://en.wikipedia.org/wiki/Unschooling
 
-Albert Einstein. (2021, August 6). In Wikipedia. https://en.wikipedia.org/wiki/Albert_Einstein#Early_life_and_education
+Albert Einstein. (2021, August 6). In _Wikipedia_. https://en.wikipedia.org/wiki/Albert_Einstein#Early_life_and_education
 
-Michael Faraday. (2021, August 6). In Wikipedia. https://en.wikipedia.org/wiki/Michael_Faraday#Early_life
+Michael Faraday. (2021, August 6). In _Wikipedia_. https://en.wikipedia.org/wiki/Michael_Faraday#Early_life
 
+Chiu, L. (2021, March 22). _Declining sperm counts around the world could reach zero in just 24 years._ CGTN America. https://america.cgtn.com/2021/03/22/declining-sperm-counts-around-the-world-could-reach-zero-in-just-24-years
 
-Chiu, L. (2021, March 22). Declining sperm counts around the world could reach zero in just 24 years. CGTN America. https://america.cgtn.com/2021/03/22/declining-sperm-counts-around-the-world-could-reach-zero-in-just-24-years
+Becker, R. (2017, April 25). _An artificial womb successfully grew baby sheep — and humans could be next._ The Verge. https://www.theverge.com/2017/4/25/15421734/artificial-womb-fetus-biobag-uterus-lamb-sheep-birth-premie-preterm-infant
 
+Palimpsest. (2021, June 30). In _Wikipedia_. https://en.wikipedia.org/wiki/Palimpsest
 
-Becker, R. (2017, April 25). An artificial womb successfully grew baby sheep — and humans could be next. The Verge. https://www.theverge.com/2017/4/25/15421734/artificial-womb-fetus-biobag-uterus-lamb-sheep-birth-premie-preterm-infant
+Large Hadron Collider. (2021, July 23). In _Wikipedia_. https://en.wikipedia.org/wiki/Large_Hadron_Collider
 
+Mearns, E. (2013, November 3). _Energiewende: Germany, UK, France and Spain._ Energy Matters. http://euanmearns.com/energiewende-germany-uk-france-and-spain/
 
-Palimpsest. (2021, June 30). In Wikipedia. https://en.wikipedia.org/wiki/Palimpsest
-Large Hadron Collider. (2021, July 23). In Wikipedia. https://en.wikipedia.org/wiki/Large_Hadron_Collider
+Krivit, S., & Ravnitzky, M. (2016, December 7). _It’s Not Cold Fusion. . . But It’s Something._ Scientific American Blog Network. https://blogs.scientificamerican.com/guest-blog/its-not-cold-fusion-but-its-something/
 
+Alewell, C., Ringeval, B., Ballabio, C. et al. Global phosphorus shortage will be aggravated by soil erosion. _Nat Commun_ 11, 4546 (2020). https://doi.org/10.1038/s41467-020-18326-7
 
-Mearns, E. (2013, November 3). Energiewende: Germany, UK, France and Spain. Energy Matters. http://euanmearns.com/energiewende-germany-uk-france-and-spain/
+EPA. (2021, July 2). _Aluminum: Material-Specific Data._ US EPA. https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/aluminum-material-specific-data
 
+Aleklett, K, Morrissey, D J, Loveland, W, McGaughey, P L, & Seaborg, G T. (1981) _Energy dependence of /sup 209/Bi fragmentation in relativistic nuclear collisions._ United States. https://doi.org/10.1103/PhysRevC.23.1044
 
-Krivit, S., & Ravnitzky, M. (2016, December 7). It’s Not Cold Fusion. . . But It’s Something. Scientific American Blog Network. https://blogs.scientificamerican.com/guest-blog/its-not-cold-fusion-but-its-something/
-
-Alewell, C., Ringeval, B., Ballabio, C. et al. Global phosphorus shortage will be aggravated by soil erosion. Nat Commun 11, 4546 (2020). https://doi.org/10.1038/s41467-020-18326-7
-
-EPA. (2021, July 2). Aluminum: Material-Specific Data. US EPA. https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/aluminum-material-specific-data
-
-Aleklett, K, Morrissey, D J, Loveland, W, McGaughey, P L, & Seaborg, G T. (1981) Energy dependence of /sup 209/Bi fragmentation in relativistic nuclear collisions. United States. https://doi.org/10.1103/PhysRevC.23.1044
-
-
-
-Motorlease. (n.d.). The Rise of the SUVs. Motorlease Fleet Management & Leasing Solutions. Retrieved August 7, 2021, from https://motorlease.com/article/suv-rise/
+Motorlease. (n.d.). _The Rise of the SUVs._ Motorlease Fleet Management & Leasing Solutions. Retrieved August 7, 2021, from https://motorlease.com/article/suv-rise/
 
 
