@@ -333,88 +333,61 @@ Casais, E. (2010)._ US federal spending as a share of GDP._ Areppim AG. https://
 
 Harrison, M. (1998). _The Economics of World War II: Six Great Powers in International Comparison (Studies in Macroeconomic History)_ (Revised ed.). Cambridge University Press. https://warwick.ac.uk/fac/soc/economics/staff/mharrison/public/ww2overview1998.pdf
 
-
 Steven W. Henderson, "Consumer spending in World War II: the forgotten consumer expenditure surveys," _Monthly Labor Review,_ U.S. Bureau of Labor Statistics, August 2015, https://doi.org/10.21916/mlr.2015.29.
 
-Fetherston, E., Kinzler, M., & Miller, S. (n.d.). Assembling Our Transportation Future. Gala. Retrieved August 2, 2021, from https://www.learngala.com/cases/model-t/8
+Fetherston, E., Kinzler, M., & Miller, S. (n.d.). _Assembling Our Transportation Future._ Gala. Retrieved August 2, 2021, from https://www.learngala.com/cases/model-t/8
 
+The U.S. National Archives and Records Administration. (n.d.). _When You Ride Alone You Ride With Hitler!_ National Archives. Retrieved August 2, 2021, from https://www.archives.gov/exhibits/powers_of_persuasion/use_it_up/images_html/ride_with_hitler.html
 
-The U.S. National Archives and Records Administration. (n.d.). When You Ride Alone You Ride With Hitler! National Archives. Retrieved August 2, 2021, from https://www.archives.gov/exhibits/powers_of_persuasion/use_it_up/images_html/ride_with_hitler.html
+Dickson, S. (2016, August 17). _Ten WWII innovations that changed the world we live in (for the better)_. The Vintage News. https://www.thevintagenews.com/2016/08/17/ten-wwii-innovations-changed-world-live-better/
 
-Dickson, S. (2016, August 17). Ten WWII innovations that changed the world we live in (for the better). The Vintage News. https://www.thevintagenews.com/2016/08/17/ten-wwii-innovations-changed-world-live-better/
+Cavity magnetron. (2021, June 27). In _Wikipedia_. https://en.wikipedia.org/wiki/Cavity_magnetron
 
-Cavity magnetron. (2021, June 27). In Wikipedia. https://en.wikipedia.org/wiki/Cavity_magnetron
+Penicillin. (2021, July 30). In _Wikipedia_. https://en.wikipedia.org/wiki/Penicillin#Mass_production
 
-Penicillin. (2021, July 30). In Wikipedia. https://en.wikipedia.org/wiki/Penicillin#Mass_production
+Escort fighter. (2021, June 6). In _Wikipedia_. https://en.wikipedia.org/wiki/Escort_fighter
 
+_Smog kills thousands in England._ (2020, December 4). HISTORY. https://www.history.com/this-day-in-history/smog-kills-thousands-in-england
 
-Escort fighter. (2021, June 6). In Wikipedia. https://en.wikipedia.org/wiki/Escort_fighter
+Xue, L. (2019, October 11). _Hainan Bans All Fossil Fuel Vehicles. What Does it Mean for Clean Transport in China?_ TheCityFix. https://thecityfix.com/blog/hainan-bans-fossil-fuel-vehicles-mean-clean-transport-china-lulu-xue/
 
+Solar wind. (2021, July 18). In _Wikipedia_. https://en.wikipedia.org/wiki/Solar_wind#Atmospheres
 
+1854 Broad Street cholera outbreak. (2021, July 30). In _Wikipedia_. https://en.wikipedia.org/wiki/1854_Broad_Street_cholera_outbreak
 
+Flint water crisis. (2021, August 1). In _Wikipedia_. https://en.wikipedia.org/wiki/Flint_water_crisis
 
-Smog kills thousands in England. (2020, December 4). HISTORY. https://www.history.com/this-day-in-history/smog-kills-thousands-in-england
+Hutton, G. (2016, February 12). _Can we really put a price on meeting the global targets on drinking-water and sanitation?_ World Bank Blogs. https://blogs.worldbank.org/water/can-we-really-put-price-meeting-global-targets-drinking-water-and-sanitation
 
+Lepley, S. (2019, May 30). _9 mind-blowing facts about the US farming industry._ Markets.Businessinsider.Com. https://markets.businessinsider.com/news/stocks/farming-industry-facts-us-2019-5
 
-Xue, L. (2019, October 11). Hainan Bans All Fossil Fuel Vehicles. What Does it Mean for Clean Transport in China? TheCityFix. https://thecityfix.com/blog/hainan-bans-fossil-fuel-vehicles-mean-clean-transport-china-lulu-xue/
+USDA. (n.d.)._ USDA ERS - Ag and Food Sectors and the Economy. U.S Department of Agriculture._ Retrieved August 4, 2021, from https://www.ers.usda.gov/data-products/ag-and-food-statistics-charting-the-essentials/ag-and-food-sectors-and-the-economy/
 
+Shrinivasan, R. (2013, May 1). _Farmer population falls by 9 million in 10 years._ The Times of India. https://timesofindia.indiatimes.com/india/Farmer-population-falls-by-9-million-in-10-years/articleshow/19813617.cms
 
-Solar wind. (2021, July 18). In Wikipedia. https://en.wikipedia.org/wiki/Solar_wind#Atmospheres
+Hasell, J. (2013, October 10). _Famines_. Our World in Data. https://ourworldindata.org/famines
 
+National Institutes of Health. (2021, August 4). _Office of Dietary Supplements - Omega-3 Fatty Acids_. https://ods.od.nih.gov/factsheets/Omega3FattyAcids-Consumer/
 
-1854 Broad Street cholera outbreak. (2021, July 30). In Wikipedia. https://en.wikipedia.org/wiki/1854_Broad_Street_cholera_outbreak
+Appleby, M. (2018, December 7). _Recommended Levels of Essential Amino Acids._ SF Gate. https://healthyeating.sfgate.com/recommended-levels-essential-amino-acids-3649.html
 
-
-Flint water crisis. (2021, August 1). In Wikipedia. https://en.wikipedia.org/wiki/Flint_water_crisis
-
-
-Hutton, G. (2016, February 12). Can we really put a price on meeting the global targets on drinking-water and sanitation? World Bank Blogs. https://blogs.worldbank.org/water/can-we-really-put-price-meeting-global-targets-drinking-water-and-sanitation
-
-
-Lepley, S. (2019, May 30). 9 mind-blowing facts about the US farming industry. Markets.Businessinsider.Com. https://markets.businessinsider.com/news/stocks/farming-industry-facts-us-2019-5
-
-
-USDA. (n.d.). USDA ERS - Ag and Food Sectors and the Economy. U.S Department of Agriculture. Retrieved August 4, 2021, from https://www.ers.usda.gov/data-products/ag-and-food-statistics-charting-the-essentials/ag-and-food-sectors-and-the-economy/
-
-
-Shrinivasan, R. (2013, May 1). Farmer population falls by 9 million in 10 years. The Times of India. https://timesofindia.indiatimes.com/india/Farmer-population-falls-by-9-million-in-10-years/articleshow/19813617.cms
-
-
-Hasell, J. (2013, October 10). Famines. Our World in Data. https://ourworldindata.org/famines
-
-
-National Institutes of Health. (2021, August 4). Office of Dietary Supplements - Omega-3 Fatty Acids. https://ods.od.nih.gov/factsheets/Omega3FattyAcids-Consumer/
-
-
-Appleby, M. (2018, December 7). Recommended Levels of Essential Amino Acids. SF Gate. https://healthyeating.sfgate.com/recommended-levels-essential-amino-acids-3649.html
-
-
-Romine, S. (2019, March 29). Essential Nutrients: What Are They & How Much Do You Need? Openfit. https://www.openfit.com/essential-nutrients-explainer
-
+Romine, S. (2019, March 29). _Essential Nutrients: What Are They & How Much Do You Need?_ Openfit. https://www.openfit.com/essential-nutrients-explainer
 
 Dubock, A (March 11th 2019). Golden Rice: To Combat Vitamin A Deficiency for Public Health, Vitamin A, Leila Queiroz Zepka, Veridiana Vera de Rosso and Eduardo Jacob-Lopes, IntechOpen, DOI: 10.5772/intechopen.84445. 
 
+Johnson, S. (2021). _Extra Life: A Short History of Living Longer._ Riverhead Books.
 
-Johnson, S. (2021). Extra Life: A Short History of Living Longer. Riverhead Books.
+Johnson, S. (2007). _The Ghost Map: The Story of London’s Most Terrifying Epidemic--and How It Changed Science, Cities, and the Modern World._ Riverhead Books.
 
+London sewerage system. (2021, July 24). In _Wikipedia_. https://en.wikipedia.org/wiki/London_sewerage_system
 
-Johnson, S. (2007). The Ghost Map: The Story of London’s Most Terrifying Epidemic--and How It Changed Science, Cities, and the Modern World. Riverhead Books.
+Ritchie, H., & Roser, M. (2021, July 1). _Sanitation_. Our World in Data. https://ourworldindata.org/sanitation
 
+Juan García (2009) An integrated approach to the design and operation of low capacity sewage treatment works, _Desalination and Water Treatment_, 4:1-3, 28-32, DOI: 10.5004/dwt.2009.351
 
-London sewerage system. (2021, July 24). In Wikipedia. https://en.wikipedia.org/wiki/London_sewerage_system
+Chaisson, C. (2017, December 12). _When It Rains, It Pours Raw Sewage into New York City’s Waterways_. NRDC. https://www.nrdc.org/stories/when-it-rains-it-pours-raw-sewage-new-york-citys-waterways
 
-
-Ritchie, H., & Roser, M. (2021, July 1). Sanitation. Our World in Data. https://ourworldindata.org/sanitation
-
-
-Juan García (2009) An integrated approach to the design and operation of low capacity sewage treatment works, Desalination and Water Treatment, 4:1-3, 28-32, DOI: 10.5004/dwt.2009.351
-
-
-
-Chaisson, C. (2017, December 12). When It Rains, It Pours Raw Sewage into New York City’s Waterways. NRDC. https://www.nrdc.org/stories/when-it-rains-it-pours-raw-sewage-new-york-citys-waterways
-
-Climate Central. (2019, May 15). POURING IT ON: How Climate Change Intensifies Heavy Rain Events. https://www.climatecentral.org/news/report-pouring-it-on-climate-change-intensifies-heavy-rain-events
-
+Climate Central. (2019, May 15). _POURING IT ON: How Climate Change Intensifies Heavy Rain Events_. https://www.climatecentral.org/news/report-pouring-it-on-climate-change-intensifies-heavy-rain-events
 
 United Nations Environment Programme (UNEP) & The Global Alliance for Buildings and Construction (GABC). (2017, November). Towards zero-emission efficient and resilient buildings - Global Status Report 2016. United Nations Environment Programme. https://wedocs.unep.org/bitstream/handle/20.500.11822/10618/GABC-Report_Updated.pdf?sequence=1&%3BisAllowed=
 
@@ -422,17 +395,13 @@ Slotta, D. (2020, November 26). Number of newly built apartments in China 2009�
 
 Kaufman, L., Rojanasakul, M., Warren, H., Kao, J., Harris, B., & Gopal, P. (2020, June 29). Mapping America’s Underwater Real Estate. Bloomberg. https://www.bloomberg.com/tosv2.html?vid=&uuid=3f8d41d0-f6ce-11eb-b60b-83b18a347fe8&url=L2dyYXBoaWNzLzIwMjAtZmxvb2Qtcmlzay16b25lLXVzLW1hcC8=
 
-
 Global Migration Data Portal. (2021, June 3). Environmental Migration. Migration Data Portal. https://migrationdataportal.org/themes/environmental_migration_and_statistics
 
 Kamal, B. (2017, August 21). Climate Migrants Might Reach One Billion by 2050. ReliefWeb. https://reliefweb.int/report/world/climate-migrants-might-reach-one-billion-2050
 
-
 Borunda, A. (2021, July 2). Heat waves kill people—and climate change is making it much, much worse. National Geographic. https://www.nationalgeographic.com/environment/article/heat-related-deaths-attributed-to-climate-change
 
-
 2019 European heat waves. (2021, July 24). In Wikipedia. https://en.wikipedia.org/wiki/2019_European_heat_wave
-
 
 Armstrong, M. (2020, August 27). Air Conditioning Biggest Factor in Growing Electricity Demand. Statista. https://www.statista.com/chart/14401/growing-demand-for-air-conditioning-and-energy/
 
