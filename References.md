@@ -307,6 +307,187 @@ Powers, W., & Roy, D. (2018, March 19). _The Incredible Jun: A Town that Runs on
 
 Haverstock, E. (2020, April 14). _Changing FDA rules leave startups in limbo over at-home COVID-19 tests._ PitchBook. https://pitchbook.com/news/articles/changing-fda-rules-leave-startups-in-limbo-over-at-home-covid-19-tests
 
+
 ## Conclusion
 
 Ord, T. (2020). _The Precipice: Existential Risk and the Future of Humanity._ Hachette Books.
+
+
+## Appendix
+
+World Bank. (2020). _Gross capital formation (constant 2010 US$)_. https://data.worldbank.org/indicator/NE.GDI.TOTL.KD
+
+Morfeldt, Johannes. (2017). _Tracking Emissions Reductions and Energy Efficiency in the Steel Industry, Chalmers-University-of-Technology,_ https://www.researchgate.net/publication/317345083_Tracking_Emissions_Reductions_and_Energy_Efficiency_in_the_Steel_Industry
+
+Qualman, D. (2017, June 14). _Happy motoring: Global automobile production 1900 to 2016_ ». Darrin Qualman. https://www.darrinqualman.com/global-automobile-production/
+
+Motorola DynaTAC. (2021, June 30). In _Wikipedia_. https://en.wikipedia.org/wiki/Motorola_DynaTAC
+
+Statista. (2020, December 3). _Number of mobile subscriptions worldwide 1993–2019_. https://www.statista.com/statistics/262950/global-mobile-subscriptions-since-1993/
+
+Statista. (2021, February 2). _Global module manufacturing production 2000–2019_. https://www.statista.com/statistics/668764/annual-solar-module-manufacturing-globally/
+
+Our World in Data. (2019). _World Population over the last 12,000 years and UN projection until 2100_. https://ourworldindata.org/grapher/world-population-1750-2015-and-un-projection-until-2100?country=Our+World+In+Data%7EOWID_WRL
+
+Casais, E. (2010)._ US federal spending as a share of GDP._ Areppim AG. https://stats.areppim.com/stats/stats_usxrecxspendxgdp.htm
+
+Harrison, M. (1998). _The Economics of World War II: Six Great Powers in International Comparison (Studies in Macroeconomic History)_ (Revised ed.). Cambridge University Press. https://warwick.ac.uk/fac/soc/economics/staff/mharrison/public/ww2overview1998.pdf
+
+
+Steven W. Henderson, "Consumer spending in World War II: the forgotten consumer expenditure surveys," _Monthly Labor Review,_ U.S. Bureau of Labor Statistics, August 2015, https://doi.org/10.21916/mlr.2015.29.
+
+Fetherston, E., Kinzler, M., & Miller, S. (n.d.). Assembling Our Transportation Future. Gala. Retrieved August 2, 2021, from https://www.learngala.com/cases/model-t/8
+
+
+The U.S. National Archives and Records Administration. (n.d.). When You Ride Alone You Ride With Hitler! National Archives. Retrieved August 2, 2021, from https://www.archives.gov/exhibits/powers_of_persuasion/use_it_up/images_html/ride_with_hitler.html
+
+Dickson, S. (2016, August 17). Ten WWII innovations that changed the world we live in (for the better). The Vintage News. https://www.thevintagenews.com/2016/08/17/ten-wwii-innovations-changed-world-live-better/
+
+Cavity magnetron. (2021, June 27). In Wikipedia. https://en.wikipedia.org/wiki/Cavity_magnetron
+
+Penicillin. (2021, July 30). In Wikipedia. https://en.wikipedia.org/wiki/Penicillin#Mass_production
+
+
+Escort fighter. (2021, June 6). In Wikipedia. https://en.wikipedia.org/wiki/Escort_fighter
+
+
+
+
+Smog kills thousands in England. (2020, December 4). HISTORY. https://www.history.com/this-day-in-history/smog-kills-thousands-in-england
+
+
+Xue, L. (2019, October 11). Hainan Bans All Fossil Fuel Vehicles. What Does it Mean for Clean Transport in China? TheCityFix. https://thecityfix.com/blog/hainan-bans-fossil-fuel-vehicles-mean-clean-transport-china-lulu-xue/
+
+
+Solar wind. (2021, July 18). In Wikipedia. https://en.wikipedia.org/wiki/Solar_wind#Atmospheres
+
+
+1854 Broad Street cholera outbreak. (2021, July 30). In Wikipedia. https://en.wikipedia.org/wiki/1854_Broad_Street_cholera_outbreak
+
+
+Flint water crisis. (2021, August 1). In Wikipedia. https://en.wikipedia.org/wiki/Flint_water_crisis
+
+
+Hutton, G. (2016, February 12). Can we really put a price on meeting the global targets on drinking-water and sanitation? World Bank Blogs. https://blogs.worldbank.org/water/can-we-really-put-price-meeting-global-targets-drinking-water-and-sanitation
+
+
+Lepley, S. (2019, May 30). 9 mind-blowing facts about the US farming industry. Markets.Businessinsider.Com. https://markets.businessinsider.com/news/stocks/farming-industry-facts-us-2019-5
+
+
+USDA. (n.d.). USDA ERS - Ag and Food Sectors and the Economy. U.S Department of Agriculture. Retrieved August 4, 2021, from https://www.ers.usda.gov/data-products/ag-and-food-statistics-charting-the-essentials/ag-and-food-sectors-and-the-economy/
+
+
+Shrinivasan, R. (2013, May 1). Farmer population falls by 9 million in 10 years. The Times of India. https://timesofindia.indiatimes.com/india/Farmer-population-falls-by-9-million-in-10-years/articleshow/19813617.cms
+
+
+Hasell, J. (2013, October 10). Famines. Our World in Data. https://ourworldindata.org/famines
+
+
+National Institutes of Health. (2021, August 4). Office of Dietary Supplements - Omega-3 Fatty Acids. https://ods.od.nih.gov/factsheets/Omega3FattyAcids-Consumer/
+
+
+Appleby, M. (2018, December 7). Recommended Levels of Essential Amino Acids. SF Gate. https://healthyeating.sfgate.com/recommended-levels-essential-amino-acids-3649.html
+
+
+Romine, S. (2019, March 29). Essential Nutrients: What Are They & How Much Do You Need? Openfit. https://www.openfit.com/essential-nutrients-explainer
+
+
+Dubock, A (March 11th 2019). Golden Rice: To Combat Vitamin A Deficiency for Public Health, Vitamin A, Leila Queiroz Zepka, Veridiana Vera de Rosso and Eduardo Jacob-Lopes, IntechOpen, DOI: 10.5772/intechopen.84445. 
+
+
+Johnson, S. (2021). Extra Life: A Short History of Living Longer. Riverhead Books.
+
+
+Johnson, S. (2007). The Ghost Map: The Story of London’s Most Terrifying Epidemic--and How It Changed Science, Cities, and the Modern World. Riverhead Books.
+
+
+London sewerage system. (2021, July 24). In Wikipedia. https://en.wikipedia.org/wiki/London_sewerage_system
+
+
+Ritchie, H., & Roser, M. (2021, July 1). Sanitation. Our World in Data. https://ourworldindata.org/sanitation
+
+
+Juan García (2009) An integrated approach to the design and operation of low capacity sewage treatment works, Desalination and Water Treatment, 4:1-3, 28-32, DOI: 10.5004/dwt.2009.351
+
+
+
+Chaisson, C. (2017, December 12). When It Rains, It Pours Raw Sewage into New York City’s Waterways. NRDC. https://www.nrdc.org/stories/when-it-rains-it-pours-raw-sewage-new-york-citys-waterways
+
+Climate Central. (2019, May 15). POURING IT ON: How Climate Change Intensifies Heavy Rain Events. https://www.climatecentral.org/news/report-pouring-it-on-climate-change-intensifies-heavy-rain-events
+
+
+United Nations Environment Programme (UNEP) & The Global Alliance for Buildings and Construction (GABC). (2017, November). Towards zero-emission efficient and resilient buildings - Global Status Report 2016. United Nations Environment Programme. https://wedocs.unep.org/bitstream/handle/20.500.11822/10618/GABC-Report_Updated.pdf?sequence=1&%3BisAllowed=
+
+Slotta, D. (2020, November 26). Number of newly built apartments in China 2009–2019. Statista. https://www.statista.com/statistics/242963/number-of-newly-built-apartments-in-china/
+
+Kaufman, L., Rojanasakul, M., Warren, H., Kao, J., Harris, B., & Gopal, P. (2020, June 29). Mapping America’s Underwater Real Estate. Bloomberg. https://www.bloomberg.com/tosv2.html?vid=&uuid=3f8d41d0-f6ce-11eb-b60b-83b18a347fe8&url=L2dyYXBoaWNzLzIwMjAtZmxvb2Qtcmlzay16b25lLXVzLW1hcC8=
+
+
+Global Migration Data Portal. (2021, June 3). Environmental Migration. Migration Data Portal. https://migrationdataportal.org/themes/environmental_migration_and_statistics
+
+Kamal, B. (2017, August 21). Climate Migrants Might Reach One Billion by 2050. ReliefWeb. https://reliefweb.int/report/world/climate-migrants-might-reach-one-billion-2050
+
+
+Borunda, A. (2021, July 2). Heat waves kill people—and climate change is making it much, much worse. National Geographic. https://www.nationalgeographic.com/environment/article/heat-related-deaths-attributed-to-climate-change
+
+
+2019 European heat waves. (2021, July 24). In Wikipedia. https://en.wikipedia.org/wiki/2019_European_heat_wave
+
+
+Armstrong, M. (2020, August 27). Air Conditioning Biggest Factor in Growing Electricity Demand. Statista. https://www.statista.com/chart/14401/growing-demand-for-air-conditioning-and-energy/
+
+Holst, A. (2020, December 7). Air conditioners demand worldwide 2012–2018. Statista. https://www.statista.com/statistics/871534/worldwide-air-conditioner-demand/
+
+Cabin pressurization. (2021, July 21). In Wikipedia. https://en.wikipedia.org/wiki/Cabin_pressurization
+
+Roser, M. (2013, December 10). Light at Night. Our World in Data. https://ourworldindata.org/light
+
+CDC. (n.d.). Health and Economic Costs of Chronic Diseases. National Center for Chronic Disease Prevention and Health Promotion. Retrieved August 6, 2021, from https://www.cdc.gov/chronicdisease/about/costs/index.htm
+
+Roser, M. (2019, October). Life Expectancy. Our World in Data. https://ourworldindata.org/life-expectancy
+
+Case, A., & Deaton, A. (2021). Deaths of Despair and the Future of Capitalism. Princeton University Press.
+
+Our World in Data. (n.d.). Literate and illiterate world population. Retrieved August 7, 2021, from https://ourworldindata.org/grapher/literate-and-illiterate-world-population?country=%7EOWID_WRL
+
+O’Dea, S. (2021, June 2). Smartphone penetration worldwide 2020. Statista. https://www.statista.com/statistics/203734/global-smartphone-penetration-per-capita-since-2005/
+
+Mobile Price List In India. (n.d.). 91 Mobiles. Retrieved August 27, 2021, from https://www.91mobiles.com/xiaomi-mobile-price-list-in-india
+
+Statista. (2021b, May 10). Smartphone penetration rate in India FY 2016–2020, with estimates until 2025. https://www.statista.com/statistics/1229799/india-smartphone-penetration-rate/
+
+Minimally invasive education. (2021, July 5). In Wikipedia. https://en.wikipedia.org/wiki/Minimally_invasive_education
+
+Unschooling. (2021, August 5). In Wikipedia. https://en.wikipedia.org/wiki/Unschooling
+
+Albert Einstein. (2021, August 6). In Wikipedia. https://en.wikipedia.org/wiki/Albert_Einstein#Early_life_and_education
+
+Michael Faraday. (2021, August 6). In Wikipedia. https://en.wikipedia.org/wiki/Michael_Faraday#Early_life
+
+
+Chiu, L. (2021, March 22). Declining sperm counts around the world could reach zero in just 24 years. CGTN America. https://america.cgtn.com/2021/03/22/declining-sperm-counts-around-the-world-could-reach-zero-in-just-24-years
+
+
+Becker, R. (2017, April 25). An artificial womb successfully grew baby sheep — and humans could be next. The Verge. https://www.theverge.com/2017/4/25/15421734/artificial-womb-fetus-biobag-uterus-lamb-sheep-birth-premie-preterm-infant
+
+
+Palimpsest. (2021, June 30). In Wikipedia. https://en.wikipedia.org/wiki/Palimpsest
+Large Hadron Collider. (2021, July 23). In Wikipedia. https://en.wikipedia.org/wiki/Large_Hadron_Collider
+
+
+Mearns, E. (2013, November 3). Energiewende: Germany, UK, France and Spain. Energy Matters. http://euanmearns.com/energiewende-germany-uk-france-and-spain/
+
+
+Krivit, S., & Ravnitzky, M. (2016, December 7). It’s Not Cold Fusion. . . But It’s Something. Scientific American Blog Network. https://blogs.scientificamerican.com/guest-blog/its-not-cold-fusion-but-its-something/
+
+Alewell, C., Ringeval, B., Ballabio, C. et al. Global phosphorus shortage will be aggravated by soil erosion. Nat Commun 11, 4546 (2020). https://doi.org/10.1038/s41467-020-18326-7
+
+EPA. (2021, July 2). Aluminum: Material-Specific Data. US EPA. https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/aluminum-material-specific-data
+
+Aleklett, K, Morrissey, D J, Loveland, W, McGaughey, P L, & Seaborg, G T. (1981) Energy dependence of /sup 209/Bi fragmentation in relativistic nuclear collisions. United States. https://doi.org/10.1103/PhysRevC.23.1044
+
+
+
+Motorlease. (n.d.). The Rise of the SUVs. Motorlease Fleet Management & Leasing Solutions. Retrieved August 7, 2021, from https://motorlease.com/article/suv-rise/
+
+
