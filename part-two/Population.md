@@ -8,7 +8,7 @@ What Malthus got wrong was the rate of technological progress. First, he was pes
 
 Second, Malthus could not foresee the scientific breakthroughs that enabled the Industrial Revolution. That revolution not only powered the increase in agricultural productivity, but also gave us dramatic advances in living standards, including increased life expectancy, faster transportation and cheaper communication.
 
-[![Population Growth](../assets/population-growth.png)](../Appendix.md#pop-growth)
+![Population Growth](assets/population-growth.png)
 
 This matters, because as it turns out, population growth responds to progress. In particular, there is a strong and well-documented relationship between levels of infant mortality, living standards, and birth rates. As better medical technology reduces infant mortality and better production technology increases living standards, birth rates decline. This is not a mechanistic relationship but involves complex social adjustments, such as women entering the workforce and other forms of empowerment for women (e.g., better access to education). Max Roser and the team at the “Our World In Data” project have produced some beautiful charts that show how this effect of progress on birth rates has occurred all around the world (Roser, 2017).
  
