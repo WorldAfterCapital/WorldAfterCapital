@@ -129,6 +129,10 @@ _Understanding the Historic Divergence Between Productivity and a Typical Worker
 
 Federal Reserve Bank of St. Louis. (2021, August 26). _Gross Domestic Product and Real Median Household Income in the United States._ FRED. https://fred.stlouisfed.org/graph/?g=caWq
 
+Federal Reserve Bank of St. Louis. (2021d, June 10). _Households and Nonprofit Organizations; Debt Securities and Loans; Liability, Level._ FRED. https://fred.stlouisfed.org/series/CMDEBT#0
+
+Federal Reserve Bank of St. Louis. (2021f, August 26). _Gross Domestic Product._ FRED. https://fred.stlouisfed.org/series/GDP#0
+
 The Economist. (2016, January 28). _Machine earning._ https://www.economist.com/finance-and-economics/2016/01/28/machine-earning
 
 Kilby, E.R. (2007). _The demographics of the U.S. equine population._ In D.J. Salem & A.N. Rowan (Eds.), The state of the animals 2007 (pp. 175-205). Washington, DC: Humane Society Press. 
@@ -178,6 +182,8 @@ U.S. Bureau of the Census,  _Statistical Abstract of the United States: 1949_. (
 
 OECD (2021), _General government spending_ (indicator). doi: 10.1787/a31cbf4d-en (Accessed on 07 July 2021)
 
+Federal Reserve Bank of St. Louis. (2021, August 11). _Consumer Price Index for All Urban Consumers: Durables in U.S. City Average._ FRED. https://fred.stlouisfed.org/series/CUSR0000SAD#0
+
 Crane, J., & Marchese, K. (2015, September 2). _3D opportunity for the supply chain: Additive manufacturing delivers._ Deloitte Insights. https://www2.deloitte.com/xe/en/insights/focus/3d-opportunity/additive-manufacturing-3d-printing-supply-chain-transformation.html
 
 Orrall, J. (2020, September 27). _Houses 3D-printed in just 24 hours now shipping in California._ CNET. https://www.cnet.com/news/houses-3d-printed-in-just-24-hours-now-shipping-in-california/
@@ -189,6 +195,8 @@ Joint Center for Housing Studies of Harvard University. (2020). _America’s Ren
 Bariso, J. (2020, August 19). _Google Has a Plan to Disrupt the College Degree._ Inc.Com. https://www.inc.com/justin-bariso/google-plan-disrupt-college-degree-university-higher-education-certificate-project-management-data-analyst.html
 
 Hamblin, J. (2016, November 30). _How Cubans Live as Long as Americans at a Tenth of the Cost._ The Atlantic. https://www.theatlantic.com/health/archive/2016/11/cuba-health/508859/
+
+OECD. (2021, July). _OECD Statistics - Health expenditure and financing_. OECD Stat. https://stats.oecd.org/Index.aspx?ThemeTreeId=9
 
 The American Academy of Actuaries. (2018, March). _Prescription Drug Spending in the U.S. Health Care System._ American Academy of Actuaries. https://www.actuary.org/content/prescription-drug-spending-us-health-care-system
 
@@ -333,11 +341,19 @@ Ord, T. (2020). _The Precipice: Existential Risk and the Future of Humanity._ Ha
 
 ## Appendix
 
-World Bank. (2020). _Gross capital formation (constant 2010 US$)_. https://data.worldbank.org/indicator/NE.GDI.TOTL.KD
+World Bank. (2020). _Gross capital formation._ World Bank – World Development Indicators. https://data.worldbank.org/indicator/NE.GDI.TOTL.KD
 
-Morfeldt, Johannes. (2017). _Tracking Emissions Reductions and Energy Efficiency in the Steel Industry, Chalmers-University-of-Technology,_ https://www.researchgate.net/publication/317345083_Tracking_Emissions_Reductions_and_Energy_Efficiency_in_the_Steel_Industry
+International Iron and Steel Institute. (1991). _Steel statistical yearbook_. Brussels: The Institute.
+ 
+International Iron and Steel Institute. (2001). _Steel statistical yearbook_. Brussels: The Institute.
 
-Qualman, D. (2017, June 14). _Happy motoring: Global automobile production 1900 to 2016_ ». Darrin Qualman. https://www.darrinqualman.com/global-automobile-production/
+International Iron and Steel Institute. (2011). _Steel statistical yearbook_. Brussels: The Institute.
+
+World Steel Association. (2021, January 26). _Global crude steel output decreases by 0.9% in 2020_. World Steel. https://www.worldsteel.org/media-centre/press-releases/2021/Global-crude-steel-output-decreases-by-0.9--in-2020.html
+
+Chamber of Commerce of the United States. (1973)._ United States Multinational Enterprise Survey._ https://books.google.com.sa/books?id=tPZe7kHHTboC&printsec=frontcover#v=onepage&q&f=false
+
+Bureau of Transportation Statistics. (2017, May)._ World Motor Vehicle Production._ https://www.bts.gov/bts/archive/publications/national_transportation_statistics/table_01_23
 
 Motorola DynaTAC. (2021, June 30). In _Wikipedia_. https://en.wikipedia.org/wiki/Motorola_DynaTAC
 
