@@ -17,6 +17,8 @@ Wright brothers. (2020, August 25). In _Wikipedia_.https://en.wikipedia.org/w/in
 
 British Overseas Airways Corporation. (2020, September 6). In _Wikipedia_. https://en.wikipedia.org/w/index.php?title=British_Overseas_Airways_Corporation&oldid=977094302
 
+Flight distance record. (2021, April 7). In _Wikipedia_. https://en.wikipedia.org/wiki/Flight_distance_record
+
 Neuroscience News. (2018, December 3). _Man Versus Machine: Who Wins When It Comes to Facial Recognition?_ https://neurosciencenews.com/man-machine-facial-recognition-120191/
 
 Phillips, P. J et al.,  (2018). _Face recognition accuracy of forensic examiners, super recognizers, and face recognition algorithms._ Proceedings of the National Academy of Sciences, 115(24), 6171–6176. https://doi.org/10.1073/pnas.1721355115
@@ -64,6 +66,12 @@ Ritchie, H. (2019, November 13). _Land Use_. Our World in Data. https://ourworld
 
 Ausubel, J. H., Wernick, I. K., & Waggoner, P. E. (2013). _Peak Farmland and the Prospect for Land Sparing_. Population and Development Review, 38, 221–242 https://doi.org/10.1111/j.1728-4457.2013.00561.x
 
+World Bank. (2020). _GDP per capita, PPP_. World Bank – World Development Indicators. https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD
+
+United Nations, Department of Economic and Social Affairs, Population Division (2019). _World Population Prospects 2019, Online Edition_. Rev. 1.
+
+World Bank. (2020). _Mortality rate, under-5._ World Bank – World Development Indicators. https://data.worldbank.org/indicator/SH.DYN.MORT
+
 Ewers, R. M.,Scharlemann, J. P. W., Balmford, A., & Green, R. E. (2009). _Do increases in agricultural yield spare land for nature?_ Global Change Biology, 15(7), 1716–1726. https://doi.org/10.1111/j.1365-2486.2009.01849.x
 
 Roser, M. (2017, December 2). _Fertility Rate._ Our World in Data. https://ourworldindata.org/fertility-rate
@@ -93,6 +101,12 @@ Rodrick, S. (2019, December 23). _All-American Despair._ Rolling Stone. https://
 
 _Suicide statistics._ (2019, November 15). American Foundation for Suicide Prevention. https://afsp.org/suicide-statistics/
 
+Centers for Disease Control (CDC). (2020, February). _Fatal Injury and Violence Data_. CDC. https://www.cdc.gov/injury/wisqars/fatal.html
+
+National Center for Health Statistics. (2019). _National Vital Statistics System_. https://www.cdc.gov/nchs/data/databriefs/db394-tables-508.pdf#page=1
+
+Substance Abuse and Mental Health Services Administration. (2020). _Key substance use and mental health indicators in the United States: Results from the 2019 National Survey on Drug Use and Health_ (HHS Publication No. PEP20-07-01-001, NSDUH Series H-55). Rockville, MD: Center for Behavioral Health Statistics and Quality, Substance Abuse and Mental Health Services Administration. Retrieved from https://www.samhsa.gov/data/
+
 Inglehart, R., & Norris, P. (2016). _Trump, Brexit, and the Rise of Populism: Economic Have-Nots and Cultural Backlash._ SSRN Electronic Journal. https://doi.org/10.2139/ssrn.2818659
 
 White, R. (2019, October 7). _Ancient Maya Canals and Fields Show Early and Extensive Impacts on Tropical Forests._ UT News. https://news.utexas.edu/2019/10/07/ancient-maya-canals-and-fields-show-early-and-extensive-impacts-on-tropical-forests/
@@ -112,6 +126,8 @@ O’Toole, G. (2011, November 16). _“How Will You Get Robots to Pay Union Dues
 Bernstein, A., & Raman, A. (2015, June). _The Great Decoupling: An Interview with Erik Brynjolfsson and Andrew McAfee._ Harvard Business Review. https://hbr.org/2015/06/the-great-decoupling
 
 _Understanding the Historic Divergence Between Productivity and a Typical Worker’s Pay: Why It Matters and Why It’s Real._ (n.d.). Economic Policy Institute. https://www.epi.org/publication/understanding-the-historic-divergence-between-productivity-and-a-typical-workers-pay-why-it-matters-and-why-its-real/
+
+Federal Reserve Bank of St. Louis. (2021, August 26). _Gross Domestic Product and Real Median Household Income in the United States._ FRED. https://fred.stlouisfed.org/graph/?g=caWq
 
 The Economist. (2016, January 28). _Machine earning._ https://www.economist.com/finance-and-economics/2016/01/28/machine-earning
 
