@@ -23,7 +23,7 @@ In today’s economy, the majority of people sell their labor, producing goods a
 
 Most of the people who sell these goods and services are in turn employed, meaning that they too sell their labor and buy goods and services from other people with what they are paid. And round and round it goes.
 
-![The Job Loop](assets/job-loop.png)
+![The Job Loop](../assets/job-loop.png)
 
 The job loop worked incredibly well in combination with competitive markets for goods and services and with a properly functioning financial system. Entrepreneurs either used debt or equity to start new businesses, and employed people at wages that were often higher than older businesses, increasing their employees’ purchasing power and thereby fueling further innovation and growth. As far as expanding economic production and solving problems for which markets are well-suited, it was a virtuous cycle that resulted in unprecedented prosperity and innovation.
  
@@ -38,11 +38,11 @@ Put differently, what was once a virtuous loop has become a vicious loop that ho
 
 To understand what is happening to the job loop, we need to look at a change in the economy that has become known as “the Great Decoupling” (Bernstein & Raman, 2015). In the decades after Worl War II, as the US economy grew, the share of Gross Domestic Product (GDP) going to labor grew at the same rate. However, starting in the mid-1970s, GDP continued to grow while household income remained flat (Economic Policy Institute, n.d.).
 
-![The Great Decoupling](assets/great-decoupling.png)
+![The Great Decoupling](../assets/great-decoupling.png)
 
 Over this time of stagnant incomes, and particularly from the mid-1980s onward, US GDP growth was increasingly financed by consumers going into debt, until we reached the limit of how much debt households could support. The first event that really drove that point home was the collapse of the US housing bubble. There is some evidence that we are hitting another such point right now, as a result of the COVID-19 crisis, which has led to dramatic increases in unemployment.
 
-![Household Debt to GDP for United States](assets/household-debt.png)
+![Household Debt to GDP for United States](../assets/household-debt.png)
 
 Similar changes have occurred in other developed economies. This decoupling may be partly accounted for by changing demographics, but the primary driver appears to be technology. As technological innovation accelerates, there will be further pressure on the job loop. Particularly worrisome is the fact that jobs in developing countries are highly exposed to automation (The Economist, 2016). As a result, these countries may either skip the “golden age of the job loop” entirely or have a much diminished version.
 

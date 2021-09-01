@@ -23,7 +23,7 @@ We are the only species on Earth that has created knowledge—not just science, 
 
 Knowledge has already made possible something extraordinary: by means of the innovations of the Industrial Age we can, in principle, meet everyone’s needs. But we must generate additional knowledge to solve the problems we have introduced along the way, such as the climate crisis. New knowledge does not spring forth fully formed out of a vacuum. Instead it emerges through what I call the ‘knowledge loop’, in which someone learns something and creates something new, which is then shared and in turn serves as the basis for more learning.
 
-![The Knowledge Loop](assets/knowledge-loop.png)
+![The Knowledge Loop](../assets/knowledge-loop.png)
 
 The knowledge loop has been around since humans first developed written language, some five thousand years ago. Before that, humans were able to use spoken language, but that limits learning and sharing in terms of both time and space. Since the invention of written language, breakthroughs have accelerated and access to the knowledge loop has broadened. Those include moveable type (around one thousand years ago), the printing press (around five hundred years ago) and more recently the telegraph, radio and television. Now we are in the middle of another fundamental breakthrough: digital technology, which connects all of humanity to the knowledge loop at zero marginal cost, and also allows machines themselves to participate in it.
  
