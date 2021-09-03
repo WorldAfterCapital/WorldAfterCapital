@@ -68,11 +68,11 @@ Ausubel, J. H., Wernick, I. K., & Waggoner, P. E. (2013). _Peak Farmland and the
 
 Ewers, R. M.,Scharlemann, J. P. W., Balmford, A., & Green, R. E. (2009). _Do increases in agricultural yield spare land for nature?_ Global Change Biology, 15(7), 1716–1726. https://doi.org/10.1111/j.1365-2486.2009.01849.x
 
-World Bank. (2020). _GDP per capita, PPP_. World Bank – World Development Indicators. https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD
+World Bank. (2020a). _GDP per capita, PPP_. World Bank – World Development Indicators. https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD
+
+World Bank. (2020b). _Mortality rate, under-5._ World Bank – World Development Indicators. https://data.worldbank.org/indicator/SH.DYN.MORT
 
 United Nations, Department of Economic and Social Affairs, Population Division (2019). _World Population Prospects 2019, Online Edition_. Rev. 1.
-
-World Bank. (2020). _Mortality rate, under-5._ World Bank – World Development Indicators. https://data.worldbank.org/indicator/SH.DYN.MORT
 
 Roser, M. (2017, December 2). _Fertility Rate._ Our World in Data. https://ourworldindata.org/fertility-rate
 
