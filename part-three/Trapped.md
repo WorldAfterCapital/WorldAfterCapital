@@ -40,7 +40,7 @@ To understand what is happening to the job loop, we need to look at a change in 
 
 [![The Great Decoupling](../assets/great-decoupling.png)](../Appendix.md#great-decoupling)
 <p align="center">
-Source: Federal Reserve Bank of St. Louis, 2021
+Source: Federal Reserve Bank of St. Louis, 2021a
 </p>
 
 
@@ -48,7 +48,7 @@ Over this time of stagnant incomes, and particularly from the mid-1980s onward, 
 
 [![Household Debt to GDP for United States](../assets/household-debt.png)](../Appendix.md#debt-to-gdp)
 <p align="center">
-Source: Federal Reserve Bank of St. Louis, 2021a; Federal Reserve Bank of St. Louis, 2021b
+Source: Federal Reserve Bank of St. Louis, 2021b; Federal Reserve Bank of St. Louis, 2021c
 </p>
 
 
