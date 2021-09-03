@@ -127,11 +127,11 @@ Bernstein, A., & Raman, A. (2015, June). _The Great Decoupling: An Interview wit
 
 _Understanding the Historic Divergence Between Productivity and a Typical Worker’s Pay: Why It Matters and Why It’s Real._ (n.d.). Economic Policy Institute. https://www.epi.org/publication/understanding-the-historic-divergence-between-productivity-and-a-typical-workers-pay-why-it-matters-and-why-its-real/
 
-Federal Reserve Bank of St. Louis. (2021, August 26). _Gross Domestic Product and Real Median Household Income in the United States._ FRED. https://fred.stlouisfed.org/graph/?g=caWq
+Federal Reserve Bank of St. Louis. (2021a, August 26). _Gross Domestic Product and Real Median Household Income in the United States._ FRED. https://fred.stlouisfed.org/graph/?g=caWq
 
-Federal Reserve Bank of St. Louis. (2021d, June 10). _Households and Nonprofit Organizations; Debt Securities and Loans; Liability, Level._ FRED. https://fred.stlouisfed.org/series/CMDEBT#0
+Federal Reserve Bank of St. Louis. (2021b, June 10). _Households and Nonprofit Organizations; Debt Securities and Loans; Liability, Level._ FRED. https://fred.stlouisfed.org/series/CMDEBT#0
 
-Federal Reserve Bank of St. Louis. (2021f, August 26). _Gross Domestic Product._ FRED. https://fred.stlouisfed.org/series/GDP#0
+Federal Reserve Bank of St. Louis. (2021c, August 26). _Gross Domestic Product._ FRED. https://fred.stlouisfed.org/series/GDP#0
 
 The Economist. (2016, January 28). _Machine earning._ https://www.economist.com/finance-and-economics/2016/01/28/machine-earning
 
@@ -457,7 +457,7 @@ O’Dea, S. (2021, June 2). _Smartphone penetration worldwide 2020_. Statista. h
 
 _Mobile Price List In India._ (n.d.). 91 Mobiles. Retrieved August 27, 2021, from https://www.91mobiles.com/xiaomi-mobile-price-list-in-india
 
-Statista. (2021b, May 10). _Smartphone penetration rate in India FY 2016–2020, with estimates until 2025._ https://www.statista.com/statistics/1229799/india-smartphone-penetration-rate/
+Statista. (2021, May 10). _Smartphone penetration rate in India FY 2016–2020, with estimates until 2025._ https://www.statista.com/statistics/1229799/india-smartphone-penetration-rate/
 
 Minimally invasive education. (2021, July 5). In _Wikipedia_. https://en.wikipedia.org/wiki/Minimally_invasive_education
 
