@@ -66,13 +66,13 @@ Ritchie, H. (2019, November 13). _Land Use_. Our World in Data. https://ourworld
 
 Ausubel, J. H., Wernick, I. K., & Waggoner, P. E. (2013). _Peak Farmland and the Prospect for Land Sparing_. Population and Development Review, 38, 221–242 https://doi.org/10.1111/j.1728-4457.2013.00561.x
 
+Ewers, R. M.,Scharlemann, J. P. W., Balmford, A., & Green, R. E. (2009). _Do increases in agricultural yield spare land for nature?_ Global Change Biology, 15(7), 1716–1726. https://doi.org/10.1111/j.1365-2486.2009.01849.x
+
 World Bank. (2020). _GDP per capita, PPP_. World Bank – World Development Indicators. https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD
 
 United Nations, Department of Economic and Social Affairs, Population Division (2019). _World Population Prospects 2019, Online Edition_. Rev. 1.
 
 World Bank. (2020). _Mortality rate, under-5._ World Bank – World Development Indicators. https://data.worldbank.org/indicator/SH.DYN.MORT
-
-Ewers, R. M.,Scharlemann, J. P. W., Balmford, A., & Green, R. E. (2009). _Do increases in agricultural yield spare land for nature?_ Global Change Biology, 15(7), 1716–1726. https://doi.org/10.1111/j.1365-2486.2009.01849.x
 
 Roser, M. (2017, December 2). _Fertility Rate._ Our World in Data. https://ourworldindata.org/fertility-rate
 
@@ -343,11 +343,11 @@ Ord, T. (2020). _The Precipice: Existential Risk and the Future of Humanity._ Ha
 
 World Bank. (2020). _Gross capital formation._ World Bank – World Development Indicators. https://data.worldbank.org/indicator/NE.GDI.TOTL.KD
 
-International Iron and Steel Institute. (1991). _Steel statistical yearbook_. Brussels: The Institute.
+International Iron and Steel Institute. (1991). _Steel statistical yearbook_. Brussels: The Institute. https://www.worldsteel.org/en/dam/jcr:7cd3de6e-ff49-4731-acc0-01bb9e8e3773/Steel%2520statistical%2520yearbook%25201991.pdf
  
-International Iron and Steel Institute. (2001). _Steel statistical yearbook_. Brussels: The Institute.
+International Iron and Steel Institute. (2001). _Steel statistical yearbook_. Brussels: The Institute. https://www.worldsteel.org/en/dam/jcr:08b20e40-78a2-4971-bcb2-7a99ee2c7b99/Steel%2520statistical%2520yearbook%25202001.pdf
 
-International Iron and Steel Institute. (2011). _Steel statistical yearbook_. Brussels: The Institute.
+Worldsteel Committee on Economic Studies. (2011). _Steel Statistical Yearbook 2011._ World Steel Association. https://www.worldsteel.org/en/dam/jcr:c12843e8-49c3-40f1-92f1-9665dc3f7a35/Steel%2520statistical%2520yearbook%25202011.pdf
 
 World Steel Association. (2021, January 26). _Global crude steel output decreases by 0.9% in 2020_. World Steel. https://www.worldsteel.org/media-centre/press-releases/2021/Global-crude-steel-output-decreases-by-0.9--in-2020.html
 
