@@ -1,6 +1,6 @@
 # Work in Progress
 
-This book has long been a work in progress. I am happy to report that it is approaching completion. The body of the text is in final form, subject to copy editing. The references are also in good shape. The Appendix has been revised substantially.
+This book has long been a work in progress. I am happy to report that it is approaching completion. The body of the text is in final form, subject to copy editing. The references are also in good shape. The Appendix has been revised substantially.  ok
 
 The process of writing iteratively in public is an example of what I call the &ldquo;Knowledge Loop&rdquo; in the book. The Knowledge Loop consists of learning, creating and sharing. My writing is based on what I have learned. By sharing early, others can learn from my ideas and I, in turn, can learn from their feedback.
 
