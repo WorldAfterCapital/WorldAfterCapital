@@ -35,6 +35,9 @@ Food, clothing and shelter are obvious solutions to human needs that a UBI shoul
 If you’re struggling to take care of your needs, the world will seem like an expensive place. Yet the data show that a lot of things have been getting cheaper for some time. In the US, as the chart below shows, the price of consumer durables has been falling since the mid-1990s.
 
 [![Consumer Durables Price Index](../assets/price-indices.png)](../Appendix.md#cdpi)
+<p align="center">
+Source: Federal Reserve Bank of St. Louis, 2021
+</p>
 
 The decline in the price of consumer durables has been made possible by technological progress. We are getting better at making stuff, and the automation of production and distribution is a big part of that. While this will hurt you if you lose your job as a result, if you have money to buy things it will help you. And with UBI everyone will have money, which as prices fall over time will buy more and more.
  
@@ -55,6 +58,9 @@ There is evidence that the exorbitant rise in the cost of college tuition in the
 Healthcare is a similar story. Per capita spending in the United States far exceeds that of other countries, having risen much more quickly than the rate of inflation for many years, but that hasn’t translated into better care. For instance, Cuba has for many years had an almost identical life expectancy to the US, despite spending less than a tenth of the amount on healthcare per capita (Hamblin, 2016). Debates have raged as to whether the Affordable Care Act or other legislative interventions will decrease healthcare costs or increase insurance premiums. Regardless of these issues, there are a number of reasons why we can count on progress in digital technology bringing down healthcare costs.
 
 [![Healthcare Expenditure Per Capita](../assets/healthcare-expenditure.png)](../Appendix.md#health-exp)
+<p align="center">
+Source: OECD, 2021
+</p>
 
 First, digital technology can make prices on medical procedures more transparent, enabling more competition to push prices down (this could be assisted further by regulation). Second, with people using technology to track their own health data, we can live healthier lives and require less care, especially over the long term. And third, technology will lead to faster and better diagnosis and treatment. The online medical crowdsourcing platform CrowdMed has helped many people whose conditions previously went undiagnosed or misdiagnosed. The Human Diagnosis Project (Human Dx) is also working on a system to help improve the accuracy of diagnoses.
 
