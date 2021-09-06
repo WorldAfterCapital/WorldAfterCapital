@@ -17,12 +17,12 @@ For triangulation it is worth considering the growth in output of some things th
 
 ![Steel Output](assets/steel-output.png)
 <p align="center">
-Source: International Iron and Steel Institute 1991, 2001; World Steel Association, 2001; Worldsteel Committee on Economic Studies, 2011; World Steel Association, 2021
+Source: International Iron and Steel Institute 1991, 2001; Worldsteel Committee on Economic Studies, 2011; World Steel Association, 2021
 </p>
 
 Compared to gross capital there is only about a twofold growth here from 1970 to today, but it is important to keep in mind that during that time period we have come up with many materials other than steel from which to make things, such as aluminum and of course plastics. Importantly though this graph lets us compare steel output today with output at the time of World War II and we can see that there has been more than an order of magnitude growth (roughly 15x).
 
-What about finished goods production? This too is a good proxy for the amount of total available physical capital. A great example is the global production of cars (Qualman, 2017). Here is a chart that shows it over time going back to the earliest days of the industry.
+What about finished goods production? This too is a good proxy for the amount of total available physical capital. A great example is the global production of cars. Here is a chart that shows it over time going back to the earliest days of the industry.
 
 ![Car Production](assets/car-production.png)
 <p align="center">
