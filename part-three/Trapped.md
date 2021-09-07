@@ -39,17 +39,16 @@ Put differently, what was once a virtuous loop has become a vicious loop that ho
 To understand what is happening to the job loop, we need to look at a change in the economy that has become known as “the Great Decoupling” (Bernstein & Raman, 2015). In the decades after Worl War II, as the US economy grew, the share of Gross Domestic Product (GDP) going to labor grew at the same rate. However, starting in the mid-1970s, GDP continued to grow while household income remained flat (Economic Policy Institute, n.d.).
 
 [![The Great Decoupling](../assets/great-decoupling.png)](../Appendix.md#great-decoupling)
-<p align="center">
+
 Source: Federal Reserve Bank of St. Louis, 2021a
-</p>
 
 
 Over this time of stagnant incomes, and particularly from the mid-1980s onward, US GDP growth was increasingly financed by consumers going into debt, until we reached the limit of how much debt households could support. The first event that really drove that point home was the collapse of the US housing bubble. There is some evidence that we are hitting another such point right now, as a result of the COVID-19 crisis, which has led to dramatic increases in unemployment.
 
 [![Household Debt to GDP for United States](../assets/household-debt.png)](../Appendix.md#debt-to-gdp)
-<p align="center">
+
 Source: Federal Reserve Bank of St. Louis, 2021b; Federal Reserve Bank of St. Louis, 2021c
-</p>
+
 
 
 Similar changes have occurred in other developed economies. This decoupling may be partly accounted for by changing demographics, but the primary driver appears to be technology. As technological innovation accelerates, there will be further pressure on the job loop. Particularly worrisome is the fact that jobs in developing countries are highly exposed to automation (The Economist, 2016). As a result, these countries may either skip the “golden age of the job loop” entirely or have a much diminished version.
