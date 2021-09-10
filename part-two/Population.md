@@ -8,7 +8,7 @@ What Malthus got wrong was the rate of technological progress. First, he was pes
 
 Second, Malthus could not foresee the scientific breakthroughs that enabled the Industrial Revolution. That revolution not only powered the increase in agricultural productivity, but also gave us dramatic advances in living standards, including increased life expectancy, faster transportation and cheaper communication.
 
-[![Population Growth](../assets/population-growth.png)](../Appendix.md#pop-growth)
+![Population Growth](../assets/population-growth.png)
 
 Source: World Bank, 2020a; World Bank, 2020b; United Nations, 2019
 
