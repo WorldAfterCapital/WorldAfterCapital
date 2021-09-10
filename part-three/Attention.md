@@ -11,9 +11,12 @@ Crucially, we cannot go back in time and change our past attention, either as in
 
 First, let’s consider attention at the individual level. The need for meaning is no longer being met because most people are failing to give enough attention to the crucial questions of purpose at a time of great transition.
 
-In recent times, all over the world, people had become used to constructing meaning around their jobs and beliefs, but both are undermined by digital technologies. Many jobs have come under pressure from automation or outsourcing. Meanwhile, ideas, images, and information are no longer contained by geographic boundaries, and people are increasingly exposed to opinions and behaviors that diverge from their core beliefs. In combination, these challenges are leading to a crisis of identity and meaning. This crisis can take many different forms, including teenage depression, adult suicide—in the US, particularly among middle-aged white men —and fatal drug overdoses (Rodrick, 2019; American Foundation for Suicide Prevention, 2019). Between 2006 and 2015, these problems increased by 60 percent, 20 percent and 40 percent respectively.
+In recent times, all over the world, people had become used to constructing meaning around their jobs and beliefs, but both are undermined by digital technologies. Many jobs have come under pressure from automation or outsourcing. Meanwhile, ideas, images, and information are no longer contained by geographic boundaries, and people are increasingly exposed to opinions and behaviors that diverge from their core beliefs. In combination, these challenges are leading to a crisis of identity and meaning. This crisis can take many different forms, including teenage depression, adult suicide—in the US, particularly among middle-aged white men —and fatal drug overdoses (Rodrick, 2019; American Foundation for Suicide Prevention, 2019). Between 2006 and 2019, these problems increased by 99 percent, 26 percent and 43 percent respectively.
 
 ![Crisis Statistics](../assets/crisis-statistics.png)
+
+Source: CDC, 2020; National Center for Health Statistics, 2019; Substance Abuse and Mental Health Services Administration, 2020
+
 
 The situation is not dissimilar to the one that first occurred when people left the countryside and moved to big cities during the transition to the Industrial Age, having to give up identities that had been constructed around land and crafts (a process that has continued to play itself out throughout the world as industrialization spread). They were uprooted from their extended families and confronted with people from other regions who held different beliefs. Then too there was a marked increase in mental illness, drug abuse and suicide.
 

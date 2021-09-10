@@ -40,9 +40,16 @@ To understand what is happening to the job loop, we need to look at a change in 
 
 ![The Great Decoupling](../assets/great-decoupling.png)
 
+Source: Federal Reserve Bank of St. Louis, 2021a
+
+
 Over this time of stagnant incomes, and particularly from the mid-1980s onward, US GDP growth was increasingly financed by consumers going into debt, until we reached the limit of how much debt households could support. The first event that really drove that point home was the collapse of the US housing bubble. There is some evidence that we are hitting another such point right now, as a result of the COVID-19 crisis, which has led to dramatic increases in unemployment.
 
 ![Household Debt to GDP for United States](../assets/household-debt.png)
+
+Source: Federal Reserve Bank of St. Louis, 2021b; Federal Reserve Bank of St. Louis, 2021c
+
+
 
 Similar changes have occurred in other developed economies. This decoupling may be partly accounted for by changing demographics, but the primary driver appears to be technology. As technological innovation accelerates, there will be further pressure on the job loop. Particularly worrisome is the fact that jobs in developing countries are highly exposed to automation (The Economist, 2016). As a result, these countries may either skip the “golden age of the job loop” entirely or have a much diminished version.
 

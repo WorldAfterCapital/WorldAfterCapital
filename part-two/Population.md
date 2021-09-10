@@ -10,6 +10,8 @@ Second, Malthus could not foresee the scientific breakthroughs that enabled the 
 
 ![Population Growth](../assets/population-growth.png)
 
+Source: World Bank, 2020a; World Bank, 2020b; United Nations, 2019
+
 This matters, because as it turns out, population growth responds to progress. In particular, there is a strong and well-documented relationship between levels of infant mortality, living standards, and birth rates. As better medical technology reduces infant mortality and better production technology increases living standards, birth rates decline. This is not a mechanistic relationship but involves complex social adjustments, such as women entering the workforce and other forms of empowerment for women (e.g., better access to education). Max Roser and the team at the “Our World In Data” project have produced some beautiful charts that show how this effect of progress on birth rates has occurred all around the world (Roser, 2017).
  
 So despite the extraordinary growth in global population over the last 200 years, simply assuming that it will continue into the future would be a mistake: there are strong signs that the world’s population is likely to peak. Some people claim that this debate is crucial because they don’t think the world can sustain, say, 11 billion people. However, this argument misses a key point. The world cannot sustain its current population of nearly 8 billion people either, unless we continue to make technological progress. The ways we have managed to supply 8 billion people so far have created all sorts of new problems, such as water and air pollution and, most pressingly, the climate crisis.
