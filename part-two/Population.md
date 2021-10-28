@@ -10,7 +10,7 @@ Second, Malthus could not foresee the scientific breakthroughs that enabled the 
 
 ![Population Growth](../assets/population-growth.png)
 
-Source: World Bank, 2020a; World Bank, 2020b; United Nations, 2019
+Source: World Bank, 2020a; 2020b; United Nations, 2019
 
 This matters, because as it turns out, population growth responds to progress. In particular, there is a strong and well-documented relationship between levels of infant mortality, living standards, and birth rates. As better medical technology reduces infant mortality and better production technology increases living standards, birth rates decline. This is not a mechanistic relationship but involves complex social adjustments, such as women entering the workforce and other forms of empowerment for women (e.g., better access to education). Max Roser and the team at the “Our World In Data” project have produced some beautiful charts that show how this effect of progress on birth rates has occurred all around the world (Roser, 2017).
  
@@ -18,6 +18,6 @@ So despite the extraordinary growth in global population over the last 200 years
 
 In fact Malthus's predictions may yet catch up with us. For example, if we don’t rapidly address the climate crisis, we may experience large scale crop failure resulting in mass starvation. This would be an example of having insufficient technology for producing enough food, in contrast to many past examples of mass starvation, such as in India, that were the result of social and political breakdowns from internal strife or external interference disrupting food production or distribution. 
 
-Still, the key takeaway should be that needs will not continue to grow exponentially because A) population growth will slow down, and B) needs per person are limited. All the signs suggest that the global population curve is starting to decelerate, whereas the rate of technical progress is continuing to accelerate (Roser, 2019; Roser & Ritchie, 2013). Knowing these things, we can be optimistic about progress in relationship to population growth. In other words, Malthus will ultimately turn out to have been be wrong both about the rate of technological progress and the long-term rate of population growth.
+Still, the key takeaway should be that needs will not continue to grow exponentially because A) population growth will slow down, and B) needs per person are limited. All the signs suggest that the global population curve is starting to decelerate, whereas the rate of technical progress is continuing to accelerate (Roser, 2019a; Roser & Ritchie, 2013). Knowing these things, we can be optimistic about progress in relationship to population growth. In other words, Malthus will ultimately turn out to have been be wrong both about the rate of technological progress and the long-term rate of population growth.
 
 I have already described why digital technology is so disruptive. We will see in more detail later how it is contributing to an acceleration of knowledge creation, and thus progress. 
