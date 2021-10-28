@@ -9,8 +9,7 @@ Ablow, K. (2015, November 18). _Was the Unabomber correct?_ Fox News. https://ww
 
 Albert Einstein. (2021, August 6). In _Wikipedia_. https://en.wikipedia.org/wiki/Albert_Einstein#Early_life_and_education
 
-Aleklett, K, Morrissey, D J, Loveland, W, McGaughey, P L, & Seaborg, G T. (1981) _Energy dependence of /sup 209/Bi fragmentation in relativistic nuclear collisions._ United 
-States. https://doi.org/10.1103/PhysRevC.23.1044
+Aleklett, K, Morrissey, D J, Loveland, W, McGaughey, P L, & Seaborg, G T. (1981) _Energy dependence of /sup 209/Bi fragmentation in relativistic nuclear collisions._ United States. https://doi.org/10.1103/PhysRevC.23.1044
 
 Alewell, C., Ringeval, B., Ballabio, C. et al. Global phosphorus shortage will be aggravated by soil erosion. _Nat Commun_ 11, 4546 (2020). https://doi.org/10.1038/s41467-020-18326-7
 
@@ -104,19 +103,19 @@ Ewers, R. M.,Scharlemann, J. P. W., Balmford, A., & Green, R. E. (2009). _Do inc
 
 Federal Reserve Bank of New York. (2020). _Household Debt and Credit Report._ https://www.newyorkfed.org/microeconomics/hhdc.html
 
-Federal Reserve Bank of St. Louis. (2021a, August 11). _Consumer Price Index for All Urban Consumers: Durables in U.S. City Average._ FRED. https://fred.stlouisfed.org/series/CUSR0000SAD#0
+Federal Reserve Bank of St. Louis. (2021d, August 11). _Consumer Price Index for All Urban Consumers: Durables in U.S. City Average._ FRED. https://fred.stlouisfed.org/series/CUSR0000SAD#0
 
-Federal Reserve Bank of St. Louis. (2021b, March 11). _Domestic Financial Sectors; Debt Securities and Loans; Liability, Level._ FRED. https://fred.stlouisfed.org/series/DODFS
+Federal Reserve Bank of St. Louis. (2021b, August 26). _Gross Domestic Product._ FRED. https://fred.stlouisfed.org/series/GDP#0
 
-Federal Reserve Bank of St. Louis. (2021c, March 11). _Nonfinancial Business; Debt Securities and Loans; Liability, Level._ FRED. https://fred.stlouisfed.org/series/TBSDODNS
+Federal Reserve Bank of St. Louis. (2021a, August 26). _Real Median Household Income in the United States and Gross Domestic Product._ FRED. https://fred.stlouisfed.org/graph/?g=caWq
 
-Federal Reserve Bank of St. Louis. (2021d, March 25). _Gross Output of All Industries_. FRED. https://fred.stlouisfed.org/series/GOAI
+Federal Reserve Bank of St. Louis. (2021c, June 10). _Households and Nonprofit Organizations; Debt Securities and Loans; Liability, Level._ FRED. https://fred.stlouisfed.org/series/CMDEBT#0
 
-Federal Reserve Bank of St. Louis. (2021e, August 26). _Real Median Household Income in the United States and Gross Domestic Product._ FRED. https://fred.stlouisfed.org/graph/?g=caWq
+Federal Reserve Bank of St. Louis. (2021g, March 11). _Domestic Financial Sectors; Debt Securities and Loans; Liability, Level._ FRED. https://fred.stlouisfed.org/series/DODFS
 
-Federal Reserve Bank of St. Louis. (2021f, June 10). _Households and Nonprofit Organizations; Debt Securities and Loans; Liability, Level._ FRED. https://fred.stlouisfed.org/series/CMDEBT#0
+Federal Reserve Bank of St. Louis. (2021f, March 11). _Nonfinancial Business; Debt Securities and Loans; Liability, Level._ FRED. https://fred.stlouisfed.org/series/TBSDODNS
 
-Federal Reserve Bank of St. Louis. (2021g, August 26). _Gross Domestic Product._ FRED. https://fred.stlouisfed.org/series/GDP#0
+Federal Reserve Bank of St. Louis. (2021e, March 25). _Gross Output of All Industries_. FRED. https://fred.stlouisfed.org/series/GOAI
 
 Fetherston, E., Kinzler, M., & Miller, S. (n.d.). _Assembling Our Transportation Future._ Gala. Retrieved August 2, 2021, from https://www.learngala.com/cases/model-t/8
 
@@ -133,7 +132,6 @@ Global Migration Data Portal. (2021, June 3). _Environmental Migration_. Migrati
 Gold, H. (2017, February 24). _Breitbart reveals owners: CEO Larry Solov, the Mercer family and Susie Breitbart._ 
 
 Great Firewall. (2020, October 2). In _Wikipedia_. https://en.wikipedia.org/wiki/Great_Firewall
-
 Hamblin, J. (2016, November 30). _How Cubans Live as Long as Americans at a Tenth of the Cost._ The Atlantic. https://www.theatlantic.com/health/archive/2016/11/cuba-health/508859/
 
 Harari, Y. N. (2011). _Sapiens: A Brief History of Humankind. Penguin Random House_
@@ -184,9 +182,9 @@ Kang, C. (2017, April 26). _F.C.C. Chairman Pushes Sweeping Changes to Net Neutr
 
 Kaufman, L., Rojanasakul, M., Warren, H., Kao, J., Harris, B., & Gopal, P. (2020, June 29). _Mapping America’s Underwater Real Estate_. Bloomberg. https://www.bloomberg.com/tosv2.html?vid=&uuid=3f8d41d0-f6ce-11eb-b60b-83b18a347fe8&url=L2dyYXBoaWNzLzIwMjAtZmxvb2Qtcmlzay16b25lLXVzLW1hcC8=
 
-Kemp, S. (2020, January 30). _Digital 2020: Global Digital Overview._ DataReportal – Global Digital Insights. https://datareportal.com/reports/digital-2020-global-digital-overview
-
 Kemp, S. (2020, January). _Digital 2020: 3.8 billion people use social media._ We Are Social. https://wearesocial.com/uk/blog/2020/01/digital-2020-3-8-billion-people-use-social-media/
+
+Keynes, J. M. (1932). _Essays in persuasion._ New York: Harcourt, Brace and Co.
 
 Kilby, E.R. (2007). _The demographics of the U.S. equine population._ In D.J. Salem & A.N. Rowan (Eds.), The state of the animals 2007 (pp. 175-205). Washington, DC: Humane Society Press. 
 
@@ -266,13 +264,13 @@ O’Dell, R., & Penzenstadler, N. (2019, April 4). _You elected them to write ne
 
 O’Toole, G. (2011, November 16). _“How Will You Get Robots to Pay Union Dues?” “How Will You Get Robots to Buy Cars?”_ Quote Investigator. https://quoteinvestigator.com/2011/11/16/robots-buy-cars/
 
+OECD (2019)._ Health resources - Pharmaceutical spending._ OECD Data. https://data.oecd.org/healthres/pharmaceutical-spending.htm
+
+OECD (2020). _Details of Tax Revenue - United States_. OECD Stats. https://stats.oecd.org/Index.aspx?DataSetCode=REVUSA
+
 OECD (2021a), _General government spending_ (indicator). doi: 10.1787/a31cbf4d-en (Accessed on 07 July 2021)
 
-OECD. (2019)._ Health resources - Pharmaceutical spending._ OECD Data. https://data.oecd.org/healthres/pharmaceutical-spending.htm
-
-OECD. (2020). _Details of Tax Revenue - United States_. OECD Stats. https://stats.oecd.org/Index.aspx?DataSetCode=REVUSA
-
-OECD. (2021b, July). _OECD Statistics - Health expenditure and financing_. OECD Stat. https://stats.oecd.org/Index.aspx?ThemeTreeId=9
+OECD (2021b, July). _OECD Statistics - Health expenditure and financing_. OECD Stat. https://stats.oecd.org/Index.aspx?ThemeTreeId=9
 
 Ord, T. (2020). _The Precipice: Existential Risk and the Future of Humanity._ Hachette Books.
 
@@ -301,6 +299,7 @@ Pezzutto, S. (2019). Confucianism and Capitalist Development: From Max Weber and
 Phillips, P. J et al.,  (2018). _Face recognition accuracy of forensic examiners, super recognizers, and face recognition algorithms._ Proceedings of the National Academy of Sciences, 115(24), 6171–6176. https://doi.org/10.1073/pnas.1721355115
 
 POLITICO. https://www.politico.com/blogs/on-media/2017/02/breitbart-reveals-owners-ceo-larry-solov-mercer-family-and-susie-breitrbart-235358
+
 Powers, W., & Roy, D. (2018, March 19). _The Incredible Jun: A Town that Runs on Social Media._ Medium. https://medium.com/@socialmachines/the-incredible-jun-a-town-that-runs-on-social-media-49d3d0d4590
 
 Ramankutty, N. et al., (2018). _Trends in Global Agricultural Land Use: Implications for Environmental Health and Food Security._ Annual Review of Plant Biology, 69(1), 789–815. https://doi.org/10.1146/annurev-arplant-042817-040256
@@ -315,15 +314,15 @@ Rodrick, S. (2019, December 23). _All-American Despair._ Rolling Stone. https://
 
 Romine, S. (2019, March 29). _Essential Nutrients: What Are They & How Much Do You Need?_ Openfit. https://www.openfit.com/essential-nutrients-explainer
 
-Roser, M. (2013a, December 10). _Light at Night_. Our World in Data. https://ourworldindata.org/light
-
-Roser, M. (2013b, May 25). _Global Extreme Poverty._ Our World in Data. https://ourworldindata.org/extreme-poverty
+Roser, M. (2013, December 10). _Light at Night_. Our World in Data. https://ourworldindata.org/light
 
 Roser, M. (2017, December 2). _Fertility Rate._ Our World in Data. https://ourworldindata.org/fertility-rate
 
 Roser, M. (2019a, November). _Future Population Growth._ Our World in Data. https://ourworldindata.org/future-population-growth
 
 Roser, M. (2019b, October). _Life Expectancy._ Our World in Data. https://ourworldindata.org/life-expectancy
+
+Roser, M., & Ortiz-Ospina E (2013, May 25). _Global Extreme Poverty._ Our World in Data. https://ourworldindata.org/extreme-poverty
 
 Roser, M., & Ritchie, H. (2013, May 11). _Technological Progress._ Our World in Data. https://ourworldindata.org/technological-progress
 
@@ -439,13 +438,14 @@ Willyard, C. (2019, December 20). _Lyme Vaccines Show New Promise, and Face Old 
 
 Wong, J. I. (2016, April 7). _A fleet of trucks just drove themselves across Europe_. Quartz. https://qz.com/656104/a-fleet-of-trucks-just-drove-themselves-across-europe/
 
-World Bank. (2020a). _Gross capital formation._ World Bank – World Development Indicators. https://data.worldbank.org/indicator/NE.GDI.TOTL.KD
+World Bank. (2020a). _GDP per capita, PPP_. World Bank – World Development Indicators. https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD
 
-World Bank. (2020b). _GDP per capita, PPP_. World Bank – World Development Indicators. https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD
+World Bank. (2020c). _Gross capital formation._ World Bank – World Development Indicators. https://data.worldbank.org/indicator/NE.GDI.TOTL.KD
 
-World Bank. (2020c). _Mortality rate, under-5._ World Bank – World Development Indicators. https://data.worldbank.org/indicator/SH.DYN.MORT
+World Bank. (2020b). _Mortality rate, under-5._ World Bank – World Development Indicators. https://data.worldbank.org/indicator/SH.DYN.MORT
 
 World Health Organization. (n.d.). _Air pollution._ https://www.who.int/health-topics/air-pollution#tab=tab_1
+
 _World Population Clock: 7.9 Billion People_ (2021) - Worldometer. (n.d.). World Meters. https://www.worldometers.info/world-population/
 
 World Steel Association. (2021, January 26). _Global crude steel output decreases by 0.9% in 2020_. World Steel. https://www.worldsteel.org/media-centre/press-releases/2021/Global-crude-steel-output-decreases-by-0.9--in-2020.html
