@@ -6,11 +6,11 @@ There are three sections. The first section presents some general data on the de
  
 ## The Growth of Capital
 
-It turns out to be surprisingly difficult to find global data on physical capital. The best source I have been able to locate is the World Bank, which publishes a data series on gross capital formation (World Bank, 2020). Unfortunately the data here reaches back only to 1970 but it still shows an increase from roughly $5 trillion to $22 trillion in 2019 (this is measured on constant 2010 dollars, i.e. adjusted for inflation).
+It turns out to be surprisingly difficult to find global data on physical capital. The best source I have been able to locate is the World Bank, which publishes a data series on gross capital formation (World Bank, 2020c). Unfortunately the data here reaches back only to 1970 but it still shows an increase from roughly $5 trillion to $22 trillion in 2019 (this is measured on constant 2010 dollars, i.e. adjusted for inflation).
 
 ![Gross Capital](assets/gross-capital.png)
 
-Source: World Bank, 2020
+Source: World Bank, 2020c
 
 
 For triangulation it is worth considering the growth in output of some things that require productive capacity. We can infer the availability of physical capital through outputs. To that end, I was able to find the following chart of global crude steel production over time (Morfeldt, 2017).
@@ -40,11 +40,11 @@ Source: Statista, 2020
 
 Over the course of three decades we basically went from not having mobile phones to having more than the global population (this of course brings to mind William Gibson’s great quote that “[t]he future is already here – it’s just not evenly distributed” – with many people having two mobile phones, one for work and oner personal for example, while others have none).
 
-And here is one more example that’s highly relevant to the climate crisis: the rate at which we have produced solar panels (Statista, 2021). 
+And here is one more example that’s highly relevant to the climate crisis: the rate at which we have produced solar panels (Statista, 2021a). 
 
 ![Solar Panel Output](assets/solarpanel-output.png)
 
-Source: Statista, 2021
+Source: Statista, 2021a
 
 
 Over a decade and a half we went from basically making no panels, to making 150 Gigawatts in new panels on what looks like an exponential growth trajectory. Now crucially we are currently using a small part of our productive capital to make solar panels. How do we know this? Because we have not yet taken the drastic steps necessary for fighting the climate crisis, which will eventually have to reach levels similar to the capital deployment in World War II.
@@ -163,7 +163,7 @@ The primary constraint on healing has been knowledge, rather than capital. As do
 
 It is als crucial to understand that much of our current need for healing could be avoided in the first place by leading healthier lives. As noted earlier we do not know as much about nutrition as we should, but we do know that obesity contributes significantly to medical problems and yet the rate of obesity has increased dramatically, especially in the United States. Similarly we do know that stress is negatively associated with health and yet the stress level for many people has gone up for a range of reasons from economic insecurity to proliferation of stress inducing online content. Overall, the bulk of medical expenses today is accounted for by chronic conditions, such as diabetes (CDC, n.d.).
  
-Despite all of this we can measure our tremendous progress on healing by considering the increase in life expectancy (Roser, 2019). Based on historical data, life expectancy in 1800 was well below 40 years across the entire world. By 2015 it had risen to well over 70 years in many places and to over 80 in some. Even in Africa, which is the furthest behind, life expectancy in many countries in the 60s.
+Despite all of this we can measure our tremendous progress on healing by considering the increase in life expectancy (Roser, 2019b). Based on historical data, life expectancy in 1800 was well below 40 years across the entire world. By 2015 it had risen to well over 70 years in many places and to over 80 in some. Even in Africa, which is the furthest behind, life expectancy in many countries in the 60s.
 
 That of course doesn’t mean we can’t face a great reversal. Covid provided a glimpse of what that might look like. As does the decrease in life expectancy in the United States due to what has been termed “deaths of despair” by Anne Case and Angus Deaton, which have impacted many groups, but particularly white middle-aged males (Case & Deaton, 2021). Finally again the climate crisis looms large here with deaths from heat waves, crop failure, etc. having the potential to undo much of the progress we have made.
  
@@ -174,7 +174,7 @@ There has been tremendous progress in making learning available to everyone arou
 
 It is crucial to recognize that traditional schools are only one solution to the need for learning. It is a capital intensive one as it requires the construction of buildings. There are many alternative solutions such as unschooling, homeschooling, and neighborhood schools. 
 
-Increasingly pretty much all the world’s knowledge can be delivered via a smartphone.  Global smartphone penetration is approaching 80% (O’Dea, 2021). Even in relatively poor countries smartphones are becoming much more widespread. For example a new Android phone can be purchased in India for 7,000 Rupees (~$100) and smartphone penetration there has reached 42% in 2020 (91 (Mobile Price List In India, n.d.; Statista, 2021).
+Increasingly pretty much all the world’s knowledge can be delivered via a smartphone.  Global smartphone penetration is approaching 80% (O’Dea, 2021). Even in relatively poor countries smartphones are becoming much more widespread. For example a new Android phone can be purchased in India for 7,000 Rupees (~$100) and smartphone penetration there has reached 42% in 2020 (91 (Mobile Price List In India, n.d.; Statista, 2021b).
  
 Now the assertion that anything can be learned via a smartphone may seem preposterous. But research on so-called “minimally invasive education” and “unschooling” has shown that children want to learn and are capable of learning largely independently when given the right opportunity (“Minimally Invasive Education,” 2021; “Unschooling,” 2021). Even some famous scientists, including notably Einstein and Faraday, did a great deal of independent studying early on, with the latter having virtually no formal education (“Albert Einstein,” 2021; “Michael Faraday,” 2021).
  
