@@ -1,7 +1,5 @@
 # Summary
 
-* [Work in Progress](WIP.md)
-
 * [Preface](Preface.md)
 
 * [Introduction](README.md)
