@@ -1,4 +1,4 @@
-# Preface To Second Edition
+# Preface to Second Edition
 
 Since publishing the previous version of *The World After Capital*, I have met with people across the political spectrum to discuss the ideas from the book. When I present these in person, I emphasize that the ideas are neither left nor right but forward (credit to Scott Santens who first used this phrase about Universal Basic Income). My writing, however, at times has alienated readers who identify as being more on the right. In this new edition, I am therefore making an extra effort to emphasize how both my diagnosis of where we are at and my suggestions for how to move forward do not map onto the existing political divides. Instead this is a new way of understanding our challenges and opportunities that can be the basis for movements and parties that are not trapped in industrial age ideology.
 
