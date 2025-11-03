@@ -8,7 +8,7 @@ The fundamental insights of *The World After Capital* have held up well. I recor
 
 # Original Preface
 
-As a venture capitalist, I’m often asked: “What’s the next big thing?” People tend to ask this when they’re looking for a trend in technology, expecting me to talk to them about robotics or virtual reality. But I think that’s a boring interpretation of the question. These trends come and go as part of hype cycles that represent the waxing and waning of media interest in a particular technology. Instead I answer, “Oh, nothing much–just the end of the Industrial Age.” That momentous change is the subject of this book.
+As a venture capitalist, I’m often asked: “What’s the next big thing?” People tend to ask this when they’re looking for a trend in technology, expecting me to talk to them about robotics or virtual reality. But I think that’s a boring interpretation of the question. These trends come and go as part of hype cycles that represent the waxing and waning of media interest in a particular technology. Instead I answer, “Oh, nothing much—just the end of the Industrial Age.” That momentous change is the subject of this book.
 
 *The World After Capital* is unabashedly about some truly big subjects. In order to tackle why the Industrial Age is ending and what is coming next, I will examine such things as the nature of technology and what it means to be human. It might seem a wildly ambitious thesis, but I argue that we are facing a transition as profound as the one which took humanity from the Agrarian Age to the Industrial Age, so nothing less will do.
 
