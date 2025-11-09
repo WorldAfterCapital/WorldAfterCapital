@@ -1,12 +1,12 @@
 # REFERENCES
 
-1854 Broad Street cholera outbreak. (2021, July 30). In _Wikipedia._ https://en.wikipedia.org/wiki/1854_Broad_Street_cholera_outbreak
+1854 Broad Street cholera outbreak. (2021, July 30). In _Wikipedia_. https://en.wikipedia.org/wiki/1854_Broad_Street_cholera_outbreak
 
-2019 European heat waves. (2021, July 24). In _Wikipedia._ https://en.wikipedia.org/wiki/2019_European_heat_wave
+2019 European heat waves. (2021, July 24). In _Wikipedia_. https://en.wikipedia.org/wiki/2019_European_heat_wave
 
 Ablow, K. (2015, November 18). _Was the Unabomber correct?_ Fox News. https://www.foxnews.com/opinion/was-the-unabomber-correct
 
-Albert Einstein. (2021, August 6). In _Wikipedia._ https://en.wikipedia.org/wiki/Albert_Einstein#Early_life_and_education
+Albert Einstein. (2021, August 6). In _Wikipedia_. https://en.wikipedia.org/wiki/Albert_Einstein#Early_life_and_education
 
 Aleklett, K, Morrissey, D J, Loveland, W, McGaughey, P L, & Seaborg, G T. (1981) _Energy dependence of /sup 209/Bi fragmentation in relativistic nuclear collisions._ United States. https://doi.org/10.1103/PhysRevC.23.1044
 
@@ -14,7 +14,7 @@ Alewell, C., Ringeval, B., Ballabio, C. et al. _Global phosphorus shortage will 
 
 Allison, B., & Harkins, S. (2014, November 17). _Fixed Fortunes: Biggest corporate political interests spend billions, get trillions._ Sunlight Foundation. https://sunlightfoundation.com/2014/11/17/fixed-fortunes-biggest-corporate-political-interests-spend-billions-get-trillions/
 
-AlphaZero. (2020, September 9). In _Wikipedia._ https://en.wikipedia.org/w/index.php?title=AlphaZero&oldid=977537226
+AlphaZero. (2020, September 9). In _Wikipedia_. https://en.wikipedia.org/w/index.php?title=AlphaZero&oldid=977537226
 
 Andrews, E. (2018, September 1). _What is the oldest known piece of music?_ HISTORY. https://www.history.com/news/what-is-the-oldest-known-piece-of-music
 
@@ -48,19 +48,19 @@ Borowiec, S. (2016, March 15). _AlphaGo seals 4–1 victory over Go grandmaster 
 
 Borunda, A. (2021, July 2). _Heat waves kill people—and climate change is making it much, much worse._ National Geographic. https://www.nationalgeographic.com/environment/article/heat-related-deaths-attributed-to-climate-change
 
-British Overseas Airways Corporation. (2020, September 6). In _Wikipedia._ https://en.wikipedia.org/w/index.php?title=British_Overseas_Airways_Corporation&oldid=977094302
+British Overseas Airways Corporation. (2020, September 6). In _Wikipedia_. https://en.wikipedia.org/w/index.php?title=British_Overseas_Airways_Corporation&oldid=977094302
 
 Buranyi, S. (2018, February 22). _Is the staggeringly profitable business of scientific publishing bad for science?_ The Guardian. https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science
 
 Bureau of Transportation Statistics. (2017, May). _World Motor Vehicle Production._ https://www.bts.gov/bts/archive/publications/national_transportation_statistics/table_01_23
 
-Cabin pressurization. (2021, July 21). In _Wikipedia._ https://en.wikipedia.org/wiki/Cabin_pressurization
+Cabin pressurization. (2021, July 21). In _Wikipedia_. https://en.wikipedia.org/wiki/Cabin_pressurization
 
 Casais, E. (2010). _US federal spending as a share of GDP._ Areppim AG. https://stats.areppim.com/stats/stats_usxrecxspendxgdp.htm
 
 Case, A., & Deaton, A. (2021). _Deaths of Despair and the Future of Capitalism._ Princeton University Press.
 
-Cavity magnetron. (2021, June 27). In _Wikipedia._ https://en.wikipedia.org/wiki/Cavity_magnetron
+Cavity magnetron. (2021, June 27). In _Wikipedia_. https://en.wikipedia.org/wiki/Cavity_magnetron
 
 CDC. (n.d.). _Health and Economic Costs of Chronic Diseases._ National Center for Chronic Disease Prevention and Health Promotion. Retrieved August 6, 2021, from https://www.cdc.gov/chronicdisease/about/costs/index.htm
 
@@ -72,13 +72,13 @@ Chamber of Commerce of the United States. (1973). _United States Multinational E
 
 Chiu, L. (2021, March 22). _Declining sperm counts around the world could reach zero in just 24 years._ CGTN America. https://america.cgtn.com/2021/03/22/declining-sperm-counts-around-the-world-could-reach-zero-in-just-24-years
 
-Church–Turing thesis. (2020, August 3). In _Wikipedia._ https://en.wikipedia.org/w/index.php?title=Church%E2%80%93Turing_thesis&oldid=970983529
+Church–Turing thesis. (2020, August 3). In _Wikipedia_. https://en.wikipedia.org/w/index.php?title=Church%E2%80%93Turing_thesis&oldid=970983529
 
 Climate Central. (2019, May 15). _POURING IT ON: How Climate Change Intensifies Heavy Rain Events._ https://www.climatecentral.org/news/report-pouring-it-on-climate-change-intensifies-heavy-rain-events
 
-Cognitive behavioral therapy. (2020, September 29). In _Wikipedia._ https://en.wikipedia.org/w/index.php?title=Cognitive_behavioral_therapy&oldid=980954468
+Cognitive behavioral therapy. (2020, September 29). In _Wikipedia_. https://en.wikipedia.org/w/index.php?title=Cognitive_behavioral_therapy&oldid=980954468
 
-Constructor theory. (2020, August 24). In _Wikipedia._ https://en.wikipedia.org/w/index.php?title=Constructor_theory
+Constructor theory. (2020, August 24). In _Wikipedia_. https://en.wikipedia.org/w/index.php?title=Constructor_theory
 
 Crane, J., & Marchese, K. (2015, September 2). _3D opportunity for the supply chain: Additive manufacturing delivers._ Deloitte Insights. https://www2.deloitte.com/xe/en/insights/focus/3d-opportunity/additive-manufacturing-3d-printing-supply-chain-transformation.html
 
@@ -90,13 +90,13 @@ Deutsch, D. (2011). _The Beginning of Infinity: Explanations That Transform the 
 
 Dickson, S. (2016, August 17). _Ten WWII innovations that changed the world we live in (for the better)._ The Vintage News. https://www.thevintagenews.com/2016/08/17/ten-wwii-innovations-changed-world-live-better/
 
-Discovery doctrine. (2020, September 22). In _Wikipedia._ https://en.wikipedia.org/w/index.php?title=Discovery_doctrine&oldid=979704205
+Discovery doctrine. (2020, September 22). In _Wikipedia_. https://en.wikipedia.org/w/index.php?title=Discovery_doctrine&oldid=979704205
 
 Doyle, A., & Scrutton, A. (2016, April 12). _Privacy, what privacy? Many Nordic tax records are a phone call away._ Reuters. https://www.reuters.com/article/us-panama-tax-nordics-idUSKCN0X91QE
 
 Dubock, A. (2019). _Golden Rice: To Combat Vitamin A Deficiency for Public Health._ Vitamin A. Published. https://doi.org/10.5772/intechopen.84445
 
-Escort fighter. (2021, June 6). In _Wikipedia._ https://en.wikipedia.org/wiki/Escort_fighter
+Escort fighter. (2021, June 6). In _Wikipedia_. https://en.wikipedia.org/wiki/Escort_fighter
 
 Ewers, R. M.,Scharlemann, J. P. W., Balmford, A., & Green, R. E. (2009). _Do increases in agricultural yield spare land for nature?_ Global Change Biology, 15(7), 1716–1726. https://doi.org/10.1111/j.1365-2486.2009.01849.x
 
@@ -118,9 +118,9 @@ Federal Reserve Bank of St. Louis. (2021e, March 25). _Gross Output of All Indus
 
 Fetherston, E., Kinzler, M., & Miller, S. (n.d.). _Assembling Our Transportation Future._ Gala. Retrieved August 2, 2021, from https://www.learngala.com/cases/model-t/8
 
-Flight distance record. (2021, April 7). In _Wikipedia._ https://en.wikipedia.org/wiki/Flight_distance_record
+Flight distance record. (2021, April 7). In _Wikipedia_. https://en.wikipedia.org/wiki/Flight_distance_record
 
-Flint water crisis. (2021, August 1). In _Wikipedia._ https://en.wikipedia.org/wiki/Flint_water_crisis
+Flint water crisis. (2021, August 1). In _Wikipedia_. https://en.wikipedia.org/wiki/Flint_water_crisis
 
 Fontinelle, A. (2021, February 11). _Auto Loan Balances Hit $1.36 Trillion in 2020._ Investopedia. https://www.investopedia.com/personal-finance/american-debt-auto-loan-debt/
 
@@ -134,7 +134,7 @@ Global Migration Data Portal. (2021, June 3). _Environmental Migration._ Migrati
 
 Gold, H. (2017, February 24). _Breitbart reveals owners: CEO Larry Solov, the Mercer family and Susie Breitbart._ POLITICO. https://www.politico.com/blogs/on-media/2017/02/breitbart-reveals-owners-ceo-larry-solov-mercer-family-and-susie-breitrbart-235358
 
-Great Firewall. (2020, October 2). In _Wikipedia._ https://en.wikipedia.org/wiki/Great_Firewall
+Great Firewall. (2020, October 2). In _Wikipedia_. https://en.wikipedia.org/wiki/Great_Firewall
 
 Hamblin, J. (2016, November 30). _How Cubans Live as Long as Americans at a Tenth of the Cost._ The Atlantic. https://www.theatlantic.com/health/archive/2016/11/cuba-health/508859/
 
@@ -152,7 +152,7 @@ Haverstock, E. (2020, April 14). _Changing FDA rules leave startups in limbo ove
 
 Henderson, S. W. (2015, August). _Consumer Spending in World War II: The Forgotten Consumer Expenditure Surveys._ Monthly Labor Review. https://doi.org/10.21916/mlr.2015.29
 
-History of patent law. (2020, August 14). In _Wikipedia._ https://en.wikipedia.org/w/index.php?title=History_of_patent_law&oldid=972938791
+History of patent law. (2020, August 14). In _Wikipedia_. https://en.wikipedia.org/w/index.php?title=History_of_patent_law&oldid=972938791
 
 Ho, S. (2018, May 16). _AP analysis shows how Bill Gates influences education policy._ AP News. https://apnews.com/article/a4042e82ffaa4a34b50ceac464761957
 
@@ -202,7 +202,7 @@ Krivit, S., & Ravnitzky, M. (2016, December 7). _It’s Not Cold Fusion… But I
 
 Lahart, J. (2011, December 10). _Number of the Week: Finance’s Share of Economy Continues to Grow._ WSJ. https://www.wsj.com/articles/BL-REB-15342
 
-Large Hadron Collider. (2021, July 23). In _Wikipedia._ https://en.wikipedia.org/wiki/Large_Hadron_Collider
+Large Hadron Collider. (2021, July 23). In _Wikipedia_. https://en.wikipedia.org/wiki/Large_Hadron_Collider
 
 Leonhardt, M. (2020, January 22). _41% of Americans would be able to cover a $1,000 emergency with savings._ CNBC. https://www.cnbc.com/2020/01/21/41-percent-of-americans-would-be-able-to-cover-1000-dollar-emergency-with-savings.html
 
@@ -214,9 +214,9 @@ Lewis, N. (2018, December 17). _The Financial System Should Be Less Than Half Th
 
 Liptak, A. (2017, May 22). _Supreme Court Ruling Could Hinder ‘Patent Trolls’._ The New York Times. https://www.nytimes.com/2017/05/22/business/supreme-court-patent-lawsuit.html
 
-List of public corporations by market capitalization. (2020, September 1). In _Wikipedia._ https://en.wikipedia.org/w/index.php?title=List_of_public_corporations_by_market_capitalization&oldid=976207594
+List of public corporations by market capitalization. (2020, September 1). In _Wikipedia_. https://en.wikipedia.org/w/index.php?title=List_of_public_corporations_by_market_capitalization&oldid=976207594
 
-London sewerage system. (2021, July 24). In _Wikipedia._ https://en.wikipedia.org/wiki/London_sewerage_system
+London sewerage system. (2021, July 24). In _Wikipedia_. https://en.wikipedia.org/wiki/London_sewerage_system
 
 Macguire, B. F. E. C. (2014, October 24). _Houses given away for free in Detroit._ CNN. https://edition.cnn.com/2014/10/23/business/write-a-house-detroit/index.html
 
@@ -236,13 +236,13 @@ Meadows, D.H., Meadows, D.L., Randers, J., Behrens, W.W. (1972) _The Limits to G
 
 Mearns, E. (2013, November 3). _Energiewende: Germany, UK, France and Spain._ Energy Matters. http://euanmearns.com/energiewende-germany-uk-france-and-spain/
 
-Michael Faraday. (2021, August 6). In _Wikipedia._ https://en.wikipedia.org/wiki/Michael_Faraday#Early_life
+Michael Faraday. (2021, August 6). In _Wikipedia_. https://en.wikipedia.org/wiki/Michael_Faraday#Early_life
 
-Military budget of the United States. (2020, September 7). In _Wikipedia._ https://en.wikipedia.org/w/index.php?title=Military_budget_of_the_United_States&oldid=977121615
+Military budget of the United States. (2020, September 7). In _Wikipedia_. https://en.wikipedia.org/w/index.php?title=Military_budget_of_the_United_States&oldid=977121615
 
-MIMO. (2020, August 29). In _Wikipedia._ https://en.wikipedia.org/w/index.php?title=MIMO&oldid=975685031
+MIMO. (2020, August 29). In _Wikipedia_. https://en.wikipedia.org/w/index.php?title=MIMO&oldid=975685031
 
-Minimally invasive education. (2021, July 5). In _Wikipedia._ https://en.wikipedia.org/wiki/Minimally_invasive_education
+Minimally invasive education. (2021, July 5). In _Wikipedia_. https://en.wikipedia.org/wiki/Minimally_invasive_education
 
 _Mobile Price List In India._ (n.d.). 91 Mobiles. Retrieved August 27, 2021, from https://www.91mobiles.com/xiaomi-mobile-price-list-in-india
 
@@ -250,7 +250,7 @@ Mosse, R. (2015, December 21). _The Genesis Engine._ Wired. https://www.wired.co
 
 Motorlease. (n.d.). _The Rise of the SUVs._ Motorlease Fleet Management & Leasing Solutions. Retrieved August 7, 2021, from https://motorlease.com/article/suv-rise/
 
-Motorola DynaTAC. (2021, June 30). In _Wikipedia._ https://en.wikipedia.org/wiki/Motorola_DynaTAC
+Motorola DynaTAC. (2021, June 30). In _Wikipedia_. https://en.wikipedia.org/wiki/Motorola_DynaTAC
 
 Mullins, R. (2012). _What is a Turing machine?_ University of Cambridge. https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/turing-machine/one.html
 
@@ -294,13 +294,13 @@ Our World in Data. (n.d.). _Literate and illiterate world population._ Retrieved
 
 Paine, T. (1797). _Agrarian Justice._ London: Paris printed by W. Adlard, London re-printed for T. Williams
 
-Palimpsest. (2021, June 30). In _Wikipedia._ https://en.wikipedia.org/wiki/Palimpsest
+Palimpsest. (2021, June 30). In _Wikipedia_. https://en.wikipedia.org/wiki/Palimpsest
 
 Pariser, E. (2021). _The Filter Bubble._ Penguin Random House.
 
 Parkin, S. (2020, April 2). _The Artificially Intelligent Doctor Will Hear You Now._ MIT Technology Review. https://www.technologyreview.com/2016/03/09/8890/the-artificially-intelligent-doctor-will-hear-you-now/
 
-Penicillin. (2021, July 30). In _Wikipedia._ https://en.wikipedia.org/wiki/Penicillin#Mass_production
+Penicillin. (2021, July 30). In _Wikipedia_. https://en.wikipedia.org/wiki/Penicillin#Mass_production
 
 Personalized Genes. (2015, June 24). _Comparing Price and Tech. Specs. of Illumina MiSeq, Ion Torrent PGM, 454 GS Junior, and PacBio RS._ http://www.personalizedgenes.com/comparison-of-illumina-miseq-ion-torrent-pgm-454-gs-junior-and-pacbio-rs/
 
@@ -314,7 +314,7 @@ Ramankutty, N. et al., (2018). _Trends in Global Agricultural Land Use: Implicat
 
 Raworth, K. (2017). _Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist._ Random House.
 
-Red flag traffic laws. (2020, July 2). In _Wikipedia._ https://en.wikipedia.org/w/index.php?title=Red_flag_traffic_laws&oldid=965632438
+Red flag traffic laws. (2020, July 2). In _Wikipedia_. https://en.wikipedia.org/w/index.php?title=Red_flag_traffic_laws&oldid=965632438
 
 Ritchie, H. (2019, November 13). _Land Use._ Our World in Data. https://ourworldindata.org/land-use
 
@@ -364,7 +364,7 @@ Smith, D. (2020, August 27). _Despite Streaming, US Recorded Music Revenues Stil
 
 _Smog kills thousands in England._ (2020, December 4). HISTORY. https://www.history.com/this-day-in-history/smog-kills-thousands-in-england
 
-Solar wind. (2021, July 18). In _Wikipedia._ https://en.wikipedia.org/wiki/Solar_wind#Atmospheres
+Solar wind. (2021, July 18). In _Wikipedia_. https://en.wikipedia.org/wiki/Solar_wind#Atmospheres
 
 _Sony Music - Overview, News & Competitors._ (n.d.). ZoomInfo. https://www.zoominfo.com/c/sony-music-entertainment/253920496
 
@@ -414,7 +414,7 @@ United Nations, Department of Economic and Social Affairs, Population Division. 
 
 _Universal Music - Overview, News & Competitors._ (n.d.). ZoomInfo. https://www.zoominfo.com/c/universal-music-group/122060886
 
-Unschooling. (2021, August 5). In _Wikipedia._ https://en.wikipedia.org/wiki/Unschooling
+Unschooling. (2021, August 5). In _Wikipedia_. https://en.wikipedia.org/wiki/Unschooling
 
 Urmson, C. (2012, August 7). _The self-driving car logs more miles on new wheels._ Official Google Blog. https://googleblog.blogspot.com/2012/08/the-self-driving-car-logs-more-miles-on.html 
 
@@ -464,7 +464,7 @@ World Steel Association. (2021, January 26). _Global crude steel output decrease
 
 Worldsteel Committee on Economic Studies. (2011). _Steel Statistical Yearbook 2011._ World Steel Association. https://www.world-steel.org/en/dam/jcr:c12843e8-49c3-40f1-92f1-9665dc3f7a35/Steel%2520statistical%2520yearbook%25202011.pdf
 
-Wright brothers. (2020, August 25). In _Wikipedia._ https://en.wikipedia.org/w/index.php?title=Wright_brothers&oldid=974902146
+Wright brothers. (2020, August 25). In _Wikipedia_. https://en.wikipedia.org/w/index.php?title=Wright_brothers&oldid=974902146
 
 Wulstan, D. (1971). _The Earliest Musical Notation._ Music & Letters, 52(4), 365-382. Retrieved May 8, 2021, from http://www.jstor.org/stable/734711
 
