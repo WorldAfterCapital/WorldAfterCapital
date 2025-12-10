@@ -6,7 +6,7 @@
 
 * [Digital Technology](Digital.md)
 
-* [Part One: Laying a Foundation](part-one/README.md)
+* [Part I: Laying a Foundation](part-one/README.md)
     * [Knowledge](part-one/Knowledge.md)
     * [Optimism](part-one/Optimism.md)
     * [Choices](part-one/Choices.md)
@@ -15,24 +15,24 @@
     * [History](part-one/History.md)
     * [Plan of Attack](part-one/Plan.md)
 
-* [Part Two: Capital Is Sufficient](part-two/README.md)
+* [Part II: Capital Is Sufficient](part-two/README.md)
     * [Needs](part-two/Needs.md)
     * [Population](part-two/Population.md)
     * [Capital](part-two/Capital.md)
 
-* [Part Three: Attention Is Scarce](part-three/README.md)
+* [Part III: Attention Is Scarce](part-three/README.md)
     * [Attention](part-three/Attention.md)
     * [Misallocation](part-three/Misallocation.md)
     * [Trapped](part-three/Trapped.md)
     * [Limits of Capitalism](part-three/Limits.md)
     * [Power of Knowledge](part-three/Power.md)
 
-* [Part Four: Enhancing Freedom](part-four/README.md)
+* [Part IV: Enhancing Freedom](part-four/README.md)
     * [Economic Freedom](part-four/Economic.md)
     * [Informational Freedom](part-four/Informational.md)
     * [Psychological Freedom](part-four/Psychological.md)
 
-* [Part Five: Taking Action](part-five/README.md)
+* [Part V: Taking Action](part-five/README.md)
     * [Growing Mindfulness](part-five/Mindfulness.md)
     * [Fighting the Climate Crisis](part-five/Climate.md)
     * [Defending Democracy](part-five/Democracy.md)
