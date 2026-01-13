@@ -31,7 +31,7 @@ What about finished goods production? This, too, is a good proxy for the amount 
 
 ![Car Production](assets/car-production.png)
 
-Source: Chamber of Commerce of the United States, 1973; Bureau of Transportation Statistics, 2017
+Source: Chamber of Commerce of the United States, 1973; Bureau of Transportation Statistics, 2017; Organization of Motor Vehicle Manufacturers, 2021
 
 
 Again, we can see a roughly twofold increase relative to the 1970s and a greater than 10x increase if we go back further. This chart has an important feature worth pointing out now: There is a dip to near zero production in the mid-1940s corresponding to World War II.

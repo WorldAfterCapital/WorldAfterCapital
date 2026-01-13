@@ -284,6 +284,8 @@ OECD (2021b, July). _OECD Statistics - Health expenditure and financing._ OECD S
 
 Ord, T. (2020). _The Precipice: Existential Risk and the Future of Humanity._ Hachette Books.
 
+Organization of Motor Vehicle Manufacturers. (2021, March 24). _Global auto production in 2020 severely hit by COVID-19 crisis with a 16% drop in world auto production._ OICA News. https://www.oica.net/global-auto-production-in-2020-severely-hit-by-covid-19-crisis-with-a-16-drop-in-world-auto-production/
+
 Orlo Salon. (n.d.). _Orlo Salon Price List._ Orlo Salon. http://orlosalon.com/#
 
 Orrall, J. (2020, September 27). _Houses 3D-printed in just 24 hours now shipping in California._ CNET. https://www.cnet.com/news/houses-3d-printed-in-just-24-hours-now-shipping-in-california/
