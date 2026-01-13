@@ -46,6 +46,8 @@ An analogy here is the human discovery of heavier-than-air flight. We knew for a
 
 ![Non-Commercial Flight Distance Records](assets/flight-distance.png)
 
+Source: “Flight distance record,” 2021
+
 
 Digital technology is similar. A series of breakthroughs have taken us from having essentially no machine intelligence to a situation where machines can outperform humans on many different tasks, including reading handwriting and recognizing faces (Neuroscience News, 2018; Phillips et al., 2018). The rate of machines’ progress in learning how to drive cars is another great example of the non-linearity of improvement. The Defense Advanced Research Projects Agency (DARPA) held its first so-called “Grand Challenge” for self-driving cars in 2004. They picked a 150-mile-long closed course in the Mojave Desert, and no car got further than seven miles (less than 5 percent of the course) before getting stuck. By 2012, less than a decade later, Google’s self-driving cars had driven over 300,000 miles on public roads, with traffic (Urmson, 2012) and now the Waymo self-driving taxis are operating in several cities.
 
