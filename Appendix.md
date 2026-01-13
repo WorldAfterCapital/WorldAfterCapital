@@ -13,7 +13,7 @@ It turns out to be surprisingly difficult to find global data on physical capita
 
 ![Gross Capital](assets/gross-capital.png)
 
-Source: World Bank, 2024
+Source: World Bank, 2024a
 
 
 ### Gross Capital Formation
@@ -40,7 +40,7 @@ Here is a dramatic example of what all this productive capacity makes possible. 
 
 ![Mobile Phone Subcriptions](assets/mobile-subscriptions.png)
 
-Source: Statista, 2020
+Source: Statista, 2020; World Bank, 2024b; World Bank, 2025
 
 
 Over the course of three decades, we basically went from not having mobile phones to having more than the global population (this of course brings to mind William Gibson’s great quote that “[t]he future is already here—it’s just not evenly distributed”—with many people having one mobile phone for work and one for personal use, for example, while others have none).

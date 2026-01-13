@@ -456,7 +456,11 @@ World Bank. (2020a). _GDP per capita, PPP._ World Bank – World Development Ind
 
 World Bank. (2020b). _Mortality rate, under-5._ World Bank – World Development Indicators. https://data.worldbank.org/indicator/SH.DYN.MORT
 
-World Bank. (2024). _Gross capital formation (constant 2010 US$)._ World Bank – World Development Indicators. https://data.worldbank.org/indicator/NE.GDI.TOTL.KD
+World Bank. (2024a). _Gross capital formation (constant 2010 US$)._ World Bank – World Development Indicators. https://data.worldbank.org/indicator/NE.GDI.TOTL.KD
+
+World Bank. (2024b). _Mobile cellular subscriptions._ World Bank – World Development Indicators. https://data.worldbank.org/indicator/IT.CEL.SETS
+
+World Bank. (2025). _Population, total._ World Bank – World Development Indicators. https://data.worldbank.org/indicator/SP.POP.TOTL
 
 World Health Organization. (n.d.). _Air pollution._ https://www.who.int/health-topics/air-pollution#tab=tab_1
 
