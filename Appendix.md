@@ -22,7 +22,7 @@ For triangulation, it is worth considering the growth in output of some things t
 
 ![Steel Output](assets/steel-output.png)
 
-Source: International Iron and Steel Institute 1991, 2001; Worldsteel Committee on Economic Studies, 2011; World Steel Association, 2021
+Source: International Iron and Steel Institute 1991, 2001; Worldsteel Committee on Economic Studies, 2011; World Steel Association, 2025
 
 
 Compared to gross capital, there is only about a twofold growth here from 1970 to today, but it is important to keep in mind that during that time period we have come up with many materials other than steel from which to make things, such as aluminum and, of course, plastics. Importantly, though, this graph lets us compare steel output today with output at the time of World War II, and we can see that there has been more than an order of magnitude growth (roughly 15x).

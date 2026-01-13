@@ -460,7 +460,7 @@ World Health Organization. (n.d.). _Air pollution._ https://www.who.int/health-t
 
 _World Population Clock: 7.9 Billion People (2021) - Worldometer._ (n.d.). World Meters. https://www.worldometers.info/world-population/
 
-World Steel Association. (2021, January 26). _Global crude steel output decreases by 0.9% in 2020._ World Steel. https://www.worldsteel.org/media-centre/press-releases/2021/Global-crude-steel-output-decreases-by-0.9--in-2020.html
+World Steel Association. (2025). _Total production of crude steel._ Worldsteel – Annual production steel data. https://worldsteel.org/data/annual-production-steel-data/
 
 Worldsteel Committee on Economic Studies. (2011). _Steel Statistical Yearbook 2011._ World Steel Association. https://www.worldsteel.org/en/dam/jcr:c12843e8-49c3-40f1-92f1-9665dc3f7a35/Steel%2520statistical%2520yearbook%25202011.pdf
 
