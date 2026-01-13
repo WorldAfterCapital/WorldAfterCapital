@@ -452,9 +452,9 @@ Wong, J. I. (2016, April 7). _A fleet of trucks just drove themselves across Eur
 
 World Bank. (2020a). _GDP per capita, PPP._ World Bank – World Development Indicators. https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD
 
-World Bank. (2020c). _Gross capital formation._ World Bank – World Development Indicators. https://data.worldbank.org/indicator/NE.GDI.TOTL.KD
-
 World Bank. (2020b). _Mortality rate, under-5._ World Bank – World Development Indicators. https://data.worldbank.org/indicator/SH.DYN.MORT
+
+World Bank. (2024). _Gross capital formation (constant 2010 US$)._ World Bank – World Development Indicators. https://data.worldbank.org/indicator/NE.GDI.TOTL.KD
 
 World Health Organization. (n.d.). _Air pollution._ https://www.who.int/health-topics/air-pollution#tab=tab_1
 

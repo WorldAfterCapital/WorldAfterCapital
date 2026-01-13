@@ -9,11 +9,11 @@ Political will results from enough attention being paid to an issue. The bulk of
 
 ## THE GROWTH OF CAPITAL
 
-It turns out to be surprisingly difficult to find global data on physical capital. The best source I have been able to locate is the World Bank, which publishes a data series on gross capital formation (World Bank, 2020). Unfortunately, the data here reaches back only to 1970, but it still shows an increase from roughly $5 trillion to $22 trillion in 2019 (this is measured on constant 2010 dollars, i.e. adjusted for inflation).
+It turns out to be surprisingly difficult to find global data on physical capital. The best source I have been able to locate is the World Bank, which publishes a data series on gross capital formation (World Bank, 2024). Unfortunately, the data here reaches back only to 1970, but it still shows an increase from roughly $5 trillion to $22 trillion in 2019 (this is measured on constant 2010 dollars, i.e. adjusted for inflation).
 
 ![Gross Capital](assets/gross-capital.png)
 
-Source: World Bank, 2020c
+Source: World Bank, 2024
 
 
 ### Gross Capital Formation
