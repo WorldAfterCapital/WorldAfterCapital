@@ -49,7 +49,7 @@ And here is one more example that’s highly relevant to the climate crisis: the
 
 ![Solar Panel Output](assets/solarpanel-output.png)
 
-Source: Statista, 2021a
+Source: Statista, 2024
 
 
 Over a decade and a half, we went from basically making no panels to making 150 gigawatts in new panels on what looks like an exponential growth trajectory. Now, crucially, we are currently using a small part of our productive capital to make solar panels. How do we know this? Because we have not yet taken the drastic steps necessary for fighting the climate crisis, which will eventually have to reach levels similar to the capital deployment in World War II.

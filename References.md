@@ -372,9 +372,9 @@ _Sony Music - Overview, News & Competitors._ (n.d.). ZoomInfo. https://www.zoomi
 
 Statista. (2020, December 3). _Number of mobile subscriptions worldwide 1993–2019._ https://www.statista.com/statistics/262950/global-mobile-subscriptions-since-1993/
 
-Statista. (2021a, February 2). _Global module manufacturing production 2000–2019._ https://www.statista.com/statistics/668764/annual-solar-module-manufacturing-globally/
+Statista. (2021, May 10). _Smartphone penetration rate in India FY 2016–2020, with estimates until 2025._ https://www.statista.com/statistics/1229799/india-smartphone-penetration-rate/
 
-Statista. (2021b, May 10). _Smartphone penetration rate in India FY 2016–2020, with estimates until 2025._ https://www.statista.com/statistics/1229799/india-smartphone-penetration-rate/
+Statista. (2024, October). _Annual solar photovoltaic module production globally from 2000 to 2023._ https://www.statista.com/statistics/668764/annual-solar-module-manufacturing-globally/
 
 Stoller, M. (2020, April 9). _The Cantillon Effect: Why Wall Street Gets a Bailout and You Don’t._ BIG by Matt Stoller. https://mattstoller.substack.com/p/the-cantillon-effect-why-wall-street
 
