@@ -108,11 +108,11 @@ Federal Reserve Bank of St. Louis. (2021a, August 26). _Real Median Household In
 
 Federal Reserve Bank of St. Louis. (2021c, June 10). _Households and Nonprofit Organizations; Debt Securities and Loans; Liability, Level._ FRED. https://fred.stlouisfed.org/series/CMDEBT#0
 
-Federal Reserve Bank of St. Louis. (2021g, March 11). _Domestic Financial Sectors; Debt Securities and Loans; Liability, Level._ FRED. https://fred.stlouisfed.org/series/DODFS
+Federal Reserve Bank of St. Louis. (2021f, March 11). _Domestic Financial Sectors; Debt Securities and Loans; Liability, Level._ FRED. https://fred.stlouisfed.org/series/DODFS
 
-Federal Reserve Bank of St. Louis. (2021f, March 11). _Nonfinancial Business; Debt Securities and Loans; Liability, Level._ FRED. https://fred.stlouisfed.org/series/TBSDODNS
+Federal Reserve Bank of St. Louis. (2021e, March 11). _Nonfinancial Business; Debt Securities and Loans; Liability, Level._ FRED. https://fred.stlouisfed.org/series/TBSDODNS
 
-Federal Reserve Bank of St. Louis. (2021e, March 25). _Gross Output of All Industries._ FRED. https://fred.stlouisfed.org/series/GOAI
+Federal Reserve Bank of St. Louis. (2021d, March 25). _Gross Output of All Industries._ FRED. https://fred.stlouisfed.org/series/GOAI
 
 Federal Reserve Bank of St. Louis. (2025, November 5). _Consumer Price Index for All Urban Consumers: Durables in U.S. City Average._ FRED. https://fred.stlouisfed.org/series/CUSR0000SAD#0
 
