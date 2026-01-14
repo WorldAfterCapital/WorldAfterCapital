@@ -126,6 +126,8 @@ Fontinelle, A. (2021, February 11). _Auto Loan Balances Hit $1.36 Trillion in 20
 
 Friedman, M, (1962). _Capitalism and Freedom._ University of Chicago Press.
 
+Gallup. (2025, September 9) _U.S. Depression Rate Remains Historically High._ Gallup News. https://news.gallup.com/poll/694199/u.s.-depression-rate-remains-historically-high.aspx
+
 García, J. (2009) _An integrated approach to the design and operation of low capacity sewage treatment works._ Desalination and Water Treatment, 4(1-3), 28-32. https://doi.org/10.5004/dwt.2009.351
 
 Gatto, J. T., Grove, R., Rodriguez, D., Ruenzel, D., & Paul, R. (2017). _The Underground History of American Education, Volume I: An Intimate Investigation Into the Prison of Modern Schooling._ Valor Academy.

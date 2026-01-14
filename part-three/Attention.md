@@ -17,7 +17,7 @@ This crisis can take many different forms, including teenage depression, adult s
 
 ![Depression Rate](../assets/depression-rate.png)
 
-Source: CDC, 2020; National Center for Health Statistics, 2019; Substance Abuse and Mental Health Services Administration, 2020
+Source: Gallup, 2025
 
 
 The situation is not dissimilar to the one that first occurred when people left the countryside and moved to big cities during the transition to the Industrial Age, having to give up identities that had been constructed around farming the land and local craft production . They were uprooted from their extended families and confronted with people from other regions who held different beliefs. Then too there was a marked increase in mental illness, drug abuse and suicide associated with factory work and urbanization.
