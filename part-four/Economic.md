@@ -108,6 +108,11 @@ What orders of magnitude are we talking about? The terms M0, M1, M2, and M3 are 
 
 Another way to get a sense of the total magnitude of money creation is by considering the development of debt. US households have about $10 trillion in mortgage debt, over $1.5 trillion in student loans, $1.2 trillion in auto loans, and more than $900 million in credit card debt (Federal Reserve Bank of New York, 2020; Fontinelle, 2021; White, 2021). Total household debt can increase by as much as $1 trillion in a single year. US business debt stands at around $35 trillion, about half of which is in the financial sector (Federal Reserve Bank of St. Louis, 2021d; 2021e).
 
+![Household Debt](../assets/household-debt.png)
+
+Source: Federal Reserve Bank of St. Louis, 2021a; 2021b
+
+
 The amount of money created annually is thus in the same ballpark as my proposed UBI. Historically, the idea of the government “printing” money is associated with fears of run-away inflation of the sort that occurred in Germany’s Weimar Republic. There are several reasons why this would not be the case with a proper UBI scheme. First, the amount of new money created would be fixed and known in advance. Second, as we saw earlier, technology is a strong deflationary force. Third, the net amount of money created can be reduced over time by removing money from the economy, which could be accomplished through negative interest rates on bank deposits above a certain amount, with payment collected by the central bank. Alternatively, a system of “demurrage” could be implemented, in which a fee is levied on all currency holdings or the holdings are automatically shrunk (with digital currencies, the latter is now possible automatically). Fourth, based on the changes to other programs discussed above it would be possible to balance the US government budget again which would remove tremendous inflationary pressure from the system (all the current borrowing is expected to eventually be paid back through printing money).
 
 I expect the path to UBI to involve some combination of changes to government budgets, taxation, and the monetary system. As we will see later, it is also possible that UBI emerges outside of government through a decentralized project using blockchain technology.

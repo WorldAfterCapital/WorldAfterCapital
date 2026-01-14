@@ -45,11 +45,6 @@ Source: Federal Reserve Bank of St. Louis, 2025a
 
 Over this time of stagnant incomes, and particularly from the mid-1980s onward, US GDP growth was increasingly financed by consumers going into debt, until we reached the limit of how much debt households could support. The first event that really drove that point home was the collapse of the US housing bubble. We were hitting another such point during the COVID-19 crisis, which led to dramatic increases in unemployment that was only partially offset by government cash transfers.
 
-![Household Debt to GDP for United States](../assets/household-debt.png)
-
-Source: Federal Reserve Bank of St. Louis, 2021a; 2021b
-
-
 Similar changes have occurred in other developed economies. This decoupling may be partly accounted for by changing demographics, but the primary driver appears to be technology. As technological innovation accelerates, there will be further pressure on the job loop. Particularly worrisome is the fact that jobs in developing countries are highly exposed to automation (The Economist, 2016). As a result, these countries may either skip the “golden age of the job loop” entirely or experience a much diminished version.
 
 So, while we want to free up the attention trapped in the job loop, we need to figure out how to do so gradually, rather than through a rapid collapse. But is such a collapse even possible?
