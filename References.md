@@ -444,10 +444,6 @@ Wikipedia, https://en.wikipedia.org/w/index.php?title=List_of_Wikipedia_controve
 
 Wong, J. I. (2016, April 7). _A fleet of trucks just drove themselves across Europe._ Quartz. https://qz.com/656104/a-fleet-of-trucks-just-drove-themselves-across-europe/
 
-World Bank. (2020a). _GDP per capita, PPP._ World Bank – World Development Indicators. https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD
-
-World Bank. (2020b). _Mortality rate, under-5._ World Bank – World Development Indicators. https://data.worldbank.org/indicator/SH.DYN.MORT
-
 World Bank. (2024a). _Gross capital formation (constant 2010 US$)._ World Bank – World Development Indicators. https://data.worldbank.org/indicator/NE.GDI.TOTL.KD
 
 World Bank. (2024b). _Mobile cellular subscriptions._ World Bank – World Development Indicators. https://data.worldbank.org/indicator/IT.CEL.SETS
