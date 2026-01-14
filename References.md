@@ -324,7 +324,7 @@ Romine, S. (2019, March 29). _Essential Nutrients: What Are They & How Much Do Y
 
 Roser, M. (2013, December 10). _Light at Night._ Our World in Data. https://ourworldindata.org/light
 
-Roser, M. (2017, December 2). _Fertility Rate._ Our World in Data. https://ourworldindata.org/fertility-rate
+Roser, M. (2014). _The global decline of the fertility rate._ Our World in Data. https://ourworldindata.org/global-decline-fertility-rate
 
 Roser, M. (2019a, November). _Future Population Growth._ Our World in Data. https://ourworldindata.org/future-population-growth
 
