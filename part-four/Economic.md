@@ -36,7 +36,7 @@ If you’re struggling to take care of your needs, the world will seem like an e
 
 ![Consumer Durables Price Index](../assets/price-indices.png)
 
-Source: Federal Reserve Bank of St. Louis, 2021d
+Source: Federal Reserve Bank of St. Louis, 2025
 
 
 The decline in the price of consumer durables has been made possible by technological progress. We are getting better at making stuff, and the automation of production and distribution is a big part of that. While this will hurt you if you lose your job as a result, if you have money to buy things it will help you. And with UBI, everyone will have money, which, as prices fall over time, will buy more and more.
