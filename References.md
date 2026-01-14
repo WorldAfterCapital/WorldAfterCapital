@@ -64,8 +64,6 @@ Cavity magnetron. (2021, June 27). In _Wikipedia_. https://en.wikipedia.org/wiki
 
 CDC. (n.d.). _Health and Economic Costs of Chronic Diseases._ National Center for Chronic Disease Prevention and Health Promotion. Retrieved August 6, 2021, from https://www.cdc.gov/chronicdisease/about/costs/index.htm
 
-Centers for Disease Control (CDC). (2020, February). _Fatal Injury and Violence Data._ CDC. https://www.cdc.gov/injury/wisqars/fatal.html
-
 Chaisson, C. (2017, December 12). _When It Rains, It Pours Raw Sewage into New York City’s Waterways._ NRDC. https://www.nrdc.org/stories/when-it-rains-it-pours-raw-sewage-new-york-citys-waterways
 
 Chamber of Commerce of the United States. (1973). _United States Multinational Enterprise Survey._ https://books.google.com.sa/books?id=tPZe7kHHTboC&printsec=frontcover#v=onepage&q&f=false
@@ -260,8 +258,6 @@ _Napster Settlement Offer Rejected._ (2001, March 6). CBS News. https://www.cbsn
 
 NASA. (2018, December). _Journey to Mars: Pioneering Next Steps in Space Exploration._ http://www.nasa.gov/johnson/exploration/overview/
 
-National Center for Health Statistics. (2019). _National Vital Statistics System._ https://www.cdc.gov/nchs/data/databriefs/db394-tables-508.pdf#page=1
-
 National Institutes of Health. (2021, August 4). _Office of Dietary Supplements - Omega-3 Fatty Acids._ https://ods.od.nih.gov/factsheets/Omega3FattyAcids-Consumer/
 
 Neuroscience News. (2018, December 3). _Man Versus Machine: Who Wins When It Comes to Facial Recognition?_ https://neurosciencenews.com/man-machine-facial-recognition-120191/
@@ -379,8 +375,6 @@ Statista. (2021, May 10). _Smartphone penetration rate in India FY 2016–2020, 
 Statista. (2024, October). _Annual solar photovoltaic module production globally from 2000 to 2023._ https://www.statista.com/statistics/668764/annual-solar-module-manufacturing-globally/
 
 Stoller, M. (2020, April 9). _The Cantillon Effect: Why Wall Street Gets a Bailout and You Don’t._ BIG by Matt Stoller. https://mattstoller.substack.com/p/the-cantillon-effect-why-wall-street
-
-Substance Abuse and Mental Health Services Administration. (2020). _Key substance use and mental health indicators in the United States: Results from the 2019 National Survey on Drug Use and Health_ (HHS Publication No. PEP20-07-01-001, NSDUH Series H-55). Rockville, MD: Center for Behavioral Health Statistics and Quality, Substance Abuse and Mental Health Services Administration. Retrieved from https://www.samhsa.gov/data/
 
 _Suicide statistics._ (2019, November 15). American Foundation for Suicide Prevention. https://afsp.org/suicide-statistics/
 
