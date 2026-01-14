@@ -282,7 +282,7 @@ OECD (2025, June). _OECD Data Explorer - Health expenditure and financing._ OECD
 
 Ord, T. (2020). _The Precipice: Existential Risk and the Future of Humanity._ Hachette Books.
 
-Organization of Motor Vehicle Manufacturers. (2021, March 24). _Global auto production in 2020 severely hit by COVID-19 crisis with a 16% drop in world auto production._ OICA News. https://www.oica.net/global-auto-production-in-2020-severely-hit-by-covid-19-crisis-with-a-16-drop-in-world-auto-production/
+Organization of Motor Vehicle Manufacturers (OICA). (2021, March 24). _Global auto production in 2020 severely hit by COVID-19 crisis with a 16% drop in world auto production._ OICA News. https://www.oica.net/global-auto-production-in-2020-severely-hit-by-covid-19-crisis-with-a-16-drop-in-world-auto-production/
 
 Orlo Salon. (n.d.). _Orlo Salon Price List._ Orlo Salon. http://orlosalon.com/#
 
