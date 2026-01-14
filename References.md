@@ -108,6 +108,12 @@ Federal Reserve Bank of St. Louis. (2025a, October 30). _Real Median Household I
 
 Federal Reserve Bank of St. Louis. (2025b, November 5). _Consumer Price Index for All Urban Consumers: Durables in U.S. City Average._ FRED. https://fred.stlouisfed.org/series/CUSR0000SAD#0
 
+Federal Reserve Bank of St. Louis. (2025c, November 25). _Domestic Financial Sectors; Debt Securities and Loans; Liability, Level._ FRED. https://fred.stlouisfed.org/series/DODFS
+
+Federal Reserve Bank of St. Louis. (2025d, November 25). _Nonfinancial Corporate Business; Debt Securities and Loans; Liability, Level._ FRED. https://fred.stlouisfed.org/series/BCNSDODNS
+
+Federal Reserve Bank of St. Louis. (2025e, November 25). _Nonfinancial Noncorporate Business; Total Liabilities, Level._ FRED. https://fred.stlouisfed.org/series/NNBTILA027N
+
 Fetherston, E., Kinzler, M., & Miller, S. (n.d.). _Assembling Our Transportation Future._ Gala. Retrieved August 2, 2021, from https://www.learngala.com/cases/model-t/8
 
 Flight distance record. (2021, April 7). In _Wikipedia_. https://en.wikipedia.org/wiki/Flight_distance_record
