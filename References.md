@@ -102,7 +102,7 @@ Federal Reserve Bank of New York. (2025). _Household Debt and Credit Report._ ht
 
 Federal Reserve Bank of St. Louis. (2021a, August 26). _Gross Domestic Product._ FRED. https://fred.stlouisfed.org/series/GDP#0
 
-Federal Reserve Bank of St. Louis. (2021c, March 25). _Gross Output of All Industries._ FRED. https://fred.stlouisfed.org/series/GOAI
+Federal Reserve Bank of St. Louis. (2021b, March 25). _Gross Output of All Industries_. FRED. https://fred.stlouisfed.org/series/GOAI
 
 Federal Reserve Bank of St. Louis. (2025a, October 30). _Real Median Household Income in the United States and Gross Domestic Product._ FRED. https://fred.stlouisfed.org/graph/?g=caWq
 
