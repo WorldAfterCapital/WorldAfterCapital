@@ -34,10 +34,7 @@ Food, clothing and shelter are obvious solutions to human needs that UBI should 
 
 If you’re struggling to take care of your needs, the world will seem like an expensive place. Yet the data show that a lot of things have been getting cheaper for some time. In the US, as the chart below shows, the price of consumer durables has been falling since the mid-1990s.
 
-![Consumer Durables Price Index](../assets/price-indices.png)
-
-Source: Federal Reserve Bank of St. Louis, 2025b
-
+![Consumer Durables Price Index. Source: Federal Reserve Bank of St. Louis, 2025b](../assets/price-indices.png)
 
 The decline in the price of consumer durables has been made possible by technological progress. We are getting better at making stuff, and the automation of production and distribution is a big part of that. While this will hurt you if you lose your job as a result, if you have money to buy things it will help you. And with UBI, everyone will have money, which, as prices fall over time, will buy more and more.
 
@@ -57,10 +54,7 @@ There is evidence that the exorbitant rise in the cost of college tuition in the
 
 Healthcare is a similar story. Per capita spending in the United States far exceeds that of other countries, having risen much more quickly than the rate of inflation for many years, but that hasn’t translated into better care. For instance, Cuba has for many years had an almost identical life expectancy to the US, despite spending less than a tenth of the amount on healthcare per capita (Hamblin, 2016). Debates have raged as to whether the Affordable Care Act or other legislative interventions will decrease healthcare costs or increase insurance premiums. Regardless of these issues, there are a number of reasons why we can count on progress in digital technology bringing down healthcare costs.
 
-![Healthcare Expenditure Per Capita](../assets/healthcare-expenditure.png)
-
-Source: OECD, 2025
-
+![Healthcare Expenditure Per Capita. Source: OECD, 2025](../assets/healthcare-expenditure.png)
 
 First, digital technology can make prices on medical procedures more transparent, enabling more competition to push prices down (this could be assisted further by regulation). Second, with people using technology to track their own health data, we can live healthier lives and require less care, especially over the long term. And third, technology will lead to faster and better diagnosis and treatment. The online medical crowdsourcing platform CrowdMed has helped many people whose conditions previously went undiagnosed or misdiagnosed. The Human Diagnosis Project (Human Dx) is also working on a system to help improve the accuracy of diagnoses.
 
@@ -108,10 +102,7 @@ What orders of magnitude are we talking about? The terms M0, M1, M2, and M3 are 
 
 Another way to get a sense of the total magnitude of money creation is by considering the development of debt. US households have about $13 trillion in mortgage debt, over $1.6 trillion in student loans, $1.7 trillion in auto loans, and $1.2 trillion in credit card debt (Federal Reserve Bank of New York, 2025). Total household debt can increase by as much as $1 trillion in a single year. US business debt stands at around $47 trillion, about half of which is in the financial sector (Federal Reserve Bank of St. Louis, 2025c; 2025d; 2025e).
 
-![Household Debt](../assets/household-debt.png)
-
-Source: Federal Reserve Bank of New York, 2025
-
+![Household Debt. Source: Federal Reserve Bank of New York, 2025](../assets/household-debt.png)
 
 The amount of money created annually is thus in the same ballpark as my proposed UBI. Historically, the idea of the government “printing” money is associated with fears of run-away inflation of the sort that occurred in Germany’s Weimar Republic. There are several reasons why this would not be the case with a proper UBI scheme. First, the amount of new money created would be fixed and known in advance. Second, as we saw earlier, technology is a strong deflationary force. Third, the net amount of money created can be reduced over time by removing money from the economy, which could be accomplished through negative interest rates on bank deposits above a certain amount, with payment collected by the central bank. Alternatively, a system of “demurrage” could be implemented, in which a fee is levied on all currency holdings or the holdings are automatically shrunk (with digital currencies, the latter is now possible automatically). Fourth, based on the changes to other programs discussed above it would be possible to balance the US government budget again which would remove tremendous inflationary pressure from the system (all the current borrowing is expected to eventually be paid back through printing money).
 

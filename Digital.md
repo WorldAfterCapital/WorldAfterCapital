@@ -44,10 +44,7 @@ For a long time, this property of universality didn’t matter much because comp
 
 An analogy here is the human discovery of heavier-than-air flight. We knew for a long time that it must be possible—after all, birds are heavier than air and they can fly—but it took until 1903, when the Wright brothers built the first successful airplane, for us to figure out how to do it (“Wright Brothers,” 2020). Once they and several other people had figured it out, progress was rapid. We went from not knowing how to fly to crossing the Atlantic in passenger jet planes in fifty-five years: the British Overseas Airways Corporation’s first transatlantic jet passenger flight was in 1958 (“British Overseas Airways Corporation,” 2020). If you plot this on a graph, you see a perfect example of a non-linearity. We didn’t get gradually better at flying over a long period of time—instead we couldn’t do it at all, and then suddenly we could do it very well.
 
-![Non-Commercial Flight Distance Records](assets/flight-distance.png)
-
-Source: “Flight distance record,” 2021
-
+![Flight Distance Records. Source: “Flight distance record,” 2021](assets/flight-distance.png)
 
 Digital technology is similar. A series of breakthroughs have taken us from having essentially no machine intelligence to a situation where machines can outperform humans on many different tasks, including reading handwriting and recognizing faces (Neuroscience News, 2018; Phillips et al., 2018). The rate of machines’ progress in learning how to drive cars is another great example of the non-linearity of improvement. The Defense Advanced Research Projects Agency (DARPA) held its first so-called “Grand Challenge” for self-driving cars in 2004. They picked a 150-mile-long closed course in the Mojave Desert, and no car got further than seven miles (less than 5 percent of the course) before getting stuck. By 2012, less than a decade later, Google’s self-driving cars had driven over 300,000 miles on public roads, with traffic (Urmson, 2012) and now the Waymo self-driving taxis are operating in several cities.
 

@@ -15,10 +15,7 @@ As the Industrial Age took hold all over the world, people had become used to co
 
 This crisis can take many different forms, including teenage depression, adult suicide—in the US, particularly among middle-aged white men—and fatal drug overdoses (Rodrick, 2019; American Foundation for Suicide Prevention, 2019). According to surveys conducted by Gallup, the depression rate in the United States has risen sharply in the last decade, from 10.5% in 2015 to 18.3% in 2025 (Gallup 2025). Young adults under 30 have been hit worst with Gallup finding a doubling of the rate of depression rising from 13% in 2017 to over 26% in 2025 (Gallup 2025).
 
-![Depression Rate](../assets/depression-rate.png)
-
-Source: Gallup, 2025
-
+![Depression Rate. Source: Gallup, 2025](../assets/depression-rate.png)
 
 The situation is not dissimilar to the one that first occurred when people left the countryside and moved to big cities during the transition to the Industrial Age, having to give up identities that had been constructed around farming the land and local craft production . They were uprooted from their extended families and confronted with people from other regions who held different beliefs. Then too there was a marked increase in mental illness, drug abuse and suicide associated with factory work and urbanization.
 
