@@ -110,7 +110,7 @@ Another way to get a sense of the total magnitude of money creation is by consid
 
 ![Household Debt](../assets/household-debt.png)
 
-Source: Federal Reserve Bank of St. Louis, 2021a; 2021b
+Source: Federal Reserve Bank of New York, 2025
 
 
 The amount of money created annually is thus in the same ballpark as my proposed UBI. Historically, the idea of the government “printing” money is associated with fears of run-away inflation of the sort that occurred in Germany’s Weimar Republic. There are several reasons why this would not be the case with a proper UBI scheme. First, the amount of new money created would be fixed and known in advance. Second, as we saw earlier, technology is a strong deflationary force. Third, the net amount of money created can be reduced over time by removing money from the economy, which could be accomplished through negative interest rates on bank deposits above a certain amount, with payment collected by the central bank. Alternatively, a system of “demurrage” could be implemented, in which a fee is levied on all currency holdings or the holdings are automatically shrunk (with digital currencies, the latter is now possible automatically). Fourth, based on the changes to other programs discussed above it would be possible to balance the US government budget again which would remove tremendous inflationary pressure from the system (all the current borrowing is expected to eventually be paid back through printing money).

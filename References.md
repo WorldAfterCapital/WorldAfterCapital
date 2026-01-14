@@ -98,7 +98,7 @@ Escort fighter. (2021, June 6). In _Wikipedia_. https://en.wikipedia.org/wiki/Es
 
 Ewers, R. M.,Scharlemann, J. P. W., Balmford, A., & Green, R. E. (2009). _Do increases in agricultural yield spare land for nature?_ Global Change Biology, 15(7), 1716–1726. https://doi.org/10.1111/j.1365-2486.2009.01849.x
 
-Federal Reserve Bank of New York. (2020). _Household Debt and Credit Report._ https://www.newyorkfed.org/microeconomics/hhdc.html
+Federal Reserve Bank of New York. (2025). _Household Debt and Credit Report._ https://www.newyorkfed.org/microeconomics/hhdc.html
 
 Federal Reserve Bank of St. Louis. (2021a, August 26). _Gross Domestic Product._ FRED. https://fred.stlouisfed.org/series/GDP#0
 
