@@ -102,12 +102,6 @@ Federal Reserve Bank of New York. (2025). _Household Debt and Credit Report._ ht
 
 Federal Reserve Bank of St. Louis. (2021a, August 26). _Gross Domestic Product._ FRED. https://fred.stlouisfed.org/series/GDP#0
 
-Federal Reserve Bank of St. Louis. (2021b, June 10). _Households and Nonprofit Organizations; Debt Securities and Loans; Liability, Level._ FRED. https://fred.stlouisfed.org/series/CMDEBT#0
-
-Federal Reserve Bank of St. Louis. (2021e, March 11). _Domestic Financial Sectors; Debt Securities and Loans; Liability, Level._ FRED. https://fred.stlouisfed.org/series/DODFS
-
-Federal Reserve Bank of St. Louis. (2021d, March 11). _Nonfinancial Business; Debt Securities and Loans; Liability, Level._ FRED. https://fred.stlouisfed.org/series/TBSDODNS
-
 Federal Reserve Bank of St. Louis. (2021c, March 25). _Gross Output of All Industries._ FRED. https://fred.stlouisfed.org/series/GOAI
 
 Federal Reserve Bank of St. Louis. (2025a, October 30). _Real Median Household Income in the United States and Gross Domestic Product._ FRED. https://fred.stlouisfed.org/graph/?g=caWq
@@ -119,8 +113,6 @@ Fetherston, E., Kinzler, M., & Miller, S. (n.d.). _Assembling Our Transportation
 Flight distance record. (2021, April 7). In _Wikipedia_. https://en.wikipedia.org/wiki/Flight_distance_record
 
 Flint water crisis. (2021, August 1). In _Wikipedia_. https://en.wikipedia.org/wiki/Flint_water_crisis
-
-Fontinelle, A. (2021, February 11). _Auto Loan Balances Hit $1.36 Trillion in 2020._ Investopedia. https://www.investopedia.com/personal-finance/american-debt-auto-loan-debt/
 
 Friedman, M, (1962). _Capitalism and Freedom._ University of Chicago Press.
 
@@ -435,8 +427,6 @@ Wenger, A. (2012, January 26). _Supermodularity And Service Bundling._ Continuat
 Wenger, A. (2017a, July 31). _VPNs and Informational Freedom._ Continuations by Albert Wenger. https://continuations.com/post/163632347545/
 
 Wenger, A. (2017b, March 24). _Government Just Gave Your ISP Even More Power: You Can Take it Back!_ Continuations by Albert Wenger. https://continuations.com/post/158773876945/
-
-White, A. (2021, May 4). _Credit card debt in the U.S. hits all-time high of $930 billion—here’s how to tackle yours with a balance transfer._ CNBC. https://www.cnbc.com/select/us-credit-card-debt-hits-all-time-high/
 
 White, R. (2019, October 7). _Ancient Maya Canals and Fields Show Early and Extensive Impacts on Tropical Forests._ UT News. https://news.utexas.edu/2019/10/07/ancient-maya-canals-and-fields-show-early-and-extensive-impacts-on-tropical-forests/
 
