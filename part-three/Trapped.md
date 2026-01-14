@@ -47,7 +47,7 @@ Over this time of stagnant incomes, and particularly from the mid-1980s onward, 
 
 ![Household Debt to GDP for United States](../assets/household-debt.png)
 
-Source: Federal Reserve Bank of St. Louis, 2021b; 2021c
+Source: Federal Reserve Bank of St. Louis, 2021a; 2021b
 
 
 Similar changes have occurred in other developed economies. This decoupling may be partly accounted for by changing demographics, but the primary driver appears to be technology. As technological innovation accelerates, there will be further pressure on the job loop. Particularly worrisome is the fact that jobs in developing countries are highly exposed to automation (The Economist, 2016). As a result, these countries may either skip the “golden age of the job loop” entirely or experience a much diminished version.
