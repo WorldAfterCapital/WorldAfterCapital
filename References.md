@@ -280,7 +280,7 @@ OECD (2020). _Details of Tax Revenue - United States._ OECD Stats. https://stats
 
 OECD (2021a), _General government spending_ (indicator). Retrieved July 7, 2021, from https://doi.org/10.1787/a31cbf4d-en
 
-OECD (2021b, July). _OECD Statistics - Health expenditure and financing._ OECD Stats. https://stats.oecd.org/Index.aspx?ThemeTreeId=9
+OECD (2025, June). _OECD Data Explorer - Health expenditure and financing._ OECD Data Explorer. https://data-explorer.oecd.org/vis?fs[0]=Topic%2C1%7CHealth%23HEA%23%7CHealth%20expenditure%20and%20financing%23HEA_EXP%23&pg=0&fc=Topic&bp=true&snb=4&df[ds]=dsDisseminateFinalDMZ&df[id]=DSD_SHA%40DF_SHA&df[ag]=OECD.ELS.HD&df[vs]=1.0&dq=.A.EXP_HEALTH.PT_B1GQ._T.._T.._T...&pd=2015
 
 Ord, T. (2020). _The Precipice: Existential Risk and the Future of Humanity._ Hachette Books.
 

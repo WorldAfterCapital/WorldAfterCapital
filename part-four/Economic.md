@@ -59,7 +59,7 @@ Healthcare is a similar story. Per capita spending in the United States far exce
 
 ![Healthcare Expenditure Per Capita](../assets/healthcare-expenditure.png)
 
-Source: OECD, 2021b
+Source: OECD, 2025
 
 
 First, digital technology can make prices on medical procedures more transparent, enabling more competition to push prices down (this could be assisted further by regulation). Second, with people using technology to track their own health data, we can live healthier lives and require less care, especially over the long term. And third, technology will lead to faster and better diagnosis and treatment. The online medical crowdsourcing platform CrowdMed has helped many people whose conditions previously went undiagnosed or misdiagnosed. The Human Diagnosis Project (Human Dx) is also working on a system to help improve the accuracy of diagnoses.
