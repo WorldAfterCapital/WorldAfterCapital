@@ -40,7 +40,7 @@ To understand what is happening to the job loop, we need to look at a change in 
 
 ![The Great Decoupling](../assets/great-decoupling.png)
 
-Source: Federal Reserve Bank of St. Louis, 2021a
+Source: Federal Reserve Bank of St. Louis, 2025a
 
 
 Over this time of stagnant incomes, and particularly from the mid-1980s onward, US GDP growth was increasingly financed by consumers going into debt, until we reached the limit of how much debt households could support. The first event that really drove that point home was the collapse of the US housing bubble. We were hitting another such point during the COVID-19 crisis, which led to dramatic increases in unemployment that was only partially offset by government cash transfers.

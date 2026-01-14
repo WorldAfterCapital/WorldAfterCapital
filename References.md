@@ -102,8 +102,6 @@ Federal Reserve Bank of New York. (2020). _Household Debt and Credit Report._ ht
 
 Federal Reserve Bank of St. Louis. (2021b, August 26). _Gross Domestic Product._ FRED. https://fred.stlouisfed.org/series/GDP#0
 
-Federal Reserve Bank of St. Louis. (2021a, August 26). _Real Median Household Income in the United States and Gross Domestic Product._ FRED. https://fred.stlouisfed.org/graph/?g=caWq
-
 Federal Reserve Bank of St. Louis. (2021c, June 10). _Households and Nonprofit Organizations; Debt Securities and Loans; Liability, Level._ FRED. https://fred.stlouisfed.org/series/CMDEBT#0
 
 Federal Reserve Bank of St. Louis. (2021f, March 11). _Domestic Financial Sectors; Debt Securities and Loans; Liability, Level._ FRED. https://fred.stlouisfed.org/series/DODFS
@@ -112,7 +110,9 @@ Federal Reserve Bank of St. Louis. (2021e, March 11). _Nonfinancial Business; De
 
 Federal Reserve Bank of St. Louis. (2021d, March 25). _Gross Output of All Industries._ FRED. https://fred.stlouisfed.org/series/GOAI
 
-Federal Reserve Bank of St. Louis. (2025, November 5). _Consumer Price Index for All Urban Consumers: Durables in U.S. City Average._ FRED. https://fred.stlouisfed.org/series/CUSR0000SAD#0
+Federal Reserve Bank of St. Louis. (2025a, October 30). _Real Median Household Income in the United States and Gross Domestic Product._ FRED. https://fred.stlouisfed.org/graph/?g=caWq
+
+Federal Reserve Bank of St. Louis. (2025b, November 5). _Consumer Price Index for All Urban Consumers: Durables in U.S. City Average._ FRED. https://fred.stlouisfed.org/series/CUSR0000SAD#0
 
 Fetherston, E., Kinzler, M., & Miller, S. (n.d.). _Assembling Our Transportation Future._ Gala. Retrieved August 2, 2021, from https://www.learngala.com/cases/model-t/8
 
