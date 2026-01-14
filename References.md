@@ -406,7 +406,7 @@ U.S. Environmental Protection Agency (EPA). (2021, July 2). _Aluminum: Material-
 
 United Nations Environment Programme (UNEP) & The Global Alliance for Buildings and Construction (GABC). (2017, November). _Towards zero-emission efficient and resilient buildings - Global Status Report 2016._ United Nations Environment Programme. https://wedocs.unep.org/bitstream/handle/20.500.11822/10618/GABC-Report_Updated.pdf?sequence=1&%3BisAllowed=
 
-United Nations, Department of Economic and Social Affairs, Population Division. (2019). _World Population Prospects 2019, Online Edition._ Rev. 1.
+United Nations, Department of Economic and Social Affairs, Population Division. (2024, July 11). _World Population Prospects 2024, Online Edition._ Rev. 1. https://population.un.org/wpp/downloads/
 
 _Universal Music - Overview, News & Competitors._ (n.d.). ZoomInfo. https://www.zoominfo.com/c/universal-music-group/122060886
 
