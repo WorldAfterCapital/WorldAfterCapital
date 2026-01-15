@@ -16,7 +16,7 @@ It turns out to be surprisingly difficult to find global data on physical capita
 
 ### Gross Capital Formation
 
-For triangulation, it is worth considering the growth in output of some things that require productive capacity. We can infer the availability of physical capital through outputs. To that end, I was able to find the following chart of global crude steel production over time (Morfeldt, 2017).
+For triangulation, it is worth considering the growth in output of some things that require productive capacity. We can infer the availability of physical capital through outputs. To that end, I was able to find the following chart of global crude steel production over time (World Steel Association, 2025).
 
 ![Steel Output. Sources: International Iron and Steel Institute 1991, 2001; Worldsteel Committee on Economic Studies, 2011; World Steel Association, 2025](assets/steel-output.png)
 
@@ -26,7 +26,7 @@ What about finished goods production? This, too, is a good proxy for the amount 
 
 ![Car Production. Sources: Chamber of Commerce of the United States, 1973; Bureau of Transportation Statistics, 2017; OICA, 2021](assets/car-production.png)
 
-Again, we can see a roughly twofold increase relative to the 1970s and a greater than 10x increase if we go back further. This chart has an important feature worth pointing out now: There is a dip to near zero production in the mid-1940s corresponding to World War II.
+Again, we can see a roughly twofold increase relative to the 1970s and a greater than 10x increase if we go back further. This chart has an important feature worth pointing out now: There is a dip in production in the mid-1940s corresponding to World War II.
 
 Here is a dramatic example of what all this productive capacity makes possible. The first commercially available handheld mobile phone was the Motorola DynaTAC 8000x which became available in 1984 (“Motorola DynaTAC,” 2021). Here is the growth of mobile phones since then, measured in active subscriptions (Statista, 2020).
 
