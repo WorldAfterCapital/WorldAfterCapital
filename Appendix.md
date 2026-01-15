@@ -16,7 +16,7 @@ It turns out to be surprisingly difficult to find global data on physical capita
 
 ### Gross Capital Formation
 
-For triangulation, it is worth considering the growth in output of some things that require productive capacity. We can infer the availability of physical capital through outputs. To that end, I was able to find the following chart of global crude steel production over time (Morfeldt, 2017).
+For triangulation, it is worth considering the growth in output of some things that require productive capacity. We can infer the availability of physical capital through outputs. To that end, I was able to find the following chart of global crude steel production over time (World Steel Association, 2025).
 
 ![Steel Output. Sources: International Iron and Steel Institute 1991, 2001; Worldsteel Committee on Economic Studies, 2011; World Steel Association, 2025](assets/steel-output.png)
 
