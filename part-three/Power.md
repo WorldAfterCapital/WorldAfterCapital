@@ -27,7 +27,6 @@ Knowledge has already made possible something extraordinary: By means of the inn
 
 ![The Knowledge Loop](../assets/knowledge-loop.png)
 
-
 The knowledge loop has been around since humans first developed written language some five thousand years ago. Before that, humans were able to use spoken language, but that limits learning and sharing in terms of both time and space. Since the invention of written language, breakthroughs have accelerated and access to the knowledge loop has broadened. Among those breakthroughs are movable type (around one thousand years ago), the printing press (around five hundred years ago), and more recently the telegraph, radio, and television. Now we are in the middle of another fundamental breakthrough: digital technology, which connects all of humanity to the knowledge loop at zero marginal cost, and also allows machines themselves to participate in it.
 
 It is easy to underestimate the potential of digital technology to further accelerate and broaden access to the knowledge loop. To many people, it seems as if these innovations have so far under-delivered. The technology investor Peter Thiel once famously complained that “We wanted flying cars, instead we got 140 characters.” In fact, we have made great progress on flying cars since then, in no small part because digital technologies have already helped accelerate the knowledge loop.

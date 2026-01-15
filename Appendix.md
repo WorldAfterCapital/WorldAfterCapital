@@ -9,48 +9,34 @@ Political will results from enough attention being paid to an issue. The bulk of
 
 ## THE GROWTH OF CAPITAL
 
-It turns out to be surprisingly difficult to find global data on physical capital. The best source I have been able to locate is the World Bank, which publishes a data series on gross capital formation (World Bank, 2020). Unfortunately, the data here reaches back only to 1970, but it still shows an increase from roughly $5 trillion to $22 trillion in 2019 (this is measured on constant 2010 dollars, i.e. adjusted for inflation).
+It turns out to be surprisingly difficult to find global data on physical capital. The best source I have been able to locate is the World Bank, which publishes a data series on gross capital formation (World Bank, 2024). Unfortunately, the data here reaches back only to 1970, but it still shows an increase from roughly $5 trillion to $22 trillion in 2019 (this is measured on constant 2010 dollars, i.e. adjusted for inflation).
 
-![Gross Capital](assets/gross-capital.png)
-
-Source: World Bank, 2020c
+![Gross Capital. Source: World Bank, 2024a](assets/gross-capital.png)
 
 
 ### Gross Capital Formation
 
 For triangulation, it is worth considering the growth in output of some things that require productive capacity. We can infer the availability of physical capital through outputs. To that end, I was able to find the following chart of global crude steel production over time (Morfeldt, 2017).
 
-![Steel Output](assets/steel-output.png)
-
-Source: International Iron and Steel Institute 1991, 2001; Worldsteel Committee on Economic Studies, 2011; World Steel Association, 2021
-
+![Steel Output. Sources: International Iron and Steel Institute 1991, 2001; Worldsteel Committee on Economic Studies, 2011; World Steel Association, 2025](assets/steel-output.png)
 
 Compared to gross capital, there is only about a twofold growth here from 1970 to today, but it is important to keep in mind that during that time period we have come up with many materials other than steel from which to make things, such as aluminum and, of course, plastics. Importantly, though, this graph lets us compare steel output today with output at the time of World War II, and we can see that there has been more than an order of magnitude growth (roughly 15x).
 
 What about finished goods production? This, too, is a good proxy for the amount of total available physical capital. A great example is the global production of cars. Here is a chart that shows it over time going back to the earliest days of the industry.
 
-![Car Production](assets/car-production.png)
-
-Source: Chamber of Commerce of the United States, 1973; Bureau of Transportation Statistics, 2017
-
+![Car Production. Sources: Chamber of Commerce of the United States, 1973; Bureau of Transportation Statistics, 2017; OICA, 2021](assets/car-production.png)
 
 Again, we can see a roughly twofold increase relative to the 1970s and a greater than 10x increase if we go back further. This chart has an important feature worth pointing out now: There is a dip to near zero production in the mid-1940s corresponding to World War II.
 
 Here is a dramatic example of what all this productive capacity makes possible. The first commercially available handheld mobile phone was the Motorola DynaTAC 8000x which became available in 1984 (“Motorola DynaTAC,” 2021). Here is the growth of mobile phones since then, measured in active subscriptions (Statista, 2020).
 
-![Mobile Phone Subcriptions](assets/mobile-subscriptions.png)
-
-Source: Statista, 2020
-
+![Mobile Phone Subcriptions. Sources: Statista, 2020; World Bank, 2024b; World Bank, 2025](assets/mobile-subscriptions.png)
 
 Over the course of three decades, we basically went from not having mobile phones to having more than the global population (this of course brings to mind William Gibson’s great quote that “[t]he future is already here—it’s just not evenly distributed”—with many people having one mobile phone for work and one for personal use, for example, while others have none).
 
 And here is one more example that’s highly relevant to the climate crisis: the rate at which we have produced solar panels (Statista, 2021a).
 
-![Solar Panel Output](assets/solarpanel-output.png)
-
-Source: Statista, 2021a
-
+![Solar Panel Output. Source: Statista, 2024](assets/solarpanel-output.png)
 
 Over a decade and a half, we went from basically making no panels to making 150 gigawatts in new panels on what looks like an exponential growth trajectory. Now, crucially, we are currently using a small part of our productive capital to make solar panels. How do we know this? Because we have not yet taken the drastic steps necessary for fighting the climate crisis, which will eventually have to reach levels similar to the capital deployment in World War II.
 
@@ -171,7 +157,7 @@ Conversely, today it has become possible to create new life-saving medicines vir
 
 It is crucial to understand that much of our current need for healing could be avoided in the first place by leading healthier lives. As noted earlier, we do not know as much about nutrition as we should, but we do know that obesity contributes significantly to medical problems and yet the rate of obesity has increased dramatically, especially in the United States. Similarly, we know that stress is negatively associated with health, and yet the stress level for many people has gone up for a range of reasons from economic insecurity to proliferation of stress-inducing online content. Overall, the bulk of medical expenses today is accounted for by chronic conditions, such as diabetes (CDC, n.d.).
 
-Despite all of this, we can measure our tremendous progress on healing by considering the increase in life expectancy (Roser, 2019). Based on historical data, life expectancy in 1800 was well below 40 years across the entire world. By 2015 it had risen to well over 70 years in many places and to over 80 in some. Even in Africa, which is the furthest behind, life expectancy in many countries in the 60s.
+Despite all of this, we can measure our tremendous progress on healing by considering the increase in life expectancy (Roser, 2019b). Based on historical data, life expectancy in 1800 was well below 40 years across the entire world. By 2015 it had risen to well over 70 years in many places and to over 80 in some. Even in Africa, which is the furthest behind, life expectancy in many countries in the 60s.
 
 That of course doesn’t mean we can’t face a great reversal. COVID-19 provided a glimpse of what that might look like. As does the decrease in life expectancy in the United States due to what Anne Case and Angus Deaton have called “deaths of despair,” which have impacted many groups, but particularly white middle-aged males (Case & Deaton, 2021). Finally, again the climate crisis looms large here with deaths ranging from heat waves to crop failure having the potential to undo much of the progress we have made.
 

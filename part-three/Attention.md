@@ -11,12 +11,11 @@ Crucially, we cannot go back in time and change our past attention, either as in
 
 First, let’s consider attention at the individual level. The need for meaning is no longer being met because most people are failing to give enough attention to the crucial questions of their purpose in life at a time of great transition.
 
-As the Industrial Age took hold all over the world, people had become used to constructing meaning around their jobs and beliefs, but both are undermined by digital technologies. Many jobs have come under pressure from automation or outsourcing. Meanwhile, ideas, images, and information are no longer contained by geographic boundaries, and people are increasingly exposed to opinions and behaviors that diverge from their core beliefs. In combination, these challenges are leading to a crisis of identity and meaning. This crisis can take many different forms, including teenage depression, adult suicide—in the US, particularly among middle-aged white men—and fatal drug overdoses (Rodrick, 2019; American Foundation for Suicide Prevention, 2019). Between 2006 and 2019, these problems increased by 99 percent, 26 percent and 43 percent respectively.
+As the Industrial Age took hold all over the world, people had become used to constructing meaning around their jobs and beliefs, but both are undermined by digital technologies. Many jobs have come under pressure from automation or outsourcing. Meanwhile, ideas, images, and information are no longer contained by geographic boundaries, and people are increasingly exposed to opinions and behaviors that diverge from their core beliefs. In combination, these challenges are leading to a crisis of identity and meaning.
 
-![Crisis Statistics](../assets/crisis-statistics.png)
+This crisis can take many different forms, including teenage depression, adult suicide—in the US, particularly among middle-aged white men—and fatal drug overdoses (Rodrick, 2019; American Foundation for Suicide Prevention, 2019). According to surveys conducted by Gallup, the depression rate in the United States has risen sharply in the last decade, from 10.5% in 2015 to 18.3% in 2025 (Gallup 2025). Young adults under 30 have been hit worst with Gallup finding a doubling of the rate of depression rising from 13% in 2017 to over 26% in 2025 (Gallup 2025).
 
-Source: CDC, 2020; National Center for Health Statistics, 2019; Substance Abuse and Mental Health Services Administration, 2020
-
+![Depression Rate. Source: Gallup, 2025](../assets/depression-rate.png)
 
 The situation is not dissimilar to the one that first occurred when people left the countryside and moved to big cities during the transition to the Industrial Age, having to give up identities that had been constructed around farming the land and local craft production . They were uprooted from their extended families and confronted with people from other regions who held different beliefs. Then too there was a marked increase in mental illness, drug abuse and suicide associated with factory work and urbanization.
 

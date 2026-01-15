@@ -64,8 +64,6 @@ Cavity magnetron. (2021, June 27). In _Wikipedia_. https://en.wikipedia.org/wiki
 
 CDC. (n.d.). _Health and Economic Costs of Chronic Diseases._ National Center for Chronic Disease Prevention and Health Promotion. Retrieved August 6, 2021, from https://www.cdc.gov/chronicdisease/about/costs/index.htm
 
-Centers for Disease Control (CDC). (2020, February). _Fatal Injury and Violence Data._ CDC. https://www.cdc.gov/injury/wisqars/fatal.html
-
 Chaisson, C. (2017, December 12). _When It Rains, It Pours Raw Sewage into New York City’s Waterways._ NRDC. https://www.nrdc.org/stories/when-it-rains-it-pours-raw-sewage-new-york-citys-waterways
 
 Chamber of Commerce of the United States. (1973). _United States Multinational Enterprise Survey._ https://books.google.com.sa/books?id=tPZe7kHHTboC&printsec=frontcover#v=onepage&q&f=false
@@ -100,21 +98,21 @@ Escort fighter. (2021, June 6). In _Wikipedia_. https://en.wikipedia.org/wiki/Es
 
 Ewers, R. M.,Scharlemann, J. P. W., Balmford, A., & Green, R. E. (2009). _Do increases in agricultural yield spare land for nature?_ Global Change Biology, 15(7), 1716–1726. https://doi.org/10.1111/j.1365-2486.2009.01849.x
 
-Federal Reserve Bank of New York. (2020). _Household Debt and Credit Report._ https://www.newyorkfed.org/microeconomics/hhdc.html
+Federal Reserve Bank of New York. (2025). _Household Debt and Credit Report._ https://www.newyorkfed.org/microeconomics/hhdc.html
 
-Federal Reserve Bank of St. Louis. (2021d, August 11). _Consumer Price Index for All Urban Consumers: Durables in U.S. City Average._ FRED. https://fred.stlouisfed.org/series/CUSR0000SAD#0
+Federal Reserve Bank of St. Louis. (2021a, August 26). _Gross Domestic Product._ FRED. https://fred.stlouisfed.org/series/GDP#0
 
-Federal Reserve Bank of St. Louis. (2021b, August 26). _Gross Domestic Product._ FRED. https://fred.stlouisfed.org/series/GDP#0
+Federal Reserve Bank of St. Louis. (2021b, March 25). _Gross Output of All Industries_. FRED. https://fred.stlouisfed.org/series/GOAI
 
-Federal Reserve Bank of St. Louis. (2021a, August 26). _Real Median Household Income in the United States and Gross Domestic Product._ FRED. https://fred.stlouisfed.org/graph/?g=caWq
+Federal Reserve Bank of St. Louis. (2025a, October 30). _Real Median Household Income in the United States and Gross Domestic Product._ FRED. https://fred.stlouisfed.org/graph/?g=caWq
 
-Federal Reserve Bank of St. Louis. (2021c, June 10). _Households and Nonprofit Organizations; Debt Securities and Loans; Liability, Level._ FRED. https://fred.stlouisfed.org/series/CMDEBT#0
+Federal Reserve Bank of St. Louis. (2025b, November 5). _Consumer Price Index for All Urban Consumers: Durables in U.S. City Average._ FRED. https://fred.stlouisfed.org/series/CUSR0000SAD#0
 
-Federal Reserve Bank of St. Louis. (2021g, March 11). _Domestic Financial Sectors; Debt Securities and Loans; Liability, Level._ FRED. https://fred.stlouisfed.org/series/DODFS
+Federal Reserve Bank of St. Louis. (2025c, November 25). _Domestic Financial Sectors; Debt Securities and Loans; Liability, Level._ FRED. https://fred.stlouisfed.org/series/DODFS
 
-Federal Reserve Bank of St. Louis. (2021f, March 11). _Nonfinancial Business; Debt Securities and Loans; Liability, Level._ FRED. https://fred.stlouisfed.org/series/TBSDODNS
+Federal Reserve Bank of St. Louis. (2025d, November 25). _Nonfinancial Corporate Business; Debt Securities and Loans; Liability, Level._ FRED. https://fred.stlouisfed.org/series/BCNSDODNS
 
-Federal Reserve Bank of St. Louis. (2021e, March 25). _Gross Output of All Industries._ FRED. https://fred.stlouisfed.org/series/GOAI
+Federal Reserve Bank of St. Louis. (2025e, November 25). _Nonfinancial Noncorporate Business; Total Liabilities, Level._ FRED. https://fred.stlouisfed.org/series/NNBTILA027N
 
 Fetherston, E., Kinzler, M., & Miller, S. (n.d.). _Assembling Our Transportation Future._ Gala. Retrieved August 2, 2021, from https://www.learngala.com/cases/model-t/8
 
@@ -122,9 +120,9 @@ Flight distance record. (2021, April 7). In _Wikipedia_. https://en.wikipedia.or
 
 Flint water crisis. (2021, August 1). In _Wikipedia_. https://en.wikipedia.org/wiki/Flint_water_crisis
 
-Fontinelle, A. (2021, February 11). _Auto Loan Balances Hit $1.36 Trillion in 2020._ Investopedia. https://www.investopedia.com/personal-finance/american-debt-auto-loan-debt/
-
 Friedman, M, (1962). _Capitalism and Freedom._ University of Chicago Press.
+
+Gallup. (2025, September 9) _U.S. Depression Rate Remains Historically High._ Gallup News. https://news.gallup.com/poll/694199/u.s.-depression-rate-remains-historically-high.aspx
 
 García, J. (2009) _An integrated approach to the design and operation of low capacity sewage treatment works._ Desalination and Water Treatment, 4(1-3), 28-32. https://doi.org/10.5004/dwt.2009.351
 
@@ -258,8 +256,6 @@ _Napster Settlement Offer Rejected._ (2001, March 6). CBS News. https://www.cbsn
 
 NASA. (2018, December). _Journey to Mars: Pioneering Next Steps in Space Exploration._ http://www.nasa.gov/johnson/exploration/overview/
 
-National Center for Health Statistics. (2019). _National Vital Statistics System._ https://www.cdc.gov/nchs/data/databriefs/db394-tables-508.pdf#page=1
-
 National Institutes of Health. (2021, August 4). _Office of Dietary Supplements - Omega-3 Fatty Acids._ https://ods.od.nih.gov/factsheets/Omega3FattyAcids-Consumer/
 
 Neuroscience News. (2018, December 3). _Man Versus Machine: Who Wins When It Comes to Facial Recognition?_ https://neurosciencenews.com/man-machine-facial-recognition-120191/
@@ -278,11 +274,13 @@ OECD (2019). _Health resources - Pharmaceutical spending._ OECD Data. https://da
 
 OECD (2020). _Details of Tax Revenue - United States._ OECD Stats. https://stats.oecd.org/Index.aspx?DataSetCode=REVUSA
 
-OECD (2021a), _General government spending_ (indicator). Retrieved July 7, 2021, from https://doi.org/10.1787/a31cbf4d-en
+OECD (2021), _General government spending_ (indicator). Retrieved July 7, 2021, from https://doi.org/10.1787/a31cbf4d-en
 
-OECD (2021b, July). _OECD Statistics - Health expenditure and financing._ OECD Stats. https://stats.oecd.org/Index.aspx?ThemeTreeId=9
+OECD (2025, June). _OECD Data Explorer - Health expenditure and financing._ OECD Data Explorer. https://data-explorer.oecd.org/vis?fs[0]=Topic%2C1%7CHealth%23HEA%23%7CHealth%20expenditure%20and%20financing%23HEA_EXP%23&pg=0&fc=Topic&bp=true&snb=4&df[ds]=dsDisseminateFinalDMZ&df[id]=DSD_SHA%40DF_SHA&df[ag]=OECD.ELS.HD&df[vs]=1.0&dq=.A.EXP_HEALTH.PT_B1GQ._T.._T.._T...&pd=2015
 
 Ord, T. (2020). _The Precipice: Existential Risk and the Future of Humanity._ Hachette Books.
+
+Organization of Motor Vehicle Manufacturers (OICA). (2021, March 24). _Global auto production in 2020 severely hit by COVID-19 crisis with a 16% drop in world auto production._ OICA News. https://www.oica.net/global-auto-production-in-2020-severely-hit-by-covid-19-crisis-with-a-16-drop-in-world-auto-production/
 
 Orlo Salon. (n.d.). _Orlo Salon Price List._ Orlo Salon. http://orlosalon.com/#
 
@@ -326,7 +324,7 @@ Romine, S. (2019, March 29). _Essential Nutrients: What Are They & How Much Do Y
 
 Roser, M. (2013, December 10). _Light at Night._ Our World in Data. https://ourworldindata.org/light
 
-Roser, M. (2017, December 2). _Fertility Rate._ Our World in Data. https://ourworldindata.org/fertility-rate
+Roser, M. (2014). _The global decline of the fertility rate._ Our World in Data. https://ourworldindata.org/global-decline-fertility-rate
 
 Roser, M. (2019a, November). _Future Population Growth._ Our World in Data. https://ourworldindata.org/future-population-growth
 
@@ -370,13 +368,11 @@ _Sony Music - Overview, News & Competitors._ (n.d.). ZoomInfo. https://www.zoomi
 
 Statista. (2020, December 3). _Number of mobile subscriptions worldwide 1993–2019._ https://www.statista.com/statistics/262950/global-mobile-subscriptions-since-1993/
 
-Statista. (2021a, February 2). _Global module manufacturing production 2000–2019._ https://www.statista.com/statistics/668764/annual-solar-module-manufacturing-globally/
+Statista. (2021, May 10). _Smartphone penetration rate in India FY 2016–2020, with estimates until 2025._ https://www.statista.com/statistics/1229799/india-smartphone-penetration-rate/
 
-Statista. (2021b, May 10). _Smartphone penetration rate in India FY 2016–2020, with estimates until 2025._ https://www.statista.com/statistics/1229799/india-smartphone-penetration-rate/
+Statista. (2024, October). _Annual solar photovoltaic module production globally from 2000 to 2023._ https://www.statista.com/statistics/668764/annual-solar-module-manufacturing-globally/
 
 Stoller, M. (2020, April 9). _The Cantillon Effect: Why Wall Street Gets a Bailout and You Don’t._ BIG by Matt Stoller. https://mattstoller.substack.com/p/the-cantillon-effect-why-wall-street
-
-Substance Abuse and Mental Health Services Administration. (2020). _Key substance use and mental health indicators in the United States: Results from the 2019 National Survey on Drug Use and Health_ (HHS Publication No. PEP20-07-01-001, NSDUH Series H-55). Rockville, MD: Center for Behavioral Health Statistics and Quality, Substance Abuse and Mental Health Services Administration. Retrieved from https://www.samhsa.gov/data/
 
 _Suicide statistics._ (2019, November 15). American Foundation for Suicide Prevention. https://afsp.org/suicide-statistics/
 
@@ -410,7 +406,7 @@ U.S. Environmental Protection Agency (EPA). (2021, July 2). _Aluminum: Material-
 
 United Nations Environment Programme (UNEP) & The Global Alliance for Buildings and Construction (GABC). (2017, November). _Towards zero-emission efficient and resilient buildings - Global Status Report 2016._ United Nations Environment Programme. https://wedocs.unep.org/bitstream/handle/20.500.11822/10618/GABC-Report_Updated.pdf?sequence=1&%3BisAllowed=
 
-United Nations, Department of Economic and Social Affairs, Population Division. (2019). _World Population Prospects 2019, Online Edition._ Rev. 1.
+United Nations, Department of Economic and Social Affairs, Population Division. (2024, July 11). _World Population Prospects 2024, Online Edition._ Rev. 1. https://population.un.org/wpp/downloads/
 
 _Universal Music - Overview, News & Competitors._ (n.d.). ZoomInfo. https://www.zoominfo.com/c/universal-music-group/122060886
 
@@ -438,8 +434,6 @@ Wenger, A. (2017a, July 31). _VPNs and Informational Freedom._ Continuations by 
 
 Wenger, A. (2017b, March 24). _Government Just Gave Your ISP Even More Power: You Can Take it Back!_ Continuations by Albert Wenger. https://continuations.com/post/158773876945/
 
-White, A. (2021, May 4). _Credit card debt in the U.S. hits all-time high of $930 billion—here’s how to tackle yours with a balance transfer._ CNBC. https://www.cnbc.com/select/us-credit-card-debt-hits-all-time-high/
-
 White, R. (2019, October 7). _Ancient Maya Canals and Fields Show Early and Extensive Impacts on Tropical Forests._ UT News. https://news.utexas.edu/2019/10/07/ancient-maya-canals-and-fields-show-early-and-extensive-impacts-on-tropical-forests/
 
 Whitford, E. (2015, September 10). _Judge: Uber’s E-Hails Are Legal, Taxi Industry Must Be “Wary.”_ Gothamist. https://gothamist.com/news/judge-ubers-e-hails-are-legal-taxi-industry-must-be-wary
@@ -450,17 +444,17 @@ Wikipedia, https://en.wikipedia.org/w/index.php?title=List_of_Wikipedia_controve
 
 Wong, J. I. (2016, April 7). _A fleet of trucks just drove themselves across Europe._ Quartz. https://qz.com/656104/a-fleet-of-trucks-just-drove-themselves-across-europe/
 
-World Bank. (2020a). _GDP per capita, PPP._ World Bank – World Development Indicators. https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD
+World Bank. (2024a). _Gross capital formation (constant 2010 US$)._ World Bank – World Development Indicators. https://data.worldbank.org/indicator/NE.GDI.TOTL.KD
 
-World Bank. (2020c). _Gross capital formation._ World Bank – World Development Indicators. https://data.worldbank.org/indicator/NE.GDI.TOTL.KD
+World Bank. (2024b). _Mobile cellular subscriptions._ World Bank – World Development Indicators. https://data.worldbank.org/indicator/IT.CEL.SETS
 
-World Bank. (2020b). _Mortality rate, under-5._ World Bank – World Development Indicators. https://data.worldbank.org/indicator/SH.DYN.MORT
+World Bank. (2025). _Population, total._ World Bank – World Development Indicators. https://data.worldbank.org/indicator/SP.POP.TOTL
 
 World Health Organization. (n.d.). _Air pollution._ https://www.who.int/health-topics/air-pollution#tab=tab_1
 
 _World Population Clock: 7.9 Billion People (2021) - Worldometer._ (n.d.). World Meters. https://www.worldometers.info/world-population/
 
-World Steel Association. (2021, January 26). _Global crude steel output decreases by 0.9% in 2020._ World Steel. https://www.worldsteel.org/media-centre/press-releases/2021/Global-crude-steel-output-decreases-by-0.9--in-2020.html
+World Steel Association. (2025). _Total production of crude steel._ Worldsteel – Annual production steel data. https://worldsteel.org/data/annual-production-steel-data/
 
 Worldsteel Committee on Economic Studies. (2011). _Steel Statistical Yearbook 2011._ World Steel Association. https://www.worldsteel.org/en/dam/jcr:c12843e8-49c3-40f1-92f1-9665dc3f7a35/Steel%2520statistical%2520yearbook%25202011.pdf
 
