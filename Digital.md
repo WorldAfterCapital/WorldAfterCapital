@@ -4,7 +4,7 @@ Billions of people all over the world carry around smartphones, powerful compute
 
 It is nonetheless becoming increasingly difficult to ignore digital technology’s disruptiveness. For example, while many previously long-established businesses are struggling, including newspapers and retailers, digital technology companies such Facebook, Apple, Amazon, Netflix, and Google are now among the world’s most highly valued (“List of public corporations,” 2020).
 
-Digital technology turns out to possess two unique characteristics that explain why it dramatically expands the space of the possible for humanity, going far beyond anything previously possible. These are zero marginal cost and the universality of computation.
+Digital technology turns out to possess two unique characteristics that explain why it dramatically expands the space of the possible for humanity, going far beyond anything previously possible. These are *zero marginal cost* and the *universality of computation*.
 
 
 ## ZERO MARGINAL COST
