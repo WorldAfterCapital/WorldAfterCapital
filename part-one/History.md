@@ -2,7 +2,7 @@
 
 I will now provide a highly abstract account of human history that focuses on how technology has shifted scarcity over time and how those shifts have contributed to dramatic changes in human societies.
 
-Homo sapiens emerged roughly two hundred and fifty thousand years ago. Over most of the time since, humans were foragers (also referred to as hunter-gatherers). During the Forager Age, the defining scarcity was food. Tribes either found enough food in their territory, migrated, or starved.
+*Homo sapiens* emerged roughly two hundred and fifty thousand years ago. Over most of the time since, humans were foragers (also referred to as hunter-gatherers). During the Forager Age, the defining scarcity was food. Tribes either found enough food in their territory, migrated, or starved.
 
 Then, roughly ten thousand years ago, humanity came up with a series of technologies that together we recognize today as agriculture, such as the planting of seeds, irrigation, and the domestication of animals. These technologies shifted the scarcity from food to land in what became the Agrarian Age. A society that had enough arable land (that is, land on which food can be grown) could meet its needs and flourish. It could, in fact, create a food surplus that allowed for the existence of groups such as artists and soldiers that were not directly involved in food production.
 
