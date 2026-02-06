@@ -2,7 +2,7 @@
 
 Billions of people all over the world carry around smartphones, powerful computers that are connected to a global network (the internet). We often spend many hours a day on these devices, whether playing games, checking social media, or carrying out work. And yet despite the growing ubiquity of digital technology, people often find it difficult to understand what exactly makes it so distinctively powerful. Some have even derided digital technology, pointing to services such as X/Twitter and arguing that they are inconsequential when compared to, say, the invention of vaccines.
 
-It is nonetheless becoming increasingly difficult to ignore digital technology’s disruptiveness. For example, while many previously long-established businesses are struggling, including newspapers and retailers, digital technology companies such Facebook, Apple, Amazon, Netflix, and Google are now among the world’s most highly valued (“List of public corporations,” 2020).
+It is nonetheless becoming increasingly difficult to ignore digital technology’s disruptiveness. For example, while many previously long-established businesses are struggling, including newspapers and retailers, digital technology companies such as Facebook, Apple, Amazon, Netflix, and Google are now among the world’s most highly valued (“List of public corporations,” 2020).
 
 Digital technology turns out to possess two unique characteristics that explain why it dramatically expands the space of the possible for humanity, going far beyond anything previously possible. These are *zero marginal cost* and the *universality of computation*.
 
