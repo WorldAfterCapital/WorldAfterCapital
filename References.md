@@ -8,7 +8,7 @@ Ablow, K. (2015, November 18). _Was the Unabomber correct?_ Fox News. https://ww
 
 Albert Einstein. (2021, August 6). In _Wikipedia_. https://en.wikipedia.org/wiki/Albert_Einstein#Early_life_and_education
 
-Aleklett, K, Morrissey, D J, Loveland, W, McGaughey, P L, & Seaborg, G T. (1981) _Energy dependence of /sup 209/Bi fragmentation in relativistic nuclear collisions._ United States. https://doi.org/10.1103/PhysRevC.23.1044
+Aleklett, K, Morrissey, D J, Loveland, W, McGaughey, P L, & Seaborg, G T. (1981) _Energy dependence of ²⁰⁹Bi fragmentation in relativistic nuclear collisions._ United States. https://doi.org/10.1103/PhysRevC.23.1044
 
 Alewell, C., Ringeval, B., Ballabio, C. et al. _Global phosphorus shortage will be aggravated by soil erosion._ Nat Commun 11, 4546 (2020). https://doi.org/10.1038/s41467-020-18326-7
 
