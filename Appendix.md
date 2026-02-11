@@ -30,7 +30,7 @@ Again, we can see a roughly twofold increase relative to the 1970s and a greater
 
 Here is a dramatic example of what all this productive capacity makes possible. The first commercially available handheld mobile phone was the Motorola DynaTAC 8000x which became available in 1984 (“Motorola DynaTAC,” 2021). Here is the growth of mobile phones since then, measured in active subscriptions (Statista, 2020).
 
-![Mobile Phone Subcriptions. Sources: Statista, 2020; World Bank, 2024b; World Bank, 2025](assets/mobile-subscriptions.png)
+![Mobile Phone Subcriptions. Sources: Statista, 2020; World Bank, 2024b; 2025](assets/mobile-subscriptions.png)
 
 Over the course of three decades, we basically went from not having mobile phones to having more than the global population (this of course brings to mind William Gibson’s great quote that “[t]he future is already here—it’s just not evenly distributed”—with many people having one mobile phone for work and one for personal use, for example, while others have none).
 
