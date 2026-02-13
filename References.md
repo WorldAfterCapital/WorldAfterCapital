@@ -302,11 +302,11 @@ Personalized Genes. (2015, June 24). _Comparing Price and Tech. Specs. of Illumi
 
 Pezzutto, S. (2019). _Confucianism and Capitalist Development: From Max Weber and Orientalism to Lee Kuan Yew and New Confucianism._ Asian Studies Review, 43(2), 224–238. https://doi.org/10.1080/10357823.2019.1590685
 
-Phillips, P. J et al., (2018). _Face recognition accuracy of forensic examiners, super recognizers, and face recognition algorithms._ Proceedings of the National Academy of Sciences, 115(24), 6171–6176. https://doi.org/10.1073/pnas.1721355115
+Phillips, P. J. et al. (2018). _Face recognition accuracy of forensic examiners, super recognizers, and face recognition algorithms._ Proceedings of the National Academy of Sciences, 115(24), 6171–6176. https://doi.org/10.1073/pnas.1721355115
 
 Powers, W., & Roy, D. (2018, March 19). _The Incredible Jun: A Town that Runs on Social Media._ Medium. https://medium.com/@socialmachines/the-incredible-jun-a-town-that-runs-on-social-media-49d3d0d4590
 
-Ramankutty, N. et al., (2018). _Trends in Global Agricultural Land Use: Implications for Environmental Health and Food Security._ Annual Review of Plant Biology, 69(1), 789–815. https://doi.org/10.1146/annurev-arplant-042817-040256
+Ramankutty, N. et al. (2018). _Trends in Global Agricultural Land Use: Implications for Environmental Health and Food Security._ Annual Review of Plant Biology, 69(1), 789–815. https://doi.org/10.1146/annurev-arplant-042817-040256
 
 Raworth, K. (2017). _Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist._ Random House.
 
