@@ -176,8 +176,6 @@ Johnson, S. (2021). _Extra Life: A Short History of Living Longer._ Riverhead Bo
 
 Joint Center for Housing Studies of Harvard University. (2020). _America’s Rental Housing._ https://www.jchs.harvard.edu/sites/default/files/Harvard_JCHS_Americas_Rental_Housing_2020.pdf
 
-Kahn, S. (2000, April 1). _How much oxygen does a person consume in a day?_ HowStuffWorks. https://health.howstuffworks.com/human-body/systems/respiratory/question98.htm
-
 Kahneman, D. (2013). _Thinking, Fast and Slow (1st ed.)._ Farrar, Straus and Giroux.
 
 Kamal, B. (2017, August 21). _Climate Migrants Might Reach One Billion by 2050._ ReliefWeb. https://reliefweb.int/report/world/climate-migrants-might-reach-one-billion-2050
