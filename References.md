@@ -168,7 +168,7 @@ International Iron and Steel Institute. (2001). _Steel statistical yearbook._ Br
 
 Jedlicka, P. (2017, October 24). _Revisiting the Quantum Brain Hypothesis: Toward Quantum (Neuro)biology?_ Frontiers. https://www.frontiersin.org/articles/10.3389/fnmol.2017.00366/full
 
-Johnson, S. (2007). _The Ghost Map: The Story of London’s Most Terrifying Epidemic--and How It Changed Science, Cities, and the Modern World._ Riverhead Books.
+Johnson, S. (2007). _The Ghost Map: The Story of London’s Most Terrifying Epidemic–and How It Changed Science, Cities, and the Modern World._ Riverhead Books.
 
 Johnson, S. (2015, August 19). _The Creative Apocalypse That Wasn’t._ The New York Times. https://www.nytimes.com/2015/08/23/magazine/the-creative-apocalypse-that-wasnt.html
 
