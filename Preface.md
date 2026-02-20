@@ -4,7 +4,7 @@ Since publishing the previous version of *The World After Capital*, I have met w
 
 Two big factors contributing to change in the world are artificial intelligence (AI) and the climate crisis. Both already feature prominently in *The World After Capital* and have accelerated significantly since the first publication. In AI the scaling up of models unlocked significant new capabilities with systems that now routinely outperform humans in a wide range of tasks. Especially the so-called generative large language models, such as GPT from OpenAI and Claude from Anthropic, have surprised everyone with their performance. On the side of the climate crisis 2023 was the hottest year on record by far, and 2024 – as of this writing – is on track to exceed that.
 
-The fundamental insights of *The World After Capital* have held up well. I recorded an audio version of the first edition last summer and was pleased to find that current events have confirmed the need for profound change. I am excited to be issuing this second edition with Piper Verlag in Germany (initially in German and then also in English). This will unlock new channels of distribution bringing *The World After Capital* to a broader audience.
+The fundamental insights of *The World After Capital* have held up well. I recorded an audio version of the first edition last summer and was pleased to find that current events have confirmed the need for profound change. I am excited to be issuing this second edition with Piper Verlag in Germany and now directly in English. This will unlock new channels of distribution bringing *The World After Capital* to a broader audience.
 
 
 # ORIGINAL PREFACE
