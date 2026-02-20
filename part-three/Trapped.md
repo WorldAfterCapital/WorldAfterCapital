@@ -9,9 +9,9 @@ Thinking dispassionately about labor is hard, because over the last couple of ce
 
 However, there is nothing in economics that says that all production processes should require labor. The idea of such a labor requirement is an artifact of the production functions that were technologically available when economists developed the theory of production. If company owners are able to figure out how to do something cheaper or better by using less or no labor, that’s what they will choose to do. When it was acquired by Facebook for $19 billion, for example, WhatsApp had fewer than fifty employees.
 
-Having no labor at all might make sense for a single company, but it does not function for the economy as a whole as it is currently constructed. Who will buy goods and services produced by automated systems if people are unemployed and don’t have any money? Walter Reuther, head of the United Automobile Workers union in the 1950s, often told a story about an exchange he had with an official of the Ford motor company (who, as the story became famous in its own right, was claimed to Henry Ford II):
+Having no labor at all might make sense for a single company, but it does not function for the economy as a whole as it is currently constructed. Who will buy goods and services produced by automated systems if people are unemployed and don’t have any money? Walter Reuther, head of the United Automobile Workers union in the 1950s, often told a story about an exchange he had with a manager of the Ford motor company (who, as the story became famous in its own right, was claimed to Henry Ford II):
 
-> Ford official: How are you going to collect union dues from these guys [robots]?
+> Ford manager: How are you going to collect union dues from these guys [robots]?
 
 > Walter Reuther: How are you going to get them to buy Fords? (O’Toole, 2011)
 
