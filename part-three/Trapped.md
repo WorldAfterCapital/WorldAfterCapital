@@ -68,7 +68,7 @@ This turns out to be the central problem with the magic employment fallacy. Noth
 
 ## EXPENSIVE LABOR AND INNOVATION
 
-Some people argue that unions made labor expensive, resulting in unaffordable products and services. But in reality, increased labor costs propelled us to become more efficient: Entrepreneurs overcame the challenge of more expensive labor by building better machines that required fewer humans. In countries such as India, the abundance of cheap labor meant that for a long time there was little incentive to invest in machines, since it was cheaper to have people do the work by hand.
+Some people argue that unions made labor expensive, resulting in unaffordable products and services. But in reality, increased labor costs propelled us historically to become more efficient: Entrepreneurs overcame the challenge of more expensive labor by building better machines that required fewer humans. In countries such as India, the abundance of cheap labor meant that for a long time there was little incentive to invest in machines, since it was cheaper to have people do the work by hand.
 
 Globally, we face the risk of being stuck in a low innovation trap precisely as a result of a fear that automation will make labor cheap. For example, we might end up with many more years of people driving trucks across the country, long after a machine could do the same job more safely (Wong, 2016). After all, why automate a job if you can get someone to do it for minimum wage?
 
