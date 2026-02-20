@@ -95,4 +95,4 @@ A new humanism, built around recognizing the importance of knowledge, can provid
 
 To help people be psychologically free, we need to substantially change most countries’ education systems. Today’s systems were developed to support the Industrial Age, and their goal is to shape people to participate in the job loop. We need a system that celebrates knowledge for its own sake, allows students to discover their individual interests and deepen those into a purpose, and teaches people about how to be psychologically free. In other words, we need to put humanism at the center of learning.
 
-Humanism and the knowledge loop thus have important implications for how we can reorganize society and take responsibility for the world around us. This is the subject of Part Five.
+Humanism and the knowledge loop thus have important implications for how we can reorganize society and take responsibility for the world around us. This is the subject of Part V.

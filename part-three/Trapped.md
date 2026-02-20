@@ -74,4 +74,4 @@ Globally, we face the risk of being stuck in a low innovation trap precisely as 
 
 Some people object to automation innovations on the grounds that work is an integral part of people’s identity. If you have been a truck driver for many years, for instance, who will you be if you lose your job? At first, this might sound like a completely legitimate question. But it is worth recalling that the idea that purpose primarily has to do with one’s profession, instead of belonging to a religion or to a community, is an Industrial Age phenomenon.
 
-If we want to free up attention via automation, we need to come up with new answers to these concerns. That will be the subject of Part Four, but before getting there we will first consider why capitalism alone can’t solve these problems.
+If we want to free up attention via automation, we need to come up with new answers to these concerns. That will be the subject of Part IV, but before getting there we will first consider why capitalism alone can’t solve these problems.
