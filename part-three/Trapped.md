@@ -9,9 +9,10 @@ Thinking dispassionately about labor is hard, because over the last couple of ce
 
 However, there is nothing in economics that says that all production processes should require labor. The idea of such a labor requirement is an artifact of the production functions that were technologically available when economists developed the theory of production. If company owners are able to figure out how to do something cheaper or better by using less or no labor, that’s what they will choose to do. When it was acquired by Facebook for $19 billion, for example, WhatsApp had fewer than fifty employees.
 
-Having no labor at all might make sense for a single company, but it does not function for the economy as a whole as it is currently constructed. Who will buy goods and services produced by automated systems if people are unemployed and don’t have any money? Walter Reuther, head of the United Automobile Workers union in the 1950s, often told a story about an exchange he had with an official of the Ford motor company (who, as the story became famous in its own right, was claimed to Henry Ford II):
+Having no labor at all might make sense for a single company, but it does not function for the economy as a whole as it is currently constructed. Who will buy goods and services produced by automated systems if people are unemployed and don’t have any money? Walter Reuther, head of the United Automobile Workers union in the 1950s, often told a story about an exchange he had with a manager of the Ford motor company (who, as the story became famous in its own right, was claimed to Henry Ford II):
 
-> Ford official: How are you going to collect union dues from these guys [robots]?
+> Ford manager: How are you going to collect union dues from these guys [robots]?
+
 > Walter Reuther: How are you going to get them to buy Fords? (O’Toole, 2011)
 
 If we all had inherited wealth or sufficient income from capital, an economy without labor would not be a problem, and we could enjoy the benefits of cheaper products and services courtesy of robots and automation.
@@ -67,10 +68,10 @@ This turns out to be the central problem with the magic employment fallacy. Noth
 
 ## EXPENSIVE LABOR AND INNOVATION
 
-Some people argue that unions made labor expensive, resulting in unaffordable products and services. But in reality, increased labor costs propelled us to become more efficient: Entrepreneurs overcame the challenge of more expensive labor by building better machines that required fewer humans. In countries such as India, the abundance of cheap labor meant that for a long time there was little incentive to invest in machines, since it was cheaper to have people do the work by hand.
+Some people argue that unions made labor expensive, resulting in unaffordable products and services. But in reality, increased labor costs propelled us historically to become more efficient: Entrepreneurs overcame the challenge of more expensive labor by building better machines that required fewer humans. In countries such as India, the abundance of cheap labor meant that for a long time there was little incentive to invest in machines, since it was cheaper to have people do the work by hand.
 
 Globally, we face the risk of being stuck in a low innovation trap precisely as a result of a fear that automation will make labor cheap. For example, we might end up with many more years of people driving trucks across the country, long after a machine could do the same job more safely (Wong, 2016). After all, why automate a job if you can get someone to do it for minimum wage?
 
 Some people object to automation innovations on the grounds that work is an integral part of people’s identity. If you have been a truck driver for many years, for instance, who will you be if you lose your job? At first, this might sound like a completely legitimate question. But it is worth recalling that the idea that purpose primarily has to do with one’s profession, instead of belonging to a religion or to a community, is an Industrial Age phenomenon.
 
-If we want to free up attention via automation, we need to come up with new answers to these concerns. That will be the subject of Part Four, but before getting there we will first consider why capitalism alone can’t solve these problems.
+If we want to free up attention via automation, we need to come up with new answers to these concerns. That will be the subject of Part IV, but before getting there we will first consider why capitalism alone can’t solve these problems.

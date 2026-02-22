@@ -8,7 +8,7 @@ Ablow, K. (2015, November 18). _Was the Unabomber correct?_ Fox News. https://ww
 
 Albert Einstein. (2021, August 6). In _Wikipedia_. https://en.wikipedia.org/wiki/Albert_Einstein#Early_life_and_education
 
-Aleklett, K, Morrissey, D J, Loveland, W, McGaughey, P L, & Seaborg, G T. (1981) _Energy dependence of /sup 209/Bi fragmentation in relativistic nuclear collisions._ United States. https://doi.org/10.1103/PhysRevC.23.1044
+Aleklett, K, Morrissey, D J, Loveland, W, McGaughey, P L, & Seaborg, G T. (1981) _Energy dependence of ²⁰⁹Bi fragmentation in relativistic nuclear collisions._ United States. https://doi.org/10.1103/PhysRevC.23.1044
 
 Alewell, C., Ringeval, B., Ballabio, C. et al. _Global phosphorus shortage will be aggravated by soil erosion._ Nat Commun 11, 4546 (2020). https://doi.org/10.1038/s41467-020-18326-7
 
@@ -168,15 +168,13 @@ International Iron and Steel Institute. (2001). _Steel statistical yearbook._ Br
 
 Jedlicka, P. (2017, October 24). _Revisiting the Quantum Brain Hypothesis: Toward Quantum (Neuro)biology?_ Frontiers. https://www.frontiersin.org/articles/10.3389/fnmol.2017.00366/full
 
-Johnson, S. (2007). _The Ghost Map: The Story of London’s Most Terrifying Epidemic--and How It Changed Science, Cities, and the Modern World._ Riverhead Books.
+Johnson, S. (2007). _The Ghost Map: The Story of London’s Most Terrifying Epidemic–and How It Changed Science, Cities, and the Modern World._ Riverhead Books.
 
 Johnson, S. (2015, August 19). _The Creative Apocalypse That Wasn’t._ The New York Times. https://www.nytimes.com/2015/08/23/magazine/the-creative-apocalypse-that-wasnt.html
 
 Johnson, S. (2021). _Extra Life: A Short History of Living Longer._ Riverhead Books.
 
 Joint Center for Housing Studies of Harvard University. (2020). _America’s Rental Housing._ https://www.jchs.harvard.edu/sites/default/files/Harvard_JCHS_Americas_Rental_Housing_2020.pdf
-
-Kahn, S. (2000, April 1). _How much oxygen does a person consume in a day?_ HowStuffWorks. https://health.howstuffworks.com/human-body/systems/respiratory/question98.htm
 
 Kahneman, D. (2013). _Thinking, Fast and Slow (1st ed.)._ Farrar, Straus and Giroux.
 
@@ -304,11 +302,11 @@ Personalized Genes. (2015, June 24). _Comparing Price and Tech. Specs. of Illumi
 
 Pezzutto, S. (2019). _Confucianism and Capitalist Development: From Max Weber and Orientalism to Lee Kuan Yew and New Confucianism._ Asian Studies Review, 43(2), 224–238. https://doi.org/10.1080/10357823.2019.1590685
 
-Phillips, P. J et al., (2018). _Face recognition accuracy of forensic examiners, super recognizers, and face recognition algorithms._ Proceedings of the National Academy of Sciences, 115(24), 6171–6176. https://doi.org/10.1073/pnas.1721355115
+Phillips, P. J. et al. (2018). _Face recognition accuracy of forensic examiners, super recognizers, and face recognition algorithms._ Proceedings of the National Academy of Sciences, 115(24), 6171–6176. https://doi.org/10.1073/pnas.1721355115
 
 Powers, W., & Roy, D. (2018, March 19). _The Incredible Jun: A Town that Runs on Social Media._ Medium. https://medium.com/@socialmachines/the-incredible-jun-a-town-that-runs-on-social-media-49d3d0d4590
 
-Ramankutty, N. et al., (2018). _Trends in Global Agricultural Land Use: Implications for Environmental Health and Food Security._ Annual Review of Plant Biology, 69(1), 789–815. https://doi.org/10.1146/annurev-arplant-042817-040256
+Ramankutty, N. et al. (2018). _Trends in Global Agricultural Land Use: Implications for Environmental Health and Food Security._ Annual Review of Plant Biology, 69(1), 789–815. https://doi.org/10.1146/annurev-arplant-042817-040256
 
 Raworth, K. (2017). _Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist._ Random House.
 
