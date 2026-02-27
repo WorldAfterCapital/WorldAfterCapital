@@ -22,7 +22,7 @@ Appleby, M. (2018, December 7). _Recommended Levels of Essential Amino Acids._ S
 
 Armstrong, M. (2020, August 27). _Air Conditioning Biggest Factor in Growing Electricity Demand._ Statista. https://www.statista.com/chart/14401/growing-demand-for-air-conditioning-and-energy/
 
-Ausubel, J. H., Wernick, I. K., & Waggoner, P. E. (2013). _Peak Farmland and the Prospect for Land Sparing._ Population and Development Review, 38, 221–242 https://doi.org/10.1111/j.1728-4457.2013.00561.x
+Ausubel, J. H., Wernick, I. K., & Waggoner, P. E. (2013). _Peak Farmland and the Prospect for Land Sparing._ Population and Development Review, 38, 221–242. https://doi.org/10.1111/j.1728-4457.2013.00561.x
 
 Backman, M. (2020, February 19). _You’ll Be Shocked by How Many Americans Have No Retirement Savings at All._ The Motley Fool. https://www.fool.com/retirement/2020/02/19/youll-be-shocked-by-how-many-americans-have-no-ret.aspx
 
