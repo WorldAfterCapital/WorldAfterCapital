@@ -15,7 +15,7 @@ The third foundational issue is new knowledge. The further removed such knowledg
 
 The fourth foundational issue is that for markets and prices to exist, there have to be multiple buyers (demand) and sellers (supply). There is no demand and supply for you to spend time with your children or to figure out your purpose in life. Capitalism cannot help us allocate attention to anything that is deeply personal.
 
-A way of summarizing all of these examples is to think of the world as divided into an economic sphere (where prices exist) and a non-economic one. Market-based allocation of attention can only succeed in the former and, to the extent that there are insufficient counterweights, will do so at the detriment of attention allocated to the non-economic sphere. This is the high-earning parent who doesn’t spend enough time with their children, or the legions of science PhDs optimizing ad algorithms instead of working on the climate crisis.
+A way of summarizing all of these examples is to think of the world as divided into an economic sphere (where prices exist) and a non-economic one. Market-based allocation of attention can only succeed in the former and, to the extent that there are insufficient counterweights, will do so at the detriment of attention available to the non-economic sphere. This is the high-earning parent who doesn’t spend enough time with their children, or the legions of science PhDs optimizing ad algorithms instead of working on the climate crisis.
 
 
 ## POWER LAWS
