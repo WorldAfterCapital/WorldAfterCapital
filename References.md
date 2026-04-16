@@ -156,6 +156,8 @@ Ho, S. (2018, May 16). _AP analysis shows how Bill Gates influences education po
 
 Holst, A. (2020, December 7). _Air conditioners demand worldwide 2012–2018._ Statista. https://www.statista.com/statistics/871534/worldwide-air-conditioner-demand/
 
+_How much oxygen does a person consume in a day?_ (2000, April 1). HowStuffWorks. https://health.howstuffworks.com/human-body/systems/respiratory/question98.htm
+
 Hutton, G. (2016, February 12). _Can we really put a price on meeting the global targets on drinking-water and sanitation?_ World Bank Blogs. https://blogs.worldbank.org/water/can-we-really-put-price-meeting-global-targets-drinking-water-and-sanitation
 
 _Illumina Next Generation Sequencing._ (2021). Science Exchange. https://www.scienceexchange.com/marketplace/illumina-ngs?page=1
