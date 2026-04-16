@@ -224,7 +224,7 @@ Manthorpe, R. (2018, April 17). _What is Open Banking and PSD2? WIRED explains._
 
 Marr, B. (2019, September 5). _How Much Data Do We Create Every Day? The Mind-Blowing Stats Everyone Should Read._ Forbes. https://www.forbes.com/sites/bernardmarr/2018/05/21/how-much-data-do-we-create-every-day-the-mind-blowing-stats-everyone-should-read/
 
-Marx, K. & Engels, F. (1998). _The German Ideology, 1845._ Prometheus Books.
+Marx, K. & Engels, F. (1998). _The German Ideology,_ 1845. Prometheus Books.
 
 McCandless, D. (2020, December 9). _World’s Biggest Data Breaches & Hacks._ Information Is Beautiful. https://informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/
 
