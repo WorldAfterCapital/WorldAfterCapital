@@ -217,7 +217,7 @@ In the meantime though, it is important to point out that, conversely, a lot of 
 
 ***Energy.*** *For a long time, humans relied on direct sunlight as their primary energy source. Since then we have developed many ways of generating energy, including better ways of capturing sunlight. Capturing more energy and making it available in a highly concentrated and easily controllable form via electricity has enabled new solutions to human needs.*
 
-Energy turns out to be the crucial enabler of progress. The other enablers identified below, such as resources, are directly impacted by how much energy we have available. As David Deutsch has pointed out in The Beginning of Infinity, a sufficiently advanced civilization, with enough energy at their disposal, could assemble entire worlds in seemingly empty space.
+Energy turns out to be the crucial enabler of progress. The other enablers identified below, such as resources, are directly impacted by how much energy we have available. As David Deutsch has pointed out in _The Beginning of Infinity_, a sufficiently advanced civilization, with enough energy at their disposal, could assemble entire worlds in seemingly empty space.
 
 We are a long way from such a civilization, but we have plenty of energy, and more importantly, the ability to rapidly build out our energy supply if we pay enough attention to it. Today energy production and consumption vary significantly across nations, with developed countries having enough energy far beyond what is required to meet needs. But even in the US, we occasionally run into energy distribution problems, as seen recently in Texas.
 
