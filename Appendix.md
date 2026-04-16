@@ -117,7 +117,7 @@ Once again, capital is not the binding constraint today. But as the example of g
 
 ***Discharge.*** *We also need to get things out of our bodies by expelling processed food, radiating heat, and exhaling carbon dioxide. Humans have made a great deal of progress around meeting our discharge needs, such as toilets and public sanitation.*
 
-Building public sanitation systems is one of the major contributors to improvements in life expectancy. As Steven Johnson documents in his books The Ghost Map (2007) and Extra Life (2021) the city of London was hit by repeated cholera outbreaks until it separated sewage from fresh water delivery. Even back in the mid-1800s, London had sufficient capital to build out a large-scale sewer system (“London Sewerage System,” 2021).
+Building public sanitation systems is one of the major contributors to improvements in life expectancy. As Steven Johnson documents in his books _The Ghost Map_ (2007) and _Extra Life_ (2021) the city of London was hit by repeated cholera outbreaks until it separated sewage from fresh water delivery. Even back in the mid-1800s, London had sufficient capital to build out a large-scale sewer system (“London Sewerage System,” 2021).
 
 In many countries we take this for granted today, but there are still places in the world that have insufficient sewage treatment capacity. Globally, the number of people without access to proper sanitation has been declining, albeit slowly (Ritchie & Roser, 2021). That’s largely due to the fact that a lack of sanitation exists predominantly in the places with the highest population growth. Still, at this point, about two-thirds of the global population has access to sanitation, and the total number of people who do has grown by several billion in the last couple of decades. This has been possible as the overall capital required for achieving sufficient sanitation is relatively low and again has been declining with technological progress (García, 2009).
 
@@ -151,7 +151,7 @@ Capital is essential to making light, from the earliest time of gathering wood t
 
 ***Healing.*** *Whenever we damage our body, it needs to heal. The human body comes equipped with extensive systems for self-healing, but beyond a certain range it needs external assistance. We have developed many solutions, which are often grouped under the term “healthcare.”*
 
-The primary constraint on healing has been knowledge, rather than capital. As documented in Steven Johnson’s book Extra Life, for the longest time, medical interventions tended to result in worse outcomes as doctors had no idea what they were doing (Johnson, 2021).
+The primary constraint on healing has been knowledge, rather than capital. As documented in Steven Johnson’s book _Extra Life_, for the longest time, medical interventions tended to result in worse outcomes as doctors had no idea what they were doing (Johnson, 2021).
 
 Conversely, today it has become possible to create new life-saving medicines virtually overnight, as was the case with the COVID-19 mRNA vaccines. These are super cheap to manufacture and supply has been held back by artificial limitations based primarily on intellectual property protection rather than a scarcity of capital.
 
