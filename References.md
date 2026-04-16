@@ -30,7 +30,7 @@ Bariso, J. (2020, August 19). _Google Has a Plan to Disrupt the College Degree._
 
 BBC News. (2018, November 6). _Facebook admits it was used to “incite offline violence” in Myanmar._ https://www.bbc.com/news/world-asia-46105934
 
-Becker, R. (2017, April 25). _An artificial womb successfully grew baby sheep — and humans could be next._ The Verge. https://www.theverge.com/2017/4/25/15421734/artificial-womb-fetus-biobag-uterus-lamb-sheep-birth-premie-preterm-infant
+Becker, R. (2017, April 25). _An artificial womb successfully grew baby sheep—and humans could be next._ The Verge. https://www.theverge.com/2017/4/25/15421734/artificial-womb-fetus-biobag-uterus-lamb-sheep-birth-premie-preterm-infant
 
 Berners-Lee, M. (2019). _There Is No Planet B: A Handbook for the Make or Break Years (Illustrated ed.)._ Cambridge University Press.
 
