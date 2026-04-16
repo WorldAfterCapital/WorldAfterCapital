@@ -51,7 +51,7 @@ Others might still question whether this capital is sufficient to meet everyone�
 
 Let’s dive a bit deeper and look at the manufacturing efforts. The US ramped production of tanks, airplanes, battleships, and guns at an extraordinary clip in the war years. Here is a table that tabulates this for different weapons systems (Harrison, 1998).
 
-The numbers are staggering. For example, in 1943 the US built 2,654 major naval vessels. That’s more than seven every day, or roughly one every three and a half hours! In 1944, the US built over 74,000 combat aircraft, that’s about 8.5 combat aircraft every hour.
+The numbers are staggering. For example, in 1943 the US built 2,654 major naval vessels. That’s more than seven every day, or roughly one every three and a half hours! In 1944, the US built over 74,000 combat aircraft, that’s about 8.5 combat aircraft *every hour*.
 
 We are not talking about simple devices here. These are complex high-performance systems with many components (think of the aircraft engines alone). And that’s just the US production. There were efforts of similar scale in Germany, Japan, the UK, and Russia. For example, adding up the global combat aircraft production in 1944 comes to 185,000 units, which is 21 aircraft every hour.
 
