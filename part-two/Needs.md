@@ -59,7 +59,7 @@ These collective needs may strike you as abstract, but this is the result of ide
 
 ## ENABLERS
 
-Some things don’t meet specific individual or collective needs directly, but instead enable solutions to these needs. Consider energy, for example. Isn’t energy something we all need, both individually and collectively? Yes, but only to enable solutions. For instance, individually we use energy to maintain the temperature of a house, and collectively we use energy to power our communications infrastructure. As these two examples show, energy itself does not meet needs—rather, it makes possible something that does. Energy is what I call an "enabler."
+Some things don’t meet specific individual or collective needs directly, but instead enable solutions to these needs. Consider energy, for example. Isn’t energy something we all need, both individually and collectively? Yes, but only to enable solutions. For instance, individually we use energy to maintain the temperature of a house, and collectively we use energy to power our communications infrastructure. As these two examples show, energy itself does not meet needs—rather, it makes possible something that does. Energy is what I call an “enabler.”
 
 Here are the four foundational enablers:
 
