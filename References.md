@@ -142,7 +142,7 @@ Harding, R. (2020, January 23). _Vertical farming finally grows up in Japan._ Fi
 
 Harford, B. T. (2017, February 6). _Why the falling cost of light matters._ BBC News. https://www.bbc.com/news/business-38650976
 
-Harrison, M. (1998). _The Economics of World War II: Six Great Powers in International Comparison (Studies in Macroeconomic History) (Revised ed.)._ Cambridge University Press. https://warwick.ac.uk/fac/soc/economics/staff/mharrison/public/ww2overview1998.pdf
+Harrison, M. (1998). “The economics of World War II: an overview.” In Harrison, M. (Ed.), _The Economics of World War II: Six Great Powers in International Comparison_ (pp. 1-42). Cambridge: Cambridge University Press. https://warwick.ac.uk/fac/soc/economics/staff/mharrison/public/ww2overview1998.pdf
 
 Hasell, J. (2013, October 10). _Famines._ Our World in Data. https://ourworldindata.org/famines
 
