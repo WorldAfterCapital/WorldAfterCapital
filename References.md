@@ -300,8 +300,6 @@ Parkin, S. (2020, April 2). _The Artificially Intelligent Doctor Will Hear You N
 
 Penicillin. (2021, July 30). In _Wikipedia_. https://en.wikipedia.org/wiki/Penicillin#Mass_production
 
-Personalized Genes. (2015, June 24). _Comparing Price and Tech. Specs. of Illumina MiSeq, Ion Torrent PGM, 454 GS Junior, and PacBio RS._ http://www.personalizedgenes.com/comparison-of-illumina-miseq-ion-torrent-pgm-454-gs-junior-and-pacbio-rs/
-
 Pezzutto, S. (2019). _Confucianism and Capitalist Development: From Max Weber and Orientalism to Lee Kuan Yew and New Confucianism._ Asian Studies Review, 43(2), 224–238. https://doi.org/10.1080/10357823.2019.1590685
 
 Phillips, P. J. et al. (2018). _Face recognition accuracy of forensic examiners, super recognizers, and face recognition algorithms._ Proceedings of the National Academy of Sciences, 115(24), 6171–6176. https://doi.org/10.1073/pnas.1721355115
