@@ -30,7 +30,7 @@ Bariso, J. (2020, August 19). _Google Has a Plan to Disrupt the College Degree._
 
 BBC News. (2018, November 6). _Facebook admits it was used to “incite offline violence” in Myanmar._ https://www.bbc.com/news/world-asia-46105934
 
-Becker, R. (2017, April 25). _An artificial womb successfully grew baby sheep — and humans could be next._ The Verge. https://www.theverge.com/2017/4/25/15421734/artificial-womb-fetus-biobag-uterus-lamb-sheep-birth-premie-preterm-infant
+Becker, R. (2017, April 25). _An artificial womb successfully grew baby sheep—and humans could be next._ The Verge. https://www.theverge.com/2017/4/25/15421734/artificial-womb-fetus-biobag-uterus-lamb-sheep-birth-premie-preterm-infant
 
 Berners-Lee, M. (2019). _There Is No Planet B: A Handbook for the Make or Break Years (Illustrated ed.)._ Cambridge University Press.
 
@@ -96,7 +96,7 @@ Dubock, A. (2019). _Golden Rice: To Combat Vitamin A Deficiency for Public Healt
 
 Escort fighter. (2021, June 6). In _Wikipedia_. https://en.wikipedia.org/wiki/Escort_fighter
 
-Ewers, R. M.,Scharlemann, J. P. W., Balmford, A., & Green, R. E. (2009). _Do increases in agricultural yield spare land for nature?_ Global Change Biology, 15(7), 1716–1726. https://doi.org/10.1111/j.1365-2486.2009.01849.x
+Ewers, R. M., Scharlemann, J. P. W., Balmford, A., & Green, R. E. (2009). _Do increases in agricultural yield spare land for nature?_ Global Change Biology, 15(7), 1716–1726. https://doi.org/10.1111/j.1365-2486.2009.01849.x
 
 Federal Reserve Bank of New York. (2025). _Household Debt and Credit Report._ https://www.newyorkfed.org/microeconomics/hhdc.html
 
@@ -142,7 +142,7 @@ Harding, R. (2020, January 23). _Vertical farming finally grows up in Japan._ Fi
 
 Harford, B. T. (2017, February 6). _Why the falling cost of light matters._ BBC News. https://www.bbc.com/news/business-38650976
 
-Harrison, M. (1998). _The Economics of World War II: Six Great Powers in International Comparison (Studies in Macroeconomic History) (Revised ed.)._ Cambridge University Press. https://warwick.ac.uk/fac/soc/economics/staff/mharrison/public/ww2overview1998.pdf
+Harrison, M. (1998). “The economics of World War II: an overview.” In Harrison, M. (Ed.), _The Economics of World War II: Six Great Powers in International Comparison_ (pp. 1-42). Cambridge: Cambridge University Press. https://warwick.ac.uk/fac/soc/economics/staff/mharrison/public/ww2overview1998.pdf
 
 Hasell, J. (2013, October 10). _Famines._ Our World in Data. https://ourworldindata.org/famines
 
@@ -155,6 +155,8 @@ History of patent law. (2020, August 14). In _Wikipedia_. https://en.wikipedia.o
 Ho, S. (2018, May 16). _AP analysis shows how Bill Gates influences education policy._ AP News. https://apnews.com/article/a4042e82ffaa4a34b50ceac464761957
 
 Holst, A. (2020, December 7). _Air conditioners demand worldwide 2012–2018._ Statista. https://www.statista.com/statistics/871534/worldwide-air-conditioner-demand/
+
+_How much oxygen does a person consume in a day?_ (2000, April 1). HowStuffWorks. https://health.howstuffworks.com/human-body/systems/respiratory/question98.htm
 
 Hutton, G. (2016, February 12). _Can we really put a price on meeting the global targets on drinking-water and sanitation?_ World Bank Blogs. https://blogs.worldbank.org/water/can-we-really-put-price-meeting-global-targets-drinking-water-and-sanitation
 
@@ -222,7 +224,7 @@ Manthorpe, R. (2018, April 17). _What is Open Banking and PSD2? WIRED explains._
 
 Marr, B. (2019, September 5). _How Much Data Do We Create Every Day? The Mind-Blowing Stats Everyone Should Read._ Forbes. https://www.forbes.com/sites/bernardmarr/2018/05/21/how-much-data-do-we-create-every-day-the-mind-blowing-stats-everyone-should-read/
 
-Marx, K. & Engels, F. (1998). _The German Ideology, 1845._ Prometheus Books.
+Marx, K. & Engels, F. (1998). _The German Ideology,_ 1845. Prometheus Books.
 
 McCandless, D. (2020, December 9). _World’s Biggest Data Breaches & Hacks._ Information Is Beautiful. https://informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/
 
@@ -297,8 +299,6 @@ Pariser, E. (2021). _The Filter Bubble._ Penguin Random House.
 Parkin, S. (2020, April 2). _The Artificially Intelligent Doctor Will Hear You Now._ MIT Technology Review. https://www.technologyreview.com/2016/03/09/8890/the-artificially-intelligent-doctor-will-hear-you-now/
 
 Penicillin. (2021, July 30). In _Wikipedia_. https://en.wikipedia.org/wiki/Penicillin#Mass_production
-
-Personalized Genes. (2015, June 24). _Comparing Price and Tech. Specs. of Illumina MiSeq, Ion Torrent PGM, 454 GS Junior, and PacBio RS._ http://www.personalizedgenes.com/comparison-of-illumina-miseq-ion-torrent-pgm-454-gs-junior-and-pacbio-rs/
 
 Pezzutto, S. (2019). _Confucianism and Capitalist Development: From Max Weber and Orientalism to Lee Kuan Yew and New Confucianism._ Asian Studies Review, 43(2), 224–238. https://doi.org/10.1080/10357823.2019.1590685
 
