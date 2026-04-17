@@ -46,7 +46,7 @@ Some might suggest that this growth could all be due to the population explosion
 
 Others might still question whether this capital is sufficient to meet everyone’s needs, as I have asserted. Some of the strongest evidence for my claim comes from considering what happened during World War II. During the war years US government share of GDP rose to nearly fifty percent (Casais, 2010).
 
-Let’s dive a bit deeper and look at the manufacturing efforts. The US ramped production of tanks, airplanes, battleships, and guns at an extraordinary clip in the war years. A table in Harrison’s study, _The Economics of World War II: Six Great Powers in International Comparison_, tabulates wartime output across major weapons systems (Harrison, 1998).
+Let’s dive a bit deeper and look at the manufacturing efforts. The US ramped production of tanks, airplanes, battleships, and guns at an extraordinary clip in the war years. A table in Harrison’s “The economics of World War II: an overview” tabulates wartime output across major weapons systems (Harrison, 1998).
 
 The numbers are staggering. For example, in 1943 the US built 2,654 major naval vessels. That’s more than seven every day, or roughly one every three and a half hours! In 1944, the US built over 74,000 combat aircraft, that’s about 8.5 combat aircraft *every hour*.
 
