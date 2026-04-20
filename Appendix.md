@@ -13,9 +13,6 @@ It turns out to be surprisingly difficult to find global data on physical capita
 
 ![Gross Capital. Source: World Bank, 2024a](assets/gross-capital.png)
 
-
-### Gross Capital Formation
-
 For triangulation, it is worth considering the growth in output of some things that require productive capacity. We can infer the availability of physical capital through outputs. To that end, I was able to find the following chart of global crude steel production over time (World Steel Association, 2025).
 
 ![Steel Output. Sources: International Iron and Steel Institute 1991, 2001; Worldsteel Committee on Economic Studies, 2011; World Steel Association, 2025](assets/steel-output.png)
@@ -49,9 +46,9 @@ Some might suggest that this growth could all be due to the population explosion
 
 Others might still question whether this capital is sufficient to meet everyone’s needs, as I have asserted. Some of the strongest evidence for my claim comes from considering what happened during World War II. During the war years US government share of GDP rose to nearly fifty percent (Casais, 2010).
 
-Let’s dive a bit deeper and look at the manufacturing efforts. The US ramped production of tanks, airplanes, battleships, and guns at an extraordinary clip in the war years. Here is a table that tabulates this for different weapons systems (Harrison, 1998).
+Let’s dive a bit deeper and look at the manufacturing efforts. The US ramped production of tanks, airplanes, battleships, and guns at an extraordinary clip in the war years. A table in Harrison’s “The economics of World War II: an overview” tabulates wartime output across major weapons systems (Harrison, 1998).
 
-The numbers are staggering. For example, in 1943 the US built 2,654 major naval vessels. That’s more than seven every day, or roughly one every three and a half hours! In 1944, the US built over 74,000 combat aircraft, that’s about 8.5 combat aircraft every hour.
+The numbers are staggering. For example, in 1943 the US built 2,654 major naval vessels. That’s more than seven every day, or roughly one every three and a half hours! In 1944, the US built over 74,000 combat aircraft, that’s about 8.5 combat aircraft *every hour*.
 
 We are not talking about simple devices here. These are complex high-performance systems with many components (think of the aircraft engines alone). And that’s just the US production. There were efforts of similar scale in Germany, Japan, the UK, and Russia. For example, adding up the global combat aircraft production in 1944 comes to 185,000 units, which is 21 aircraft every hour.
 
@@ -76,9 +73,9 @@ The obvious threat we are facing today that requires a massive reallocation of, 
 
 The overall physical capital statistics provided earlier abstract away any regional differences. The examination of World War II showed that the US was able to meet people’s needs with a fraction of the available capital, but obviously that wasn’t true in many other places. In particular, much physical capital was destroyed in the actual war zones, resulting in needs there going unmet. In the following discussion, we will see again that capital is not yet sufficient everywhere. Given the total amount of aggregate physical capital available now, that is a distribution problem (which is really an attention-scarcity problem). Paraphrasing a famous William Gibson quote: Capital is already sufficient, it is just not yet evenly distributed.
 
-Furthermore I should caveat that I am providing a mix of statistics, anecdotes, and arguments. My goal is not to make an incontrovertible case that capital is sufficient. I doubt this would be possible even with a lot more time, given the limited state of measurement of much of the world’s capital. Incidentally, I believe that eventually this paucity of data will be something humanity will look back on in surprise, much as we sometimes wonder how things worked before we had mobile phones. Thankfully, Max Roser, Hannah Ritchie, and the rest of the team at *Our World in Data* are starting to make a dent here. Instead, I am simply aiming to make a case that’s compelling enough to bolster the overall argument that attention has now become humanity’s critical scarcity.
+Furthermore I should caveat that I am providing a mix of statistics, anecdotes, and arguments. My goal is not to make an incontrovertible case that capital is sufficient. I doubt this would be possible even with a lot more time, given the limited state of measurement of much of the world’s capital. Incidentally, I believe that eventually this paucity of data will be something humanity will look back on in surprise, much as we sometimes wonder how things worked before we had mobile phones. Thankfully, Max Roser, Hannah Ritchie, and the rest of the team at Our World in Data are starting to make a dent here. Instead, I am simply aiming to make a case that’s compelling enough to bolster the overall argument that attention has now become humanity’s critical scarcity.
 
-In the following, the passage from the “Needs” section is in italics, followed by an examination of the sufficiency of capital. I cover both individual and collective needs, as well as what I call "enablers" (e.g., energy). Along the way, I will also often point out how our lack of attention to the climate crisis and other problems may result in capital becoming scarce again in the future.
+In the following, the passage from the “Needs” section is in italics, followed by an examination of the sufficiency of capital. I cover both individual and collective needs, as well as what I call “enablers” (e.g., energy). Along the way, I will also often point out how our lack of attention to the climate crisis and other problems may result in capital becoming scarce again in the future.
 
 
 ***Oxygen.*** *On average, humans need about 550 liters of oxygen every day (“How Much Oxygen Does a Person Consume in a Day?” 2000), depending on the size of our body and physical exertion. Our most common way of meeting this need is breathing air. Although that may sound obvious, we have developed other solutions through technology—for example, the blood of patients struggling to breathe can be oxygenated externally.*
@@ -117,7 +114,7 @@ Once again, capital is not the binding constraint today. But as the example of g
 
 ***Discharge.*** *We also need to get things out of our bodies by expelling processed food, radiating heat, and exhaling carbon dioxide. Humans have made a great deal of progress around meeting our discharge needs, such as toilets and public sanitation.*
 
-Building public sanitation systems is one of the major contributors to improvements in life expectancy. As Steven Johnson documents in his books The Ghost Map (2007) and Extra Life (2021) the city of London was hit by repeated cholera outbreaks until it separated sewage from fresh water delivery. Even back in the mid-1800s, London had sufficient capital to build out a large-scale sewer system (“London Sewerage System,” 2021).
+Building public sanitation systems is one of the major contributors to improvements in life expectancy. As Steven Johnson documents in his books _The Ghost Map_ (2007) and _Extra Life_ (2021) the city of London was hit by repeated cholera outbreaks until it separated sewage from fresh water delivery. Even back in the mid-1800s, London had sufficient capital to build out a large-scale sewer system (“London Sewerage System,” 2021).
 
 In many countries we take this for granted today, but there are still places in the world that have insufficient sewage treatment capacity. Globally, the number of people without access to proper sanitation has been declining, albeit slowly (Ritchie & Roser, 2021). That’s largely due to the fact that a lack of sanitation exists predominantly in the places with the highest population growth. Still, at this point, about two-thirds of the global population has access to sanitation, and the total number of people who do has grown by several billion in the last couple of decades. This has been possible as the overall capital required for achieving sufficient sanitation is relatively low and again has been declining with technological progress (García, 2009).
 
@@ -151,7 +148,7 @@ Capital is essential to making light, from the earliest time of gathering wood t
 
 ***Healing.*** *Whenever we damage our body, it needs to heal. The human body comes equipped with extensive systems for self-healing, but beyond a certain range it needs external assistance. We have developed many solutions, which are often grouped under the term “healthcare.”*
 
-The primary constraint on healing has been knowledge, rather than capital. As documented in Steven Johnson’s book Extra Life, for the longest time, medical interventions tended to result in worse outcomes as doctors had no idea what they were doing (Johnson, 2021).
+The primary constraint on healing has been knowledge, rather than capital. As documented in Steven Johnson’s book _Extra Life_, for the longest time, medical interventions tended to result in worse outcomes as doctors had no idea what they were doing (Johnson, 2021).
 
 Conversely, today it has become possible to create new life-saving medicines virtually overnight, as was the case with the COVID-19 mRNA vaccines. These are super cheap to manufacture and supply has been held back by artificial limitations based primarily on intellectual property protection rather than a scarcity of capital.
 
@@ -217,7 +214,7 @@ In the meantime though, it is important to point out that, conversely, a lot of 
 
 ***Energy.*** *For a long time, humans relied on direct sunlight as their primary energy source. Since then we have developed many ways of generating energy, including better ways of capturing sunlight. Capturing more energy and making it available in a highly concentrated and easily controllable form via electricity has enabled new solutions to human needs.*
 
-Energy turns out to be the crucial enabler of progress. The other enablers identified below, such as resources, are directly impacted by how much energy we have available. As David Deutsch has pointed out in The Beginning of Infinity, a sufficiently advanced civilization, with enough energy at their disposal, could assemble entire worlds in seemingly empty space.
+Energy turns out to be the crucial enabler of progress. The other enablers identified below, such as resources, are directly impacted by how much energy we have available. As David Deutsch has pointed out in _The Beginning of Infinity_, a sufficiently advanced civilization, with enough energy at their disposal, could assemble entire worlds in seemingly empty space.
 
 We are a long way from such a civilization, but we have plenty of energy, and more importantly, the ability to rapidly build out our energy supply if we pay enough attention to it. Today energy production and consumption vary significantly across nations, with developed countries having enough energy far beyond what is required to meet needs. But even in the US, we occasionally run into energy distribution problems, as seen recently in Texas.
 
