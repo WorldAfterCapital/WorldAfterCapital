@@ -11,7 +11,7 @@ The following might strike you as a dry and abstract list. But as you read throu
 
 These are the basic needs of the human body and mind, without which individual survival is impossible. A single individual has these needs even when they are completely isolated, such as if they are traveling alone in a spaceship. The first set of individual needs relates to keeping our bodies powered. These include:
 
-**Oxygen**. On average, humans need about 550 liters of oxygen every day, depending on the size of our body and physical exertion. Our most common way of meeting this need is breathing air (“How Much Oxygen Does a Person Consume in a Day?” 2000). Although that may sound obvious, we have developed other solutions through technology—for example, the blood of patients struggling to breathe can be oxygenated externally.
+**Oxygen**. On average, humans need about 550 liters of oxygen every day, depending on the size of our body and physical exertion (“How Much Oxygen Does a Person Consume in a Day?” 2000). Our most common way of meeting this need is breathing air. Although that may sound obvious, we have developed other solutions through technology—for example, the blood of patients struggling to breathe can be oxygenated externally.
 
 **Water**. We need to ingest two to three liters of water per day to stay hydrated, depending on factors such as body size, exertion, and temperature (“Water: How Much Should You Drink Every Day?” 2020). In addition to drinking water and fluids that contain it, we have other solutions for this, such as the water contained in the foods that we eat.
 
